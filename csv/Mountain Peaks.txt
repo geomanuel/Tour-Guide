@@ -1,0 +1,1557 @@
+Latitude	Longitude	Name
+50.3319	-114.9486	 Abby Ridge
+52.2778	-116.4875	 Abraham Mountain
+52.3	-116.9867	 Afternoon Peak
+51.8056	-116.6694	 Aiguille Peak
+49.0111	-114.1056	 Akamina Ridge
+52.6167	-118.2292	 Alcove Mountain
+51.2625	-116.4889	 Allan Peak
+49.7431	-114.6444	 Allison Peak
+50.7417	-114.6833	 Allsmoke Mountain
+52.4875	-118.0069	 Alnus Peak
+52.9833	-119.1	 Alpland Ridge
+52.8111	-117.9056	 Amber Mountain
+53.9333	-119.25	 Ambler Mountain
+51.5333	-116.6986	 Amiskwi Peak
+52.625	-118.2333	 Anchorite Mountain
+49.1347	-114.0778	 Anderson Peak
+49.5667	-114.5875	 Andy Good Peak
+52.6097	-118.2097	 Angle Peak
+51.4625	-116.0278	 Anthozoan Mountain
+52.7583	-117.85	 Antler Mountain
+52.2111	-117.8194	 Apex Mountain
+51.3681	-115.4556	 Apparition Mountain
+52.7389	-118.1083	 Aquila Mountain (Alberta)
+51.1903	-116.4903	 Aquila Mountain (BC)
+51.9417	-117.0056	 Arctomys Peak
+53.45	-118.6833	 Arcturus Peak
+52.0389	-116.3583	 Ardennes Peak
+52.4667	-116.95	 Arete Mountain
+51.5875	-116.6044	 Arete Peak
+51.7889	-116.6472	 Aries Peak
+51.8083	-117.0833	 Arras Mountain
+52.7778	-118.2597	 Arris Mountain
+53.1708	-117.7986	 Ashlar Ridge
+51.1803	-115.1256	 Association Peak
+50.8264	-115.5597	 Aurora Mountain
+49.3236	-114.1139	 Avion Ridge
+54.0847	-120.3931	 Awasis Mountain
+50.8444	-115.6431	 Aye Mountain
+51.6403	-116.6014	 Ayesha Peak
+49.7553	-114.8364	 Baldy Mountain
+50.7183	-114.9178	 Banded Peak
+51.7256	-116.6067	 Barbette Mountain
+52.7206	-118.4147	 Barbican Peak
+50.2994	-114.7561	 Baril Peak
+49.3069	-114.3653	 Barnaby Ridge
+53.3667	-119.05	 Barra Mountain
+53.4	-119.4833	 Barricade Mountain
+51.6575	-115.6175	 Barrier Mountain
+52.1333	-115.4292	 Baseline Mountain
+52.8042	-118.3403	 Basilica Mountain
+53.8722	-120.0264	 Bastille Mountain
+52.7094	-118.345	 Bastion Peak
+52.5417	-118.2403	 Beacon Peak
+51.1628	-116.0264	 Beatrice Peak
+53.2806	-117.9389	 Bedson Ridge
+50.0656	-114.6622	 Beehive Mountain
+49.1208	-113.9167	 Bellevue Hill
+50.9547	-114.99	 Belmore Browne Peak
+52.6553	-118.2978	 Bennington Peak
+49.0389	-113.9444	 Bertha Peak
+52.2167	-116.8667	 Bertram Peak
+51.2875	-116.1408	 Bident Mountain
+53.5167	-119.8	 Big Shale Hill
+51.0144	-115.3528	 Big Sister
+52.8819	-118.6222	 Bingley Peak
+51.9153	-116.65	 Bison Tower
+53.3167	-117.9167	 Black Cat Mountain
+52.4667	-116.2667	 Black Mountain
+50.8014	-115.0292	 Black Ridge
+51.3347	-115.1667	 Black Rock Mountain
+52.9	-117.4167	 Blackface Mountain
+52.3264	-117.6167	 Blackfriars Peak
+52.6508	-118.1511	 Blackhorn Peak
+52.5694	-118.2972	 Blackrock Mountain
+51.7	-117.375	 Blackwater Mountain
+51.3778	-115.85	 Block Mountain
+50.6664	-114.8064	 Bluerock Mountain
+49.6333	-114.4167	 Bluff Mountain
+51.4347	-115.8833	 Bonnet Peak
+51.2514	-116.0764	 Boom Mountain
+51.6264	-116.3794	 Bow Peak
+51.4819	-116.0347	 Brachiopod Mountain
+51.7639	-116.6514	 Breaker Mountain
+51.0806	-115.7444	 Brewster Rock
+53.9625	-120.0653	 Broadview Mountain
+52.2833	-117.8583	 Brouillard Mountain
+52.5172	-117.8228	 Brussels Peak
+52.8222	-118.4417	 Bucephalus Peak
+49.0417	-113.9833	 Buchanan Peak
+49.0444	-113.9986	 Buchanan Ridge
+50.4264	-114.5619	 Bull Creek Hills
+49.5339	-115.4144	 Bull Mountain
+50.8903	-115.3139	 Buller Mountain
+53.5833	-118.5333	 Bury Ridge
+51.8403	-117.1681	 Bush Peak
+52.9903	-118.2208	 Buttress Mountain
+51.1528	-116.3764	 Buttress Peak
+51.2056	-116.5083	 Butwell Peak
+50.0417	-114.4917	 Cabin Ridge
+52.9833	-117.2833	 Cadomin Mountain
+52.9333	-118.1875	 Cairngorm
+51.7194	-116.5444	 Caldron Peak
+52.95	-118.6528	 Caledonia Mountain
+53.2667	-119.0167	 Calumet Peak
+53.0522	-119.1589	 Campion Mountain
+52.625	-118.1819	 Campus Peak
+52.7556	-118.3708	 Caniche Peak
+53.1319	-117.8597	 Capitol Mountain
+51.2286	-115.5628	 Cascade Mountain
+50.9178	-115.5772	 Cascade Rock
+52.6792	-118.3375	 Casemate Mountain
+53.8139	-119.95	 Casket Mountain
+51.3053	-115.9403	 Castle Mountain (Alberta)
+51.0389	-116.4458	 Castle Mountain (BC)
+49.2861	-114.2278	 Castle Peak
+51.3681	-115.2889	 Castle Rock
+52.1097	-117.2514	 Castleguard Mountain
+52.43	-117.7528	 Catacombs Mountain
+51.6556	-116.0903	 Cataract Peak
+51.4064	-116.3958	 Cathedral Crags
+51.3964	-116.3892	 Cathedral Mountain
+53.4931	-118.5778	 Cathedral Rock
+49.6986	-114.3458	 Cauldron Peak
+50.94	-115.5975	 Cave Mountain
+50.7583	-115.2931	 Cegnfs
+52.8278	-117.8931	 Centre Mountain (Alberta)
+49.4	-114.6167	 Centre Mountain (BC)
+49.7189	-114.3506	 Centre Peak
+50.85	-115.7	 Centurion Peak
+52.2	-117.6722	 Chaba Peak
+52.7111	-118.1264	 Chak Peak
+53.3833	-119.7833	 Chalco Mountain
+51.225	-116.5111	 Chancellor Peak
+51.7167	-117.45	 Chaperon Mountain
+54.0458	-120.5056	 Cheguin Mountain
+53.0542	-118.1972	 Chetamon Mountain
+53.175	-119.0583	 Chetang Ridge
+52.9	-117.35	 Cheviot Mountain
+52.6389	-118.1111	 Chevron Mountain
+53.6708	-119.3	 Childear Mountain
+51.2639	-116.1542	 Chimney Peak
+49.5861	-114.6083	 Chinook Peak
+52.35	-117.8278	 Chisel Peak
+52.4722	-117.1028	 Chocolate Mountain
+51.9439	-117.0978	 Christian Peak
+49.7889	-115.3917	 Chrysler Peak
+53.0797	-119.2572	 Cinnamon Peak
+53.0556	-117.9986	 Cinquefoil Mountain
+51.7	-116.4181	 Cirque Peak
+52.1697	-116.9775	 Cirrus Mountain
+51.0167	-115.7181	 Citadel Peak
+51.1667	-116.4847	 Clawson Peak
+51.7503	-116.2806	 Clearwater Mountain
+53.0764	-118.2264	 Cliff Mountain
+52.9	-117.4167	 Climax Mountain
+52.2167	-116.825	 Cloister Mountains
+49.1667	-114.0069	 Cloudy Ridge
+49.48	-114.66	 Coal Mountain
+54.1681	-119.9875	 Coal Ridge
+51.2389	-115.7417	 Cockscomb Mountain (Alberta)
+51.9333	-117.2917	 Cockscomb Mountain (BC)
+50.1069	-114.3889	 Coffin Mountain
+52.5167	-116.0833	 Coliseum Mountain
+51.3903	-116.3025	 Collier Peak
+49.1583	-114.4167	 Commerce Peak
+50.7903	-115.3486	 Commonwealth Peak
+50.875	-114.9667	 Compression Ridge
+51.7944	-115.9222	 Condor Peak
+50.8903	-115.4625	 Cone Mountain
+51.7972	-116.4556	 Conical Peak
+51.6444	-117.0583	 Conner Peak
+53.0097	-118.3278	 Consort Mountain
+51.2092	-115.8853	 Copper Mountain
+52.3569	-116.7167	 Coral Mountain (Alberta)
+51.1167	-116.5917	 Coral Mountain (BC)
+51.9917	-115.3028	 Corkscrew Mountain
+52.2167	-116.825	 Cornice Peak
+52.5778	-117.2639	 Cornucopia Peak
+51.9347	-116.5708	 Corona Ridge
+53.2389	-118.0833	 Coronach Mountain
+51.8069	-116.9069	 Coronation Mountain
+52.5153	-117.375	 Coronet Mountain
+51.7875	-117.25	 Corsair Mountain
+50.6736	-114.8972	 Cougar Mountain
+50.2914	-114.8081	 Courcelette Peak
+52.1833	-117.9333	 Cowl Mountain
+51.9056	-116.6389	 Cromwell Tower
+51.6253	-116.4342	 Crowfoot Mountain
+49.7056	-114.5722	 Crowsnest Mountain
+52.7764	-117.8458	 Curator Mountain
+52.7944	-118.3361	 Curia Mountain
+51.3111	-116.3	 Curtis Peak
+51.5667	-116.0681	 Cyclone Mountain
+52.2764	-117.6403	 Dais Mountain
+53.4458	-118.4111	 Daybreak Peak
+52.8667	-117.4	 Deception Mountain
+50.6	-115.2903	 Defender Mountain
+51.3017	-116.2453	 Deltaform Mountain
+51.3444	-115.2653	Devil's Head
+51.4106	-116.2528	 Devil's Thumb
+51.7125	-116.2542	 Devon Mountain
+52.3103	-117.4219	 Diadem Peak
+51.7125	-116.1278	 Dip Slope Mountain
+52.5	-117.9917	 Divergence Peak
+51.4069	-116.2819	 Divide Mountain
+51.8917	-117.0208	 Division Mountain
+53.9944	-120.3236	 Dix Lacs Mountain
+51.6761	-116.3753	 Dolomite Peak
+51.0861	-115.1403	 Door Jamb Mountain
+51.6089	-115.5642	 Dormer Mountain
+53.975	-120.3611	 Dorsal Mountain
+51.9764	-117.1875	 Douai Mountain
+53.4833	-119.6667	 Draco Peak
+52.4458	-117.7	 Dragon Peak
+52.7044	-118.3261	 Drawbridge Peak
+49.2597	-114.0653	 Drywood Mountain
+52.6861	-118.2958	 Dungeon Peak
+52.2028	-117.8806	 Duplicate Mountain
+51.0972	-115.7444	 Eagle Mountain
+50.5417	-114.8792	 Eagle Ridge
+51.8903	-117.0122	 East Peak
+51.7792	-116.6472	 Ebon Peak
+52.1917	-117.7333	 Eden Peak
+54.0264	-120.3542	 Edgegrain Mountain
+51.9597	-117.0953	 Edward Peak
+51.0844	-115.4306	 EEOR
+51.925	-117.2722	 Ego Mountain
+51.3322	-116.235	 Eiffel Peak
+51.3336	-116.2333	 Eiffel Tower
+51.2997	-115.9228	 Eisenhower Peak
+54.0667	-120.6986	 Ekusquin Mountain
+52.0278	-116.35	 Elbe Peak
+52.5958	-118.3278	 Elephas Mountain
+52.1278	-116.4708	 Elliott Peak
+50.6639	-115.0264	 Elpoca Mountain
+50.8944	-115.5639	 Ely's Dome
+52.9528	-118.3569	 Elysium Mountain
+51.4597	-116.5703	 Emerald Peak
+52.9208	-118.9556	 Emerald Ridge
+52.9431	-118.3125	 Emigrants Mountain
+53.0194	-117.9278	 Emir Mountain
+49.7722	-115.375	 Empire State Peak
+51.1981	-115.1297	 End Mountain
+52.4944	-117.475	 Endless Chain Ridge
+51.9097	-116.6389	 Engelhard Tower
+50.8347	-115.6239	 Eon Mountain
+51.8653	-116.7333	 Epaulette Mountain
+52.6278	-118.2458	 Eremite Mountain
+49.8167	-114.7597	 Erickson Ridge
+51.9569	-117.1039	 Ernest Peak
+53.075	-118.15	 Esplanade Mountain
+54.1306	-120.3972	 Etim Mountain
+52.0306	-116.3389	 Ex Coelis Mountain
+52.8444	-117.8889	 Excelsior Mountain
+51.0736	-115.1569	 Exshaw Mountain
+53.1192	-119.0953	 Extinguisher Tower
+50.3	-115.7833	 Fairmont Mountain
+51.3994	-116.2236	 Fairview Mountain
+51.9653	-117.1292	 Farbus Mountain
+51.0278	-115.6917	 Fatigue Mountain
+51.7	-117.3667	 Felucca Mountain
+49.0819	-114.1333	 Festubert Mountain
+51.9097	-116.6667	 Feuz Tower
+53.1792	-117.7444	 Fiddle Peak
+50.8125	-115.0278	 Fisher Peak (Alberta)
+51.7083	-116.7417	 Fisher Peak (BC)
+49.1167	-114.3	 Flanders Mountain
+52.3583	-117.1167	 Flat Ridge
+50.2167	-115.3833	 Flett Peak
+51.4403	-115.7583	 Flints Peak
+53.9667	-119.0333	 Flood Mountain
+53.2097	-117.7028	 Folding Mountain
+49.175	-114.2139	 Font Mountain
+49.9739	-114.8786	 Fording Mountain
+50.7528	-114.7833	 Forgetmenot Mountain (Alberta)
+53.7194	-120.3264	 Forgetmenot Mountain (BC)
+50.7681	-114.8056	 Forgetmenot Ridge
+52.7875	-118.2167	 Fortalice Mountain
+52.3903	-117.7222	 Fortress Mountain
+49.0042	-114.0708	 Forum Peak
+51.5042	-116.0444	 Fossil Mountain
+51.0653	-116.1625	 Foster Peak
+50.4772	-115.8992	 Four Points Mountain
+52.7167	-118.1	 Franchere Peak
+54.0556	-119.9361	 Francis Peak (Alberta)
+53.9806	-120.075	 Francis Peak (BC)
+50.3789	-115.4092	 Franklin Peaks
+51.9972	-117.2153	 Fresnoy Mountain
+51.7333	-117.2	 Frigate Mountain
+52.8167	-118.4278	 Frontier Peak
+51.2639	-116.4069	 Fulmen Mountain
+51.65	-115.7	 Gable Mountain
+50.6556	-115.0528	 Gap Mountain
+53.1028	-118.1542	 Gargoyle Mountain
+51.2042	-116.4778	 Garnet Mountain
+52.6667	-118.4083	 Gateway Peak
+53.2167	-119.2	 Gendarme Mountain
+54.0333	-119.9	 George Peak
+51.9083	-116.6597	 Gest Tower
+52.8	-118.6597	 Ghita Mountain
+52.3083	-117.8833	 Ghost Mountain
+50.5903	-114.8361	 Gibraltar Mountain
+50.9119	-115.5678	 Gibralter Rock
+51.7083	-116.8514	 Gilgit Mountain
+50.2692	-114.8058	 Gill Peak
+51.3506	-116.2836	 Glacier Peak
+52.7667	-118.45	 Glacis Ridge
+49.7333	-115.2167	 Goat Haven Peak
+51.8583	-117.35	 Goat Peak
+51.8444	-116.9333	 Golden Eagle Peak
+50.9986	-115.6694	 Golden Mountain
+52.3697	-117.4592	 Gong Peak
+52.6597	-118.3778	 Goodair Peak
+51.2108	-116.415	 Goodsir Towers (North Tower)
+51.2019	-116.3978	 Goodsir Towers (South Tower)
+49.9222	-114.6375	 Gould Dome
+53.9333	-119.1167	 Grande Mountain
+49.7	-114.4167	 Grassy Mountain
+49.9236	-114.5597	 Grassy Ridge (Dutch Creek)
+53.1028	-118.1542	 Grassy Ridge (Jasper)
+49.3097	-114.4417	 Gravenstafel Ridge
+50.6236	-114.625	 Green Mountain
+50.1992	-114.9386	 Greenhills Range
+52.9444	-117.9278	 Grisette Mountain
+50.7611	-115.1167	 Grizzly Peak (Alberta)
+50.0375	-114.9681	 Grizzly Peak (BC)
+51.0833	-115.2667	 Grotto Mountain
+50.4028	-114.6042	 Gunnery Mountain
+50.8306	-115.2586	 Gusty Peak
+51.0636	-115.4008	 Ha Ling Peak
+51.3833	-116.2367	 Haddo Peak
+51.5861	-116.7167	 Hagen Peak
+51.1014	-115.95	 Haiduk Peak
+50.2097	-114.4569	 Hailstone Butte
+51.9111	-116.6278	 Hall Tower
+51.2444	-116.4569	 Hanbury Peak
+53.0139	-118.0167	 Hawk Mountain
+51.0944	-116.0083	 Hawk Ridge
+51.0403	-115.1347	 Heart Mountain
+51.475	-116.0542	 Heather Ridge
+51.3167	-115.9056	 Helena Ridge
+52.7667	-117.4833	 Helmet Mountain (Alberta)
+51.1778	-116.3417	 Helmet Mountain (BC)
+51.4236	-115.9167	 Hickson Peak
+50.5886	-114.9914	 Highwood Ridge
+52.1903	-117.1764	 Hilda Peak
+49.5333	-114.4167	 Hillcrest Mountain
+49.3917	-114.5694	 Hollebeke Mountain
+52.825	-118.4236	 Holloway Rock
+50.4217	-114.6314	 Holy Cross Mountain (Alberta)
+53.775	-120.7972	 Holy Cross Mountain (BC)
+50.4264	-114.8689	 Horned Mountain
+52.3514	-116.8236	 Horseshoe Mountain
+51.8128	-116.6806	 Howse Peak
+52.4167	-118.6333	 Hugh Allan Ridge
+49.5828	-115.4156	 Hungary Peak
+51.8417	-116.2111	 Icefall Mountain
+51.8486	-117.1792	 Icefall Peak
+52.0389	-115.4806	 Idlewilde Mountain
+53.7792	-120.125	 Idol Peak
+50.3972	-115.7861	 Indian Head Mountain
+51.8694	-116.0125	 Indian Lookout
+50.9292	-115.75	 Indian Peak
+52.8181	-118.1764	 Indian Ridge
+53.5333	-119.95	 Interpass Ridge
+53.8	-120	 Intersection Mountain
+51.125	-116.0083	 Isabelle Peak
+50.1264	-114.4958	 Isola Peak
+51.5436	-116.5761	 Isolated Peak
+53.3667	-119.5667	 Jackpine Mountain
+51.6944	-116.85	 Jones Peak
+50.95	-114.9083	 Jumpingpound Mountain
+50.5472	-114.6944	 Junction Mountain
+49.2042	-114.2722	 Jutland Mountain
+54.0778	-119.9972	 Kakwa Mountain
+51.2083	-116.75	 Kapristo Mountain
+52.8319	-118.3958	 Kataka Mountain
+51.8811	-116.7614	 Kaufmann Peaks (North)
+51.8786	-116.7567	 Kaufmann Peaks (South)
+51.8889	-117.1792	 Kemmel Mountain
+49.0764	-114.325	 Kenow Mountain
+49.0236	-114.2667	 King Edward Peak
+54.0556	-120.5444	 Kisano Mountain
+49.1175	-114.1494	 Kishinena Peak
+49.025	-114.2333	 Kishinena Ridge
+53.9708	-120.4403	 Kitchi Mountain
+51.5222	-116.6097	 Kiwetinok Peak
+53.0014	-119.2167	 Klapperhorn Mountain
+53.7667	-119.1333	 Knife Mountain
+54.0667	-120.3736	 Koona Mountain
+51.8958	-117.1417	 La Clytte Mountain
+49.2	-114.3167	 La Coulotte Peak
+49.1903	-114.2889	 La Coulotte Ridge
+53.9833	-119.9667	 La Creche Mountain
+51.6944	-115.4736	 Labyrinth Mountain
+50.8917	-115.8667	 Lachine Mountain
+51.8833	-117.3833	 Ladylove Mountain
+49.1569	-113.9167	 Lakeview Ridge
+49.7306	-115.5917	 Lakit Mountain
+49.1083	-114.3653	 Langemarck Mountain
+52.7125	-117.5583	 Leah Peak
+52.8819	-118.6083	 Leather Peak
+52.7444	-118.1097	 Lectern Peak
+51.9097	-117.1417	 Lens Mountain
+53.0206	-117.3822	 Leyland Mountain
+52.4458	-117.9153	 Lick Peak
+51.9	-117.7833	 Lid Mountain
+52.1028	-117.0667	 Lighthouse Tower
+51.5514	-116.4125	 Lilliput Mountain
+51.9333	-115.4333	 Limestone Mountain (Clearwater)
+50.8583	-115.1569	 Limestone Mountain (Kananaskis)
+51.1833	-116.3	 Limestone Peak
+52.0736	-116.6597	 Lion Peak
+52.0722	-116.6444	 Lioness Peak
+51.425	-116.0972	 Lipalian Mountain
+52.2444	-117.7333	 Listening Mountain
+52.2736	-117.4361	 Little Alberta
+51.6694	-116.1083	 Little Cataract Peak
+51.5903	-116.2778	 Little Hector
+51.3514	-116.3764	 Little Odaray
+51.0247	-115.3325	 Little Sister
+53.8	-119.4667	 Llama Mountain
+52.5806	-117.4833	 Llysfran Peak
+49.2167	-114.1014	 Loaf Mountain
+50.6792	-115.4389	 Lockwood Peak
+51.0931	-115.1389	 Loder Peak
+49.1042	-114.125	 Lone Mountain
+49.6444	-115.5667	 Lone Peak
+52.3667	-116.9333	 Longview Mountain
+50.6844	-115.9625	 Lookout Point
+49.1264	-114.0917	 Lost Mountain
+52.8833	-118.575	 Lucerne Peak
+50.865	-115.6486	 Lunette Peak
+53.025	-117.4306	 Luscar Mountain
+51.4861	-115.9736	 Lychnis Mountain
+53.1258	-119.0492	 Lynx Mountain
+49.2417	-114.3083	 Lys Ridge
+49.7306	-114.5236	 Ma Butte
+52.7583	-118.2139	 Majestic Mountain
+53.0456	-117.7811	 Makwa Ridge
+52.6528	-117.3972	 Maligne Mountain
+52.4583	-118.2292	 Mallard Peak
+51.1542	-116.3972	 Manganese Mountain
+54.2375	-120.3847	 Manitou Mountain
+52.7764	-118.1889	 Manx Peak
+51.9083	-115.2083	 Marble Mountain (James River)
+52.3528	-117.0528	 Marble Mountain (Jasper)
+51.7569	-116.45	 Marmot Mountain (Banff)
+52.7903	-118.125	 Marmot Mountain (Jasper)
+51.2333	-116.4236	 Martin's Peak
+50.86	-115.5517	 Marvel Peak
+51.1819	-115.7944	 Massive Mountain
+52.6083	-118.3333	 Mastodon Mountain
+53.2583	-120.1167	 McBride Peak
+52.6517	-118.3064	 McDonnell Peak
+52.3917	-118.175	 McGillivray Ridge
+50.0439	-115.5636	 McLean Peak
+52.7667	-117.2833	 Meda Mountain
+50.0806	-115.4333	 Melvin Peak
+51.5181	-116.125	 Merlin Castle
+53.0028	-117.8667	 Merlin Ridge
+51.8375	-116.9917	 Messines Mountain
+51.4842	-116.5175	 Michael Peak
+49.5078	-114.7192	 Michel Head
+51.0219	-115.3411	 Middle Sister
+51.8014	-116.6569	 Midway Peak
+52.8458	-118.3833	 Miette Hill
+52.6528	-118.3833	 Minotaur Peak
+52.1389	-116.7472	 Minster Mountain
+51.2889	-116.3486	 Misko Mountain
+49.0597	-114.3375	 Miskwasini Peak
+50.6722	-114.6569	 Missinglink Mountain
+50.5542	-114.91	 Mist Mountain
+51.7114	-116.5853	 Mistaya Mountain
+51.3772	-116.9489	 Moberly Peak
+51.6139	-116.1967	 Molar Mountain
+53.0019	-118.4278	 Monarch Mountain
+51.0778	-115.6097	 Monarch Ramparts
+52.0056	-117.025	 Monchy Mountain
+52.5806	-117.3917	 Monkhead Mountain
+51.8611	-117.0361	 Mons Peak
+53.3333	-118.95	 Monte Cristo Mountain
+54.1236	-120.2514	 Moonias Mountain
+50.9403	-114.8389	 Moose Mountain
+53.0333	-118.0667	 Morro Peak
+51.0953	-116.2153	 Mount 10060
+51.1094	-116.2325	 Mount 10240
+51.38	-116.2475	 Mount Aberdeen
+50.4417	-115.1194	 Mount Abruzzi
+52.4042	-117.5264	 Mount Adam Joachim
+53.2694	-118.0722	 Mount Aeolus
+51.7347	-117.0483	 Mount Alan Campbell
+52.2875	-117.4769	 Mount Alberta
+50.8	-115.6069	 Mount Alcantara
+49.0236	-113.9681	 Mount Alderson
+51.9806	-117.1986	 Mount Alexandra
+50.9569	-115.225	 Mount Allan
+51.2919	-116.22	 Mount Allen
+50.9403	-115.5333	 Mount Allenby
+52.0375	-116.9819	 Mount Amery
+52.2556	-117.8333	 Mount Amundsen
+51.6119	-116.2742	 Mount Andromache
+52.1739	-117.2361	 Mount Andromeda
+53.1797	-119.2019	 Mount Anne-Alice
+50.5292	-115.0944	 Mount Aosta
+50.6075	-114.9675	 Mount Arethusa
+50.35	-114.7639	 Mount Armstrong
+50.8692	-115.6511	 Mount Assiniboine
+51.3	-115.4861	 Mount Astley
+52.1814	-117.2058	 Mount Athabasca
+51.8042	-116.2889	 Mount Augusta
+51.4167	-115.9917	 Mount Avens
+51.3239	-115.4328	 Mount Aylmer
+52.4486	-117.0222	 Mount Aztec
+51.3061	-116.1631	 Mount Babel
+50.6972	-115.4097	 Mount Back
+49.4361	-114.2722	 Mount Backus
+53.6403	-120.4431	 Mount Bagg
+51.6658	-116.5967	 Mount Baker
+52.8	-117.3333	 Mount Balcarres
+51.0117	-115.0492	 Mount Baldy
+51.5656	-116.4661	 Mount Balfour
+52.75	-117.3	 Mount Balinhard
+51.1561	-116.0072	 Mount Ball
+51.7056	-116.8097	 Mount Barlow
+51.7083	-116.9167	 Mount Barnard
+50.7875	-114.6556	 Mount Barwell
+50.475	-115.1639	 Mount Battisti
+49.1278	-114.1278	 Mount Bauerman
+53.5431	-118.3986	 Mount Bazalgette
+50.6694	-115.2903	 Mount Beatty
+53.0333	-118.6167	 Mount Beaupre
+52.5111	-117.9222	 Mount Belanger
+51.2833	-116.1014	 Mount Bell
+51.7611	-116.8653	 Mount Bergne
+50.6764	-116.0425	 Mount Berland
+53.0583	-117.5042	 Mount Berry
+53.35	-119.3833	 Mount Bess
+51.3225	-116.3075	 Mount Biddle
+49.7522	-115.6125	 Mount Bill Nye
+50.1494	-115.0186	 Mount Bingay
+50.7861	-115.3667	 Mount Birdwood
+49.6075	-115.1342	 Mount Bisaro
+50.44	-114.8769	 Mount Bishop
+53.2069	-118.2264	 Mount Bistre
+50.6944	-115.2417	 Mount Black Prince
+52.4833	-118.7167	 Mount Blackman
+49.0931	-114.0333	 Mount Blakiston
+50.7264	-115.0728	 Mount Blane
+50.3472	-114.9542	 Mount Bleasdell
+50.9114	-115.2428	 Mount Bogart
+50.3306	-114.7986	 Mount Bolton
+49.3889	-114.625	 Mount Borsato
+49.0083	-113.8667	 Mount Boswell
+51.4636	-116.3328	 Mount Bosworth
+51.1319	-115.775	 Mount Bourgeau
+51.3014	-116.1894	 Mount Bowlen
+53.7667	-119.2333	 Mount Braithwaite
+52.3208	-118.0028	 Mount Bras Croche
+52.5511	-117.355	 Mount Brazeau
+51.1611	-115.8222	 Mount Brett
+51.2444	-115.6556	 Mount Brewster
+52.9681	-118.525	 Mount Bridgland
+49.2967	-114.9903	 Mount Broadwood
+50.7375	-115.0806	 Mount Brock
+52.3792	-118.2306	 Mount Brown
+52.2828	-118.0561	 Mount Bruce
+50.7819	-115.6056	 Mount Brussilof
+50.5	-115.8333	 Mount Bryan
+53.0167	-117.5778	 Mount Bryant (Jasper)
+50.9069	-114.9903	 Mount Bryant (Kananaskis)
+52.0411	-117.33	 Mount Bryce
+53.8861	-120.1458	 Mount Buchanan
+51.7181	-116.9194	 Mount Bulyea
+51.4267	-116.5031	 Mount Burgess
+50.2903	-114.5236	 Mount Burke
+50.7097	-115.0611	 Mount Burney
+50.6417	-114.8597	 Mount Burns
+50.7722	-115.325	 Mount Burstall
+50.8278	-115.525	 Mount Byng
+50.4667	-115.1417	 Mount Cadorna
+51.6833	-116.7792	 Mount Cairnes
+51.8375	-116.9819	 Mount Cambrai
+53.6014	-118.4	 Mount Campion
+52.85	-117.3	 Mount Cardinal
+51.4689	-116.5875	 Mount Carnarvon
+54.1597	-120.3708	 Mount Carr-Hilton
+49.0319	-114.0006	 Mount Carthew
+50.5278	-115.1667	 Mount Castelnau
+50.9078	-115.5728	 Mount Cautley
+53.0111	-119.3	 Mount Chamberlin
+51.1556	-115.3333	 Mount Charles Stewart
+52.6111	-117.5111	 Mount Charlton
+51.8406	-116.6831	 Mount Chephren
+50.8072	-115.2631	 Mount Chester
+52.1947	-117.9517	 Mount Chettan
+52.6611	-117.2694	 Mount Chief Warden
+53.4	-119.3833	 Mount Chown
+52.53	-117.8094	 Mount Christie
+52.8056	-118.4125	 Mount Clairvaux
+52.2475	-117.9583	 Mount Clemenceau
+52.07	-116.6825	 Mount Cline
+52.7106	-118.23	 Mount Clitheroe
+52.1208	-116.9236	 Mount Coleman
+53.0014	-117.9861	 Mount Colin
+50.9722	-115.2	 Mount Collembola
+51.6169	-116.5897	 Mount Collie
+52.1478	-117.4406	 Mount Columbia
+52.4042	-117.575	 Mount Confederation
+50.4167	-115.0833	 Mount Connor
+51.7639	-116.7931	 Mount Conway
+50.55	-115.2333	 Mount Cordonnier
+50.7383	-114.9469	 Mount Cornwall
+50.3003	-114.7814	 Mount Cornwell
+49.3917	-114.6667	 Mount Corrigan
+51.2014	-115.6889	 Mount Cory
+51.2875	-115.2792	 Mount Costigan
+53.8833	-120.0006	 Mount Cote
+49.5583	-114.5708	 Mount Coulthard
+52.9611	-117.9667	 Mount CR2
+50.6764	-115.4	 Mount Cradock
+49.0764	-113.9278	 Mount Crandell
+0	0	 Mount Creswell
+52.2694	-117.3917	 Mount Cromwell
+50.7947	-116.0578	 Mount Crook
+53.9403	-120.1667	 Mount Cross
+52.1	-118.25	 Mount Cummins
+53.1736	-118.1833	 Mount Cumnock
+50.8042	-115.4917	 Mount Currie
+50.8208	-115.8772	 Mount Daer
+52.2	-118.3833	 Mount Dainard
+52.6	-116.9333	 Mount Dalhousie
+51.5222	-116.3942	 Mount Daly
+49.4694	-114.5917	 Mount Darrah
+51.8389	-116.8264	 Mount David
+51.4061	-115.3397	 Mount Davidson
+50.5181	-115.1528	 Mount De Gaulle
+51.725	-116.7833	 Mount De Margerie
+50.215	-115.7536	 Mount De Smet
+53.6833	-119.6333	 Mount de Veber
+53.5736	-118.4556	 Mount de Wind
+51.3722	-116.4792	 Mount Dennis
+50.7878	-115.1042	 Mount Denny
+51.7556	-116.9667	 Mount Dent
+51.5947	-116.6058	 Mount Des Poilus
+51.375	-116.7	 Mount Deville
+54.0236	-120.5694	 Mount Dimsdale
+49.8222	-115.4417	 Mount Dingley
+50.7572	-115.7344	 Mount Docking
+49.8347	-114.6597	 Mount Domke
+49.8611	-115.475	 Mount Doolan
+50.2833	-115.425	 Mount Dorman
+51.525	-115.9667	 Mount Douglas
+49.2039	-114.7525	 Mount Doupe
+53.1181	-117.6514	 Mount Drinnan
+52.9417	-117.8903	 Mount Dromore
+51.5917	-116.0097	 Mount Drummond
+51.1486	-116.2722	 Mount Drysdale
+51.3556	-116.4528	 Mount Duchesnay
+49.1556	-113.9708	 Mount Dungarvan
+52.2611	-118.4194	 Mount Dunkirk
+50.5903	-114.5472	 Mount Dyson
+51.2053	-115.6692	 Mount Edith
+52.6672	-118.0569	 Mount Edith Cavell
+50.5417	-115.1333	 Mount Elkan
+52.1472	-117.8278	 Mount Ellis
+50.865	-115.3108	 Mount Engadine
+52.275	-117.4056	 Mount Engelhard
+51.2583	-116.5003	 Mount Ennis
+51.9611	-116.9194	 Mount Erasmus
+52.6319	-118.2667	 Mount Erebus
+49.7167	-114.7417	 Mount Erickson
+52.4181	-118.0458	 Mount Ermatinger
+52.1028	-116.4528	 Mount Ernest Ross
+49.8889	-114.6847	 Mount Erris
+52.7667	-118.2097	 Mount Estella
+50.2722	-114.7569	 Mount Etherington
+50.7658	-115.0958	 Mount Evan-Thomas
+52.4417	-118.1167	 Mount Evans
+51.1175	-115.2261	 Mount Fable
+50.2153	-114.7472	 Mount Farquhar
+52.2944	-118.0222	 Mount Farrar
+51.2978	-116.1631	 Mount Fay
+49.5278	-115.1194	 Mount Fernie
+53.7333	-119.9	 Mount Fetherstonhaugh
+51.4308	-116.4622	 Mount Field
+51.2219	-115.69	 Mount Fifi
+49.7333	-115.4833	 Mount Fisher
+52.8306	-118.4556	 Mount Fitzwilliam
+0	0	 Mount Florence
+50.5736	-115.1569	 Mount Foch
+50.0897	-115.2175	 Mount Folk
+51.8597	-116.9317	 Mount Forbes
+53.6667	-119.7333	 Mount Forget
+50.2686	-115.1106	 Mount Forsythe
+50.8917	-115.4097	 Mount Fortune
+50.5708	-115.1167	 Mount Fox
+52.3139	-116.8861	 Mount Frances
+52.6567	-118.3183	 Mount Fraser
+49.8556	-115.1	 Mount Frayn
+50.7278	-115.3056	 Mount French
+51.7428	-116.9458	 Mount Freshfield
+52.5503	-117.9106	 Mount Fryatt
+51.8833	-116.4278	 Mount Fuhrer
+50.8222	-114.9611	 Mount Fullerton
+49.9556	-115.3444	 Mount Gagnebin
+50.8389	-115.275	 Mount Galatea
+49.1208	-113.9472	 Mount Galwey
+51.7986	-116.9139	 Mount Garth
+50.1208	-114.7375	 Mount Gass
+53.5778	-118.2972	 Mount Gaunce
+52.3361	-117.4503	 Mount Gec
+52.7144	-118.3914	 Mount Geikie
+52.9583	-118.775	 Mount George Graham
+51.7278	-117.2333	 Mount Gerald
+52.59	-117.915	 Mount Geraldine
+51.2361	-115.4028	 Mount Girouard
+49.3194	-114.2278	 Mount Gladstone
+50.7556	-114.9317	 Mount Glasgow
+49.1722	-114.05	 Mount Glendowan
+50.2189	-115.6478	 Mount Glenn
+50.8458	-115.6061	 Mount Gloria
+51.6075	-116.5111	 Mount Gordon
+54.1792	-120.0006	 Mount Gorman
+53.05	-119.4833	 Mount Goslin
+50.1731	-115.7236	 Mount Grainger
+51.1278	-116.2625	 Mount Gray
+53.1056	-118.0847	 Mount Greenock
+53.0333	-117.4667	 Mount Gregg
+53.0403	-118.4	 Mount Griesbach
+49.8028	-115.0889	 Mount Gydosic
+51.6522	-116.5706	 Mount Habel
+50.0389	-115.0417	 Mount Hadiken
+51.1486	-116.0889	 Mount Haffner
+49.2903	-114.4458	 Mount Haig
+49.7231	-115.4447	 Mount Haley
+53.9667	-119.2	 Mount Hamell
+54.1236	-120.1639	 Mount Hanington
+52.7056	-117.8222	 Mount Hardisty
+50.7969	-115.8642	 Mount Harkin
+51.775	-116.2153	 Mount Harris
+50.0606	-115.2078	 Mount Harrison
+53.5819	-118.4486	 Mount Harvey
+53.1819	-118.2903	 Mount Haultain
+49.0875	-114.075	 Mount Hawkins
+0	0	 Mount Hawley
+49.95	-115.2667	 Mount Haynes
+50.4403	-114.6497	 Mount Head
+51.5753	-116.2592	 Mount Hector
+54.1125	-121.0542	 Mount Hedrick
+49.0039	-114.5767	 Mount Hefty
+51.7056	-116.8375	 Mount Helmer
+53.1792	-118.4014	 Mount Henday
+52.9375	-118.25	 Mount Henry
+52.5292	-117.35	 Mount Henry MacLeod
+49.9667	-115.0861	 Mount Herchmer
+50.6042	-114.6889	 Mount Hoffman
+50.2347	-114.7611	 Mount Holcroft
+53.35	-119.6333	 Mount Holmes
+50.7458	-115.0875	 Mount Hood
+51.9986	-117.0056	 Mount Hooge
+52.4056	-118.0931	 Mount Hooker
+50.1603	-114.4086	 Mount Hornecker
+50.2583	-115.0917	 Mount Hornickel
+51.4583	-116.7167	 Mount Horsey
+49.625	-115	 Mount Hosmer
+50.8486	-114.9833	 Mount Howard
+51.0861	-115.7333	 Mount Howard Douglas
+51.3697	-116.3117	 Mount Huber
+51.8417	-116.1792	 Mount Huestis
+51.3322	-116.2839	 Mount Hungabee
+53.5708	-118.4306	 Mount Hunter (Alberta)
+51.2917	-116.7	 Mount Hunter (BC)
+51.2839	-116.5339	 Mount Hurd
+53.9958	-120.2042	 Mount Ian Monroe
+54.0569	-120.325	 Mount Ida
+50.6528	-115.1722	 Mount Indefatigable
+50.7833	-115.2069	 Mount Inflexible
+51.2419	-115.4217	 Mount Inglismaldie
+50.2978	-115.0331	 Mount Ingram
+50.6667	-115.1917	 Mount Invincible
+52.1978	-117.9394	 Mount Irvine
+52.55	-116.95	 Mount Isaac
+51.2653	-115.7736	 Mount Ishbel
+50.8056	-115.2194	 Mount James Walker
+54.675	-120.1667	 Mount Jarvis
+50.7139	-115.2875	 Mount Jellicoe
+50.7014	-115.05	 Mount Jerram
+53.3	-119.3333	 Mount Jessie
+51.6858	-116.505	 Mount Jimmy Simpson
+53.65	-119.8833	 Mount Jobe
+50.5281	-115.2069	 Mount Joffre
+52.5722	-117.4417	 Mount Julian
+52.2219	-117.2897	 Mount K2
+51.8347	-116.2958	 Mount Kahl
+53.0514	-119.0403	 Mount Kain
+52.4333	-118.1528	 Mount Kane
+51.675	-116.8431	 Mount Karakal
+51.5319	-116.7528	 Mount Keays
+53.35	-118.5667	 Mount Kelsey
+50.7333	-115.1903	 Mount Kent
+51.7889	-116.3333	 Mount Kentigern
+53.3597	-118.0264	 Mount Kephala
+52.65	-117.8264	 Mount Kerkeslin
+52.9375	-118.2208	 Mount Kerr (Alberta)
+51.505	-116.5942	 Mount Kerr (BC)
+50.8936	-115.1897	 Mount Kidd
+50.7378	-116.0197	 Mount Kindersley
+51.3417	-116.65	 Mount King
+50.7111	-115.4125	 Mount King Albert
+52.1564	-117.5194	 Mount King Edward
+50.5967	-115.4053	 Mount King George
+52.9458	-118.1806	 Mount Kinross
+52.2161	-117.3211	 Mount Kitchener
+49.6075	-115.1642	 Mount Klauer
+53.0972	-118.4431	 Mount Knight
+49.7097	-114.9806	 Mount Kuleski
+52.7833	-117.1833	 Mount La Grace
+51.1222	-115.3167	 Mount Lady Macdonald
+51.7375	-116.8194	 Mount Lambe
+50.425	-115.1333	 Mount Lancaster
+52.5139	-117.9389	 Mount Lapensee
+51.1244	-115.1178	 Mount Laurie
+51.5722	-116.9556	 Mount Laussedat
+53.5528	-118.4833	 Mount Laut
+51.0531	-115.3917	 Mount Lawrence Grassi
+50.7653	-115.1889	 Mount Lawson
+51.3619	-116.2789	 Mount Lefroy
+50.7361	-115.4111	 Mount Leman
+50.6986	-115.3333	 Mount Leroy
+50.7569	-115.4361	 Mount Leval
+52.8667	-117.3667	 Mount Lindsay
+49.0708	-114.0472	 Mount Lineham
+50.5475	-114.9258	 Mount Lipsett
+51.2953	-116.1828	 Mount Little
+50.1403	-114.4028	 Mount Livingstone (Alberta)
+52.1556	-117.9389	 Mount Livingstone (BC)
+53.1839	-119.3453	 Mount Longstaff
+50.4628	-114.9194	 Mount Loomis
+50.9875	-115.1333	 Mount Lorette
+51.6347	-116.8694	 Mount Lotosky
+51.9167	-116.4444	 Mount Loudon
+50.9658	-115.2622	 Mount Lougheed
+53.8833	-119	 Mount Louie
+51.215	-115.6792	 Mount Louis
+51.7167	-116.8	 Mount Low
+52.5042	-117.8325	 Mount Lowell
+53.4333	-119.5333	 Mount Lucifer
+49.6567	-115.4725	 Mount Lum
+50.0897	-114.7044	 Mount Lyall
+50.6014	-115.2236	 Mount Lyautey
+51.9569	-117.1039	 Mount Lyell
+49.9667	-114.8167	 Mount Lyne
+52.7044	-118.2017	 Mount Maccarib
+50.4972	-115.1778	 Mount Macdonnel
+53.05	-118.7833	 Mount Machray
+52.85	-117.2333	 Mount Mackenzie
+50.3583	-114.7903	 Mount MacLaren
+50.8783	-115.6353	 Mount Magog
+49.0442	-114.9792	 Mount Mahaney
+53.0333	-118.5833	 Mount Mahood
+51.8292	-116.1306	 Mount Malloch
+52.3083	-118.0278	 Mount Mallory
+50.5417	-115.2278	 Mount Mangin
+50.3847	-114.5986	 Mount Mann
+50.3822	-115.1253	 Mount Marconi
+50.5597	-115.2	 Mount Marlborough
+51.4925	-116.5797	 Mount Marpole
+52.5583	-117.4528	 Mount Mary Vaux
+52.3	-117.5931	 Mount Massey
+51.5819	-116.9167	 Mount Mather
+49.1903	-114.2236	 Mount Matkin
+50.7	-115.3014	 Mount Maude
+53.8	-119.1333	 Mount Mawdsley
+54.0472	-119.9194	 Mount May
+51.5406	-116.5964	 Mount McArthur
+52.7667	-117.1167	 Mount McBeath (Alberta)
+51.4222	-116.85	 Mount McBeath (BC)
+49.3847	-114.4997	 Mount McCarty
+51.6444	-116.0069	 Mount McConnell
+53.0333	-118.65	 Mount McCord
+50.5208	-115.1444	 Mount McCuaig
+54.0528	-120.9403	 Mount McCullagh
+52.35	-116.95	 Mount McDonald
+50.8986	-115.0556	 Mount McDougall
+51.0194	-115.1639	 Mount McGillivray
+49.5097	-114.5861	 Mount McGladrey
+52.3747	-117.4528	 Mount McGuire
+50.625	-115.3028	 Mount McHarg
+52.9639	-118.2931	 Mount McKean
+49.5833	-114.5667	 Mount McLaren
+50.6306	-114.5583	 Mount McNab
+53.0056	-118.75	 Mount McNaughton
+50.4081	-114.8617	 Mount McPhail
+53.75	-119.1667	 Mount McQueen
+50.9236	-115.5194	 Mount Mercer
+52.9833	-117.8347	 Mount Merlin
+52.2042	-116.375	 Mount Michener
+50.0083	-115.2667	 Mount Mike
+54.1625	-120.0653	 Mount Minnes
+50.3694	-115.1219	 Mount Minton
+52.4042	-117.5042	 Mount Mitchell
+52.5944	-117.5083	 Mount Moffat
+51.1319	-116.3931	 Mount Mollison
+52.1667	-118.25	 Mount Molson
+50.7097	-115.3278	 Mount Monro
+53.3111	-120.175	 Mount Monroe
+52.4222	-117.5389	 Mount Morden Long
+53	-118.5833	 Mount Moren
+53.7	-119.8333	 Mount Morkill
+50.8375	-115.4778	 Mount Morrison (Alberta)
+52.2425	-118.0292	 Mount Morrison (BC)
+49.8361	-115.3583	 Mount Morro
+52.9417	-118.7333	 Mount Mowat
+50.3942	-114.8261	 Mount Muir
+51.6653	-116.8514	 Mount Mummery
+51.9331	-116.675	 Mount Murchison
+50.7486	-115.2917	 Mount Murray
+52.3461	-117.4697	 Mount Nelson
+50.9278	-115.3611	 Mount Nestor
+50.525	-115.1833	 Mount Ney
+51.4172	-116.2711	 Mount Niblock
+50.0111	-115.3639	 Mount Nicholas
+51.5047	-116.4206	 Mount Niles
+50.5167	-115.175	 Mount Nivelle
+51.7917	-116.9389	 Mount Niverville
+50.6633	-115.2089	 Mount Nomad
+50.8878	-116.2292	 Mount Norman
+51.2	-115.6333	 Mount Norquay
+50.5889	-115.2389	 Mount Northover
+52.2	-117.8083	 Mount Norton
+51.8236	-116.5458	 Mount Noyes
+53.1111	-117.8097	 Mount O'Hagan
+50.1694	-114.7333	 Mount O'Rourke
+52.4389	-118.0333	 Mount Oates
+50.4867	-114.9375	 Mount Odlum
+51.4614	-116.4089	 Mount Ogden
+51.2653	-116.2861	 Mount Oke
+51.6119	-116.4914	 Mount Olive
+51.4264	-115.475	 Mount Oliver (Banff)
+53.0181	-118.3542	 Mount Oliver (Jasper)
+52.4833	-117.9097	 Mount Olympus (83C/05)
+52.4694	-117.0333	 Mount Olympus (83C/06)
+50.5917	-115.2917	 Mount Onslow
+51.8194	-116.3236	 Mount Osgood
+51.8817	-116.8753	 Mount Outram
+54.1444	-120.5708	 Mount Ovington
+51.3161	-116.4211	 Mount Owen
+50.7583	-115.0903	 Mount Packenham
+52.3525	-117.5203	 Mount Palmer
+52.5028	-117.9333	 Mount Parnassus
+49.575	-114.5875	 Mount Parrish
+49.6242	-115.4189	 Mount Patmore
+51.7478	-116.5747	 Mount Patterson
+52.9667	-118.4056	 Mount Pattison
+52.6181	-117.4375	 Mount Paul
+53.5333	-119.9	 Mount Pauline
+52.2583	-117.8458	 Mount Peary
+50.1361	-115.0556	 Mount Peck
+50.3986	-115.7308	 Mount Pedley
+51.2097	-115.3769	 Mount Peechee
+49.5028	-114.5944	 Mount Pengelly
+53.45	-118.85	 Mount Perce
+51.8472	-116.3264	 Mount Perren (Siffleur)
+51.2961	-116.2092	 Mount Perren (Ten Peaks)
+51.9417	-116.4653	 Mount Peskett
+50.5444	-115.1833	 Mount Petain
+51.825	-115.9833	 Mount Peters
+54.1444	-120.5486	 Mount Petrie
+53.1769	-119.2614	 Mount Phillips
+50.2	-114.75	 Mount Pierce
+51.7236	-116.9236	 Mount Pilkington
+54.1375	-120.5708	 Mount Plaskett
+50.5994	-115.0292	 Mount Pocaterra
+51.6403	-116.8028	 Mount Poland
+51.5294	-116.5972	 Mount Pollinger
+50.7789	-115.1003	 Mount Potts
+50.6139	-115.4	 Mount Prince Albert
+50.6111	-115.4167	 Mount Prince Edward
+50.6	-115.3778	 Mount Prince George
+50.6194	-115.4222	 Mount Prince Henry
+50.6389	-115.4417	 Mount Prince John
+50.5833	-115.3917	 Mount Princess Mary
+51.2333	-114.8833	 Mount Pringle
+49.565	-115.0781	 Mount Procter
+49.55	-114.6292	 Mount Ptolemy
+50.6431	-115.2569	 Mount Putnik
+50.7125	-115.4056	 Mount Queen Elizabeth
+50.6417	-115.45	 Mount Queen Mary
+52.3294	-117.6628	 Mount Quincy
+50.8139	-114.6917	 Mount Quirk
+50.6228	-114.9747	 Mount Rae
+50.7944	-114.9708	 Mount Remus
+53.4944	-120.0006	 Mount Renshaw
+52.1444	-117.9194	 Mount Rhodes
+51.6447	-116.5644	 Mount Rhondda
+49.0111	-113.9431	 Mount Richards
+51.4961	-116.1211	 Mount Richardson
+53.5681	-120.4264	 Mount Rider
+50.7267	-115.3211	 Mount Robertson
+53.1106	-119.1508	 Mount Robson
+49.2111	-114.0181	 Mount Roche
+52.775	-118.5167	 Mount Rockingham
+50.7889	-114.9933	 Mount Romulus
+50.6931	-114.8139	 Mount Rose
+51.8653	-116.9569	 Mount Rosita
+52.4597	-118.0181	 Mount Ross Cox
+49.8833	-115.05	 Mount Roth
+53.1778	-118.325	 Mount Rowand
+49.0458	-114.0583	 Mount Rowe
+51.65	-117.325	 Mount Rowley
+49.7611	-115.45	 Mount Ruault
+51.1244	-115.47	 Mount Rundle
+52.8167	-117.1667	 Mount Russell (Nikanassin Rg.)
+53.7639	-119.075	 Mount Russell (Willmore)
+54.0056	-120.1083	 Mount Ruth
+53.1736	-118.4125	 Mount Rutherford
+50.1756	-115.7917	 Mount Sabine
+52.3394	-117.7586	 Mount Sadleir
+49.8764	-114.8056	 Mount Salter
+50.8833	-115.8167	 Mount Sam
+51.8919	-116.7678	 Mount Sarbach
+50.5806	-115.3306	 Mount Sarrail
+52.1	-117.0931	 Mount Saskatchewan
+53.2375	-118.4014	 Mount Sassenach
+51.3439	-116.34	 Mount Schaffer
+50.6861	-115.0417	 Mount Schlee
+52.4472	-118.0569	 Mount Scott
+50.2431	-114.7667	 Mount Scrimger
+49.8544	-114.6628	 Mount Secord
+50.875	-115.9167	 Mount Selkirk
+52.1833	-117.9083	 Mount Shackleton
+50.3469	-115.8169	 Mount Shankland
+51.0042	-115.6306	 Mount Shanks
+50.8281	-115.4097	 Mount Shark
+52.2433	-118.0319	 Mount Sharp
+51.5847	-116.8736	 Mount Sheppard
+52.1936	-117.9597	 Mount Shipton
+53.2833	-118.6667	 Mount Simla
+50.6411	-115.9128	 Mount Sinclair
+53.9361	-120.3847	 Mount Sir Alexander
+50.7231	-115.3381	 Mount Sir Douglas
+53.0328	-117.4628	 Mount Sir Harold Mitchell
+52.4083	-118.1333	 Mount Sir Joseph
+51.7681	-116.8597	 Mount Skene
+50.7319	-115.2903	 Mount Smith-Dorrien
+50.8069	-115.3875	 Mount Smuts
+52.3556	-117.475	 Mount Smythe
+49.7322	-115.4431	 Mount Sneath
+50.7083	-115.5333	 Mount Soderholm
+53.3833	-117.8333	 Mount Solomon
+52.1389	-117.8569	 Mount Somervell
+52.6681	-117.1361	 Mount Southesk
+50.9403	-115.2658	 Mount Sparrowhawk
+50.1139	-115.1583	 Mount Splendid
+53.7333	-119.7833	 Mount Sprague
+52.0167	-117.2319	 Mount Spring-Rice
+54.0569	-120.1736	 Mount St. Andrews
+51.5069	-115.9542	 Mount St. Bride
+54.0292	-120.2417	 Mount St. David
+54.0014	-120.2639	 Mount St. George
+54.0042	-120.2833	 Mount St. Patrick
+51.4211	-116.2525	 Mount St. Piran
+52.1583	-117.9389	 Mount Stanley
+53.85	-119.2167	 Mount Stearn
+52.225	-116.5528	 Mount Stelfox
+51.3989	-116.4353	 Mount Stephen
+49.8406	-115.5742	 Mount Stevens
+52.2194	-116.9431	 Mount Stewart
+50.4917	-115.1611	 Mount Stiletto
+53.2694	-118.4528	 Mount Stornoway
+50.3825	-114.8175	 Mount Strachan
+51.7833	-116.8403	 Mount Strahan
+53.2014	-118.4458	 Mount Strange
+50.8819	-115.6658	 Mount Strom
+50.4011	-115.5028	 Mount Stuart
+50.8681	-115.665	 Mount Sturdee
+53.5528	-118.4292	 Mount Swensen
+50.4667	-115.1556	 Mount Swiderski
+49.2269	-114.8275	 Mount Swope
+51.8056	-116.6597	 Mount Synge
+53.6167	-119.7167	 Mount Talbot
+49.5417	-114.7542	 Mount Taylor
+53.3306	-120.0806	 Mount Teare
+49.6653	-114.6461	 Mount Tecumseh
+50.4444	-115.8361	 Mount Tegart
+52.8417	-117.9375	 Mount Tekarra
+51.3508	-116.2058	 Mount Temple
+51.7347	-116.7583	 Mount Termier
+52.4561	-118.06	 Mount Terra Nova
+49.8722	-115.0472	 Mount Terrion
+52.95	-119.25	 Mount Terry Fox
+51.6636	-116.5231	 Mount Thompson
+53.1333	-118.3139	 Mount Thornton
+50.6806	-115.4125	 Mount Tipperary
+52.8167	-117.2	 Mount Toma
+54.2903	-119.9917	 Mount Torrens
+53.2222	-118.3417	 Mount Tory
+51.7042	-116.875	 Mount Trutch
+50.9333	-115.4583	 Mount Turbulent
+50.2181	-114.8361	 Mount Turnbull
+50.8542	-115.475	 Mount Turner
+50.2933	-114.8756	 Mount Tuxford
+51.3011	-116.2286	 Mount Tuzo
+51.6958	-115.8403	 Mount Tyrrell
+50.5822	-115.0158	 Mount Tyrwhitt
+52.6097	-117.5278	 Mount Unwin
+49.9389	-115.0528	 Mount Vanbuskirk
+51.2583	-116.5333	 Mount Vaux
+50.7694	-115.45	 Mount Vavasour
+50.3292	-114.8667	 Mount Veits
+51.0056	-116.075	 Mount Verendrye
+51.3769	-116.3069	 Mount Victoria
+53.1244	-119.1344	 Mount Waffl
+51.7222	-116.9097	 Mount Walker
+49.7542	-114.6347	 Mount Ward
+52.6722	-117.2667	 Mount Warden Robinson
+50.9583	-116.0167	 Mount Wardle
+50.6722	-114.7472	 Mount Ware
+50.7806	-115.4569	 Mount Warre
+52.5625	-117.3764	 Mount Warren
+50.6811	-115.2164	 Mount Warspite
+49.7917	-115.0917	 Mount Washburn
+50.89	-115.7136	 Mount Watson
+51.7931	-116.5278	 Mount Weed
+52.3917	-117.475	 Mount Weiss
+51.6444	-115.8111	 Mount White
+51.7069	-116.8139	 Mount Whiteaves
+51.9583	-117.2278	 Mount Whiterose
+51.2236	-116.0972	 Mount Whymper
+51.4086	-116.2711	 Mount Whyte
+52.245	-117.2411	 Mount Wilcox
+52.0194	-117.0319	 Mount Willerval
+52.0875	-116.3167	 Mount William Booth
+50.7181	-115.3639	 Mount Williams
+51.7561	-116.2333	 Mount Willingdon
+52.0178	-116.8011	 Mount Wilson
+52.625	-117.7639	 Mount Windy Castle
+50.6956	-115.0808	 Mount Wintour
+49.8956	-115.5281	 Mount Wirth
+52.2469	-117.4253	 Mount Woolley
+50.625	-115.2972	 Mount Worthington
+52.4875	-117.8875	 Mount Xerxes
+49.0819	-114.2694	 Mount Yarrell
+51.3444	-116.3044	 Mount Yukness
+52.9625	-118.1917	 Mount Zengel
+52.8264	-118.2236	 Muhigan Mountain
+53.1911	-119.1475	 Mumm Peak
+52.3117	-117.3972	 Mushroom Peak
+50.8944	-115.6175	 Naiset Point
+51.7056	-116.8625	 Nanga Parbat Mountain
+51.4119	-116.3147	 Narao Peak
+50.9986	-115.65	 Nasswald Peak
+54.1	-120.6333	 Nechamus Mountain
+52.5542	-118.1903	 Needle Peak
+51.3081	-116.2569	 Neptuak Mountain
+50.9444	-115.7094	 Nestor Peak
+54.1056	-120.3347	 Netim Mountain
+49.1764	-114.1	 Newman Peak
+52.2394	-117.1719	 Nigel Peak
+50.8569	-114.9278	 Nihahi Ridge
+53.9222	-120.3778	 Nilah Peak
+53.4167	-118.7833	 Noonday Peak
+51.8569	-116.2056	 Nordic Ridge
+52.0472	-116.3444	 Normandy Peak
+49.3083	-114.2389	 North Castle
+52.2239	-117.4344	 North Twin Peak
+51.6519	-116.2931	 Noseeum Mountain
+50.9306	-115.6569	 Nub Peak
+51.0833	-116.1208	 Numa Mountain
+52.9153	-118.625	 O'Beirne Mountain
+50.3128	-115.1253	 O'Neil Peak
+53.9111	-120.3333	 Obelisk Peak
+51.7422	-116.4667	 Observation Peak
+52.3833	-116.8833	 Obstruction Mountain
+54.1306	-120.4597	 Ochakwin Mountain
+50.9	-115.8167	 Octopus Mountain
+51.3597	-116.3839	 Odaray Mountain
+50.5014	-114.8567	 Odlum Ridge
+50.9583	-115.6125	 Og Mountain
+51.5511	-116.7289	 Ogre Peak
+50.6	-114.4333	 Okotoks Mountain
+51.8444	-115.0972	 Old Baldy Mountain
+52.6894	-118.1783	 Oldhorn Mountain
+52.1297	-117.5797	 Omega Peak
+52.5028	-116.7944	 Opabin Mountain
+52.7528	-117.5944	 Opal Peak
+50.7861	-115.1347	 Opal Ridge
+51.9736	-117.1444	 Oppy Mountain
+51.2492	-115.1733	 Orient Point
+51.545	-115.5217	 Otuskwan Peak
+52.6819	-118.2875	 Oubliette Peak
+50.7208	-114.9411	 Outlaw Peak
+52.6472	-118.2542	 Outpost Peak
+49.2406	-114.8403	 Overfold Mountain
+52.9833	-119.2	 Overlander Mountain
+53.0556	-117.7014	 Overturn Mountain
+51.5278	-116.0181	 Oyster Peak
+49.2833	-114.5222	 Packhorse Peak
+51.4589	-116.3647	 Paget Peak
+51.3028	-115.3417	 Pakakos Mountain
+53.25	-119.25	 Palu Mountain
+51.7597	-116.9764	 Pangman Peak
+51.3219	-116.1306	 Panorama Ridge
+51.5131	-115.6681	 Panther Mountain
+52.6756	-118.2944	 Paragon Peak
+52.6675	-118.2944	 Parapet Peak
+51.3261	-116.3511	 Park Mountain
+50.1569	-114.5972	 Pasque Mountain
+50.4775	-114.6825	 Patterson's Peak
+54.2056	-120.6097	 Pearson Peak
+53.4333	-119.7667	 Perseverence Mountain
+52.7569	-118.15	 Peveril Peak
+51.6842	-116.5658	 Peyto Peak
+51.2931	-115.1861	 Phantom Crag
+51.1097	-115.9111	 Pharoah Peaks
+49.6631	-114.6575	 Phillipps Peak
+49.9722	-115.0528	 Phillips Peak
+49.25	-114.6333	 Piaysoo Ridge
+52.1778	-117.9389	 Pic Tordu
+50.7917	-115.3472	 Pig's Tail
+51.0278	-115.2042	 Pigeon Mountain
+50.7486	-115.3278	 Piggy Plus
+51.4958	-116.1036	 Pika Peak
+51.1883	-115.8256	 Pilot Mountain
+49.2819	-114.0944	 Pincher Ridge
+51.3386	-116.2272	 Pinnacle Mountain
+50.5417	-115.8833	 Pinto Mountain
+51.5639	-116.05	 Pipestone Mountain
+50.2042	-114.5219	 Plateau Mountain
+52.4417	-117.2125	 Poboktan Mountain
+50.5992	-115.0181	 Pocaterra Ridge
+53.9167	-120.45	 Pommel Mountain
+51.4033	-116.2944	 Pope's Peak
+51.3278	-116.7278	 Porcupine Peak
+51.6567	-116.5136	 Portal Peak
+52.675	-118.3958	 Portcullis Peak
+52.6903	-118.3611	 Postern Mountain
+50.8417	-114.85	 Powderface Ridge
+49.3361	-114.1056	 Prairie Bluff
+50.8431	-115.3736	 Prairie Lookout
+50.8903	-114.8069	 Prairie Mountain
+51.1597	-115.3722	 Princess Margaret Mountain
+51.7222	-116.9264	 Prior Peak
+51.7667	-117.2667	 Privateer Mountain
+50.0028	-115.03	 Profile Mountain
+52.9167	-116.3833	 Prospect Mountain
+51.3792	-116.0139	 Protection Mountain
+51.6403	-115.8931	 Prow Mountain
+51.4922	-116.0903	 Ptarmigan Peak
+51.5686	-116.3681	 Pulpit Peak
+51.3917	-115.9667	 Pulsatilla Mountain
+52.0986	-116.6333	 Purple Mountain
+52.9511	-118.1494	 Pyramid Mountain
+50.5208	-114.6944	 Pyriform Mountain
+51.2869	-116.1525	 Quadra Mountain
+51.0361	-115.7611	 Quartz Hill
+52.0083	-117.2417	 Queant Mountain
+49.2556	-114.3903	 Rainy Ridge
+50.2994	-114.6383	 Raspberry Ridge
+53.0333	-118.9667	 Razor Peak
+52.9819	-118.6708	 Razorback Mountain
+53.1439	-119.1264	 Rearguard Mountain
+51.8178	-116.2997	 Recondite Peak
+50.7861	-115.5319	 Red Man Mountain
+53.1236	-118.1833	 Redan Mountain
+51.4611	-116.8639	 Redburn Peak
+52.9333	-117.0833	 Redcap Mountain
+51.4667	-116.0806	 Redoubt Mountain
+52.69	-118.2992	 Redoubt Peak
+50.6222	-116.0089	 Redstreak Mountain
+52.5083	-117.4333	 Replica Peak
+52.0736	-116.6597	 Resolute Mountain
+53.0872	-119.0978	 Resplendent Mountain
+53.45	-119.5	 Resthaven Mountain
+52.6028	-118.3514	 Reunion Peak
+51.3736	-115.4778	 Revenant Mountain
+52.0306	-116.3389	 Rhine Peak
+50.9167	-115.225	 Ribbon Peak
+51.3425	-116.2903	 Ringrose Peak
+50.4639	-115.0083	 Riverside Mountain
+49.6	-114.3167	 Robertson Peak
+51.6444	-117.1333	 Robinson Peaks
+53.2125	-118.0375	 Roche a Bosche
+53.2125	-117.8028	 Roche a Perdrix
+52.9458	-117.9597	 Roche Bonhomme
+53.3333	-117.95	 Roche Boule
+53.1347	-118.1167	 Roche de Smet
+53.0403	-117.9597	 Roche Jacques
+53.1625	-117.9181	 Roche Miette
+52.8125	-118.3139	 Roche Noir
+53.2194	-119	 Roche Ronde
+52.8014	-118.3083	 Rostrum Hill
+51.8319	-117.1736	 Rostrum Peak
+52.7667	-117.1	 Ruby Mountain
+49.0819	-114.0111	 Ruby Ridge
+51.9636	-117.0897	 Rudolph Peak
+52.6403	-118.3806	 Rufus Peak
+50.4389	-115.2333	 Russell Peak
+51.3931	-116.2086	 Saddle Mountain (Bow)
+50.15	-114.3819	 Saddle Mountain (Livingstone)
+51.2333	-115.2222	 Saddle Peak
+49.1903	-114.1667	 Sage Mountain
+53.4167	-119.0167	 Saghali Mountain
+53.0333	-118.7167	 Salient Mountain
+52.6806	-117.5097	 Samson Peak
+51.1514	-115.5833	 Sanson Peak
+52.6667	-116.9333	 Saracen Head
+49.6667	-114.5	 Saskatoon Mountain
+53.45	-119.6	 Saurian Mountain
+52.5069	-117.0111	 Sawtooth Mountain
+52.6333	-118.3567	 Scarp Mountain
+49.2131	-114.4019	 Scarpe Mountain
+51.5111	-116.8083	 Sea Lion Mountain
+51.4583	-116.7083	 Sea Shoal Mountain
+52.1375	-116.4917	 Sentinel Mountain
+50.2542	-114.4803	 Sentinel Peak
+49.6111	-114.6361	 Sentry Mountain
+51.1944	-116.3819	 Sentry Peak
+52.4028	-118.0278	 Serenity Mountain
+49.7228	-114.5822	 Seven Sisters Mountain
+50.0806	-115.5833	 Shark Tooth Mountain
+51.2069	-116.3431	 Sharp Mountain
+50.5139	-115.2722	 Shatch Mountain
+50.1056	-114.3667	 Sheep Mountain (Alberta)
+49.8583	-114.8	 Sheep Mountain (BC)
+51.3836	-116.2214	 Sheol Mountain
+51.0444	-115.3792	 Ship's Prow Mountain
+52.5333	-116.1333	 Shunda Mountain
+51.9319	-116.4083	 Siffleur Mountain
+52.8597	-117.9667	 Signal Mountain
+51.7625	-116.6639	 Silverhorn Mountain
+52.6567	-118.3183	 Simon Peak
+50.8667	-115.7333	 Simpson Peak (Assiniboine)
+51.8278	-116.3125	 Simpson Peak (Siffleur)
+52.1889	-117.8972	 Sir Ernest Peak
+52.9264	-117.8097	 Sirdar Mountain
+53.4333	-118.6	 Sirius Peak
+51.5306	-116.0597	 Skoki Mountain
+52.8431	-118.7653	 Sleeper Mountain
+53.0764	-117.6125	 Slide Mountain
+52.2	-116.8556	 Slump Mountain
+50.0833	-115.1583	 Smith Peak
+51.7417	-116.05	 Smoky Mountain
+53.3167	-118.9	 Snake Indian Mountain
+53.0375	-118.3278	 Snaring Mountain
+52.1872	-117.3172	 Snow Dome
+50.7736	-115.3861	 Snow Peak
+49.0222	-113.7847	 Sofa Mountain
+51.7506	-116.8417	 Solitaire Mountain
+51.875	-117.6833	 Solitude Mountain
+49.21	-114.9344	 Soowa Mountain
+51.9	-117.7111	 Sophist Mountain
+51.8972	-116.6403	 South East Tower
+52.2042	-117.435	 South Twin Peak
+52.7208	-117.1417	 Southesk Cairn
+49.3319	-114.3847	 Southfork Mountain
+50.925	-115.9333	 Spar Mountain
+53.0667	-117.5597	 Sphinx Mountain
+51.4292	-116.7867	 Spike Peak
+49.2111	-114.0472	 Spionkop Ridge
+50.8833	-115.9167	 Split Peak
+51.1361	-115.3375	 Squaw's Tit
+49.3264	-114.4792	 St. Eloi Mountain
+51.8375	-117.0083	 St. Julien Mountain
+51.6275	-116.5011	 St. Nicholas Peak
+51.7931	-116.6569	 Stairway Peak
+52.0361	-116.3333	 Stan Waters Peak
+51.1708	-116.0556	 Stanley Peak
+49.0389	-114.2667	 Starvation Peak
+51.1994	-115.5783	 Stoney Squaw Mountain
+50.5389	-114.9831	 Storelk Mountain
+51.2083	-116.0042	 Storm Mountain (Banff)
+50.5872	-114.9392	 Storm Mountain (Kananaskis)
+51.7594	-117.6103	 Stovepipe Mountain
+51.1333	-116.3194	 Striped Mountain
+51.3325	-115.9603	 Stuart Knob
+52.2386	-117.4075	 Stutfield Peak
+51.9403	-116.9375	 Sullivan Peak
+51.1233	-115.5558	 Sulphur Mountain
+50.905	-115.6542	 Sunburst Peak
+51.0842	-115.6094	 Sundance Peak
+52.2333	-117.6333	 Sundial Mountain
+49.1583	-114.3472	 Sunkist Mountain
+49.1667	-114.3458	 Sunkist Ridge
+53.4833	-118.9833	 Sunset Peak
+52.3489	-117.2747	 Sunwapta Peak
+52.6736	-118.2611	 Surprise Point
+51.9569	-116.8486	 Survey Peak
+50.5075	-115.9528	 Swansea Mountain
+49.9167	-115.25	 Swanson Peak
+53.2667	-119.1	 Swoda Mountain
+49.3486	-114.4583	 Syncline Mountain
+53.1611	-117.9361	 Syncline Ridge
+49.3611	-114.2583	 Table Mountain
+49.5917	-114.3167	 Tallon Peak
+50.6497	-115.6517	 Tangle Peak
+52.2983	-117.2867	 Tangle Ridge
+52.5833	-116.7833	 Tarpeian Rock
+53.1611	-119.0806	 Tatei Ridge
+49.8528	-115.5833	 Teepee Mountain
+51.2236	-116.4278	 Teepee Mountain
+49.5569	-114.7028	 Tent Mountain
+50.82	-115.3736	 Tent Ridge
+52.7778	-118.1583	 Terminal Mountain
+52.0903	-117.1694	 Terrace Mountain
+50.8797	-115.6175	 Terrapin Mountain
+52.9028	-118.5667	 Tete Roche
+53.45	-118.8833	 The Ancient Wall
+51.4142	-116.2439	 The Beehive
+50.7244	-115.0719	 The Blade
+52.0597	-117.125	 The Castelets
+53.0833	-118.8	 The Colonel
+52.8917	-118.8722	 The Comb
+52.5417	-118.35	 The Cube Ridge
+53.0986	-119.1392	 The Dome
+50.0361	-114.6667	 The Elevators
+51.2208	-115.7167	 The Finger
+50.8139	-115.3706	 The Fist
+50.8278	-115.2431	 The Fortress
+53.1156	-119.1417	 The Helmet
+50.4403	-114.8361	 The Hill of the Flowers
+50.8792	-115.6936	 The Marshall
+51.3633	-116.2622	 The Mitre
+51.0514	-115.5986	 The Monarch
+52.9917	-118.1333	 The Palisade
+51.5003	-116.5606	 The President
+53.4333	-118.5833	 The Quoin
+53.2667	-118.5333	 The Rahah
+53.2472	-118.575	 The Ranee
+50.9978	-115.3186	 The Rimwall
+49.5333	-115.4167	 The Steeples
+51.6917	-116.15	 The Three Brothers
+51.0144	-115.3528	 The Three Sisters
+50.8556	-115.2847	 The Tower
+50.8867	-115.6008	 The Towers
+50.5861	-115.1269	 The Turret
+51.5025	-116.5514	 The Vice President
+50.4708	-115.1097	 The Warship
+52.8222	-117.8417	 The Watchtower
+50.8497	-115.1344	 The Wedge
+52.8264	-118.1319	 The Whistlers
+52.7667	-117.0667	 Thistle Mountain
+52.3578	-117.5028	 Thorington Tower
+49.2422	-114.4017	 Three Lakes Ridge
+49.5806	-115.0944	 Three Sisters (BC)
+50.7069	-114.825	 Threepoint Mountain
+52.6631	-118.1394	 Throne Mountain
+49.8392	-114.3578	 Thunder Mountain
+52.6472	-118.2097	 Thunderbolt Peak
+51.4861	-115.9958	 Tilted Mountain
+53.1547	-119.0658	 Titkana Peak
+51.4083	-116.65	 Tocher Ridge
+51.7611	-115.8167	 Tomahawk Mountain
+50.6847	-115.0042	 Tombstone Mountain (Alberta)
+49.2692	-114.485	 Tombstone Mountain (BC)
+52.7378	-118.3272	 Tonquin Hill
+51.2978	-116.2	 Tonsa
+49.9667	-114.6547	 Tornado Mountain
+51.8922	-116.6075	 Totem Tower
+51.3253	-116.1694	 Tower of Babel
+51.0994	-116.5894	 Tower Peak
+51.6775	-116.5911	 Trapper Peak
+53.2167	-118.9167	 Treadmill Ridge
+52.1281	-117.5575	 Triad Peak
+53.0833	-118.8833	 Trio Mountain
+52.9	-117.3333	 Tripoli Mountain
+51.5572	-116.4822	 Trolltinder Mountain
+52.0964	-117.8067	 Tsar Mountain
+51.1769	-115.5553	 Tunnel Mountain
+52.7125	-118.3683	 Turret Mountain
+53.8361	-119.4333	 Turret Ridge
+49.5769	-114.4125	 Turtle Mountain
+52.2086	-117.9372	 Tusk Peak
+50.0708	-114.5083	 Twin Peaks
+52.2294	-117.4497	 Twins Tower
+53.3833	-119.15	 Twintree Mountain
+53.1833	-118.85	 Upright Mountain
+53.0958	-117.7681	 Utopia Mountain
+52.5389	-117.3486	 Valad Peak
+51.8139	-117.0014	 Valenciennes Mountain
+52.5125	-116.9264	 Valley Head Mountain
+51.4028	-116.3667	 Vanguard Peak
+53.4333	-118.75	 Vega Peak
+51.1611	-116.1167	 Vermilion Peak
+51.9667	-117.5833	 Vertebrae Ridge
+52.75	-118.2069	 Vertex Peak
+49.6944	-115.5167	 Vertical Mountain
+49.2969	-114.1425	 Victoria Peak
+49.2333	-114.1583	 Victoria Ridge
+49.0375	-113.8569	 Vimy Peak
+49.0167	-113.8319	 Vimy Ridge
+52.7653	-118.4028	 Vista Peak
+50.7089	-114.7119	 Volcano Ridge
+52.7944	-118.5167	 Waddington Peak
+51.7028	-116.8986	 Waitabit Peak
+50.5667	-115.2444	 Waka Nambe
+51.4267	-116.5031	 Walcott Peak
+52.1847	-117.6542	 Wales Peak
+51.5083	-116.0944	 Wall of Jericho
+53.9042	-120.0667	 Wallbridge Mountain
+53.7833	-120.4667	 Wallop Mountain
+54.0667	-120.4292	 Walrus Mountain
+51.9525	-117.1019	 Walter Peak
+51.8986	-116.0306	 Wampum Peak
+51.7264	-115.7556	 Wapiti Mountain (Alberta)
+53.9278	-120.0625	 Wapiti Mountain (BC)
+51.4511	-116.48	 Wapta Mountain
+51.5036	-116.3181	 Waputik Peak
+51.7	-115.6667	 Warden Rock
+50.5667	-115.2361	 Warrior Mountain
+52.2333	-117.5611	 Warwick Mountain
+51.3306	-116.2503	 Wastach Mountain
+51.4014	-116.3194	 Watch Tower
+52.0411	-117.2333	 Watchman Peak
+52.4264	-117.3	 Waterfall Peaks
+51.7153	-116.3436	 Watermelon Peak
+54.2167	-120.4861	 Watin Mountain
+49.6681	-114.5236	 Wedge Mountain
+50.8889	-115.6594	 Wedgwood Peak
+51.3278	-116.2722	 Wenkchemna Peak
+49.2833	-114.3111	 West Castle Mountain
+51.5389	-116.5436	 Whaleback Mountain
+52.6072	-117.9569	 Whirlpool Mountain
+49.3319	-114.2903	 Whistler Mountain
+50.1667	-115.5333	 White Knight Peak
+50.7556	-115.4833	 White Man Mountain
+51.8364	-116.6947	 White Pyramid
+50.9861	-116.0347	 White Tail Peaks
+53.1042	-118.2583	 Whitecap Mountain
+52.5583	-118.2681	 Whitecrow Mountain
+52.1028	-116.6917	 Whitegoat Peaks
+51.4667	-116.1417	 Whitehorn
+53.1369	-119.2669	 Whitehorn Mountain
+53.3	-119.3667	 Whiteshield Mountain
+51.4944	-117.05	 Willowbank Mountain
+50.9542	-115.2458	 Wind Mountain
+51.0208	-115.2917	 Wind Ridge
+49.265	-114.8564	 Windfall Mountain
+49.7472	-114.6472	 Window Mountain
+49.2861	-114.2278	 Windsor Mountain
+49.2333	-114.1792	 Windsor Ridge
+50.9889	-115.2917	 Windtower Mountain
+50.1694	-114.4139	 Windy Peak
+53.9597	-120.2125	 Wishaw Mountain
+51.3661	-116.3303	 Wiwaxy Peaks
+53.3167	-119.2	 Wolverine Mountain
+50.8906	-115.5722	 Wonder Peak
+51.1244	-115.1178	 Yamnuska
+52.8819	-118.6083	 Yellowhead Mountain
+51.575	-116.5583	 Yoho Peak
+52.2333	-117.8167	 Younghusband Ridge
+53.5569	-118.4042	 Zebra Mountain
+50.7333	-115.3417	 Zeke's Peak
+51.7917	-117.05	 Zillebeke Mountain
+51.175	-116.3958	 Zinc Mountain

@@ -1,0 +1,5449 @@
+Latitude	Longitude	Name
+67.4167	-140.9833	Rampart House
+64.0167	-140.8333	Glacier Creek
+61.8167	-140.7833	Canyon City
+64.45	-140.55	Forty Mile
+62.3833	-140.3667	Snag
+62.6833	-140.0833	Donjek
+67.5667	-139.8	Old Crow
+63.5667	-139.7333	Ogilvie
+65.9167	-139.6167	Fishing Station
+63.0667	-139.4833	Thistle Creek
+64.0667	-139.45	West Dawson
+64.1	-139.4333	Moosehide
+64.0333	-139.4333	Chandik
+64.0333	-139.4333	Chandike
+64.0333	-139.4333	Chandindu
+64.0333	-139.4333	Clondyke
+64.0333	-139.4333	Deer
+64.0333	-139.4333	Klondike
+64.0333	-139.4333	Klondyke
+64.0333	-139.4333	Reindeer
+64.0333	-139.4333	Thron-diuck
+64.0667	-139.4167	Dawson
+64.0667	-139.4167	Dawson City
+63.3167	-139.4167	Stewart River
+64.0167	-139.1	Last Chance
+63.7667	-139.1	Readford
+61.35	-139	Burwash
+61.35	-139	Burwash Landing
+61.35	-139	Buswash Landing
+69.5667	-138.9	Herschel
+69.5667	-138.9	Herschel Island
+63.4833	-138.8333	Black Hills
+63.2	-138.8167	Scroggie Creek
+61.25	-138.8	Destruction Bay
+63.8167	-138.6667	Paris
+63.6667	-138.6167	Granville
+61.0333	-138.3833	Kluahne
+61.0333	-138.3833	Kluane
+61.0333	-138.3833	Kluane Junction
+62.7833	-138.2833	Selwyn
+61.0833	-137.9167	Ruby Camp
+60.8167	-137.6833	Bear Creek
+63.7333	-137.65	Barlow
+61.5667	-137.5	Aishihik
+60.75	-137.5	Haines Junction
+63.5667	-137.45	McQuesten
+62.7667	-137.3833	Fort Selkirk
+62.7667	-137.3833	Selkirk
+69	-137.3667	Shingle Point
+69	-137.3667	Tapkok Point
+63.7833	-137.3	Clear Creek
+59.9833	-137.1167	Squaw Creek
+60.3667	-137.05	Beloud Post
+60.3667	-137.05	Dezadeash
+60.8667	-137.0333	Canyon
+60.3	-137	Klukshu
+62.5833	-136.8333	Minto
+62.8333	-136.5833	Pelly Crossing
+61.15	-136.5333	Hutshi
+62.3333	-136.4833	Yukon Crossing
+60.8	-136.4833	Champagne
+62.1	-136.3167	Carmacks
+60.7667	-136.0167	Mendenhall Landing
+61.25	-135.9833	Kynocks
+63.6	-135.9167	Mayo
+63.6	-135.9167	Mayo Landing
+63.7	-135.8667	Minto Bridge
+61.5167	-135.8333	Braeburn
+61.0167	-135.7833	Little River
+60.85	-135.5167	Takhini
+63.9167	-135.4833	Elsa
+63.6333	-135.45	Gordon Landing
+63.9	-135.3	Keno
+63.9	-135.3	Keno Hill
+63.95	-135.2667	Wernecke
+61.4	-135.2167	Lower La Barge
+61.4	-135.2167	Lower Laberge
+59.6167	-135.1167	White Pass
+60.9333	-135.0833	Upper Laberge
+60.7167	-135.05	Whitehorse
+59.7167	-135.05	Fraser
+68.2167	-135	Aklavik
+68.2167	-135	Aklavika
+60.65	-135	Wigan
+60.6333	-134.9833	MacRae
+59.85	-134.9833	Bennett
+59.85	-134.9833	Log Cabin
+61.8667	-134.9333	Big Salmon
+61.5833	-134.9167	Hootalingua
+61.5833	-134.9167	Hootalinqua
+60.5167	-134.9167	Cowley
+59.9667	-134.9	Pennington
+67.4333	-134.8667	Fort McPherson
+67.4333	-134.8667	McPherson
+60.45	-134.85	Robinson
+60.3833	-134.8333	DeWette
+60.0833	-134.8333	Watson
+60.1833	-134.7167	Carcross
+60.1833	-134.7167	Caribou
+60.1833	-134.7167	Caribou Crossing
+59.65	-134.6667	Teepee
+59.65	-134.6667	Tepee
+61.4333	-134.6333	Mason Landing
+61.25	-134.6167	Teslin Crossing
+60.0667	-134.5833	Conrad
+60.0667	-134.5833	Conrad City
+60.5333	-134.55	McClintock
+60.5333	-134.55	M'Clintock
+59.4167	-134.4667	Ben-My-Chree
+61.3333	-134.35	Livingstone Creek
+59.6	-134.3	Hale
+60.2667	-134.2833	Lansdowne
+60.3	-134.2667	Tagish
+59.5	-134.25	Engineer
+68.7	-134.1167	Reindeer Depot
+59.6333	-133.85	Taku
+59.6	-133.8167	Scotia Bay
+67.4333	-133.75	Arctic Red River
+67.4333	-133.75	Tsiigehtchic
+59.5833	-133.7167	Atlin
+68.35	-133.7	Inuvik
+63.7333	-133.65	Lansing
+59.3333	-133.6167	Pike
+58.6333	-133.5333	Tulsequah
+59.6167	-133.4167	Surprise
+60.4833	-133.2833	Johnsons Crossing
+58.9	-133.1333	Inklin
+59.9167	-133.1167	Lemieux
+69.45	-133.0667	Brabant
+69.45	-133.0667	Port Brabant
+69.45	-133.0667	Tuktoyaktuk
+69.45	-133.0667	Tuktuk
+66.5	-133.0667	Marten House
+66.5	-133.0667	Martin House
+59.2	-132.8	Nakina
+60.1667	-132.7	Teslin
+61.9833	-132.45	Ross Post
+61.9833	-132.45	Ross River
+53.6833	-132.1667	Port Clements
+54.0167	-132.15	Masset
+54.0167	-132.15	Massett
+53.85	-132.1167	Nadu
+53.85	-132.1167	Nadu River
+59.5333	-132.0833	Galbraith
+53.25	-132.0833	Queen Charlotte
+53.25	-132	Skidegate
+53.2	-131.9833	Alliford Bay
+53.3333	-131.95	Haida
+53.5833	-131.9333	Tlell
+53.4	-131.9167	Lawn Hill Post Office
+53.4	-131.9167	Lawnhill
+52.85	-131.8833	Pacofi
+53.25	-131.8333	Sandspit
+52.7167	-131.8333	Lockeport
+56.6833	-131.8167	Boundary
+58.2667	-131.8	Egnell
+58.2667	-131.8	Egnelle
+58.2667	-131.8	Egnell's
+58.2667	-131.8	Sheslay
+54.0667	-131.7833	Tow Hill
+56.8333	-131.7667	Fowler
+58.8833	-131.75	Nahlin
+57.6167	-131.6833	Jacksons Landing
+57.6667	-131.5833	Chutine Landing
+57.8333	-131.4	Glenora
+52.3	-131.2167	Jedway
+57.9	-131.15	Telegraph Creek
+52.15	-131.0833	Rose Harbour
+60.0833	-130.6	Rancheria
+54.0167	-130.6	Refuge Bay
+54.3333	-130.45	Methlakahtla
+54.3333	-130.45	Metla Catla
+54.3333	-130.45	Metla Catlah
+54.3333	-130.45	Metlah Catlah
+54.3333	-130.45	Metla-Kathla
+54.3333	-130.45	Metlakatla
+54.0667	-130.45	Hunts Inlet
+54.0667	-130.45	Jap Inlet
+58.9	-130.4333	Defot
+54.55	-130.4167	Port Simpson
+54.3167	-130.3333	Prince Rupert
+54.2333	-130.2833	Port Edward
+54.2333	-130.2833	Watson Island
+53.95	-130.25	Oona River
+54.1333	-130.1667	Osland
+58.8	-130.1	Porter
+58.8	-130.1	Porter Landing
+58.8	-130.1	Porter's
+58.7	-130.1	Laketon
+54.0667	-130.1	Claxton
+58.45	-130.0333	Dease Lake
+56.05	-130.0167	Premier
+54.1833	-130.0167	Haysport
+55.9333	-130	Stewart
+54.9667	-130	Arrandale
+55	-129.95	Kincolith
+54.15	-129.95	Port Essington
+54.9333	-129.9333	Nass Harbour
+54.25	-129.8333	Skeena
+55.45	-129.4833	Alice Arm
+59.2667	-129.4167	Centreville
+53.4333	-129.2667	Hartley Bay
+59.1833	-129.2333	McDame
+59.1833	-129.2333	McDame Creek
+59.1833	-129.2333	McDames Creek
+55.2	-129.2167	Canyon City
+55.2	-129.2167	Gitwinksihlkw
+54.4	-129.1	Ecstew
+54.4	-129.1	Exstew
+55.25	-129.0833	Aiyansh
+53.0333	-128.9	Port Belmont
+53.0333	-128.9	Surf Inlet
+60.1167	-128.8	Watson Lake
+54.8167	-128.7667	Rosswood
+60.0667	-128.7	Watson Lake Wye
+54	-128.7	Kitamaat
+54	-128.7	Kitimat
+53.15	-128.6833	Butedale
+53.9667	-128.65	Kitimat Mission
+66.2667	-128.6333	Fort Good Hope
+66.2667	-128.6333	Good Hope
+54.5	-128.5833	Terrace
+54.3667	-128.55	Lakelse
+52.5833	-128.5333	China Hat
+52.5833	-128.5333	Klemtoo
+52.5833	-128.5333	Klemtu
+59.9167	-128.5	Lower Post
+54.5333	-128.4833	Copper City
+54.5333	-128.4833	Copper River
+54.6333	-128.4333	Usk
+50.7667	-128.35	Cape Scott
+55.0167	-128.3333	Cedarvale
+54.85	-128.3333	Dorreen
+54.7667	-128.2833	Pacific
+61.95	-128.2667	Tungsten
+50.6833	-128.2667	San Josef Bay
+50.6833	-128.2667	San Joseph Bay
+57.65	-128.2	Hyland Post
+57.65	-128.2	Hylands Post
+55.0667	-128.2	Woodcock
+52.1667	-128.1333	Campbell Island
+52.1667	-128.1333	New Bella Bella
+52.15	-128.1333	Bella Bella
+50.6667	-128.0833	San Josef
+55.1	-128.0667	Kitwanga
+55.1	-128.0667	Nitwanga
+50.5167	-128.0333	Winter Harbour
+50.65	-128.0167	Holberg
+55.9333	-127.8833	Kuldo
+51.8667	-127.8667	Namu
+50.85	-127.85	Shushartie
+55.15	-127.75	Carnaby
+52.35	-127.7	Ocean Falls
+55.35	-127.6833	Kispiox
+55.25	-127.6667	Hazelton
+51.55	-127.6167	Provincial Cannery
+50.5333	-127.6	Quatsino
+55.25	-127.5833	New Hazelton
+55.25	-127.5833	New Hazelton Station
+50.6	-127.5833	Coal Harbour
+55.7	-127.5667	Kisgegas
+57.4333	-127.55	Caribou Hide
+51.5167	-127.5167	Wadhams
+51.0333	-127.5167	Allison Harbour
+51.3167	-127.5	Margaret Bay
+50.7167	-127.5	Port Hardy
+55.2333	-127.4833	Bulkley Canyon
+50.4333	-127.4833	Jeune Landing
+50.3833	-127.4333	Port Alice
+55.15	-127.3833	Beament
+55.1	-127.3667	Seaton
+55.0333	-127.3333	Moricetown
+55.0333	-127.3333	Morricetown
+54.95	-127.3167	Doughty
+50.9167	-127.2833	Port Progress
+54.8833	-127.2667	Evelyn
+51.6833	-127.25	Rivers Inlet
+50.6333	-127.25	Suquash
+54.7667	-127.1667	Smithers
+49.9833	-127.15	Cachalot
+50.5833	-127.1	Port McNeill
+50.6333	-127.0167	Sointula
+49.8333	-126.9333	Centre Island
+50.5833	-126.9167	Alert Bay
+50.55	-126.8833	Englewood
+50.9167	-126.8667	O'Brian Bay
+50.9167	-126.8667	Sullivan Bay
+50.5333	-126.8667	Beaver Cove
+65.2833	-126.85	Norman Wells
+56.2	-126.85	Bear Lake
+56.2	-126.85	Fort Connelly
+54.5167	-126.85	Walcott
+49.9833	-126.85	Zeballos
+50.55	-126.8167	Telegraph Cove
+54.4333	-126.75	Barrett
+54.4333	-126.75	Barrett Lake
+52.3667	-126.75	Bella Coola
+52.3667	-126.75	Bellakula
+49.85	-126.75	Hecate
+49.8667	-126.7	Ceepeecee
+49.9167	-126.6667	Tahsis
+54.4	-126.65	Houston
+49.6	-126.6333	Nootka
+55.3167	-126.6167	Babine
+55.3167	-126.6167	Fort Babine
+52.3833	-126.5667	Hagensborg
+53.9667	-126.5167	Nadina River
+56.8833	-126.5	McConnell Creek
+50.75	-126.4833	Simoom Sound
+50.75	-126.4833	Simoon Sound
+54.5167	-126.4333	Perow
+53.9833	-126.4333	Noralee
+49.4833	-126.4	Boat Basin
+55.05	-126.3167	Old Fort
+50.6167	-126.3167	Minstrel Island
+54.5167	-126.3	Topley
+53.8333	-126.2833	Wistaria
+50.5667	-126.2667	Cracroft
+49.3667	-126.25	Sidney Inlet
+49.3667	-126.25	Sydney Inlet
+52.4333	-126.2333	Firvale
+54.4167	-126.2	Forestdale
+50.95	-126.2	Kingcome Inlet
+53.8	-126.1667	Streatham
+54.0333	-126.15	Colleymount
+54.8167	-126.1333	Fulton River
+67.0333	-126.1167	Colville Lake
+52.3667	-126.1	Stuie
+50.4833	-126.0833	Port Neville
+53.9833	-126.0667	Tatalrose
+49.2833	-126.05	Ahousat
+54.4	-126.0333	Rose Lake
+53.7833	-126.0333	Ootsa Lake
+55.4833	-125.9833	Takla Landing
+50.4	-125.9667	Kelsey Bay
+55.7667	-125.95	Old Hogem
+54.35	-125.9167	Palling
+50.35	-125.9167	Sayward
+49.1833	-125.9167	Kakawis
+49.15	-125.9167	Clayoquot
+49.1333	-125.9	Tofino
+53.95	-125.8833	Grassy Plains
+54.2833	-125.8333	Decker Lake
+53.6833	-125.8333	Marilla
+52.3833	-125.8167	Atnarko
+54.2167	-125.7667	Burns Lake
+54.0167	-125.7667	Southbank
+50.5167	-125.75	Jackson Bay
+54.1	-125.7167	Tchesinkut Lake
+50.6833	-125.7	Glendale Cove
+50.6833	-125.7	Kiokh
+50.6833	-125.7	Knight Inlet
+54.4833	-125.6667	Donald Landing
+57.4167	-125.6167	Fort Ware
+57.4167	-125.6167	Ware
+57.4167	-125.6167	Whitewater
+64.9	-125.5833	Fort Norman
+64.9	-125.5833	Norman
+64.9	-125.5833	Tulita
+50.5167	-125.5333	Roy
+50.4167	-125.5167	Blind Channel
+48.9333	-125.5167	Ucluelet
+54.1667	-125.4833	Sheraton
+50.3333	-125.4833	Rock Bay
+49.9833	-125.4333	Quinsam
+50.45	-125.3667	Shoal Bay
+50.45	-125.3667	Thurlow
+50.1167	-125.3667	Bloedel
+50.3667	-125.3167	Nodales
+52.45	-125.3	Anahim Lake
+50.2333	-125.2833	Granite Bay
+50.0667	-125.2833	Duncan Bay
+50.0167	-125.25	Campbell River
+71.9833	-125.2	Sachs Harbour
+50.3	-125.2	Wyatt Bay
+54.5167	-125.1833	Babine Portage
+50.05	-125.1833	Quathiaski Cove
+54.1	-125.1667	Savory
+50.3667	-125.15	Stuart Island
+50.1833	-125.15	Bold Point
+48.8333	-125.15	Bamfield
+54.8667	-125.1333	Middle River Village
+49.7667	-125.1	Headquarters
+54.6	-125.0833	Nancut
+54.6	-125.0833	Stuart Portage
+54.2	-125.0833	Tintagel
+50.3167	-125.0833	Church House
+50.1833	-125.0833	Read Island
+49.7833	-125.0667	Merville
+50.1	-125.0333	Whaletown
+54.0833	-125.0167	Endako
+49.6167	-125.0167	Cumberland
+49.6833	-125	Courtenay
+49.0167	-125	Kildonan
+51.9667	-124.9833	Kleena Kleene
+50.0667	-124.9833	Mansons Landing
+49.3167	-124.9833	Great Central
+53.9833	-124.9667	Nithi River
+50.25	-124.9667	Redonda Bay
+50.0667	-124.9333	Cortes Bay
+49.6833	-124.9333	Comax
+49.6833	-124.9333	Comox
+49.6833	-124.9333	Comuck
+49.6833	-124.9333	Komoux
+49.6	-124.8833	Union Bay
+50.1167	-124.85	Refuge Cove
+49.3167	-124.85	Bainbridge
+50.0333	-124.8167	Bliss Landing
+49.5333	-124.8167	Denman Island
+48.65	-124.8167	Clo-oose
+49.2667	-124.8	Alberni
+49.2333	-124.8	Port Alberni
+54.05	-124.7833	Fraser Lake
+54.65	-124.7667	Tachie
+49.9833	-124.7667	Lund
+55.7833	-124.7	Germansen Landing
+49.4333	-124.6833	Bowser
+56.6	-124.6333	Fort Graham
+56.6	-124.6333	Fort Grahame
+49.8	-124.6167	Blubber Bay
+53.8833	-124.5667	Lily Lake
+49.8833	-124.55	Powell River
+49.75	-124.55	Vananda
+54.05	-124.5333	Fort Fraser
+49.85	-124.5333	Westview
+50.1167	-124.5167	Foch
+55.6667	-124.5	Manson Creek
+54.5667	-124.4833	Pinchi
+49.3	-124.4833	Hillier
+49.3	-124.4833	Hilliers
+49.35	-124.45	Qualicum Beach
+48.55	-124.4167	Port Renfrew
+51.65	-124.3833	Tatlayoka Lake
+51.65	-124.3833	Tatlayoko Lake
+49.4833	-124.35	False Bay
+49.4833	-124.35	Lasqueti
+49.7667	-124.3167	Stillwater
+49.3	-124.3167	Parksville
+54.0167	-124.2833	Engen
+54.4333	-124.25	Fort James
+54.4333	-124.25	Fort Saint James
+48.8833	-124.2	Youbou
+49.25	-124.1833	Nanoose Bay
+53.9167	-124.1667	Nechacco
+49.6167	-124.0333	Irvines Landing
+48.8167	-124.0333	Lake Cowichan
+59.4833	-124.0167	Nelson Forks
+54.0167	-124.0167	Vanderhoof
+49.2	-124.0167	Wellington
+69.3833	-123.9833	Paulatuk
+49.1	-123.9667	Extension
+49.5167	-123.9167	Halfmoon Bay
+49.5	-123.9167	Redroofs
+49.15	-123.9167	Colvilletown
+49.15	-123.9167	Nanaimo
+49.15	-123.9167	Nanymo
+53.8667	-123.9	Mapes
+49.0667	-123.8667	Cassidy
+49.0667	-123.8667	Cassidy Siding
+49.0667	-123.8667	Cassidy's
+49.1833	-123.85	Gabriola
+49.1333	-123.85	Harmac
+55.9833	-123.8333	Finlay
+55.9833	-123.8333	Finlay Forks
+55.9833	-123.8333	Finlay Junction
+48.9833	-123.8167	Ladysmith
+49.4667	-123.7667	Sechelt
+49.4667	-123.7667	Seechelt
+48.3833	-123.7333	Sooke
+48.8667	-123.7167	Westholm
+48.8667	-123.7167	Westholme
+52.1333	-123.7	Redstone
+48.9167	-123.7	Chemainus
+48.9167	-123.7	Horse Shoe
+48.7833	-123.7	Duncan
+48.3833	-123.6833	Saseenos
+48.3833	-123.6833	Saseenos Station
+48.8667	-123.65	Crofton
+48.6167	-123.6333	Cliffside
+53	-123.6167	Nazko
+49.4167	-123.6167	Roberts Creek
+48.7333	-123.6167	Cowichan Bay
+63.2667	-123.6	Fort Wrigley
+63.2667	-123.6	Wrigley
+53.9833	-123.6	Finmoore
+48.6833	-123.6	Cobble Hill
+48.5333	-123.55	9zenic View
+48.5333	-123.55	Malahat
+48.3167	-123.55	Rocky Point
+48.45	-123.5333	Goldstream
+48.45	-123.5333	Goldstream Station
+48.3667	-123.5333	Metchosin
+48.85	-123.5167	Ganges
+48.5833	-123.5167	Bamberton
+49.4167	-123.5	Granthams Landing
+49.4	-123.5	Gibsons
+49.4	-123.5	Gibson's Landing
+48.45	-123.5	Langford Station
+60.2333	-123.4833	Fort Liard
+60.2333	-123.4833	Liard
+49.5167	-123.4833	Port Mellon
+49.4333	-123.4833	Hopkins Landing
+48.7833	-123.4833	Fulford
+48.7833	-123.4833	Fulford Harbour
+48.5833	-123.4667	Brentwood Bay
+65.1833	-123.4167	Deline
+65.1833	-123.4167	Fort Franklin
+48.65	-123.4167	Sidney
+48.65	-123.4167	Sydney
+48.4333	-123.4167	Esquimalt
+61.05	-123.3667	Nahanni Butte
+61.05	-123.3667	South Nahanni
+61.05	-123.3667	Tthenaagoo
+48.4333	-123.35	Victoria
+49.8833	-123.3167	Upper Squamish
+48.8833	-123.3167	Sturdies Bay
+48.4333	-123.3167	Oak Bay
+48.85	-123.3	Mayne
+52.0833	-123.2833	Alexis Creek
+49.35	-123.2833	Fishermans Cove
+53.95	-123.2667	Isle Pierre
+49.3667	-123.2667	Whytecliff
+49.35	-123.2667	Eagle Harbour
+53.45	-123.2167	Punchaw
+49.6333	-123.1833	Britannia Beach
+49.1333	-123.1833	Steveston
+49.3333	-123.1667	Hollyburn
+49.9667	-123.15	Garibaldi
+49.7667	-123.15	Brackendale
+49.7	-123.15	Squamish
+49.25	-123.1333	Vancouver
+53.8667	-123.0833	Bednesti
+49.0833	-123.0833	Ladner
+49.0167	-123.0833	Tsawwassen
+49.3167	-123.0667	North Vancouver
+53.7667	-123.05	Mud River
+55	-123.0333	Fort McLeod
+55	-123.0333	McLeod Lake
+51.9167	-123.0333	Hanceville
+49.35	-123.0333	Lynn Creek
+54.1	-123.0167	Chief Lake
+51.7167	-123.0167	Big Creek
+50.1167	-122.9833	Alta Lake
+49.1667	-122.9667	Richmond
+49.25	-122.95	Burnaby
+49.25	-122.95	North Burnaby
+49.2833	-122.9333	Barnet
+50.4167	-122.9167	Pemberton Meadows
+49.2167	-122.9167	New Westminster
+53.8167	-122.8667	Beaverley
+49.3	-122.8667	Ioco
+49.1	-122.8667	Colebrook
+50.85	-122.85	Gold Bridge
+49.2833	-122.85	Port Moody
+49.2	-122.85	North Surrey
+49.1	-122.8333	Alluvia
+50.7833	-122.8167	Bralorne
+50.3167	-122.8167	Pemberton
+49.2167	-122.8167	Port Mann
+49.0333	-122.8167	White Rock
+49.2667	-122.7833	Coquitlam
+49.2667	-122.7833	Port Coquitlam
+53.9167	-122.7667	Prince George
+56.0833	-122.75	Gold Bar
+49.1	-122.7333	Cloverdale
+54.0833	-122.6833	Salmon Valley
+49.2333	-122.6833	Pitt Meadows
+58.8	-122.6667	Muskwa
+53.6667	-122.65	Red Rock
+49.1	-122.65	Langley
+54.2833	-122.6333	Summit Lake
+53.5167	-122.6333	Woodpecker
+50.4833	-122.6	Birken
+53.4	-122.5667	Hixon
+58.8167	-122.5333	Fort Nelson
+53.35	-122.5333	Strathnaver
+53.1833	-122.5167	Cinema
+51.9667	-122.5167	Riske Creek
+49.25	-122.5	Maple Ridge District Municipality
+54.0833	-122.4833	Willow River
+52.9833	-122.4833	Quesnel
+52.6333	-122.45	Alexandria
+59.0333	-122.4333	Snake River
+50.85	-122.4333	Rexmount
+50.6167	-122.4333	McGillivray
+50.6167	-122.4333	McGillivray Falls
+52.45	-122.4167	Macalister
+51.55	-122.3167	Gang Ranch
+51.7667	-122.3	Alkali Lake
+50.7	-122.3	Seton Lake
+50.7	-122.3	Seton Portage
+49.1333	-122.3	Mission
+49.1333	-122.3	Mission City
+49.05	-122.3	Abbotsford
+49.05	-122.3	Abbottsford
+52.3333	-122.2833	Soda Creek
+52.05	-122.2667	Isnardy
+51.5833	-122.25	Dog Creek
+50.7333	-122.2333	Bridge River
+50.7333	-122.2333	Shalalth
+54.1167	-122.2167	Newlands Station
+50.8667	-122.1833	Moha
+53.05	-122.15	Cottonwood
+52.1167	-122.15	Williams Lake
+51.9167	-122.1	Springhouse
+54.1167	-122.0667	Aleza Lake
+49.1833	-122.0667	Deroche
+49.1667	-121.95	Chilliwack
+52.1167	-121.9333	One Hundred Fifty Mile House
+50.6833	-121.9333	Cayoosh Flat
+50.6833	-121.9333	Lillooet
+56.0333	-121.9167	Hudson Hope
+50.8667	-121.8333	Pavilion
+52.2333	-121.8	Ochiltree
+51.0167	-121.7833	Kelly Lake
+49.2333	-121.7667	Agassiz
+55.8333	-121.7333	Moberly Lake
+58.2833	-121.7167	Fontas
+53.0333	-121.7167	Van Winkle
+52.6167	-121.7	Hydraulic
+52.2667	-121.6833	Miocene
+51.8667	-121.6667	Wright
+55.7	-121.6167	Little Prairie
+53.9833	-121.6167	Hutton
+51.1	-121.6	Clinton
+56.1833	-121.5833	Farrell Creek
+50.2333	-121.5667	Lytton
+50.0667	-121.55	Falls Creek
+53.0667	-121.5167	Barkerville
+53.9333	-121.4667	Longworth
+49.8833	-121.4667	North Bend
+56.2167	-121.4333	Attachie
+49.5667	-121.4333	Yale
+49.3833	-121.4333	Hope
+52.75	-121.4167	Keithley Creek
+52.3333	-121.4167	Horsefly
+51.3	-121.4	Seventy Mile
+50.4167	-121.35	Spences Bridge
+61.85	-121.3333	Fort Simpson
+61.85	-121.3333	Simpson
+50.8	-121.3167	Cache Creek
+57.1333	-121.3	Nig Creek
+51.65	-121.2833	One Hundred Mile House
+53.8333	-121.2667	Penny
+50.7167	-121.2667	Ashcroft
+60.4333	-121.25	Trout Lake
+56.2833	-121.2333	Bear Flat
+55.7167	-121.1833	East Pine
+52.3	-121.1167	Black Creek
+50.2333	-121.1	Dot
+53.7667	-121.0667	Bend
+56.5333	-121	Murdale
+56.2667	-120.95	Charlie Lake
+56.45	-120.9167	Montney
+55.7833	-120.9167	Groundbirch
+51.7667	-120.9	Canim Lake
+50.15	-120.8833	Coyle
+50.15	-120.8833	Lower Nicola
+50.75	-120.85	Savona
+56.25	-120.8333	Fort Saint John
+50.4167	-120.8167	Mamette Lake
+56.5167	-120.7833	Rose Prairie
+56.4333	-120.7833	North Pine
+55.85	-120.7833	Sunset Prairie
+50.7833	-120.7833	Copper Creek
+50.1167	-120.7833	Merrit
+50.1167	-120.7833	Merritt
+49.7667	-120.7667	Thalia
+49.55	-120.75	Tulameen
+49.55	-120.75	Tulameen City
+51.0333	-120.7333	Criss Creek
+53.6	-120.7167	Loos
+51.4833	-120.7	Bridge Lake
+56.2167	-120.6833	Baldonnel
+56.15	-120.6667	Taylor
+61.5167	-120.6333	Jean Marie River
+49.8833	-120.6333	Aspen Grove
+56.0167	-120.6167	Pine Valley
+53.5333	-120.5833	Goat River
+55.6	-120.55	Fellers Heights
+56.3	-120.5333	Cecil Lake
+56.1833	-120.5333	Two Rivers
+49.3167	-120.5333	Copper Mountain
+50.15	-120.5	Quilchena
+49.45	-120.5	Princeton
+50.6833	-120.3667	North Kamloops
+50.6667	-120.3333	Kamloops
+50.3833	-120.2667	Trapp Lake
+50.9667	-120.25	Black Pines
+55.7667	-120.2333	Dawson Creek
+51.4333	-120.2	Little Fort
+50.15	-120.1833	Douglas Lake
+53.3	-120.1667	McBride
+55.9	-120.1333	Rolla
+55.7167	-120.1333	Pouce Coupe
+51.1833	-120.1333	Barriere
+49.7167	-120.1333	Mazama
+56.1	-120.1167	Rolla Landing
+51.5833	-120.1167	Black Pool
+56.0667	-120.0833	Shearer Dale
+56.0167	-120.0833	Doe River
+49.35	-120.0833	Hedley
+51.65	-120.0333	Clearwater
+51.6333	-120.0333	Clearwater Station
+56.1667	-120.0167	Clayhurst
+51.1	-120.0167	Blucher Hall
+50.7333	-119.9667	Pinantan
+56.1833	-119.95	Cherry Point
+50.65	-119.95	Monte Creek
+55.45	-119.9	Demmitt
+53.1167	-119.8333	Dunster
+50.6833	-119.8167	Pritchard
+49.2	-119.8167	Keremeos
+55.35	-119.7833	Lymburn
+53.0667	-119.75	Croydon Station
+49.7667	-119.75	Peachland
+50.8167	-119.6833	Chase
+49.6	-119.6667	Summerland
+53.0167	-119.5833	Shere
+50.8667	-119.5833	Squilax
+49.5	-119.5833	Penticton
+55.3167	-119.5667	Hythe
+49.1833	-119.55	Oliver
+52.9833	-119.5167	Red Pass
+52.9833	-119.5167	Red Pass Junction
+52.9833	-119.5167	Tete Jaune
+52.9833	-119.5167	Tete-Jaune-Cache
+51.6667	-119.5167	McMurphy
+56.5833	-119.5	Clear Prairie
+55.2667	-119.5	Albright
+49.9	-119.4833	Kelowna
+50.8667	-119.4667	Sorrento
+49.0333	-119.4667	Osoyoos
+55.2	-119.45	Beaverlodge
+49.8667	-119.4	East Kelowna
+50.1167	-119.3833	Oyama
+50.2333	-119.3667	Okanagan Landing
+76.2333	-119.3333	Mould Bay
+50.7833	-119.3333	Tappen
+51.7833	-119.3167	Avola
+52.1	-119.3	Blue River
+50.7	-119.2833	Salmon Arm
+50.2667	-119.2667	Vernon
+52.8333	-119.25	Valemount
+53.0167	-119.2333	Mount Robson
+52.2333	-119.2167	Thunder River
+56.5	-119.2	Marina
+50.45	-119.1833	Armstrong
+55.15	-119.15	Wembley
+52.6333	-119.15	Albreda
+52.45	-119.1333	Lempriere
+50.55	-119.1333	Enderby
+49.5	-119.1333	Carmi
+50.6333	-119.1167	Grindrod
+56.5167	-119.0667	Worsley
+50.8333	-119	Sicamous
+49.0667	-118.9833	Rock Creek
+50.25	-118.9667	Lumby
+51.2333	-118.95	Seymour Arm
+56.1167	-118.85	Highland Park
+56.2167	-118.8333	Royce
+55.7833	-118.8333	Spirit River
+55.2667	-118.8	Clairmont
+55.1667	-118.8	Grande Prairie
+55.35	-118.7833	Sexsmith
+50.9333	-118.7833	Malakwa
+50.3833	-118.7833	Mabel Lake
+49.0167	-118.7833	Midway
+55.6	-118.7667	Woking
+58.8167	-118.75	Hay Lake
+55.7667	-118.7167	Rycroft
+55.4333	-118.7	Webster
+56.1	-118.6833	Scotswood
+49.1333	-118.6833	Greenwood
+50.9833	-118.6333	Taft
+50.2333	-118.6167	Cherryville
+56.2333	-118.6	Hines Creek
+49.15	-118.5667	Eholt
+52.8667	-118.55	Lucerne
+56.05	-118.5167	Vanrena
+56.1333	-118.5	Gage
+49.05	-118.4667	Grand Forks
+56.0667	-118.4	Fairview
+52.8667	-118.2667	Geikie
+56.0667	-118.25	Bluesky
+55.75	-118.2333	Belloy
+49.0167	-118.2167	Cascade
+51	-118.1833	Revelstoke
+49.7833	-118.1333	Edgewood
+49.8833	-118.1167	Needles
+50.8833	-118.1	Greenslide
+50.8833	-118.1	Mount Cartier
+56.1	-118.0833	Whitelaw
+52.8833	-118.0833	Jasper
+49.8833	-118.0833	Fauquier
+66.0833	-118.0333	Echo Bay
+56.2333	-117.9667	Last Lake
+53.2	-117.9167	Pocahontas
+50.7	-117.9167	Arrowhead
+56.1167	-117.9	Brownvale
+55.7833	-117.9	Eaglesham
+50.5167	-117.9	Halcyon
+50.5167	-117.9	Halcyon Hot Springs
+50.4333	-117.9	Leon
+50.4333	-117.9	Saint Leon
+56.5333	-117.8833	Clear Hills
+57.8	-117.8667	Keg River
+51.1333	-117.8667	Albert Canyon
+56.2667	-117.8167	Lac Cardinal
+49.0833	-117.8167	Rossland
+50.2333	-117.8	Nakusp
+70.7333	-117.75	Holman
+70.7333	-117.75	Holman Island
+70.7333	-117.75	Ulusaktuk
+56.15	-117.75	Berwyn
+50.7333	-117.7333	Beaton
+49.1	-117.7167	Trail
+53.3667	-117.7	Entrance
+59.0333	-117.6833	Meander River
+59.0333	-117.6833	Upper Hay River
+55.8	-117.6833	Tangent
+56.5333	-117.6667	Dixonville
+49.3167	-117.6667	Castlegar
+61.3667	-117.65	Fort Providence
+61.3667	-117.65	Providence
+56.7	-117.65	Lone Star
+49.5667	-117.65	Vallican
+49.2833	-117.65	Kinnaird
+56.9833	-117.6333	Notikewin
+56.85	-117.6333	North Star
+55.7167	-117.6167	Watino
+49.2833	-117.6167	Ootischenia
+56.4333	-117.6	Chinook Valley
+56.1833	-117.6	Grimshaw
+53.4	-117.5833	Hinton
+57.0667	-117.55	Hotchkiss
+49.4333	-117.55	Crescent Valley
+49.1167	-117.55	Fruitvale
+55.7833	-117.5333	Culp
+53.4333	-117.5333	Drinnan
+50.6333	-117.5333	Trout Lake
+49.4333	-117.5333	Shoreacres
+56.7333	-117.5167	Deadwood
+51.2667	-117.5167	Glacier
+51.4833	-117.4833	Rogers
+51.4833	-117.4833	Six Mile Creek
+50.6833	-117.4833	Ferguson
+49.7667	-117.4667	Slocan
+53.0833	-117.45	Kaydee
+60.9333	-117.4167	Kakisa
+56.2	-117.4167	Roma
+51.5167	-117.4167	Beaver
+51.5167	-117.4167	Beavermouth
+53.0667	-117.4	Luscar
+55.8667	-117.3667	Normandville
+49.9833	-117.3667	New Denver
+56.3	-117.3333	Weberville
+55.75	-117.3333	Girouxville
+56.1333	-117.3167	Judah
+55.4167	-117.3167	Enilda
+53.0333	-117.3167	Leyland
+56.2333	-117.2833	Peace River
+56.2333	-117.2833	Peace River Crossing
+55.0667	-117.2833	Valleyview
+52.9333	-117.2833	Mountain Park
+50.5167	-117.2833	Gerrard
+49.4833	-117.2833	Nelson
+49.2	-117.2833	Salmo
+63.1333	-117.2667	Lac la Martre
+63.1333	-117.2667	Wha Ti
+53.55	-117.2167	Obed
+56.25	-117.15	Wesley Creek
+58.5167	-117.1333	High Level
+50.4167	-117.1333	Poplar Creek
+56.0333	-117.1167	Nampa
+55.7333	-117.1167	Donnelly
+53.1667	-117.1	Mercoal
+56.3667	-117.0667	Three Creeks
+51.4333	-117.05	Blaeberry
+53.5333	-117.0167	Medicine Lodge
+53.1833	-117.0167	Coalspar
+53.1833	-117.0167	Coalspur
+50.15	-116.9833	Lardeau
+50.15	-116.9833	Lardo
+51.3	-116.9667	Golden
+49.6333	-116.9667	Balfour
+50.3167	-116.95	Howser
+49.6167	-116.95	Procter
+49.6167	-116.95	Proctor
+50.1833	-116.9333	Argenta
+55.9333	-116.9167	Springburn
+49.9167	-116.9167	Kaslo
+55.7	-116.9	McLennan
+49.7667	-116.85	Riondel
+56.1	-116.8333	Harmon Valley
+55.6167	-116.8333	Doussal
+55.6167	-116.8333	Kathleen
+49.6167	-116.8	Gray Creek
+53.0667	-116.7833	Foothills
+53.55	-116.7667	Marlboro
+51.15	-116.7667	McMurdo
+49.4667	-116.7667	Boswell
+53.4167	-116.6833	Erith
+53.0333	-116.6833	Lovett
+53.0333	-116.6833	Lovettville
+49.25	-116.6833	Kootenay Junction
+49.25	-116.6833	Kootenay Landing
+51.0667	-116.65	Parson
+53.55	-116.6333	Bickerdike
+51.2167	-116.6167	Leanchoil
+49.25	-116.6167	Sirdad Junction
+49.25	-116.6167	Sirdar
+49.1	-116.5167	Creston
+55.4333	-116.4833	High Prairie
+51.4	-116.4833	Field
+53.5833	-116.4167	Edson
+50.9	-116.3667	Galena
+50.9	-116.3667	Spillimacheen
+49.15	-116.3333	Kitchener
+49.15	-116.3333	Kitchener McConnel
+49.15	-116.3333	McConnel
+51.45	-116.3	Stephen
+50.8167	-116.2833	Brisco
+51.4333	-116.1833	Lake Louise
+53.6667	-116.1667	Rosevear
+60.55	-116.1333	Enterprise
+50.6167	-116.1	Radium Hot Springs
+49.0833	-116.1	Yahk
+52.4667	-116.0833	Brazeau
+52.4667	-116.0833	Brazeou
+52.4667	-116.0833	Nordegg
+62.8333	-116.05	Fort Rae
+62.8333	-116.05	Rae
+62.7833	-116.0333	Edzo
+58.4	-116.0333	North Vermilion
+50.5167	-116.0333	Athalmer
+50.5167	-116.0333	Athelmer
+50.5167	-116.0333	Lake Windermere
+50.5	-116.0333	Invermere
+58.4	-116	Fort Vermilion
+58.4	-116	Fort Vermillion
+53.6667	-115.9833	Peers
+49.6833	-115.9833	Kimberley
+49.6833	-115.9833	Kimberly
+50.4667	-115.9667	Lake Windermere
+50.4667	-115.9667	Windermere
+49.6333	-115.95	Marysville
+55.3667	-115.9333	Joussard
+51.2667	-115.9167	Castle Junction
+51.2667	-115.9167	Eisenhower Junction
+50.3167	-115.8667	Fairmont Hot Springs
+50.15	-115.8333	Canal Flats
+49.2833	-115.8333	Mooyie
+49.2833	-115.8333	Moyie
+52.4667	-115.7833	Alexo
+55.35	-115.7667	Driftpile
+49.9	-115.7667	Shookumchuk
+49.9	-115.7667	Skookumchuck
+49.5167	-115.7667	Cranbrook
+55.3167	-115.7167	Faust
+49.7667	-115.7167	Wasa
+60.85	-115.7	Hay River
+54.1333	-115.6833	Whitecourt
+55.9167	-115.65	Atikameg
+55.9167	-115.65	Utikumasis Lake
+49.6167	-115.6333	Fort Steele
+49.6167	-115.6333	Steele
+53.65	-115.5833	Mackay
+51.1667	-115.5667	Banff
+53.6167	-115.45	Chip Lake
+49.4667	-115.45	Bull River
+55.3333	-115.4167	Kinuso
+49.4167	-115.4	Wardner
+54.1167	-115.3833	Blue Ridge
+51.1	-115.35	Canmore
+52.4167	-115.2833	Horburg
+53.6167	-115.25	Wildwood
+54.0167	-115.2333	Green Court
+49.0667	-115.1833	Flagstone
+49	-115.1667	Newgate
+58.3833	-115.1167	Adams Landing
+49.3	-115.1167	Elko
+67.8333	-115.0833	Coppermine
+67.8333	-115.0833	Coronation
+67.8333	-115.0833	Kogluktok
+67.8333	-115.0833	Kugluktuk
+52.3667	-115.0667	Ferrier
+51.1	-115.0667	Seebe
+49.5	-115.0667	Fernie
+53.9167	-115.0333	Rochfort Bridge
+55.35	-114.9833	Wagner
+55.35	-114.9833	Widewater
+53.2167	-114.9833	Drayton Valley
+49.4833	-114.9833	Coal Creek
+53.5167	-114.9667	Entwistle
+49.5833	-114.9667	Hosmer
+52.3667	-114.9167	Rocky Mountain House
+53.8833	-114.9	Sangudo
+58.3667	-114.85	Fort Vermilion Chutes
+58.3667	-114.85	Vermilion Chutes
+51.1667	-114.85	Morley
+49.7333	-114.85	Natal
+68.7833	-114.7833	Bernard Harbour
+68.7833	-114.7833	Bernard
+68.7833	-114.7833	Fort Thomson
+55.2833	-114.7833	Slave Lake
+54.3333	-114.7667	Fort Assiniboine
+58.4	-114.75	Little Red River
+58.4	-114.75	Red River
+58.4	-114.75	Red River Post
+52.0833	-114.75	Caroline
+53.5667	-114.7167	Seba Beach
+53.8167	-114.6667	Cherhill
+49.5167	-114.65	Corbin
+51.7	-114.6333	Bergen
+52.3833	-114.6	Leslieville
+51.0667	-114.55	Jumping Pound
+49.6333	-114.5	Coleman
+53.1167	-114.4833	Breton
+60.8333	-114.4667	Pine Point
+51.55	-114.4667	Cremona
+51.2	-114.45	Cochrane
+52.9667	-114.4333	Winfield
+49.6	-114.4333	Blairmore
+54.1167	-114.4	Barrhead
+51.4667	-114.3833	Dogpound
+52.85	-114.3667	Hoadley
+51.8167	-114.3667	Eagle Hill
+49.5833	-114.3667	Bellevue
+62.45	-114.35	Yellowknife
+53.5167	-114.3333	Duffield
+52.75	-114.2833	Bluffton
+52.3	-114.2833	Benalto
+55.2333	-114.2667	Spurfield
+50.6833	-114.2667	Turner
+50.6833	-114.2667	Turner Valley
+54.15	-114.2333	Freedom
+54.0833	-114.2333	Manola
+50.7	-114.2333	Black Diamond
+52.6333	-114.2167	Rimbey
+64.1833	-114.1833	Snare Lake
+64.1833	-114.1833	Snare Lakes
+64.1833	-114.1833	Wekweti
+53.7	-114.1833	Onoway
+53.2	-114.1833	Sunnybrook
+54.9167	-114.1667	Chisholm
+54.9167	-114.1667	Chisholm Mills
+51.0833	-114.1667	Bowness
+51.0667	-114.1667	Montgomery
+54.6833	-114.15	Flatbush
+54.0333	-114.1333	Highridge
+51.6667	-114.1333	Didsbury
+53.7	-114.1	Bilby
+51.7833	-114.1	Olds
+51.5333	-114.1	Carstairs
+54.5333	-114.0833	Fawcett
+52.3	-114.0833	Sylvan Lake
+51.0833	-114.0833	Calgary
+50.9167	-114.0667	Midnapore
+49.5667	-114.0667	Cowley
+52.4667	-114.05	Bentley
+55.1667	-114.0333	Mirror Landing
+55.1667	-114.0333	Smith
+55.0667	-114.0333	Hondo
+51.9167	-114.0333	Bowden
+51.4333	-114.0333	Crossfield
+51.2667	-114.0167	Airdrie
+51.2167	-114.0167	Balzac
+53.5333	-114	Stony Plain
+54.45	-113.9833	Jarvie
+51.0333	-113.9667	Forest Lawn
+50.7167	-113.9667	Hartell
+50.7167	-113.9667	Okotoks
+52.0333	-113.95	Innisfail
+49.5167	-113.95	Pincher
+49.5167	-113.95	Pincher Station
+49.4833	-113.95	Pincher
+49.4833	-113.95	Pincher Creek
+54.35	-113.9167	Dapp
+53.5333	-113.9167	Spruce Grove
+50.95	-113.9167	Shepard
+49.05	-113.9167	Waterton Park
+53.95	-113.9	Busby
+54.2667	-113.8667	Pibroch
+54.15	-113.8667	Westlock
+52.1333	-113.8667	Penhold
+50.5833	-113.8667	High River
+50.45	-113.85	Cayley
+46.2667	-113.85	Twin Butte
+52.3833	-113.8	Blackfalds
+52.2667	-113.8	Red Deer
+53.25	-113.7833	Calmar
+50.35	-113.7667	Manton Alta
+50.35	-113.7667	Nanton
+49.55	-113.7667	Brocket
+53.3667	-113.7333	Devon
+52.4667	-113.7333	Lacombe
+61.1667	-113.6833	Fort Resolution
+61.1667	-113.6833	Resolution
+50.25	-113.6667	Parkland
+54.0667	-113.65	Vimy
+53.8	-113.65	Morinville
+51.2167	-113.65	Keoma
+53.95	-113.6333	Legal
+53.6333	-113.6333	Saint Albert
+51.3167	-113.6167	Irricana
+50.6	-113.6167	Blackie
+51.8667	-113.6	Wimborne
+51.8	-113.6	Torrington
+49.1333	-113.6	Mountain View
+50.0333	-113.5833	Claresholm
+52.6833	-113.5667	Ponoka
+51.65	-113.55	Sunnyslope
+53.75	-113.5333	Carbondale
+53.3333	-113.5333	Nisku
+53.2667	-113.5333	Leduc
+52.3333	-113.5333	Joffre
+51.3833	-113.5333	Beiseker
+51.0167	-113.5333	Cheadle
+53.1833	-113.5167	Kavanagh
+49.3667	-113.5167	Glenwood
+49.3667	-113.5167	Glenwoodville
+53.55	-113.5	Edmonton
+51.5	-113.5	Acme
+54.3	-113.4833	Tawatinaw
+53.7167	-113.4833	Namao
+53.6667	-113.4833	Lancaster Park
+53.0833	-113.4667	Millet
+50.85	-113.4667	Carseland
+52.8333	-113.45	Hobbema
+52.4833	-113.45	Clive
+50.4667	-113.4333	Ensign
+53.8333	-113.4167	Bon Accord
+53.5667	-113.4	Beverly
+49.7333	-113.4	Fort Macleod
+49.7333	-113.4	Macleod
+54.4667	-113.3833	Perryvale
+52.9667	-113.3833	Wetaskiwin
+49.0167	-113.3833	Carway
+53.4333	-113.3333	Bretona
+53.4333	-113.3333	Hercules
+51.5	-113.3333	Grainger
+51.15	-113.3333	Nightingale
+54.5833	-113.3167	Meanook
+53.5167	-113.3167	Sherwood Park
+50.7167	-113.3167	Mossleigh
+49.2	-113.3167	Cardston
+54.7167	-113.2667	Athabasca
+54.7167	-113.2667	Athabaska
+51.7	-113.2667	Three Hills
+53.35	-113.25	Looma
+50.4	-113.25	Vulcan
+52.2	-113.2333	Delburne
+51.8333	-113.2333	Trochu
+62.9833	-113.2	Camlaren
+55.25	-113.2	Calling Lake
+53.7167	-113.2	Fort Saskatchewan
+52.1167	-113.2	Lousana
+52.4	-113.1833	Alix
+49.2833	-113.1833	Raley
+53.5833	-113.1667	Strathcona
+50.2167	-113.15	Champion
+53.55	-113.1333	Ardrossan
+54.15	-113.1167	Thorhild
+54.0333	-113.1167	Egremont
+49.8	-113.1167	Monarch
+53.7167	-113.0833	Josephburg
+49.9833	-113.0833	Barons
+53.2	-113.05	Hay Lakes
+53	-113.05	Bittern Lake
+50.8667	-113.05	Gleichen
+49.8833	-113.05	Nobleford
+49.0333	-113.0333	Whiskey Gap
+49.0333	-113.0333	Whisky Gap
+54.2333	-113.0167	Abee
+51.1167	-112.9833	Standard
+50.7167	-112.9833	Shouldice
+52.7667	-112.9667	Ferintosh
+52.5833	-112.9667	Bashaw
+51.4667	-112.9667	Hesketh
+54.4275	-112.9547	Alpen Siding
+54.3294	-112.9531	Newbrook
+53.4667	-112.95	North Cooking Lake
+51.3	-112.95	Rosebud
+54.0594	-112.9453	Radway
+54.7333	-112.9308	Amber Valley
+54.1814	-112.9272	Weasel Creek
+54.4261	-112.9236	Alpen
+53.8	-112.9167	Bruederheim
+54.5036	-112.9008	Ellscott
+55.0917	-112.8878	Calling River
+50.5667	-112.8833	Milo
+49.4167	-112.8833	Magrath
+54.8206	-112.8786	Properity
+51.85	-112.85	Rumsey
+49.7	-112.8333	Lethbridge
+53.0167	-112.8167	Camrose
+54.5908	-112.8092	Boyle
+54.7481	-112.8042	Donatville
+54.8642	-112.8025	Spruce Valley
+54.1817	-112.8006	Sprucefield
+54.0931	-112.7867	Waskatenau
+53.75	-112.7833	Lamont
+54.2386	-112.7767	Hollow Lake
+51.6667	-112.7667	Morrin
+61.3833	-112.75	Rocher River
+61.3833	-112.75	Talston River
+61.3833	-112.75	Taltson River
+52.1333	-112.75	Fenn
+52.0333	-112.75	Big Valley
+51.5667	-112.75	Munson
+52.2667	-112.7333	Warden
+54.5953	-112.7019	Bondiss
+51.4667	-112.7	Drumheller
+54.7625	-112.6883	Sarrail
+54.8206	-112.6858	Grassland
+52.3333	-112.6833	Stettler
+51.0333	-112.6833	Hussar
+54.0072	-112.6789	Delph
+53.3667	-112.6667	Tofield
+50.8167	-112.6667	Crowfoot
+49.4667	-112.6667	Raymond
+55.7997	-112.6389	Pelican Portage
+53.7	-112.6333	Chipman
+51.4167	-112.6333	Rosedale
+50.35	-112.6333	Lomond
+54.1808	-112.6269	Barich
+54.0933	-112.6186	Warspite
+53.1667	-112.6167	Round Hill
+49.7333	-112.6167	Coaldale
+54.7544	-112.6019	Frains
+54.7992	-112.5733	Dakin
+53.2167	-112.5667	Kingman
+52.5833	-112.5667	Donalda
+52.45	-112.5667	Red Willow
+54.0367	-112.5553	Northbank
+49.9667	-112.55	Turin
+54.8194	-112.5481	Atmore
+51.5833	-112.5333	Michichi
+54.8797	-112.5225	Blue Jay
+49.5167	-112.5167	Stirling
+54.6317	-112.5117	Caslan
+55.0819	-112.4967	Amesbury
+55.1411	-112.4936	Breynat
+51.3333	-112.4833	East Coulee
+54.1131	-112.4736	Smoky Lake
+52.05	-112.4667	Gough Lake
+50.7833	-112.4667	Bassano
+55.2014	-112.4664	Wandering River
+52.7833	-112.45	Rosalind
+49.7667	-112.45	Chin
+53.75	-112.4333	Krakow
+52.2167	-112.4167	Hackett
+50.1667	-112.4167	Enchant
+54.0047	-112.405	Pakan
+49.4167	-112.3833	New Dayton
+54.6536	-112.3633	Noral
+52.3	-112.35	Gadsby
+52.05	-112.35	Leo
+54.8486	-112.3439	Plamondon
+53.8833	-112.3333	Andrew
+53.6	-112.3333	Mundare
+54.0069	-112.3328	Kahwin
+51.2833	-112.3167	Dorothy
+55.0378	-112.2797	Avenir
+54.1439	-112.2758	Edwand
+52.8667	-112.25	Daysland
+50.0667	-112.25	Retlaw
+53.2333	-112.2333	Holden
+51.6667	-112.2333	Craigmyle
+54.6792	-112.2153	Hylo
+52.6667	-112.2	Heisler
+49.2833	-112.2	Warner
+50.95	-112.1833	Gem
+49.5167	-112.1833	Wrentham
+54.1431	-112.1511	Bellis
+52.2833	-112.15	Halkirk
+51.9667	-112.15	Endiang
+49.7833	-112.15	Taber
+54.6981	-112.1472	Venice
+53.8333	-112.1167	Willingdon
+60.0167	-112.1	Bell Rock
+50.0667	-112.1	Vauxhall
+54.4453	-112.0981	Kikino
+51.1333	-112.0833	Finnegan
+50.7667	-112.0833	Rosemary
+49.1333	-112.0833	Milk River
+52.5833	-112.0667	Forestburg
+53.5	-112.05	Vegreville
+50.5833	-112.05	Cassils
+50.2667	-112.0333	Scandia
+51.7667	-112	Dowling
+51.8667	-111.9833	Scapa
+54.7719	-111.9647	Lac La Biche
+49	-111.95	Coutts
+54.5958	-111.9211	Craigend
+54.1161	-111.9194	Vilna
+52.5167	-111.9167	Galahad
+51.6333	-111.9167	Hanna
+54.7597	-111.9125	Beaver Lake
+52.2167	-111.9	Castor
+50.7333	-111.9	Duchess
+50.5667	-111.9	Brooks
+49.8167	-111.9	Purple Springs
+54.8872	-111.8867	Owl River
+60	-111.8833	Fort Smith
+53.4667	-111.8667	Lavoy
+54.0369	-111.86	Stry
+52.7833	-111.85	Killam
+54.2969	-111.8039	Goodfish Lake
+49.5	-111.8	Skiff
+54.8858	-111.7911	Tweedie
+53.0833	-111.7833	Viking
+52.4333	-111.7833	Alliance
+54.4728	-111.7739	Briereville
+53.7167	-111.75	Two Hills
+54.995	-111.7358	Imperial Mills
+52.15	-111.7333	Fleet
+54.5806	-111.7317	Normandeau
+54.1419	-111.7278	Spedden
+54.3567	-111.7139	McRae
+49.9333	-111.7	Askow
+49.9333	-111.7	Bow River
+49.9333	-111.7	Goat
+49.8333	-111.7	Grassy Lake
+53.7833	-111.6833	Duvernay
+53.4167	-111.6833	Ranfurly
+51.5	-111.6833	Sheerness
+51.4167	-111.6833	Rose Lynn
+50.7	-111.6833	Patricia
+51.2833	-111.6667	Sunnynook
+50.45	-111.65	Tilley
+57.3833	-111.6333	Bitumount
+55.1756	-111.6233	Philomena
+54.5092	-111.6181	Rich Lake
+54.4689	-111.6178	Fork Lake
+57.1833	-111.6167	Fort MacKay
+57.1833	-111.6167	MacKay
+51.85	-111.6167	Spondin
+59.8667	-111.6	Fitgerald
+59.8667	-111.6	Fitzgerald
+59.8667	-111.6	Fort Fitzgerald
+51.1	-111.5833	Pollockville
+54.3567	-111.5769	Sugden
+54.1297	-111.5681	Ashmont
+52.7333	-111.55	Lougheed
+50.9	-111.55	Wardlow
+51.5833	-111.5167	Stanmore
+58.45	-111.5	Embarras Portage
+54.4872	-111.4917	Helina
+54.2986	-111.4528	Saint Lina
+52.0833	-111.45	Coronation
+54.0692	-111.4361	Owlseye
+54.0692	-111.4361	Owlseye Lake
+49.4833	-111.4333	Foremost
+54.1528	-111.43	Boscombe
+56.7333	-111.3833	Fort McMurray
+56.7333	-111.3833	McMurray
+49.8667	-111.3667	Bow Island
+54.2119	-111.3661	Mallaig
+54.3856	-111.3522	Goodridge
+50.2833	-111.35	Alderson
+54.6394	-111.3464	Snug Cove
+56.7	-111.3167	Waterways
+52.6833	-111.3	Hardisty
+50.7333	-111.3	Iddesleigh
+53.9833	-111.2833	Saint Paul
+53.9833	-111.2833	Saint Paul des Metis
+54.1533	-111.2764	Saint Vincent
+54.2406	-111.2558	Therien
+53.6667	-111.2333	Myrnam
+52.9167	-111.2333	Irma
+52.6333	-111.2167	Rosyth
+51.5333	-111.2	Youngstown
+55.5347	-111.1967	Devenish
+50.75	-111.1833	Jenner
+50.25	-111.1833	Ralston
+53.3333	-111.1667	Mannville
+50.2167	-111.1667	Suffield
+54.1303	-111.1517	Flat Lake
+54.2511	-111.1514	Glendon
+54.1814	-111.1514	Beacon Corner
+58.7167	-111.15	Chipewyan
+58.7167	-111.15	Fort Chipewyan
+52.0167	-111.1167	Veteran
+49.4833	-111.1	Etzikom
+60.8833	-111.0833	Fork Lake
+51.7833	-111.0833	Hemaruka
+55.6325	-111.0828	Conklin
+49.8833	-111.05	Whitla
+55.7558	-111.0414	Leismer
+54.2694	-111.0292	Franchere
+54.1814	-111.0275	Rife
+54.5333	-110.9833	Garth
+50.85	-110.95	Atlee
+54.4436	-110.9119	Iron River
+55.8461	-110.9072	Chard
+54.1822	-110.9031	Hoselaw
+53.9	-110.9	Elk Point
+49.8667	-110.9	Sevenpersons
+52.8333	-110.8667	Wainwright
+49.2	-110.8667	Pendant d'Oreille
+54.2297	-110.8628	Bonnyville Beach
+53.35	-110.85	Vermilion
+52.45	-110.8333	Czar
+54.2406	-110.8042	Fresnoy
+52.0167	-110.8	Consort
+51.7	-110.8	Naco
+51.4167	-110.8	Cereal
+53.1833	-110.7833	Connelly
+53.1833	-110.7833	Connolly
+50.0833	-110.7833	Redcliff
+54.4439	-110.7617	La Corey
+54.1411	-110.7542	Gurneyville
+54.2678	-110.7508	Bonnyville
+62.4	-110.7333	Lutselk'e
+62.4	-110.7333	Snowdrift
+53.5833	-110.7167	Clandonald
+49.4	-110.7	Manyberries
+50.8	-110.6833	Buffalo
+50.0333	-110.6833	Medicine Hat
+53.8833	-110.6667	Lindbergh
+51.6667	-110.6667	Sedalia
+54.3956	-110.6539	Big Meadow
+54.2842	-110.6494	Durlingville
+54.4289	-110.6353	Lessard
+54.3131	-110.6039	Fort Kent
+54.2117	-110.6033	Muriel Lake
+54.1247	-110.5914	Holyoke
+49.9667	-110.5833	Dunmore
+51.9667	-110.5667	Monitor
+51.3833	-110.5667	Excel
+54.5011	-110.5583	Happy Hollow
+53.7667	-110.5167	Heinsburg
+54.3322	-110.4772	Ardmore
+50.8167	-110.4667	Cavendish
+52.75	-110.45	Edgerton
+49.0667	-110.45	Onefour
+53.5167	-110.3333	Marwayne
+53.3333	-110.3333	Kitscoty
+53.0333	-110.3333	Paradise Valley
+51.35	-110.3333	Benton
+51.35	-110.3333	Benton Station
+54.2036	-110.3067	Beaverdam
+51.9167	-110.3	Kirriemuir
+54.37	-110.2708	Beaver River
+54.37	-110.2708	Le Goff
+54.4167	-110.2667	Medley
+52.35	-110.2667	Provost
+50.8833	-110.2667	Bindloss
+49.95	-110.2667	Irvine
+51.6833	-110.25	Esther
+54.4167	-110.2153	Grand Centre
+54.3619	-110.2058	Beaver Crossing
+51.15	-110.2	Acadia Valley
+54.465	-110.1831	Cold Lake
+52.6833	-110.1333	Chauvin
+52.35	-110.1167	Hayter
+52.9333	-110.0833	Dina
+52.15	-110.0833	Bodo
+50.3333	-110.0833	Schuler
+54.355	-110.08	Cherry Grove
+49.95	-110.0333	Walsh
+51.8667	-110.0167	Compeer
+50.9667	-110.0167	Empress
+50.4833	-110.0167	Hilda
+53.7167	-110	Onion Lake
+53.2833	-110	Lloydminster
+51.6667	-109.9833	Loverna
+51.3667	-109.9833	Alsask
+53.1167	-109.9667	Furness
+52.3333	-109.95	Macklin
+51.8833	-109.95	Superb
+50.65	-109.9167	Burstall
+50.9333	-109.9	Estuary
+51.4333	-109.8833	Merid
+50.4167	-109.8833	Horsham
+52.4	-109.8333	Evesham
+50.0333	-109.8333	Hatton
+49.4333	-109.8333	Battle Creek
+49.2167	-109.8	Govenlock
+54.3403	-109.7769	Pierceland
+54.1825	-109.7764	Mudie Lake
+51.85	-109.7667	Fusilier
+51.6167	-109.7333	Hoosier
+53.4333	-109.7	Hillmond
+52.5	-109.7	Senlac
+52.65	-109.6667	Yonker
+50.7667	-109.6667	Mendham
+54.3556	-109.6522	Beacon Hill
+52.2333	-109.65	Denzil
+56.4833	-109.6333	La Loche West
+52.8333	-109.6333	Neilburg
+53.5833	-109.6167	Frenchman Butte
+53.1167	-109.6167	Lashburn
+50.2167	-109.6167	Golden Prairie
+51.4667	-109.6	Flaxcombe
+50.8833	-109.55	Leader
+52.1667	-109.5167	Salvador
+52.6167	-109.5	Winter
+51.2167	-109.5	Laporte
+50.4667	-109.4833	Fox Valley
+54.0356	-109.475	Whelan
+49.9167	-109.4667	Maple Creek
+53.5333	-109.45	Paradise Hill
+51.4333	-109.45	Pinkham
+56.4833	-109.4333	La Loche
+56.4833	-109.4333	Portage La Roche
+52.0833	-109.4333	Luseland
+52.3	-109.3667	Reward
+53.0833	-109.3	Maidstone
+52.8667	-109.2667	Carruthers
+49.3667	-109.2667	Robsart
+49.1167	-109.2667	Arena
+51.7	-109.2333	Coleville
+54.2969	-109.2272	Flat Valley
+54.3475	-109.2267	Peerless
+54.3997	-109.2261	Goodsoil
+59.6167	-109.2167	Camsell Portage
+53.6333	-109.2	Saint Walberg
+53.6333	-109.2	Saint Walburg
+52.4333	-109.1667	Unity
+51.2333	-109.1667	Glidden
+54.0253	-109.1606	Loon Lake
+62.7	-109.1333	Fort Reliance
+62.7	-109.1333	Reliance
+51.9167	-109.1333	Kerrobert
+51.4667	-109.1333	Kindersley
+50.85	-109.1167	Lemsford
+49.9833	-109.1167	Piapot
+54.3264	-109.1003	Golden Ridge
+55.9881	-109.0956	Michel
+54.1222	-109.0264	Loon River
+52.75	-109.0167	Cut Knife
+51.2167	-109.0167	Madison
+53.3833	-108.9667	Turtleford
+52.05	-108.9667	Broadacres
+55.8822	-108.9517	Saint George's Hill
+53.0167	-108.95	Paynton
+52.1333	-108.95	Tramping Lake
+55.9275	-108.9389	Buffalo
+55.9275	-108.9389	Dillon
+54.0064	-108.9067	Makwa
+52.2667	-108.9	Revenue
+51.4667	-108.85	Netherhill
+51.8	-108.8333	Dodsland
+49.5167	-108.8167	Eastend
+54.1506	-108.8097	Rapid View
+50.0667	-108.8	Tompkins
+52.6	-108.7833	Cloan
+53.1833	-108.7667	Edam
+51.3167	-108.75	McMorran
+51.15	-108.75	Eston
+50.7333	-108.75	Abbey
+54.0353	-108.7333	Morin Creek
+49.2	-108.7333	Loomis
+49.6	-108.7167	South Fork
+53.45	-108.7	Livelong
+52.4167	-108.7	Wilkie
+52.0667	-108.7	Handel
+54.3553	-108.6283	Dorintosh
+54.1803	-108.6281	Four Corners
+59.5667	-108.6167	Uranium City
+51.95	-108.6167	Kelfield
+50.3167	-108.6167	Verlo
+52.3	-108.5167	Wolfe
+59.55	-108.5	Eldorado
+55.8542	-108.4842	Buffalo Narrows
+59.45	-108.4833	Goldfields
+51.7	-108.4833	Stranraer
+50.1	-108.4833	Gull Lake
+52.8667	-108.45	Highgate
+52.2	-108.45	Landis
+50.6167	-108.45	Cabri
+50.45	-108.45	Roseray
+54.1297	-108.4347	Meadow Lake
+51.0167	-108.4333	Tyner
+49.65	-108.4167	Shaunavon
+51.4833	-108.4	Fiske
+49.2	-108.4	Canuck
+52.9667	-108.3833	Prince
+49.2	-108.3833	Climax
+51.9667	-108.3667	Springwater
+53.35	-108.35	Glaslyn
+51.6333	-108.35	Herschel
+55.0972	-108.3433	Cole Bay
+55.0981	-108.3233	Canoe Lake
+52.8667	-108.3	Hamlin
+52.7667	-108.3	Battleford
+52.7667	-108.2833	North Battleford
+52.45	-108.2667	Red Pheasant
+54.0783	-108.2533	Cabana
+51.5	-108.25	McGee
+52.3667	-108.2167	Cando
+50.8833	-108.2	White Bear
+50.1833	-108.2	Webb
+55.1675	-108.1533	Canoe Narrows
+51.3333	-108.15	Gunworth
+52.1167	-108.1333	Oban
+49.7167	-108.1333	Scotsguard
+55.1486	-108.1269	Jans Bay
+49.95	-108.1	Simmie
+53.3	-108.0833	Medstead
+50.9833	-108.0833	Sanctuary
+50.45	-108.0833	Success
+49.1833	-108.0833	Bracken
+54.2164	-108.0519	Saint Cyr Lake
+53.3667	-108.05	Cater
+66.8333	-108.0333	Bathurst Inlet
+66.8333	-108.0333	Burnside Harbour
+51.2	-108.0333	Elrose
+52.65	-108.0167	Denholm
+49.7167	-108.0167	Admiral
+53.25	-108	Glenbush
+53.2167	-108	Sandwith
+52.05	-107.9833	Biggar
+51.55	-107.9833	Rosetown
+50.8	-107.95	Matador
+55.4333	-107.9	Ile-a-la-Crosse
+52.5333	-107.8833	Baljennie
+53.55	-107.8667	Junor
+52.9333	-107.8667	Whitkow
+51.8	-107.85	Valley Centre
+53.3667	-107.8167	Belbutte
+50.6	-107.8167	Stewart Valley
+50.1833	-107.8167	Dunelm
+49.15	-107.8	Masefield
+54.2667	-107.7833	Green Lake
+53.1333	-107.7667	Rabbit Lake
+50.5	-107.7667	Leinan
+50.2833	-107.7667	Swift Current
+53.7833	-107.75	Chitek
+51.6167	-107.75	Zealandia
+50.1167	-107.7333	Wymark
+49.7167	-107.7333	Cadillac
+49.2333	-107.7333	Val Marie
+52.5667	-107.7167	Maymont
+51.5167	-107.7167	Sovereign
+53.6833	-107.7	Penn
+52.7	-107.7	Richard
+52.0167	-107.7	Keppel
+53.0833	-107.6667	Mullingar
+52.3833	-107.6667	Sonningdale
+51.3167	-107.65	Wiseton
+55.15	-107.6167	Beaual
+55.15	-107.6167	Beauval
+55.15	-107.6167	La Plonge
+55.15	-107.6167	Lac-la-Plonge
+51.8833	-107.6	Feudal
+52.9833	-107.5833	Mayfair
+50.3667	-107.5833	Waldeck
+53.6333	-107.55	Leoville
+52.05	-107.55	Perdue
+52.0333	-107.55	Leney
+52.5167	-107.5333	Fielding
+53.3667	-107.5167	Spiritwood
+51.4833	-107.5167	Milden
+52.25	-107.5	Arelee
+49.75	-107.4833	Ponteix
+52.8	-107.4667	Keatley
+51.3333	-107.45	Dinsmore
+49.9333	-107.45	Pambrun
+49.9333	-107.45	Pamburn
+52.0667	-107.4333	Kinley
+51.8	-107.4167	Tessier
+52.4667	-107.4	Radisson
+53.6	-107.3833	Capasin
+50.8833	-107.3833	Beechy
+52.7167	-107.35	Hafford
+50.5833	-107.35	Main Centre
+53.35	-107.3333	Mildred
+49.9	-107.3	Vanguard
+56.9833	-107.2833	Sandy Lake
+51.5333	-107.25	Conquest
+50.2333	-107.25	Neidpath
+52.1167	-107.2167	Asquith
+50.4333	-107.2167	Herbert
+59.3167	-107.1833	Fond-du-Lac
+53.5167	-107.1333	Pascal
+51.7	-107.1333	Swanson
+50.9833	-107.1333	Lucky Lake
+54.6667	-107.1167	Dore Lake
+51.9167	-107.1167	Delisle
+50.1167	-107.1	Dendron
+52.7833	-107.0667	Krydor
+49.4167	-107.0667	Mankota
+53.3	-107.05	Shell Lake
+52.1333	-107.05	Dunfermline
+51.5	-107.05	Outlook
+53.8333	-107.0333	Big River
+51.2667	-107.0167	Tichfield
+50.6	-107.0167	Glen Kerr
+52.1	-107	Grandora
+49.6667	-107	Kincaid
+53.65	-106.9833	Wrixon
+52	-106.9833	Vanscoy
+51.1	-106.9833	Birsay
+50.1167	-106.9833	Hodgeville
+53.75	-106.9667	Bodmin
+53.3	-106.9667	Hawkeye
+52.3667	-106.9667	Langham
+51.4833	-106.9333	Broderick
+50.45	-106.9	Ernfold
+52.8333	-106.8833	Blaine Lake
+53.5167	-106.8667	Debden
+51.2	-106.8667	Dunblane
+50.9167	-106.85	Riverhurst
+49.6667	-106.85	Meyronne
+57.3667	-106.8333	Cree Lake
+52.9333	-106.7833	Marcelin
+52.3333	-106.7833	Dalmeny
+53.4333	-106.7333	Polwarth
+50.0167	-106.7333	Bateman
+53.2667	-106.7	Ordale
+50.6167	-106.7	Halvorgate
+49.4167	-106.6833	Glentworth
+52.1333	-106.6667	Saskatoon
+50.4667	-106.6667	Chaplin
+52.6167	-106.65	Waldheim
+52.1167	-106.6333	North Park
+53.3667	-106.6	Canwood
+52.1333	-106.6	Sutherland
+51.4167	-106.6	Hawarden
+51.1167	-106.6	Elbow
+52.7167	-106.5833	Laird
+52.3167	-106.5667	Warman
+49.7	-106.5667	Lafleche
+50.9833	-106.55	Grainland
+49.8833	-106.55	Gravelbourg
+52.8167	-106.5	Carlton
+51.8	-106.5	Dundurn
+51.6167	-106.4333	Hanley
+52.5	-106.4167	Hague
+53.2167	-106.4	Shellbrook
+52.9167	-106.4	Wingard
+50.75	-106.4	Mawer
+50.1333	-106.3833	Coderre
+49.3667	-106.3833	Wood Mountain
+49.3667	-106.3833	Wood Mountain Station
+49.1	-106.3667	Killdeer
+49.4667	-106.35	Flintoft
+52.65	-106.3333	Rosethern
+52.65	-106.3333	Rosthern
+53.5333	-106.3167	Cookson
+52.3167	-106.2833	Aberdeen
+51.5	-106.2833	Kenaston
+50.45	-106.2667	Parkbeg
+49.65	-106.2667	Limerick
+55.7833	-106.2167	Belanger
+52.8	-106.2167	Duck Lake
+52.0167	-106.2167	Blucher
+49.8667	-106.2167	Mazenod
+50.8	-106.15	Eyebrow
+51.3667	-106.1333	Bladworth
+52.3167	-106.1	Vonda
+53.9167	-106.0833	Waskesiu Lake
+53.2167	-106.0667	Crutwell
+53.0833	-106.0667	Kilwinning
+51.9	-106.0667	Allan
+50.45	-106.0667	Mortlach
+50.6333	-106.0333	Lake Valley
+49.8333	-106.0333	Vantage
+52.5167	-106.0167	Alvena
+49.4833	-106.0167	Maxstone
+53.0167	-106	Macdowall
+50.2	-106	Old Wives
+49.6167	-105.9833	Assiniboia
+51.2667	-105.9667	Davidson
+49.9333	-105.9667	Mossbank
+49.1833	-105.95	Rockglen
+51.1667	-105.9333	Girvin
+52.7833	-105.9167	Saint-Isidore-de-Bellevue
+50.6833	-105.8833	Keeler
+50.2667	-105.8833	Lillestrom
+51.9667	-105.8667	Colonsay
+59.2667	-105.8333	Stony Rapids
+50.45	-105.8167	Caronport
+53.0167	-105.8	Red Deer Hill
+52.9167	-105.8	Saint Louis
+54.05	-105.7833	Montreal Lake
+52.8667	-105.7833	Hoey
+53.2	-105.75	Prince Albert
+52.1	-105.75	Meacham
+51.7667	-105.75	Young
+52.7833	-105.7333	Domremy
+52.65	-105.7333	Wakaw
+52.4833	-105.7167	Cudworth
+50.4	-105.7167	Boharm
+50.9333	-105.7	Aylesbury
+50.1	-105.7	Crestwynd
+49.9333	-105.7	Michellton
+49.9333	-105.7	Mitchellton
+52.2833	-105.6667	Totzke
+51.95	-105.6333	Viscount
+49.4	-105.6333	Willow Bunch
+53.4	-105.6167	Henribourg
+50.2833	-105.6167	Archive
+49.8167	-105.6167	Cardross
+49.5167	-105.6167	Verwood
+49.1833	-105.6	Hart
+50.5833	-105.5833	Tuxford
+53.5	-105.5667	Paddockwood
+50.85	-105.5667	Chamberlain
+50.4	-105.55	Moose Jaw
+53.4167	-105.5333	Albertville
+52.2667	-105.5167	Bruno
+51.6667	-105.4667	Watrous
+51.55	-105.4667	Amazon
+52.7333	-105.45	Tway
+52.6333	-105.45	Reynaud
+51.9	-105.45	Plunkett
+51.45	-105.45	Simpson
+52.9833	-105.4333	Birch Hills
+51.2333	-105.4333	Stalwart
+51.0667	-105.4333	Penzance
+49.3	-105.4167	Harptree
+52.8667	-105.4	Waitville
+49.95	-105.4	Spring Valley
+50.3667	-105.3833	Pasqua
+49.0667	-105.3833	East Poplar
+53.45	-105.3667	Meath Park
+55.1	-105.3	La Ronge
+55.1	-105.3	Lac La Ronge
+52.4333	-105.2833	Pilger
+50.1667	-105.2667	Briercrest
+53	-105.25	Brancepeth
+50.8667	-105.25	Dilke
+50.7	-105.2167	Bethune
+49.1	-105.1667	Big Beaver
+50.4	-105.15	Belle Plaine
+52.1167	-105.1333	Bay Trail
+52.05	-105.1333	Burr
+50.3	-105.1333	Drinkwater
+53.4667	-105.1167	Foxford
+52.2	-105.1167	Humboldt
+49.4	-105.1167	Bengough
+52.7833	-105.0833	Meskanaw
+50.0167	-105.0667	Avonlea
+49.55	-105.05	Glasnevin
+69.1167	-105.0333	Cambridge Bay
+69.1167	-105.0333	Ikaluktutiak
+52.95	-105.0333	Kinistino
+51.85	-105.0333	Lanigan
+51.6333	-105.0167	Lockwood
+51.5167	-105.0167	Nokomis
+51.4167	-105.0167	Hatfield
+51.3167	-105	Govan
+53.4833	-104.9833	Shipman
+52.4	-104.9833	Lake Lenore
+52.2	-104.9833	Muenster
+51.0667	-104.95	Strasbourg
+51.0667	-104.95	Strasbourg Station
+49.9167	-104.95	Truax
+49.7333	-104.95	Edgeworth
+50.8	-104.9167	Silton
+49.5667	-104.9167	Ogema
+52.5	-104.9	Daylesford
+50.1833	-104.9	Rouleau
+52.6333	-104.8833	Saint Brieux
+50.75	-104.8667	Valeport
+50.65	-104.8667	Lumsden
+50.9833	-104.85	Bulyea
+52.1833	-104.8333	Saint Gregor
+50.4333	-104.8167	Grand Coulee
+52.9	-104.7833	Beatty
+49.6167	-104.75	Amulet
+51.4	-104.7333	Semans
+51.7833	-104.7167	Jansen
+53.4833	-104.6667	Snowden
+50.05	-104.6333	Corinne
+50.45	-104.6167	Regina
+52.8667	-104.6	Melfort
+52.8667	-104.6	Stony
+49.7167	-104.6	Moreland
+49.45	-104.6	Ceylon
+49.45	-104.6	Ceylon Station
+49.1667	-104.6	Surprise Valley
+49.1667	-104.5833	Minton
+55.4167	-104.55	Stanley
+55.4167	-104.55	Stanley Mission
+52.6667	-104.5333	Silver Park
+52.1333	-104.5333	Watson
+51.75	-104.5333	Dafoe
+51.4	-104.5333	Raymore
+52.4167	-104.5	Naicam
+50.9333	-104.5	Southey
+53.0833	-104.4667	Gronlid
+52.8667	-104.4667	Naisberry
+49.6333	-104.4667	Forward
+49.0833	-104.4667	Gladmar
+50.5667	-104.45	Zehner
+50.4667	-104.4167	Pilot Butte
+49.9167	-104.3667	Lang
+53.4833	-104.3333	Garrick
+52.8667	-104.3333	Star City
+50.1	-104.3167	Riceton
+53	-104.3	Brooksby
+49.4667	-104.2833	Radville
+52.0667	-104.25	Quill Lake
+49.6333	-104.2167	Trossachs
+50.95	-104.2	Cupar
+51.7667	-104.1833	Wynyard
+49.1333	-104.1833	Lake Alma
+49.8167	-104.15	Yellow Grass
+53.45	-104.0833	White Fox
+52.0167	-104.0667	Clair
+49.3667	-104.0667	Neptune
+53.1167	-104.0333	Armley
+53.3667	-104.0167	Nipawin
+53.2833	-104.0167	Codette
+51.55	-103.9667	Wishart
+52.6167	-103.9167	McKague
+50.5333	-103.8667	Qu'Appelle
+50.1	-103.8667	Francis
+49.8833	-103.8667	Cedoux
+50.9	-103.85	Lipton
+49.6667	-103.85	Weyburn
+52.3667	-103.8333	Nora
+52.0833	-103.8333	Hendon
+49.25	-103.8167	Tribune
+53.2	-103.8	Aylsham
+52.9833	-103.8	New Osgoode
+52.2	-103.8	Fosston
+51.95	-103.8	Wadena
+49.1333	-103.8	Oungre
+50.7667	-103.7833	Fort Qu'Appelle
+51.2667	-103.7333	Kelliher
+52.85	-103.7167	Crooked River
+49.4	-103.7	Goodwater
+50.5333	-103.6667	Indian Head
+49.7833	-103.6667	Talmage
+49.1833	-103.6667	Bromhead
+53.1167	-103.65	Arborfield
+52.7167	-103.6333	Bjorkdale
+53.2833	-103.5833	Carrot River
+58.05	-103.55	Wollaston Lake Post
+50.8	-103.55	Balcarres
+78.7833	-103.5333	Isachsen
+51.65	-103.5333	Foam Lake
+52.1667	-103.5167	Kelvington
+51.1667	-103.5	Ituna
+49.1333	-103.4833	Torquay
+53.15	-103.4667	Jordan River
+50.2167	-103.45	Montmartre
+68.0333	-103.4333	Ellice River
+50.4833	-103.4333	Sintaluta
+49.8833	-103.4333	Fillmore
+49.6667	-103.4333	Griffin
+53.55	-103.4167	Ravendale
+49.4	-103.4	Midale
+52.6167	-103.3833	Chelan
+52.8667	-103.3667	Mistatim
+49.1333	-103.3167	Outram Station
+50.4167	-103.2667	Wolseley
+52.6	-103.25	Porcupine Plain
+52.0667	-103.25	Lintlaw
+49.3167	-103.25	Macoun
+56.3333	-103.2333	Southend
+51.35	-103.2333	Parkview
+51.5833	-103.2167	Sheho
+50.7333	-103.2	Lemberg
+55.75	-103.1667	The Two Rivers
+55.0667	-103.0667	Sandy Narrows
+49.6833	-103.0167	Stoughton
+50.7167	-103	Neudorf
+49.15	-103	Estevan
+52.8667	-102.9833	Prairie River
+52.5833	-102.9667	Somme
+55.1667	-102.95	Pelican Narrows
+49.85	-102.95	Handsworth
+50.15	-102.9333	Peebles
+51.4333	-102.9167	Theodore
+50.4167	-102.9167	Grenfell
+54.1	-102.8167	Pinebluff
+51.2	-102.8	Willowbrook
+50.9333	-102.8	Melville
+49.15	-102.8	Bienfait
+51.7	-102.75	Buchanan
+49.3833	-102.75	Lampman
+52.25	-102.6667	Usherville
+51.95	-102.6667	Preeceville
+49.6333	-102.6667	Kisbey
+52.4667	-102.65	Reserve
+52.0667	-102.65	Hinchliffe
+50.1	-102.6333	Kipling Station
+50.3833	-102.5667	Broadview
+49	-102.55	North Portal
+52.6667	-102.5333	Clemenceau
+51.85	-102.5333	Sturgis
+52.9	-102.4833	Alticane
+49.6333	-102.4833	Arcola
+51.2167	-102.4667	Yorkton
+51.6333	-102.4333	Canora
+51.55	-102.4333	Burgis
+51.45	-102.4333	Gorlitz
+51.3	-102.4333	Mehan
+49.2	-102.4167	Frobisher
+52.85	-102.3833	Hudson Bay
+52.85	-102.3833	Hudson Bay Junction
+51.9	-102.35	Stenen
+50.0167	-102.35	Kennedy
+55.5333	-102.3333	Island Falls
+50.05	-102.2833	Langbank
+50.05	-102.2833	Longbank
+49.8333	-102.2833	Kenosee Park
+49.2667	-102.2833	Alameda
+53.95	-102.2667	Cumberland House
+49.6333	-102.2667	Carlyle
+49	-102.2667	Northgate
+51.2167	-102.25	Tonkin
+50.3333	-102.25	Whitewood
+52.4	-102.2333	Borden
+52.85	-102.2	Erwood
+51.35	-102.2	Rhein
+51.0333	-102.1667	Saltcoats
+49.2167	-102.1667	Oxbow
+51.2	-102.1	Barvas
+54.6667	-102.0833	Denare Beach
+50.65	-102.0833	Esterhazy
+49.6	-102.0833	Manor
+50.9333	-102.0333	Bredenbury
+49.9	-102.0167	Wawota
+51.2167	-102	Kessock
+50.25	-101.9667	Wapella
+49.9667	-101.9667	Kelso Station
+51.8667	-101.9167	Pelly
+51.5667	-101.9	Kamsack
+54.7667	-101.8833	Flin Flon
+51.2167	-101.8833	Wroxton
+49.3833	-101.8667	Alida
+54.75	-101.85	Channing
+52.8333	-101.85	Armit
+49.8833	-101.8333	Walpole
+54.2833	-101.8167	Sturgeon Landing
+51.5167	-101.8	Cote
+54.6667	-101.7833	Schist Lake
+49.7333	-101.7833	Mair
+49.1667	-101.7833	Carnduff
+51.15	-101.75	Calder
+49.3833	-101.7167	Nottingham
+50.8333	-101.7	Langenburg
+50.3833	-101.7	Rocanville
+49.5667	-101.7	Redvers
+50.6	-101.6833	Spy Hill
+57.8833	-101.6667	Brochet
+57.8833	-101.6667	Du Brochet
+57.8833	-101.6667	Fort du Brochet
+50.15	-101.6667	Moosomin
+49.7833	-101.6667	Ryerson
+51.9167	-101.55	Benito
+49.8333	-101.5333	Maryfield
+50.0667	-101.5167	Fleming
+49.1667	-101.45	Gainsborough
+52.8167	-101.4333	Barrows
+51.3167	-101.4333	Deepdale
+50.75	-101.4333	Harrowby
+54.5833	-101.3833	Cranberry Portage
+50.0167	-101.3667	Kirkella
+51.2333	-101.35	Roblin
+55.7333	-101.3167	Pukatawagan
+50.45	-101.3	Lazare
+50.45	-101.3	Saint Lazare
+50.7833	-101.2833	Russell
+50.6167	-101.2833	Binscarth
+52.1	-101.2667	Swan River
+49.9667	-101.25	Elkhorn
+49.1833	-101.25	Pierson
+53.8167	-101.2333	Le Pas
+53.8167	-101.2333	The Pas
+50.95	-101.2333	Inglis
+49.7333	-101.2333	Cromer
+49.05	-101.1667	Lyleton
+51.2167	-101.15	Bield
+52.6833	-101.1	Mafeking
+52.3833	-101.1	Birch River
+55.1167	-101.0833	Sherridon
+49.9167	-101.0833	Hargrave
+49.55	-101.0833	Reston
+52.5333	-101.0667	Novra
+56.85	-101.05	Lynn Lake
+52.5833	-101.05	Bellsite
+52.0833	-101.05	Minitonas
+50.4333	-101.05	Birtle
+50.2667	-101.0333	Beulah
+50.1333	-101.0333	Miniota
+49.2667	-100.9833	Melita
+49.0833	-100.9833	Coulter
+49.7167	-100.9667	Scarth
+49.3833	-100.9667	Bede
+49.55	-100.95	Pipestone
+49.85	-100.9333	Virden
+61.1333	-100.8833	Ennadai
+49.3167	-100.85	Napinka
+50.6667	-100.8167	Rossburn
+52.0833	-100.8	Renwer
+49.1	-100.8	Waskada
+50.1333	-100.7667	Arrow River
+49.95	-100.75	Lenore
+49.25	-100.75	Medora
+52.6167	-100.7333	Pelican Rapids
+51.1667	-100.7	Grand View
+49.3833	-100.6667	Lauder
+49.7667	-100.6333	Oak Lake
+54.2167	-100.6	Cormorant
+50.1833	-100.6	Hamiota
+49.1	-100.6	Goodlands
+50.5667	-100.5833	Oakburn
+50.4333	-100.5833	Shoal Lake
+56.2333	-100.5667	Pickerel Narrows
+51.7833	-100.5333	Pine River
+49.9833	-100.5333	Harding
+49.4833	-100.5167	Hartney
+49.1833	-100.5	Deloraine
+51.1333	-100.4833	Gilbert Plains
+49.7667	-100.4667	Griswold
+51.5167	-100.4	Ethelbert
+50.4	-100.4	Strathclair
+55.8167	-100.3833	Highrock
+50.5333	-100.3167	Elphinstone
+53.7	-100.3	Moose Lake
+49.8167	-100.3	Alexander
+51.1667	-100.2833	Ashville
+49.4333	-100.2667	Elgin
+49.6167	-100.25	Souris
+50.0333	-100.2167	Rivers
+50.35	-100.2	Newdale
+52.2	-100.1667	Duck Bay
+52.0167	-100.15	Camperville
+49.8333	-100.1333	Kemnay
+49.9667	-100.1	Carnegie
+51.15	-100.05	Dauphin
+49.2333	-100.05	Boissevain
+50.1167	-100.0333	Rapid City
+49.4	-100.0167	Minto
+50.65	-99.9667	Wasagaming
+49.9667	-99.95	Forrest Station
+49.8333	-99.95	Brandon
+51.65	-99.9167	Winnipegosis
+49.8667	-99.9167	Chater
+49.2167	-99.8833	Ninga
+50.25	-99.8333	Minnedosa
+54.7833	-99.7833	Herb Lake
+51.05	-99.7833	Ochre River
+49.8833	-99.7	Douglas Station
+49.5167	-99.6833	Wawanesa
+49.1833	-99.6667	Killarney
+49.4	-99.6333	Ninette
+51.95	-99.6	Skowman
+51.95	-99.6	Skownan
+51.3833	-99.6	Rorketon
+51.05	-99.5333	Sainte-Rose-du-Lac
+51.3167	-99.5	Magnet
+50.7833	-99.4833	McCreary
+50.6833	-99.4667	Norgate
+50.3667	-99.4667	Eden
+49.1333	-99.4667	Holmfield
+50.2333	-99.45	Neepawa
+50.15	-99.45	Hallboro
+49.5833	-99.45	Stockton
+49.4167	-99.45	Belmont
+49.8667	-99.35	Carberry
+49.2167	-99.3333	Neelin
+49.0833	-99.3333	Cartwright
+53.1667	-99.2833	Grand Rapids
+49.55	-99.2833	Glenboro
+49.3833	-99.2333	Baldur
+51.3667	-99.1167	Guynemer
+49.3667	-99.1167	Greenway
+50.1333	-99.1	Helston
+50.3833	-99.0833	Plumas
+49.55	-99.0833	Cypress River
+49.9	-99.0667	Sidney
+50.8	-98.9833	Alonsa
+50.2333	-98.95	Gladstone
+49.1333	-98.95	Crystal City
+56.7833	-98.9333	South Indian Lake
+49.95	-98.9333	Austin
+49.2	-98.9	Pilot Mound
+50.7	-98.8667	Harcus
+55.8	-98.85	Nelson House
+51.4333	-98.8	Steep Rock
+49.4	-98.8	Swan Lake
+49.9667	-98.7667	Deer
+49.9667	-98.7667	Macgregor
+50.6	-98.7333	Amaranth
+51.6	-98.7	Fairford
+49.6333	-98.7	Treherne
+50.3833	-98.6667	Langruth
+54.9167	-98.6333	Wabowden
+51.7667	-98.6167	Gypsumville
+50.1333	-98.5667	Westbourne
+49.5333	-98.55	Notre-Dame-de-Lourdes
+49.2333	-98.5333	Manitou
+50.0667	-98.45	Macdonald
+51.2833	-98.4167	Moosehorn
+51.2833	-98.4167	Moosehorn Bay
+51.3167	-98.35	Spearhill
+51.1833	-98.3333	Ashern
+50.1833	-98.3167	Delta
+50.1833	-98.3167	Delta Station
+49.9667	-98.3	Portage La Prairie
+54.8333	-98.25	Pipoon
+54.8333	-98.25	Pipun
+49.3667	-98.25	Miami
+50.9667	-98.1833	Mulvihill
+50.8667	-98.1	Eriksdale
+49.1833	-98.1	Morden
+50.5	-98.0333	Oak Point
+49.6667	-98	Elm Creek
+49.5	-98	Carman
+50.4167	-97.95	Saint-Laurent
+49.3667	-97.95	Roland
+49.1833	-97.9333	Winkler
+53.7	-97.8833	Warren Landing
+55.75	-97.8667	Thompson
+50.0833	-97.8667	Reaburn
+53.9667	-97.8333	Norway
+53.9667	-97.8333	Norway House
+54.6167	-97.7833	Cross Lake
+49.1833	-97.7667	Plum Coulee
+59.4167	-97.75	Caribou
+55.3167	-97.7	Thicket Portage
+49.5167	-97.7	Sperling
+50.2	-97.6667	Woodlands
+51.2	-97.5667	Hodgson
+50.7833	-97.5667	Chatfield
+49.1	-97.5667	Altona
+49.2	-97.55	Rosenfeld
+49	-97.55	Gretna
+50.6833	-97.5333	Narcisse
+50.5	-97.5	Inwood
+51.3833	-97.4833	Dallas
+50.0667	-97.45	Grosse Isle
+49.5333	-97.3667	Osborne
+49.35	-97.3667	Morris
+50.1333	-97.3167	Stonewall
+49.6	-97.3167	Domain
+50.3833	-97.2667	Teulon
+49.6833	-97.2667	La Salle
+49.9	-97.25	Saint James
+50.9	-97.2167	Arborg
+50.5667	-97.2167	Malonton
+50.0667	-97.2167	Stony Mountain
+49.8333	-97.2167	Tuxedo
+49	-97.2	Emerson
+49.9167	-97.1833	Brooklands
+49.8833	-97.1667	Winnipeg
+55.5833	-97.15	Pikwitonei
+55.5833	-97.15	Piquitona
+55.5833	-97.15	Piquitonay
+49.1333	-97.15	Dominion City
+49.8167	-97.1333	Saint Vital
+49.9333	-97.1167	West Kildonan
+49.95	-97.1	Kildonan
+49.9	-97.1	Saint Boniface
+49.9167	-97.0833	East Kildonan
+49.9167	-97.0833	Kildonan
+49.5	-97.05	Otterburne
+49.35	-97.05	Dufrost
+52.3667	-97.0333	Berens River
+49.0667	-97.0167	Ridgeville
+51	-97	Riverton
+50.6333	-97	Gimli
+50.5667	-97	Husavick
+49.8833	-97	Transcona
+51.7333	-96.9167	Matheson Island
+51.7333	-96.9167	Snake
+50.15	-96.8833	Selkirk
+51.6667	-96.8333	Little Bullhead
+49.7167	-96.7333	Dufresne
+55.7667	-96.7	Arnot
+49.0833	-96.7	Gardenton
+49.5167	-96.6833	Steinbach
+50.0833	-96.6667	Tyndall
+49.6667	-96.6667	Sainte Anne-des-Chenes
+49.6667	-96.6667	Sainte-Anne
+50.55	-96.6333	Grand Beach
+50.4333	-96.5667	Beaconia
+50.7	-96.55	Victoria Beach
+50.0667	-96.5167	Beausejour
+49.8667	-96.4667	Vivian
+49.8667	-96.4667	Vivian Station
+49.65	-96.45	Richer
+49.75	-96.4333	Ross
+49.75	-96.4333	Saint Genevieve Station
+49.75	-96.4333	Sainte Genevieve
+49.4333	-96.3833	Marchand
+50.0167	-96.3167	Molson
+51.1	-96.3	Manigotagan
+49.3167	-96.3	Sandilands
+49.1	-96.2667	Sundown
+50.55	-96.2333	Pine Falls
+50.1667	-96.2333	Milner Ridge
+51.1333	-96.2	English Brook
+49.2833	-96.15	Woodridge
+49.0833	-96.1333	Menisino
+56.25	-96.1	Split Lake
+49.8833	-96.0667	Lewis
+50.2667	-96.05	Lac du Bonnet
+49.25	-96.05	Carrick
+49.25	-96.05	Spurgrave
+50.1167	-96.0333	Seven Sister Falls
+50.1167	-96.0333	Seven Sisters Falls
+64.3167	-96.0167	Baker Lake
+64.3167	-96.0167	Kangerjuaq
+50.45	-96.0167	Great Falls
+50.35	-95.9667	Lettonia
+49.95	-95.9667	Whitemouth
+49.1833	-95.9667	Badger
+49.0667	-95.9667	Piney
+68.6333	-95.9167	Gjoa Haven
+68.6333	-95.9167	Peterson Bay
+49.8667	-95.9167	Elma
+49.6667	-95.9	Reynolds
+50.15	-95.8833	Pinawa
+49.1	-95.8333	Vassar
+49.0333	-95.7667	South Junction
+49.6333	-95.7167	McMunn
+50.4	-95.6833	Bird River
+51.0167	-95.6667	Bissett
+49.0333	-95.65	Sprague
+56.0667	-95.6333	Ilford
+49.6167	-95.6167	East Braintree
+50.3	-95.55	Pointe du Bois
+49.85	-95.55	Rennie
+52.05	-95.4833	Little Grand Rapids
+49.0167	-95.4333	Middlebro
+49.8833	-95.4167	Decimal
+50.9	-95.3333	Wadhope
+54.95	-95.2667	Oxford House
+49.7333	-95.2	West Hawk Lake
+49.6167	-95.1833	Waugh
+49.8	-95.1167	Ingolf
+49.9333	-94.9833	Malachi
+74.6833	-94.9	Qausuittuq
+74.6833	-94.9	Resolute
+53.9667	-94.7667	Island Lake
+56.35	-94.7	Gillam
+49.9833	-94.65	Minaki
+48.7167	-94.5667	Rainy River
+49.7667	-94.55	Keewatin
+49.7667	-94.4667	Kenora
+48.9333	-94.3833	Bergland
+49.1	-94.3167	Morson
+52.1	-94.3	Poplar Hill
+48.7	-94.3	Pinewood
+57.9333	-94.2	Belcher
+58.7667	-94.1667	Churchill
+57.2	-94.1667	Silcox
+48.8667	-94.1667	North Branch
+54.6667	-94.1333	Gods Lake
+56.8167	-94.0833	Weir River
+52.6167	-94.0667	Deer Lake
+61.1167	-94.05	Arviat
+61.1167	-94.05	Eskimo Point
+51.8167	-94	Pikangikum
+49.8	-93.9833	Hawk Lake
+48.8	-93.9833	Black Hawk
+48.65	-93.9833	Barwick
+50.9667	-93.9167	Madsen
+48.85	-93.9167	Finland
+51.0833	-93.8333	McKenzie Island
+51.0333	-93.8333	Red Lake
+48.6167	-93.8333	Emo
+53.7333	-93.6667	Sagawitchewan
+48.6833	-93.65	Burriss
+52.8333	-93.6333	Favourable Lake
+49.9833	-93.6167	McIntosh
+53.2667	-93.5667	Opasquia
+69.5333	-93.5333	Spence Bay
+69.5333	-93.5333	Taloyoak
+48.6167	-93.5333	Crozier
+49.95	-93.4167	Quibell
+48.6167	-93.4167	Fort Frances
+49.85	-93.3833	Vermilion Bay
+49.85	-93.3833	Vermillion
+53.0333	-93.2333	Sandy Lake
+49.7833	-93.1833	Eagle River
+50.6333	-93.1667	Goldpines
+49.8	-93.0833	Minnietakie
+49.8	-93.0833	Minnitaki
+49.8167	-92.9833	Oxdrift
+50.0167	-92.9333	Amesdale
+49.7833	-92.8333	Dryden
+48.7667	-92.8333	Farrington
+51.2167	-92.7833	Narrow Lake
+51.1	-92.75	Jackson Manion
+49.7667	-92.7	Barclay
+49.7667	-92.7	Bedworth
+51.2667	-92.6833	Swain Post
+48.7667	-92.6167	Mine Centre
+62.1833	-92.6	Tikiraqjuaq
+62.1833	-92.6	Whale Cove
+49.7167	-92.6	Wabigoon
+49.7167	-92.6	Wabigwunn
+57.0667	-92.5833	Nelson
+57.0667	-92.5833	Port Nelson
+49.7	-92.5	Dinorwic
+49.7	-92.5	Dinorwick
+51.4667	-92.35	Casummit Lake
+49.6167	-92.3167	Dyment
+49.9833	-92.3	Richan
+57	-92.2833	York Factory
+50.3167	-92.2833	Lac Seul
+50.3167	-92.2833	Lac Seul Post
+48.75	-92.2833	Crilly
+50.0833	-92.1667	Hudson
+62.8167	-92.0833	Kangiqtiniq
+62.8167	-92.0833	Rankin Inlet
+55.85	-92.0833	Chamatawa
+55.85	-92.0833	Shamattawa
+55.85	-92.0833	Shamattawa River
+48.7333	-92.0833	Flanders
+50.1	-91.9167	Sioux Lookout
+51.7167	-91.8	Cat Lake
+50.0667	-91.75	Alcona
+49.4167	-91.6667	Ignace
+48.8333	-91.6667	Steep Rock Lake
+48.75	-91.6167	Atikokan
+52.5833	-91.5333	Windigo Lake
+50.1667	-91.5333	McDougall Mills
+50.1667	-91.45	Ghost River
+50.9333	-91.3833	Root Portage
+52.95	-91.3333	Round Lake
+49.8333	-91.3333	Wako
+49.8333	-91.3333	Watcomb
+48.75	-91.2	Kawene
+49.65	-91	Tannin
+53.9333	-90.9833	Bearskin Lake
+48.7333	-90.9333	Quetico
+49.4167	-90.9167	Quorn
+52.7667	-90.7833	Atikup
+48.7167	-90.7333	Huronian
+50.2333	-90.7167	Savant Lake
+63.3333	-90.7	Chesterfield
+63.3333	-90.7	Chesterfield Inlet
+63.3333	-90.7	Igluligaarjuk
+63.3333	-90.7	Spurell Harbour
+63.3333	-90.7	Spurrell Harbour
+49.25	-90.5667	Graham
+49.05	-90.4667	Upsala
+48.65	-90.4333	Kashabowie
+49.0833	-90.2833	Larson
+51.1333	-90.2667	Osnaburgh
+51.1333	-90.2667	Osnaburgh House
+48.95	-90.25	Savanne
+48.6667	-90.25	Kabaigon
+51.1833	-90.2167	Rat Rapids
+50.2333	-90.2	Allan Water
+51.4833	-90.15	Central Patricia
+48.6333	-90.0667	Shebandowan
+51.5	-90.05	Pickle Crow
+48.6	-89.9833	Mabella
+48.8333	-89.9167	Raith
+48.5833	-89.9	Shabagua
+48.5833	-89.9	Shabaqua
+53.8167	-89.8833	Trout Lake
+52.95	-89.8833	Big Beaverhouse
+48.25	-89.8833	Silver Mountain
+68.5333	-89.8167	Akviligjuaq
+68.5333	-89.8167	Kugaaruk
+68.5333	-89.8167	Pelly Bay
+50.25	-89.7667	Fee Spur
+48.4167	-89.6167	Kakabeka Falls
+48.5333	-89.5833	Kaministikwia
+48.5333	-89.5833	Kanimistiquia
+50.2833	-89.45	Collins
+48.4	-89.2333	Fort William
+48.4	-89.2333	Port Arthur
+48.4	-89.2333	Thunder Bay
+49.8167	-89.1	Nipigon House
+50.3	-89.0333	Armstrong
+50.3	-89.0333	Armstrong Station
+48.55	-88.9667	Mackenzie
+48.3333	-88.8167	Silver Islet
+48.6333	-88.7667	Loon
+48.5667	-88.7333	Pass Lake
+48.75	-88.5833	Ouimet
+50.3	-88.5333	Willet
+48.85	-88.4833	Hurkett
+50.3167	-88.4167	Ferland
+48.9	-88.35	Everard
+49.1333	-88.3333	Cameron Falls
+48.95	-88.2833	Red Rock
+49.0167	-88.25	Nipigon
+49.3667	-88.1333	Orient Bay
+49.4333	-88.1167	Macdiarmid
+50.2333	-88.05	Minataree
+51.55	-87.9833	Fort Hope
+49.6	-87.95	Beardmore
+50.25	-87.9	Auden
+52.2167	-87.8833	Lansdowne House
+48.9	-87.6833	Cavers
+50.2333	-87.6667	Tashota
+55.9833	-87.65	Fort Severn
+55.9833	-87.65	Severn
+49.6667	-87.65	Nezah
+49.6833	-87.5167	Jellicoe
+48.8333	-87.5167	Rossport
+48.8	-87.2667	Schreiber
+50.25	-87.2167	Kowkash
+48.7833	-87.1	Terrace Bay
+49.7167	-86.9667	Geraldton
+48.8	-86.9667	Jackfish
+50.2333	-86.95	Aroland
+49.7	-86.95	Little Longlac
+50.1833	-86.7	Nakina
+49.7833	-86.55	Longlac
+48.7167	-86.3833	Peninsula
+48.75	-86.3667	Marathon
+48.65	-86.2833	Heron Bay
+66.5167	-86.2333	Naujat
+66.5167	-86.2333	Repulse Bay
+80.2167	-86.1833	Eureka
+49.6167	-86.15	Caramat
+51.6167	-85.9333	Ogoki
+49.1333	-85.8	Manitouwadge
+48.6833	-85.65	Mobert
+48.6833	-85.65	Montizambert
+48.5833	-85.2833	White River
+50.0167	-85.2167	Pagwa River
+55.25	-85.2	Weenusk
+55.25	-85.2	Winisk
+73.0333	-85.1667	Arctic Bay
+73.0333	-85.1667	Ipiarjuk
+73.0333	-85.1667	Tukik
+71.3333	-84.95	Shimik
+48.4833	-84.95	Amyot
+47.95	-84.9167	Michipicoten
+47.95	-84.9167	Michipicoten Harbor
+47.95	-84.9167	Michipicoten Harbour
+47.95	-84.9167	Michipicoton
+70.95	-84.8333	Saputit
+49.2167	-84.7833	Hornepayne
+48	-84.7833	Wawa
+46.9	-84.6	Batchawana
+48.0833	-84.55	Hawk Junction
+47.3333	-84.55	Frater
+48.25	-84.5333	Goudreau
+48.4667	-84.4167	Franz
+50.4167	-84.3667	Mammamattawa
+50.4167	-84.3667	Mammawemattawa
+46.5	-84.3333	Sault Sainte Marie
+48.35	-84.2667	Lochalsh
+46.55	-84.15	Garden River
+46.7167	-84.1333	Northland Station
+49.0667	-84.1	Oba
+48.3	-84.0833	Missanabie
+48.1167	-84.0667	Dalton Mills
+46.4833	-84.0667	Echo Bay
+46.7833	-84.05	Searchmont
+48.15	-84.0333	Dalton
+46.2833	-84.0333	Richards Landing
+46.3333	-83.9333	Desbarats
+48.1	-83.9167	Bolkow
+46.25	-83.8833	Hilton Beach
+49.5333	-83.8333	Coppell
+47.95	-83.7833	Nicholson
+46.2833	-83.7833	Bruce Mines
+49.7	-83.6667	Hearst
+49.7833	-83.65	Lac-Sainte-Therese
+48.7667	-83.6	Fire River
+46.25	-83.55	Thessalon
+49.6667	-83.5167	Hallebourg
+47.8333	-83.4	Chapleau
+48.6	-83.35	Peterbell
+49.6167	-83.3333	Fryatt
+46.2333	-83.3333	Dayton
+49.6167	-83.2667	Mattice
+47.7167	-83.2	Nemegos
+47.9	-83.1833	Borden
+64.1333	-83.1667	Coral Harbour
+64.1333	-83.1667	Salliq
+64.1333	-83.1667	Southampton Island
+49.6	-83.1667	Parthia
+46.2	-83.15	Dean Lake
+45.9167	-83.1167	Meldrum Bay
+42.1	-83.1	Amherstburg
+42.2833	-83.0667	Sandwich
+42.2833	-83.0667	Twin Sandwich
+42.3333	-83.0333	Windsor
+49.55	-83.0167	Lowther
+42.15	-82.9667	McGregor
+76.4167	-82.95	Grise Fiord
+46.1833	-82.95	Blind River
+42.3333	-82.95	Riverside
+41.9833	-82.9333	Colchester
+48.5167	-82.9167	Elsas
+42.0333	-82.9167	Harrow
+42.3167	-82.9	Tecumseh
+49.5333	-82.8667	Opasatika
+49.5333	-82.8667	Opastika
+42.3167	-82.85	Saint Clair Beach
+45.9	-82.8333	Sheshegwaning
+42.1667	-82.8167	Essex
+47.5833	-82.7667	Sultan
+42.1333	-82.75	Cottam
+42.0333	-82.75	Kingsville
+42.3	-82.7167	Belle River
+49.4667	-82.6833	Harty
+49.4667	-82.6833	Harty Station
+46.2	-82.6667	Spragge
+46.3833	-82.65	Elliot Lake
+41.8	-82.65	Scudder
+45.8167	-82.5833	Evansville
+42.05	-82.5833	Leamington
+42.2333	-82.55	Comber
+54.3667	-82.5333	Lake River
+41.9667	-82.5333	Point Pelee
+42.7167	-82.4833	Sombra
+45.9167	-82.4667	Gore Bay
+42.85	-82.4667	Mooretown
+42.8167	-82.4667	Courtright
+42.1	-82.45	Wheatley
+52.9167	-82.4333	Attawapiskat
+49.4167	-82.4333	Kapuskasing
+48.25	-82.4333	Foleyet
+42.25	-82.4333	Tilbury
+43	-82.4	Point Edward
+42.9667	-82.4	Sarnia
+42.5833	-82.3667	Wallaceburg
+47.4333	-82.3333	Ramsay
+47.4333	-82.3333	Ramsey
+46.1833	-82.3333	Spanish
+48.1333	-82.2667	Groundhog River
+45.9	-82.25	Kagawong
+42.4	-82.1833	Chatham
+42.5833	-82.1667	Dresden
+49.35	-82.15	Moonbeam
+42.8833	-82.15	Petrolia
+42.95	-82.1167	Wyoming
+48.0833	-82.1	Tionaga
+47.3	-82.1	Biscotasing
+46.2	-82.0833	Massey
+49.3	-82.0333	Fauquier
+45.55	-82.0167	South Baymouth
+52.75	-82	Kapiscau
+52.75	-82	Kapiskau
+43.1	-82	Forest
+42.3333	-82	Blenheim
+45.65	-81.9833	Tehkummah
+42.55	-81.9667	Thamesville
+47.1	-81.9333	Metagama
+45.9667	-81.9333	Little Current
+42.25	-81.9167	Erieau
+46.2667	-81.8833	Webbwood
+42.95	-81.8833	Watford
+42.4333	-81.8833	Ridgetown
+49.2833	-81.85	Strickland
+43.1667	-81.85	Thedford
+69.4	-81.8	Igloolik
+45.7333	-81.8	Manitouaning
+45.7333	-81.8	Manitowaning
+46.05	-81.7833	Birch Island
+46.05	-81.7833	Poncet
+46.25	-81.7667	Espanola
+43.3167	-81.75	Grand Bend
+47.6667	-81.7167	Gogama
+46.1	-81.7167	Whitefish Falls
+43.7333	-81.7	Goderich
+43.5667	-81.7	Bayfield
+42.75	-81.7	Glencoe
+43.1667	-81.6833	Parkhill
+42.5667	-81.6833	Rodney
+50.2	-81.6667	Coral Rapids
+49.25	-81.6667	Tudhope
+45.25	-81.6667	Tobermory
+49.2833	-81.6333	Smooth Rock Falls
+44.1667	-81.6333	Kincardine
+52.25	-81.6167	Albany
+52.25	-81.6167	Fort Albany
+49.85	-81.6167	Fraserdale
+42.95	-81.6167	Strathroy
+42.6	-81.6	West Lorne
+44.0667	-81.5833	Ripley
+46.7	-81.55	Cartier
+43.3	-81.55	Crediton
+47.4167	-81.5333	Westree
+43.6	-81.5333	Clinton
+49.6833	-81.5167	Brownrigg
+46.3667	-81.5167	Turbine
+43.95	-81.5167	Lucknow
+43.4333	-81.5	Hensall
+43.35	-81.4833	Exeter
+47.25	-81.4667	Ruel
+43.2833	-81.4667	Centralia
+43.0333	-81.4667	Lobo Township
+43.1167	-81.4333	Denfield
+42.8167	-81.4333	Muncey
+43.1833	-81.4	Lucan
+49.1333	-81.3833	Driftwood
+46.6333	-81.3833	Levack
+44.4333	-81.3833	Port Elgin
+43.55	-81.3833	Seaforth
+49.5667	-81.3667	Island Falls
+44.5	-81.3667	Southampton
+49.55	-81.35	Island Falls Junction
+49.55	-81.35	Island Falls Station
+48.4667	-81.3333	Timmins
+45.1667	-81.3333	Dyer Bay
+45.1667	-81.3333	Dyers Bay
+46.3667	-81.3167	Whitefish
+43.8833	-81.3	Wingham
+42.7167	-81.3	Fingal
+48.4667	-81.2833	Schumacher
+44.3	-81.2833	Paisley
+43.9833	-81.2833	Teeswater
+44.9833	-81.25	Lionhead
+44.9833	-81.25	Lions Head
+43.9333	-81.25	Glenannan
+43.2833	-81.25	Blanshard
+42.9833	-81.25	London
+44.2	-81.2333	Cargill
+42.6667	-81.2167	Port Stanley
+68.7667	-81.2	Hall Beach
+68.7667	-81.2	Sanirajak
+48.4667	-81.2	South Porcupine
+46.5833	-81.2	Chelmsford
+43.4667	-81.1833	Mitchell
+42.7833	-81.1833	Saint Thomas
+46.45	-81.1667	Creighton
+46.45	-81.1667	Creighton Mine
+46.4	-81.1667	Naughton
+44.5333	-81.1667	Allenford
+43.5167	-81.1667	Logan
+46.4333	-81.15	Lively
+44.1333	-81.15	Walkerton
+44.7333	-81.1333	Wiarton
+44.6	-81.1333	Park Head
+44.0833	-81.1333	Otter Creek
+43.25	-81.1333	Saint Marys
+44.0333	-81.1167	Mildmay
+44.3	-81.1	Chesley
+42.7	-81.0833	Sparta
+49.1833	-81.0667	Clute
+46.4667	-81.0667	Copper Cliff
+43.3333	-81.05	Downie
+49.3167	-81.0333	Gardiner
+44.15	-81.0333	Hanover
+49.0667	-81.0167	Cochrane
+48.5833	-81.0167	Drinkwater
+48.5833	-81.0167	Dugwal
+46.85	-81.0167	Sellwood
+43.3667	-80.9833	Stratford
+42.7833	-80.9833	Aylmer
+46.5	-80.9667	Sudbury
+43.7333	-80.9667	Listowel
+46.8167	-80.95	Milnet
+44.6333	-80.95	Sarawak
+48.6167	-80.9333	Connaught
+48.6167	-80.9333	Connaught Station
+44.05	-80.9333	Ayton
+43.5667	-80.9333	Milverton
+46.7	-80.9167	Capreol
+43.3333	-80.9167	South Easthope
+44.45	-80.8833	Chatsworth
+43.9167	-80.8833	Harriston
+43.0333	-80.8833	Ingersoll
+48.6333	-80.8667	McIntosh Springs
+46.5667	-80.8667	Garson
+46.5667	-80.8667	Garson Mine
+46.2333	-80.8667	Burwash
+46.2333	-80.8667	Burwash Station
+48.8667	-80.85	Holland
+48.8667	-80.85	Potter
+46.4833	-80.85	Coniston
+44.5667	-80.85	Owen Sound
+43.8333	-80.85	Palmerston
+49.0167	-80.8333	Brower
+43.3167	-80.8333	Tavistock
+48.8167	-80.8167	Devonshire
+46.5667	-80.8167	Falconbridge
+46.3833	-80.8167	Wanup
+44.1833	-80.8167	Durham
+42.65	-80.8167	Port Burwell
+46.3	-80.8	Burwash
+46.3	-80.8	Estaire
+44.5667	-80.8	Sydenham
+48.7	-80.7833	Porquis Junction
+47.65	-80.7833	Gowganda
+46.6667	-80.75	Maclennan Township
+46.6667	-80.75	Skead
+43.1333	-80.75	Woodstock
+48.6833	-80.7333	Kelso
+47.6833	-80.7333	O'Brien
+45.8833	-80.7333	Key Harbour
+43.9667	-80.7333	Mount Forest
+42.8667	-80.7333	Tillsonburg
+42.8667	-80.7333	Tilsonburg
+48.9833	-80.7167	Norembega
+45.9833	-80.7167	Key Junction
+43.3833	-80.7167	New Hamburg
+46.1667	-80.7	Delamare
+46.1667	-80.7	Delamere
+48.75	-80.6833	Ansonville
+48.65	-80.6833	Monteith
+48.5333	-80.6833	Shillington
+48.7667	-80.6667	Iroquois Falls
+43.4	-80.6667	Baden
+51.2667	-80.65	Moose Harbor
+51.2667	-80.65	Moosonee
+48	-80.65	Matachewan
+44.3167	-80.65	Markdale
+51.25	-80.6	Moose Factory
+51.25	-80.6	Moose Island
+46.0333	-80.6	Bigwood
+42.9833	-80.6	Norwich
+44.6	-80.5833	Meaford
+43.6167	-80.5833	Floradale
+45.7667	-80.55	Byng Inlet
+44.25	-80.55	Flesherton
+43.6	-80.55	Elmira
+43.2333	-80.55	Drumbo
+46.4833	-80.5333	Markstay
+45.8833	-80.5333	Ludgate
+45.7833	-80.5333	Britt
+44.3167	-80.5333	Eugenia
+43.8333	-80.5333	Arthur
+43.4667	-80.5333	Waterloo
+43.45	-80.5	Kitchener
+42.85	-80.5	Delhi
+43.4833	-80.4833	Bridgeport
+48.5333	-80.4667	Matheson
+48.5333	-80.4667	Matheson Station
+44.55	-80.45	Thornbury
+43.2833	-80.45	Ayr
+42.6333	-80.45	Port Rowan
+46.6333	-80.4333	Washagami
+46.1333	-80.4333	Noelville
+43.6833	-80.4333	Elora
+46.35	-80.4167	Saint-Charles
+48.4833	-80.3833	Vimy Ridge
+44.1667	-80.3833	Dundalk
+43.2	-80.3833	Paris
+45.6	-80.3667	Pointe au Baril Station
+43.7	-80.3667	Fergus
+43.4	-80.35	Preston
+47.7167	-80.3333	Elk Lake
+48.4167	-80.3167	Ramore
+43.9	-80.3167	Grand Valley
+43.4333	-80.3167	Hespeler
+43.3833	-80.3167	Cambridge
+46.4333	-80.3	Warren
+43.35	-80.3	Galt
+42.8333	-80.3	Simcoe
+45.5167	-80.2833	Shawanaga
+42.9333	-80.2833	Waterford
+43.1333	-80.2667	Brantford
+48.3667	-80.25	Scotty Springs
+48.3667	-80.25	Wavell
+48.3667	-80.25	Yorkston
+43.55	-80.25	Guelph
+48.2833	-80.2333	Bourkes
+47.6667	-80.2333	Wabun
+43.1	-80.2333	Newport
+44.5	-80.2167	Collingwood
+44.0667	-80.2	Shelburne
+42.7833	-80.2	Port Dover
+46.5833	-80.1833	River Valley
+47.65	-80.1667	Leeville
+48.9167	-80.1333	Low Bush
+46.4	-80.1167	Verner
+48.1	-80.1	Swastika
+45.4167	-80.1	Nobel
+44.3167	-80.1	Creemore
+45.6333	-80.0833	Ardbeg
+45.3167	-80.0833	Depot Harbour
+44.4167	-80.0833	Stayner
+43.9167	-80.0833	Orangeville
+43.7667	-80.0667	Erin
+42.8	-80.0667	Nanticoke
+42.95	-80.05	Hagersville
+48.15	-80.0333	Kirkland Lake
+46.5167	-80.0333	Field
+45.3333	-80.0333	Parry Sound
+43.6333	-80.0333	Acton
+48.0667	-80.0167	Dane
+47.8167	-80	Charlton
+47.6333	-80	Kenabeek
+43.8667	-80	Caledon
+45.9167	-79.9833	Port Loring
+48.15	-79.95	King Kirkland
+48.0167	-79.95	Boston Creek
+43.0667	-79.95	Caledonia
+46.3667	-79.9333	Sturgeon Falls
+45.3	-79.9333	Otter Lake
+44.7667	-79.9333	Penetanguishene
+43.7833	-79.9333	Inglewood
+43.7833	-79.9333	Inglewood Junction
+43.65	-79.9333	Georgetown
+43.2667	-79.9333	Dundas
+44.2833	-79.9167	Borden
+44.75	-79.9	Midland
+46.45	-79.8833	Crystal Falls
+44.6833	-79.8833	Wyebridge
+44.3167	-79.8833	Angus
+44.2667	-79.8833	Camp Borden
+43.5167	-79.8833	Milton
+43.5167	-79.8833	Milton West
+43.3333	-79.8833	Waterdown
+47.8167	-79.8667	Englehart
+44.5833	-79.8667	Elmvale
+44.15	-79.8667	Alliston
+43.8667	-79.8667	Caledon East
+43.25	-79.8333	Hamilton
+47.8	-79.8167	Heaslip
+47.7167	-79.8167	Earlton
+47.7167	-79.8167	Earlton Junction
+44.75	-79.8167	Port McNicoll
+44.7167	-79.8167	Coldwater
+47.3333	-79.8	Lachford
+47.3333	-79.8	Latchford
+44.0167	-79.8	Tottenham
+43.3167	-79.8	Burlington
+47.0667	-79.7833	Timagami
+45.3833	-79.7833	Edgington
+45.3833	-79.7833	Orrville
+44.35	-79.7833	Colwell
+44.35	-79.7833	Cowell
+45.1333	-79.7667	MacTier
+44.75	-79.7667	Victoria Harbour
+43.6833	-79.7667	Brampton
+43.2167	-79.75	Stoney Creek
+43.2167	-79.75	Stony
+42.9667	-79.75	Canfield
+44.45	-79.7333	Midhurst
+43.8833	-79.7333	Bolton
+48.1	-79.7167	Larder Lake
+44.8	-79.7167	Port Severn
+43.5833	-79.7167	Streetsville
+44.75	-79.7	Waubaushene
+44.3833	-79.7	Barrie
+47.3833	-79.6833	Cobalt
+47.5	-79.6667	New Liskeard
+43.4333	-79.6667	Oakville
+47.6	-79.65	Notre-Dame-du-Nord
+43.5333	-79.65	Erindale
+47.4333	-79.6333	Haileybury
+47.4333	-79.6333	Halleybury
+46.9	-79.6333	Redwater
+46.9	-79.6333	Redwater Station
+45.6667	-79.6333	Magnetawan
+43.7	-79.6333	Malton
+45.0167	-79.6167	Bala
+44.5167	-79.6167	Edgar
+42.9	-79.6167	Dunnville
+45.95	-79.6	Commanda
+43.7833	-79.6	Woodbridge
+46.8167	-79.5833	Kenney
+46.8167	-79.5833	Kenny
+44.25	-79.5833	Churchill
+43.55	-79.5833	Port Credit
+44.9833	-79.5667	Torrance
+44.1167	-79.5667	Bradford
+43.7167	-79.5667	Rexdale
+43.7	-79.5667	Etobicoke
+42.8667	-79.5667	Port Maitland
+44.2667	-79.55	Lefroy
+43.2	-79.55	Grimsby
+48.1667	-79.5333	Cheminis
+43.9333	-79.5333	King City
+43.5833	-79.5333	Long Branch
+43.1	-79.5333	Smithville
+48.8667	-79.5	La Reine
+44.85	-79.5	Hydro Glen
+44.85	-79.5	Ragged Rapids
+44.85	-79.5	Ragged Rapids
+43.7	-79.5	Weston
+43.6	-79.5	Mimico
+43.6	-79.5	New Toronto
+43.15	-79.5	Mississauga
+48.95	-79.4833	Desmeloizes
+43.7167	-79.4833	Downsview
+45.4833	-79.4667	Sprucedale
+44.5	-79.4667	Hawkestone
+44.25	-79.4667	Keswick
+44	-79.4667	Aurora
+43.6333	-79.4667	Swansea
+43.1667	-79.4667	Beamsville
+54.4	-79.45	Roggan River
+46.3	-79.45	North Bay
+44.05	-79.45	Newmarket
+47.4667	-79.4333	Saint Bruno
+47.4667	-79.4333	Saint-Bruno-de-Guigues
+47.45	-79.4333	Guigues
+47.3333	-79.4333	Ville-Marie
+43.8667	-79.4333	Richmond Hill
+48.3667	-79.4167	Montbray Township
+48.2	-79.4167	Dasserat
+46.5667	-79.4167	Tomiko
+46.3333	-79.4167	Trout Mills
+45.6167	-79.4167	Burks Falls
+44.6	-79.4167	Orillia
+43.8	-79.4167	Thornhill
+43.75	-79.4167	York Mills
+43.7	-79.4167	Forest Hill
+43.6667	-79.4167	Toronto
+45.7667	-79.4	Sundridge
+45.05	-79.4	Crystal Beach
+49	-79.3667	Normetal
+48.8333	-79.3667	Dupuy
+47.2	-79.3667	Fabre
+47.2	-79.3667	Saint Edouard
+47.2	-79.3667	Saint-Edouard-de-Fabre
+46.2167	-79.3667	Callander
+45.9833	-79.3667	Trout Creek
+45.85	-79.3667	South River
+44.9167	-79.3667	Gravenhurst
+44.6	-79.3667	Atherley
+44.3	-79.3667	Sutton
+44.3	-79.3667	Sutton West
+43.7	-79.3667	Leaside
+46.0667	-79.35	Powassan
+47.2833	-79.3333	Bearn
+47.2833	-79.3333	Saint Placide
+47.2833	-79.3333	Saint-Placide-de-Bearn
+45.2167	-79.3333	Utterson
+44.7667	-79.3333	Severn
+44.7667	-79.3333	Severn Bridge
+44.75	-79.3333	Washago
+43.7333	-79.3333	Don Mills
+47.1833	-79.3167	Fabre-Station
+45.5333	-79.3167	Emsdale
+45.5167	-79.3	Scotia
+45.0333	-79.3	Bracebridge
+45	-79.3	Muskoka
+45	-79.3	Muskoka Falls
+47.4167	-79.2833	Laverlochere
+43.0333	-79.2833	Fonthill
+47.0333	-79.2667	Laniel
+44.65	-79.2667	Rathburn
+43.8667	-79.2667	Markham
+43.7833	-79.2667	Agincourt
+43.2	-79.2667	Port Dalhousie
+48.2	-79.25	Arntfield
+47.9333	-79.25	Rollet
+45.45	-79.25	Novar
+43.9667	-79.25	Stouffville
+43.9667	-79.25	Stouffville Junction
+43.9667	-79.25	Whitchurch-Stouffville
+43.7833	-79.25	Scarborough Township
+43.7333	-79.25	Brimley
+43.7167	-79.25	Scarborough Junction
+42.9833	-79.25	Welland
+56.5333	-79.2333	Sanikiluaq
+47.55	-79.2333	Angliers
+43.1667	-79.2333	Saint Catharines
+43.1667	-79.2333	Saint Catherines
+42.8833	-79.2333	Port Colborne
+48.5167	-79.2167	Duparquet
+45.3333	-79.2167	Huntsville
+43.2167	-79.2167	Port Weller
+48.8	-79.2	La Sarre
+48.6667	-79.2	Palmarol
+48.6667	-79.2	Palmarolle
+44.3167	-79.2	Pefferlaw
+43.75	-79.2	Scarborough
+43.1167	-79.2	Thorold
+44.55	-79.1833	Brechin
+44.4333	-79.15	Beaverton
+46.0667	-79.1167	Fossmill
+44.1	-79.1167	Uxbridge
+46.7167	-79.1	Timiskaming Station
+45.6	-79.1	Ravensworth
+43.1333	-79.1	Stamford
+46.7167	-79.0833	Temiscaming
+43.25	-79.0667	Newark
+43.25	-79.0667	Niagara
+43.25	-79.0667	Niagara-on-the-Lake
+44.2333	-79.05	Blackwater
+43.1667	-79.05	Queenston
+43.1	-79.05	Niagara Falls
+43.0833	-79.05	Chippawa
+43.0833	-79.05	Chippewa
+48.25	-79.0333	Rouyn
+46.2667	-79.0333	Rutherglen
+44.65	-79.0333	Carden
+44.35	-79.0333	Cannington
+43.8667	-79.0333	Pickering
+53.8333	-79.0167	Fort-George
+48.25	-79.0167	Noranda
+46.6333	-79.0167	Beauchene
+43.85	-79.0167	Ajax
+48.7667	-79	Macamic
+48.7667	-79	Macamik
+48.7667	-79	Makamik
+44.4167	-79	Lorneville
+48.6667	-78.9833	Poularies
+46.7667	-78.9833	Kipawa
+44.0167	-78.9667	Myrtle Station
+48.0167	-78.9333	Dubois
+48.0167	-78.9333	Saint-Roch
+44.7167	-78.9333	Head Lake
+44.6	-78.9333	Victoria Road
+44.1	-78.9333	Port Perry
+43.8667	-78.9333	Whitby
+42.9	-78.9333	Fort Erie
+48.2167	-78.9167	McWatters
+45.0667	-78.9	Hindon
+48.45	-78.8833	Davangus
+46.0833	-78.8833	Kiosk
+45.2333	-78.8833	Dorset
+48.8333	-78.8667	Authier-Nord
+48.8333	-78.8667	Macamic-Nord
+48.7167	-78.8667	Authier
+48.3667	-78.8667	Clericy
+43.9	-78.8667	Oshawa
+48.5667	-78.8333	Lac-Lois
+46.3333	-78.8333	Mattawan
+53	-78.8167	Nouveau-Comptoir
+53	-78.8167	Paint Hills
+45.6333	-78.8167	Brule Lake
+45.6333	-78.8167	Brule Lake Station
+45.05	-78.8	Hindon Hill
+44.6667	-78.8	Coboconk
+44.05	-78.8	Burketon Station
+51.4833	-78.7667	Fort-Rupert
+51.4833	-78.7667	Rupert House
+44.5333	-78.75	Fenelon Falls
+44.9333	-78.7333	Minden
+44.35	-78.7333	Lindsay
+44.35	-78.7333	Lindsay
+52.6	-78.7167	Factory River
+52.6	-78.7167	Old Factory
+52.6	-78.7167	Old Factory River
+44.0167	-78.7167	Tyrone
+48.6667	-78.7	Taschereau
+46.3167	-78.7	Mattawa
+43.9	-78.6833	Bowmanville
+44.1333	-78.6667	Manvers
+44.7833	-78.65	Kinmount
+44.45	-78.6333	Dunsford
+44.1	-78.6333	Pentypool
+44.1	-78.6333	Pontypool
+45.55	-78.6	Algonquin Park
+43.9167	-78.5833	Newcastle
+44.1833	-78.5667	Bethany
+44.5333	-78.55	Bobcaygeon
+44.3	-78.55	Omemee
+52.2333	-78.5167	Eastmain
+45.0333	-78.5167	Haliburton
+60.7333	-78.4833	Cape Smith
+46.0333	-78.4667	Brent
+44.15	-78.45	Millbrook
+45.6167	-78.4	Sproule Township
+48.2167	-78.3833	Cadillac
+44.9	-78.3833	Gooderham
+48.6167	-78.3667	Villemontel
+44.0667	-78.3667	Campbellcroft
+44.55	-78.3333	Buckhorn
+44.55	-78.3333	Hall Bridge
+44.55	-78.3333	Hall's Bridge
+44.3	-78.3333	Peterborough
+43.95	-78.3	Port Hope
+46.25	-78.2833	Deux Rivieres
+44.4333	-78.2667	Lakefield
+45.5	-78.2333	Whitney
+45.0333	-78.2167	Wilberforce
+44.3833	-78.2	Douro
+44.1333	-78.1833	Harwood
+44.25	-78.1667	Keene
+43.9667	-78.1667	Cobourg
+58.45	-78.15	Inoucdjouac
+58.45	-78.15	Port Harrison
+48.4667	-78.1333	Harricanaw Ouest
+48.5667	-78.1167	Amos
+48.35	-78.1167	La Motte
+48.3333	-78.1167	La Motte
+48.1333	-78.1167	Malartic
+45.4	-78.0833	Princes Lake
+45.4	-78.0833	Wallace
+45.0667	-78.0833	Highland Grove
+44.75	-78.0833	Apsley
+48.4667	-78.0667	Figuery
+46.2167	-78.0667	Bissett
+46.2167	-78.0667	Bissett Creek
+45.3	-78.0333	Lake Saint Peter
+72.7	-78	Mitimatilik
+72.7	-78	Pond Inlet
+72.7	-78	Ponds
+72.7	-78	Tununiq
+45.5	-78	Madawaska
+48.65	-77.9833	Saint-Maurice-de-Dalquier
+48.35	-77.9833	Lacorne
+44.3833	-77.9833	Norwood
+48.55	-77.95	Landrienne
+44.3	-77.95	Hastings
+48.2333	-77.9333	Vassan
+45.2333	-77.9333	Maynooth
+62.4167	-77.9	Ivugivik
+62.4167	-77.9	Notre-Dame-d'Ivugivic
+48.1	-77.9	Dubuisson
+46.2167	-77.8833	Rockliffe
+46.2167	-77.8833	Stonecliffe
+44.4333	-77.8833	Havelock
+44.0167	-77.8833	Colborne
+45.1167	-77.8667	Bird Creek
+45.1167	-77.8667	Birds Creek
+45.05	-77.85	Bancroft
+44.85	-77.8333	Coe Hill
+44.85	-77.8333	Coe Hill Mines
+44.25	-77.8167	Meyersburg
+48.4833	-77.8	Fisher
+44.3	-77.8	Campbellford
+55.2667	-77.7833	Great Whale River
+55.2667	-77.7833	Poste-de-la-Baleine
+44.5333	-77.7833	Cordova Mines
+48.1167	-77.7667	Val-d'Or
+48.1	-77.7667	Bourlamaque
+48.7	-77.7333	Lac-Castagnier
+44.9833	-77.7333	Turriff
+44.0333	-77.7333	Brighton
+46.1333	-77.7	Moor Lake Station
+48.5167	-77.6833	Saint Blaise de Barraute
+48.5167	-77.6833	Val-Laflamme
+45.4833	-77.6833	Barry Bay
+45.4833	-77.6833	Barrys Bay
+44.4833	-77.6833	Marmora
+48.5	-77.6667	Barraute
+48.3833	-77.6667	Fiedmont
+65.1333	-77.6333	Nuwata
+49.75	-77.6333	Matagami
+48.6667	-77.6333	Champcoeur
+48.6167	-77.6333	Lamorandiere
+48.4333	-77.6333	Barraute
+53.7833	-77.6167	Radisson
+45.3667	-77.6167	Combermere
+44.8167	-77.6167	Gilmour
+44.5167	-77.6167	Deloro
+44.4333	-77.6167	Bonarlaw
+44.3	-77.6	Anson
+44.2	-77.6	Frankford
+44.1	-77.5833	Trenton
+46.1667	-77.5667	Deep River
+46.1667	-77.5667	Deep River Depot
+48.1667	-77.55	Perron
+44.65	-77.55	Bannockburn
+44.3	-77.55	Stirling
+48.4167	-77.5167	Uniacke
+46.1	-77.5	Deep River
+48.15	-77.4833	Pascalis
+44.5167	-77.4833	Madoc
+48.6667	-77.4667	Rochebaucourt
+46.0167	-77.45	Chalk River
+44.4333	-77.45	Crookston
+45.55	-77.4167	Killaloe Station
+45.2167	-77.4	Bruceton
+62.5333	-77.3833	Wolstenholme
+44.1667	-77.3833	Belleville
+44.2167	-77.3667	Corbyville
+44.0833	-77.3667	Mountain View
+48.4	-77.35	Belcourt
+43.95	-77.35	Big Sandy
+43.95	-77.35	Wellington
+44.6667	-77.3333	Elzevir
+44.55	-77.3333	Actinolite
+45.45	-77.3167	Foymount
+44.4667	-77.3	Tweed
+60.0333	-77.2833	Povungnetuk
+60.0333	-77.2833	Povungnituc
+60.0333	-77.2833	Povungnituk
+60.0333	-77.2833	Puvirnituq
+45.9	-77.2833	Petawawa
+45.9	-77.2833	Petewahweh
+45.9	-77.2833	Petewawa
+44.6333	-77.2833	Elzevir
+48.4	-77.25	Senneterre
+45.5833	-77.25	Golden Lake
+45.15	-77.25	Denbigh
+44	-77.2333	Hallowell
+44.5167	-77.2167	Sulphide
+44.0167	-77.15	Picton
+45.8167	-77.1167	Pembroke
+45.25	-77.1167	Khartum
+44.65	-77.1167	Kaladar
+44.65	-77.1167	Kaladar Station
+45.5333	-77.1	Eganville
+44.2333	-77.0333	Mohawk
+44.2333	-77.0333	Mount Pleasant
+44.2	-77.0333	Deseronto
+44.3833	-77.0167	Roblin
+45.3667	-76.9833	Dacre
+44.4667	-76.9833	Tamworth
+44.25	-76.95	Napanee
+44.05	-76.9333	Bogard
+44.05	-76.9333	Bongard
+44.05	-76.9333	Bongards
+45.9167	-76.9167	Waltham Station
+51.3167	-76.9	Nemiscau
+45.6167	-76.8833	Cobden
+44.4667	-76.8833	Enterprise
+44.3333	-76.8667	Newburgh
+44.2167	-76.8667	Fredericksburg
+45.7333	-76.85	Beachberg
+45.7333	-76.85	Beachburg
+44.7333	-76.85	Mountain Grove
+45.0167	-76.8333	Ompah
+45.5667	-76.7667	Haley
+45.5667	-76.7667	Haley Station
+45.5667	-76.7667	Haleys
+44.3667	-76.7667	Yarker
+44.1833	-76.7667	Bath
+44.15	-76.7667	Emerald
+45.85	-76.75	Fort Coulonge
+44.2	-76.75	Millhaven
+45.3	-76.7167	Calabogie
+44.65	-76.7167	Parham
+47.5	-76.7	Barriere
+45.0333	-76.7	Lavant Station
+45.4667	-76.6833	Renfrew
+44.9333	-76.6833	Mississippi Station
+44.7667	-76.6833	Sharbot Lake
+44.6667	-76.6833	Tichborne
+44.4833	-76.6833	Verona
+45.6833	-76.6167	Bryson
+45.6833	-76.6167	Havelock
+44.2333	-76.6167	Collins Bay
+45.7333	-76.6	Campbells Bay
+48.2333	-76.5833	Doucet
+48.2333	-76.5833	Paradis
+44.3	-76.5667	Kingston
+64.2333	-76.55	Cape Dorset
+64.2333	-76.55	Dorset
+64.2333	-76.55	Kingait
+54.0167	-76.5333	Kanaaupscow
+44.3667	-76.5167	Latimer
+49.65	-76.4833	Waswanipi
+49.65	-76.4833	Woswonaby
+45.6	-76.4833	Shawville
+45.3667	-76.4833	White Lake
+44.2333	-76.4833	Kingston
+45.5167	-76.4167	Norway Bay
+45.4667	-76.4	Braeside
+44.6833	-76.4	Westport
+45.4333	-76.3667	Amprior
+45.4333	-76.3667	Arnprior
+44.3333	-76.3333	Pittsburgh
+44.65	-76.3167	Newboro
+45.3333	-76.2833	Pakenham
+44.65	-76.25	Crosby
+45.5167	-76.2333	Quyon
+44.8833	-76.2333	Perth
+45.2167	-76.2	Almonte
+44.3333	-76.1667	Gananoque
+45.1333	-76.1333	Carleton Place
+49.5	-76.0833	Lesueur
+46.0833	-76.05	Gracefield
+46.5333	-76.0333	Montcerf
+45.65	-76.0333	Sainte-Cecile-de-Masham
+45.35	-76.0333	Carp
+46.2333	-76.0167	Burbidge
+46.2333	-76.0167	Messines
+44.9	-76.0167	Smiths Falls
+45.5167	-76	Luskville
+46.3667	-75.9667	Maniwac
+46.3667	-75.9667	Maniwaki
+44.6833	-75.9667	Eloida
+45.95	-75.95	Lac Sainte-Marie
+45.8	-75.95	Low
+45.6333	-75.9333	Wakefield
+45.35	-75.9333	South March
+44.3667	-75.9333	Rockport
+45.25	-75.9167	Stittsville
+45.3333	-75.9	Kanata
+45.3667	-75.8833	Shirleys Bay
+45.3	-75.8833	Hazeldean
+45.5167	-75.8667	Lac-Meach
+45.5167	-75.8667	Meach Lake
+45.5167	-75.8667	Meech Lake
+45.4	-75.85	Aylmer
+44.6333	-75.85	Glen Buell
+45.1833	-75.8333	Richmond
+44.9167	-75.8333	Merrickville
+45.5	-75.8167	Old Chelsea
+45.3833	-75.8	Deschenes
+45.4333	-75.7333	Hull
+45.4667	-75.7	Gatineau Point
+45.4667	-75.7	Pointe-a-Gatineau
+45.4667	-75.7	Pointe-Gatineau
+45.45	-75.6833	Rockcliffe Park
+45.45	-75.6833	Rockliffe
+45.3333	-75.6833	Uplands
+44.5833	-75.6833	Brockville
+45.4833	-75.65	Gatineau
+45.4333	-75.65	Eastview
+45.4333	-75.65	Eastview Centre
+44.65	-75.65	South Augusta
+62.2	-75.6333	Saglouc
+62.2	-75.6333	Sugluk
+48.1667	-75.6333	Monet
+45.0167	-75.6333	Kemptville
+46.0833	-75.6167	Notre-Dame-du-Laus
+45.4833	-75.6	Templeton
+45.3333	-75.6	Leitrim
+45.7667	-75.5833	Notre-Dame-de-la-Salette
+45.4667	-75.5167	Orleans
+44.7167	-75.5167	Prescott
+46.55	-75.5	Mont-Laurier
+46.7	-75.45	Ferme-Neuve
+45.5833	-75.4167	Buckingham
+45.55	-75.4167	Masson
+48.1167	-75.3667	Clova
+46.4167	-75.3667	Kiamika
+44.7833	-75.3667	Cardinal
+46.5167	-75.35	Val-Barrette
+45.1	-75.35	Winchester
+46.8667	-75.3167	Sainte-Anne-du-Lac
+44.85	-75.3167	Iroquois
+46.7333	-75.3	Lac-Saint-Paul
+45.5333	-75.2833	Rockland
+45.45	-75.25	Richelieu
+45.3333	-75.25	Limoges
+45.5833	-75.2333	Thurso
+48.1167	-75.2167	Oskelaneo
+45.1	-75.2167	Chesterville
+44.9	-75.1833	Morrisburg
+45.7833	-75.1	Ripon
+45.3	-75.0833	Casselman
+45.1333	-75.0833	Finch
+45.45	-75.0667	Pendleton
+44.95	-75.0667	Upper Canada Village
+45.7167	-75.05	Saint-Andre-Avellin
+46.3833	-75.0167	Nominingue
+45.6167	-75.0167	Papineauville
+45	-75	Ingleside
+48.6667	-74.95	Obiduan
+48.6667	-74.95	Obijuan
+45.65	-74.9333	Montebello
+45.0333	-74.9	Long Sault
+46.3667	-74.8833	Lac-Castor
+49.7833	-74.8667	Chapais
+46.4	-74.8667	L'Annonciation
+45.55	-74.8667	Alfred
+45.2833	-74.85	Maxville
+49.8333	-74.8333	Levy
+46.3667	-74.7667	La Macaza
+46.0167	-74.7667	Saint Remi
+46.0167	-74.7667	Saint-Remi-d'Amherst
+46.2833	-74.7333	Labelle
+45.0167	-74.7333	Cornwall
+45.6167	-74.6833	L'Original
+45.6167	-74.6833	L'Orignal
+45.5167	-74.65	Vankleek Hill
+46.2	-74.6333	Lac Mercier
+46.2	-74.6333	Mont-Tremblant
+45.3	-74.6333	Alexandria
+47.9167	-74.6167	Parent
+45.6333	-74.6	Grenville
+45.6167	-74.6	Hawkesbury
+49.7	-74.5833	Hauy Township
+49.5667	-74.5833	Fancamp Township
+46.1167	-74.5833	Saint-Jovite
+45.35	-74.5	Glen Robertson
+45.1333	-74.5	Lancaster
+45.1333	-74.4833	South Lancaster
+45.6833	-74.4	Brownsburg
+45.0167	-74.4	Sainte-Agnes
+45.0167	-74.4	Sainte-Agnes-de-Dundee
+47.2167	-74.3667	Manouane
+47.2167	-74.3667	Manowan
+47.2167	-74.3667	Manuan
+45.6333	-74.3667	Ayersville
+45.0167	-74.3667	Beaver
+45.0167	-74.3667	Beaver Crossing
+45.0167	-74.3667	Beaver Tower
+49.8667	-74.35	Chibougamau
+45.1333	-74.35	Saint-Anicet
+45.65	-74.3333	Lachute
+45.4667	-74.3	Rigaud
+51.8833	-74.2833	Neoskweskau
+46.0333	-74.2833	Sainte-Agathe
+46.0333	-74.2833	Sainte-Agathe-des-Monts
+45.2333	-74.25	Saint-Zotique
+45.2833	-74.2333	Coteau Station
+45.2833	-74.2333	La Station-du-Coteau
+45.2667	-74.2333	Coteau Station
+45.2667	-74.2333	Coteau-Landing
+46.3167	-74.2167	Saint Donat
+46.3167	-74.2167	Saint-Donat-de-Montcalm
+46.0333	-74.2	Val-David
+47.8833	-74.1833	Casey
+46.1333	-74.1833	Sainte-Lucie-de-Doncaster
+45.0833	-74.1833	Huntingdon
+45.9	-74.1667	Saint-Sauveur
+45.9	-74.1667	Saint-Sauveur-des-Monts
+45.45	-74.1667	Hudson Heights
+45.95	-74.15	Sainte-Adele
+45.45	-74.15	Hudson
+45.25	-74.1333	Salaberry-de-Valleyfield
+45.25	-74.1333	Valleyfield
+45.1667	-74.1333	Saint-Stanislas-de-Kostka
+45.45	-74.1167	Como
+45.65	-74.1	Mirabel
+45.65	-74.1	Sainte-Scholastique
+45.8667	-74.0833	Shawbridge
+45.4667	-74.0833	Oka
+46.0333	-74.0667	Sainte-Marguerite
+45.3167	-74.05	Cedars
+45.2833	-74.05	Saint-Timothee
+46.0333	-74.0333	Esterel
+45.5	-74.0333	La Trappe
+45.4	-74.0333	Vaudreuil
+46.9333	-74.0167	Saint-Hippolyte-de-Kilkenny
+45.8	-74.0167	Lafontaine
+45.3833	-74.0167	Dorion
+45.3833	-74.0167	Dorion-Vaudreuil
+45.7667	-74	Saint-Jerome
+45.1333	-74	Ormstown
+45.7667	-73.9833	Saint-Antoine-des-Laurentides
+45.3667	-73.9833	Pincourt
+45.5	-73.9667	Pointe-Calumet
+45.4333	-73.9667	Senneville
+45.4	-73.9333	Ile-Perrot
+45.4	-73.9333	Isle-Perrot
+45.4	-73.9333	Saint Jean
+45.4	-73.9333	Sainte Jeanne
+45.3167	-73.9333	Melocheville
+46.6667	-73.9167	Saint-Michel-des-Saints
+45.4	-73.9167	Baie-d'Urfe
+45.5667	-73.9	Saint-Eustache
+45.4833	-73.9	Sainte-Anne-de-Bellevue
+47.9	-73.8833	Cann
+45.5333	-73.8833	Deux-Montagnes
+45.5333	-73.8833	Saint-Eustache-sur-le-Lac
+45.4667	-73.8833	Pierrefonds
+50.4167	-73.8667	Baie-du-Poste
+50.4167	-73.8667	Chabatok
+50.4167	-73.8667	Mistassini
+50.4167	-73.8667	Mistassini Post
+50.4167	-73.8667	Poste-de-Mistassini
+45.55	-73.8667	Laval-Ouest
+45.4833	-73.8667	Sainte-Genevieve-de-Pierrefonds
+45.3167	-73.8667	Beauharnois
+45.2	-73.8667	North Georgetown
+45.6333	-73.85	Sainte-Therese
+45.6333	-73.85	Sainte-Therese-de-Blainville
+45.5667	-73.85	Duvernay
+45.45	-73.85	Dollard-des-Ormeaux
+45.3167	-73.85	Maple Grove
+45.1833	-73.85	Howick
+45.4333	-73.8333	Beaconsfield
+45.6333	-73.8167	Rosemere
+45.5333	-73.8167	Sainte-Dorothee
+45.5	-73.8167	Roxboro
+45.3333	-73.8167	De Lery
+45.3333	-73.8167	Lery
+45.2333	-73.8	Sainte-Martine
+45.7	-73.7833	Saint-Louis-de-Terrebonne
+45.6167	-73.7833	Sainte-Rose
+45.85	-73.7667	Laurentides
+45.85	-73.7667	Saint-Lin
+45.65	-73.7667	Bois-des-Filion
+45.65	-73.7667	Saint Maurice
+45.6167	-73.75	Anteuil
+45.6167	-73.75	Auteuil
+45.45	-73.75	Derval
+45.45	-73.75	Dorval
+45.4333	-73.75	Point Claire
+45.4333	-73.75	Pointe-Claire
+45.3833	-73.75	Chateauguay
+45.3833	-73.75	Chateauguay Heights
+45.3667	-73.75	Chateauguay-Centre
+45.1	-73.75	Saint-Chrysostome
+45.6	-73.7333	Laval
+45.6	-73.7333	Saint Elzear de Laval
+45.6	-73.7333	Saint-Elzear
+45.55	-73.7333	Abord a Plouffe
+45.55	-73.7333	Chomedey
+45.9667	-73.7167	Sainte-Julienne
+45.5333	-73.7167	Cartierville
+46.0333	-73.7	Rawdon
+45.55	-73.7	Laval-des-Rapides
+45.5333	-73.7	Bordeaux
+45.4167	-73.6833	Caughnawaga
+45.55	-73.6667	Pont-Viau
+45.5167	-73.6667	Saint-Laurent
+45.5167	-73.6667	Ville Saint Laurent
+45.45	-73.6667	Cote-Saint-Luc
+45.4167	-73.6667	Lachine
+46.3167	-73.65	Sainte-Emelie
+46.3167	-73.65	Sainte-Emelie-de-l'Energie
+45.6167	-73.65	Saint-Vincent-de-Paul
+45.5667	-73.65	Fabreville
+45.5167	-73.65	Mont-Royal
+45.5167	-73.65	Mount-Royal
+45.45	-73.65	Montreal-Ouest
+45.4333	-73.65	Saint-Pierre
+45.4333	-73.65	Ville Saint Pierre
+45.4167	-73.65	La Salle
+45.4167	-73.65	Ville-la-Salle
+45.6833	-73.6333	Terrebonne
+45.6	-73.6167	Montreal-Nord
+45.5667	-73.6167	Cote Saint Michel
+45.5667	-73.6167	Saint-Michel
+45.5167	-73.6167	Outremont
+45.5833	-73.6	Saint-Leonard
+45.4833	-73.6	Westmount
+45.25	-73.6	Saint-Remi
+45.05	-73.6	Hemmingford
+45.95	-73.5833	Saint Jacques de l'Achigan
+45.95	-73.5833	Saint-Jacques
+45.5	-73.5833	Montreal
+45.5	-73.5833	Montreal
+45.4	-73.5833	Cote-Sainte-Catherine
+45.4	-73.5833	Sainte-Catherine
+45.6667	-73.5667	Riviere-des-Prairies
+45.45	-73.5667	Verdun
+47.85	-73.55	Vandry
+45.3667	-73.55	Delson
+45.3667	-73.55	Delson Village
+46.2167	-73.5333	Saint-Jean-de-Matha
+45.6	-73.5333	Anjou
+45.6333	-73.5167	Montreal-Est
+45.5833	-73.5167	Long Point
+45.5833	-73.5167	Longue-Pointe
+45.5333	-73.5167	Longueuil
+45.3833	-73.5167	Candiac
+45.5	-73.5	Le Moyne
+45.4833	-73.5	Saint-Lambert
+45.4833	-73.5	Saint-Lambert-Chambly
+45.4167	-73.5	Laprairie
+45.85	-73.4833	L'Epiphanie
+45.75	-73.4833	Saint-Paul-l'Ermite
+45.7167	-73.4833	Charlemagne
+45.65	-73.4833	Pointe-aux-Trembles
+45.5333	-73.4833	Jacques-Cartier
+45.5333	-73.4833	Longueuil Annex
+45.5333	-73.4833	Longueuil Annexe
+45.5	-73.4833	Greenfield Park
+45.5	-73.4833	Lafleche
+45.45	-73.4833	Brossard
+45.9667	-73.4667	Crabtree
+45.4667	-73.4667	Preville
+45.35	-73.4667	Saint-Philippe-de-Laprairie
+45.7333	-73.45	Repentigny
+46.0333	-73.4333	Joliette
+45.8167	-73.4333	L'Assomption
+45.6833	-73.4333	Varennes
+46.1667	-73.4167	Saint-Felix-de-Valois
+45.1833	-73.4	Napierville
+46.2833	-73.3667	Saint-Gabriel
+46.2833	-73.3667	Saint-Gabriel-de-Brandon
+45.0833	-73.3667	Lacolle
+45.7667	-73.35	Vercheres
+45.5333	-73.35	Saint-Bruno-de-Montarville
+45.45	-73.3	Chambly
+45.2167	-73.3	Grande-Ligne
+45.8833	-73.2833	Lavaltrie
+45.1333	-73.2833	Ile-aux-Noix
+45.45	-73.2667	Chambly Fort
+45.45	-73.2667	Fort-Chambly
+45.3	-73.25	Saint Johns
+45.3	-73.25	Saint-Jean
+45.85	-73.2333	Contrecoeur
+45.55	-73.2333	McMasterville
+45.3167	-73.2333	Iberville
+45.9667	-73.2167	Lanoraie
+45.5333	-73.2167	Otterburn Park
+45.5667	-73.2	Beloeil
+45.5667	-73.2	Beloeil Village
+45.5667	-73.2	Boloeil
+45.5667	-73.2	Saint Hilaire Village
+45.5667	-73.2	Saint-Hilaire
+45.6833	-73.1833	Saint-Charles-sur-Richelieu
+46.0833	-73.1667	Berthierville
+46.0833	-73.1667	Bervierville
+46.0167	-73.1667	Tracy
+46.0167	-73.1667	Ville-de-Tracy
+45.5333	-73.1667	Mont-Saint-Hilaire
+45.4333	-73.1667	Marieville
+45.8833	-73.15	Saint-Ours
+45.8833	-73.15	Saint-Roch-de-Richelieu
+45.7833	-73.15	Saint-Denis
+45.7833	-73.15	Saint-Denis-Riviere-Richelieu
+46.0333	-73.1333	Saint-Joseph-de-Sorel
+46.1833	-73.1167	Saint-Barthelemi
+46.1833	-73.1167	Saint-Barthelemy
+46.1833	-73.1167	Saint-Barthelemy-de-Dusable
+46.05	-73.1167	Sorel
+46.5833	-73.0833	Belleau
+46.25	-73.0833	Saint-Justin
+47.6833	-73.05	Rapide-Blanc
+46.2167	-73.0167	Maskinonge
+45.4	-73	Saint-Cesaire
+45.7667	-72.9833	Saint-Jude
+45.1167	-72.9833	Bedford
+45.1167	-72.9833	Stanbridge Station
+45.2833	-72.9667	Farnham
+45.6167	-72.95	La Providence
+46.25	-72.9333	Louiseville
+45.6333	-72.9333	Saint-Hyacinthe
+46	-72.9167	Yamaska
+45.65	-72.9	Sainte-Rosalie
+45.5	-72.9	Saint-Pie
+45.4333	-72.8833	Abbotsford
+45.4333	-72.8833	Saint-Paul
+46.2833	-72.8333	Yamachiche
+46.0667	-72.8333	Saint Francois
+46.0667	-72.8333	Saint-Francois-du-Lac
+46.0667	-72.8	Pierreville
+47.45	-72.7833	La Tuque
+47.45	-72.7833	Ta-Tuque
+46.6167	-72.7667	Lac-Mondor
+45.8833	-72.7667	Saint Guillaume
+45.8833	-72.7667	Saint-Guillaume-d'Upton
+46.5333	-72.75	Almaville
+46.5333	-72.75	Shawinigan-Sud
+46.5167	-72.75	Almaville
+45.2	-72.75	Cowansville
+46.6167	-72.7333	Sainte-Flore
+46.55	-72.7333	Shawenegan
+46.55	-72.7333	Shawinigan
+46.55	-72.7333	Shawinigan Falls
+46.55	-72.7333	Shewanegan
+45.3833	-72.7333	Granby
+46.6833	-72.7167	Grandes-Piles
+46.6333	-72.6833	Grand'Mere
+46.2833	-72.6833	Pointe-du-Lac
+48.8833	-72.6667	Didyme
+46.6167	-72.6667	Saint-Georges
+46.4833	-72.6667	Mont-Carmel
+48.7	-72.65	Riviere-au-Dore
+47.1667	-72.6333	Lac-Chat
+45.1	-72.6167	Sutton
+46.2167	-72.6	Nicolet
+45.4833	-72.6	South Roxton
+45.4167	-72.5833	Shefford
+46.7167	-72.5667	Saint-Tite
+45.8333	-72.5667	Saint-Germain-de-Grantham
+45.6333	-72.5667	Acton Vale
+49	-72.55	Girardville Centre
+46.35	-72.55	Three Rivers
+46.35	-72.55	Trois-Rivieres
+46.4667	-72.5333	Mauricie
+46.4667	-72.5333	Saint-Maurice
+48.8333	-72.5167	Normandin
+46.3167	-72.5167	Sainte-Angele-de-Laval
+45.9	-72.5167	Drummondville-Ouest
+45.35	-72.5167	Waterloo
+45.2167	-72.5167	Knowlton
+46.8	-72.5	Sainte-Thecle
+46.3667	-72.5	Cap-de-la-Madeleine
+46.1833	-72.5	Sainte-Monique
+45.8833	-72.4833	Drummondville
+45.8833	-72.4833	Drummondville East
+46.55	-72.4667	Saint-Narcisse
+48.65	-72.45	Saint Felecian
+48.65	-72.45	Saint-Felicien
+46.85	-72.45	Hervey
+46.85	-72.45	Hervey Junction
+46.3333	-72.4333	Becancour
+46.2167	-72.4333	Annaville
+45.9333	-72.4333	Saint-Cyrille
+45.9333	-72.4333	Saint-Cyrville-de-Wendover
+48.8667	-72.4167	Albanel
+46.8667	-72.3833	Lac-aux-Sables
+45.9667	-72.3833	Carmel
+49.0667	-72.35	Saint-Antoine-du-Lac-Saint-Jean
+48.4833	-72.35	Saint Hedwidge
+48.4833	-72.35	Sainte-Hedwidge-de-Roberval
+46.5333	-72.35	Sainte-Genevieve-de-Batiscan
+46.4333	-72.35	Champlain
+48.6	-72.3333	Saint-Prime
+45.4833	-72.3167	Valcourt
+45.3	-72.3167	Eastman
+47.6667	-72.2667	Lac Edouard
+46.3	-72.2667	Villers
+45.3	-72.2667	Mount Orford
+48.5667	-72.25	Pointe-Bleue
+47.25	-72.25	Linton
+47.25	-72.25	Linton Junction
+46.75	-72.25	Saint-Ubald
+46.5	-72.25	Batiscan
+48.8667	-72.2333	Dolbeau
+46.1667	-72.2333	Aston Junction
+48.5167	-72.2167	Roberval
+48.15	-72.2167	Lac des Commissaires
+48.15	-72.2167	Lac-des-Commissaires Station
+48.9	-72.2	Mistassini
+48.1	-72.1833	Lizotte
+46.9833	-72.1833	Riviere-a-Pierre
+46.5833	-72.1833	La Perade
+49	-72.1667	Saint-Stanislas
+48.3333	-72.1667	Bilodeau
+48.3333	-72.1667	Dequen
+48.2667	-72.1667	Lac-Bouchette
+47.95	-72.1667	Van Bruyssel
+45.6667	-72.15	Richmond
+45.2667	-72.15	Magog
+45.0167	-72.15	Beebe
+45.0167	-72.15	Beebe Plain
+48.3333	-72.1333	Dequen
+48.3333	-72.1333	Saint-Francois-de-Sales
+46.6667	-72.1333	Saint-Casimir
+46.55	-72.1167	Deschaillons-sur-Saint-Laurent
+45.2833	-72.1167	Omerville
+46.55	-72.1	Deschaillons
+45	-72.1	Rock Island
+48.25	-72.0833	Mont-Alverne
+46.7	-72.0833	Saint-Alban
+45.0167	-72.0833	Stanstead
+45.0167	-72.0833	Stanstead Plain
+48.4333	-72.05	Chambord
+46.5833	-72.05	Saint-Charles-des-Grondines
+46.6833	-72.0333	Saint-Marc-des-Carrieres
+46.4833	-72.0333	Fortierville
+45.4	-72.0333	Saint-Elie-d'Orford
+45.1667	-72.0333	Ayers Cliff
+46.3667	-72.0167	Manseau
+45.7833	-72.0167	Danville
+46.5667	-72	Leclercville
+45.5833	-72	Windsor
+45.95	-71.9833	Warwick
+46.05	-71.9667	Victoriaville
+61.6	-71.95	Maricourt
+61.6	-71.95	Wakeham
+61.6	-71.95	Wakeham Bay
+48.4167	-71.95	Desbiens
+46.6167	-71.9333	Lotbiniere
+46.4167	-71.9333	Merbleue
+45.7833	-71.9333	Asbestos
+45.4667	-71.9333	Bromptonville
+46.6333	-71.9167	Deschambault
+46.0333	-71.9167	Arthabaska
+45.8	-71.9	Three Lakes
+45.8	-71.9	Trois-Lacs
+45.4	-71.9	Sherbrook
+45.4	-71.9	Sherbrooke
+46.6833	-71.8833	Portneuf
+46.3833	-71.8833	Villeroy
+46.1667	-71.8833	Princeville
+45.2833	-71.8833	Waterville
+48.4333	-71.8667	Metabechuoan
+48.4333	-71.8667	Metabetchouan
+45.3667	-71.8667	Lennoxville
+48.7333	-71.85	Honfleur
+48.7333	-71.85	Lac-Saint-Jean Sainte-Monique
+48.7333	-71.85	Saint Monique Lac Saint Jean
+46.8833	-71.8333	Saint-Raymond
+46.5667	-71.8333	Riviere-Bois-Clair
+48.6667	-71.8167	Saint-Henri-de-Taillon
+46.75	-71.8167	Saint-Basile
+46.75	-71.8167	Saint-Basile-de-Portneuf
+45.9667	-71.8167	Chesterville
+45.1333	-71.8	Coaticook
+48.4833	-71.7833	Saint-Gedeon
+46.2167	-71.7667	Plessisville
+45.45	-71.7667	Ascot Corner
+46.6667	-71.7333	Donnacona
+46.6667	-71.7333	Donnaconna
+46.6167	-71.7333	Sainte-Croix
+46.6833	-71.7167	Les Ecureuils
+48.6333	-71.7	Delisle
+48.6333	-71.7	Saint-Coeur-de-Marie
+46.75	-71.7	Pont-Rouge
+48.4	-71.6833	Hebertville
+48.3833	-71.6833	Notre-Dame-d'Hebertville
+48.6833	-71.6667	Langlais
+48.6833	-71.6667	L'Ascension
+48.4667	-71.6667	Saint-Bruno-Lac-Saint-Jean
+45.8333	-71.6667	Ham
+45.8333	-71.6667	Saint-Joseph-de-Ham-Sud
+45.4833	-71.6667	East Angus
+48.5667	-71.65	Naudville
+48.55	-71.65	Alma
+48.55	-71.65	Riverbend
+48.55	-71.65	Saint-Joseph-d'Alma
+45.9	-71.65	Ham Nord
+48.5833	-71.6333	Isle-Maligne
+48.5667	-71.6333	Isle Maligny
+48.5667	-71.6333	Isle-Maligne
+46.85	-71.6167	Sainte-Catherine
+46.5833	-71.6167	Issoudun
+46.3667	-71.6167	Lyster
+46.3667	-71.6167	Lyster Station
+45.6167	-71.6167	Lime Ridge
+45.4167	-71.6167	Cookshire
+46.7	-71.5833	Neuville
+46.65	-71.5667	Saint Antione
+46.65	-71.5667	Saint Antoine
+46.65	-71.5667	Saint-Antoine-Lotbiniere
+48.5833	-71.55	Saint-Nazaire
+48.6667	-71.5167	Saint-Leon
+46.8833	-71.5167	Valcartier Station
+46.4667	-71.5167	Dosquet
+46.25	-71.5167	Inverness
+45.2667	-71.5167	Saint Isidore
+45.2667	-71.5167	Saint-Isidore d'Auckland
+45.2	-71.5	Saint-Malo
+46.9333	-71.4667	Valcartier Village
+45.7	-71.45	Weedon
+45.7	-71.45	Weedon-Centre
+47.9833	-71.4333	Mont-Apica
+46.8667	-71.4333	Val-Saint-Michel
+46.5667	-71.4333	Saint-Agapit
+46.5667	-71.4333	Saint-Agapitville
+45.7667	-71.4167	Saint-Gerard
+46.7	-71.4	Saint-Nicolas
+46.7833	-71.3833	Ancienne Lorette
+46.7833	-71.3833	L'Ancienne Lorette
+46.7833	-71.3833	Notre-Dame-de-Lorette
+46.2167	-71.3833	Kinnears Mills
+45.8333	-71.3833	Garthby
+45.8333	-71.3833	Garthby Station
+48.6833	-71.3667	Canton-Begin
+46.9833	-71.3667	Stoneham
+46.8667	-71.3667	Chateau-d'Eau
+46.85	-71.3667	Loretteville
+46.0333	-71.3667	Black Lake
+46.85	-71.35	Village-des-Hurons
+46.75	-71.35	Cap-Rouge
+45.9	-71.35	Disraeli
+48.55	-71.3167	Saint-Ambroise
+46.8	-71.3167	La Petite-Riviere
+46.8	-71.3167	Les Saules
+46.7833	-71.3	Sainte-Foy
+46.65	-71.3	Saint-Etienne
+46.0833	-71.3	Thetford
+46.0833	-71.3	Thetford Mines
+46.8833	-71.2833	Orsainville
+45.5333	-71.2833	Scotstown
+46.8667	-71.2667	Charlesbourg
+46.75	-71.2667	New-Liverpool
+46.7333	-71.2667	Chaudiere-Bassin
+46.7167	-71.2667	Charny
+48.4333	-71.25	Kenogami
+48.4167	-71.25	Jonquiere
+46.8167	-71.25	Quebec-Ouest
+46.8	-71.25	Quebec
+46.8	-71.25	Quebec
+46.7667	-71.25	Sillery
+48.4667	-71.2333	Chute-Shipshaw
+48.4667	-71.2333	Shipshaw Falls
+46.75	-71.2333	Saint Romald
+46.75	-71.2333	Saint-Romuald
+46.75	-71.2333	Saint-Romuald-d'Etchemin
+46.3667	-71.2333	Saint-Sylvestre
+48.45	-71.2167	Chicoutimi
+48.45	-71.2167	Shipshaw
+46.1333	-71.2167	Robertson
+46.1333	-71.2167	Robertsonville
+46.7833	-71.2	Saint-David-de-l'Auberiviere
+48.4333	-71.1833	Arvida
+46.85	-71.1833	Beaufort
+46.85	-71.1833	Beauport
+46.8833	-71.1667	Villeneuve
+46.8333	-71.1667	Lauzon
+46.8	-71.1667	Aubigny
+46.8	-71.1667	Levis
+46.8833	-71.15	Courville
+46.8833	-71.15	Montmorency
+46.8833	-71.15	Montmorency Village
+46.8833	-71.15	Saint Louis-de-Courville
+68.6167	-71.1333	Mid Baffin
+48.4333	-71.1333	Saint-Jean-Eudes
+46.9	-71.1333	Boischatel
+46.9	-71.1333	Saint-Jean-de-Boischatel
+48.5333	-71.0833	Martel
+48.5333	-71.0833	Saint-Honore
+46.2167	-71.0833	East Broughton Station
+48.45	-71.0667	Chicoutimi-Nord
+48.45	-71.0667	Saint Anne De Chicoutimi
+48.45	-71.0667	Sainte-Anne-de-Chicoutimi
+48.4333	-71.0667	Chicoutimi
+46.6833	-71.0667	Saint-Henri
+46.6833	-71.0667	Saint-Henri-de-Levis
+46.5167	-71.0667	Saint-Maxime
+48.4333	-71.0333	Riviere-du-Moulin
+46.9667	-71.0167	Chateau Richer
+46.4333	-71.0167	Sainte Marie Beauce
+46.4333	-71.0167	Sainte-Marie
+46.2667	-71	Tring-Jonction
+46.5667	-70.9833	Sainte-Henedine
+46.6167	-70.9667	Saint-Anselme
+46.9667	-70.95	Sainte-Famille
+46.7667	-70.95	Saint-Charles
+46.7667	-70.95	Saint-Charles-de-Bellechasse
+45.9667	-70.95	La Guadeloupe
+45.9667	-70.95	Saint Evariste Station
+47.0167	-70.9333	Sainte-Anne-de-Beaupre
+53.2	-70.9167	Nichikun
+53.2	-70.9167	Nitchequon
+46.8667	-70.9167	Saint-Michel
+46.3667	-70.9167	Vallee-Jonction
+48.45	-70.9	Saint-Fulgence
+48.35	-70.8833	Bacotville
+48.35	-70.8833	Bagotville
+48.3333	-70.8833	Port-Alfred
+47.05	-70.8833	Beaupre
+45.5833	-70.8833	Lac-Megantic
+45.5833	-70.8833	Megantic
+48.3333	-70.8667	La Baie
+46.3	-70.8667	Saint Joseph
+46.3	-70.8667	Saint-Joseph-de-Beauce
+45.3833	-70.8667	Woburn
+48.3	-70.85	Grand-Baie
+47.1167	-70.85	Saint-Fereol
+47.05	-70.85	Saint-Joachim
+47.05	-70.85	Saint-Joachim-de-Montmorency
+46.8333	-70.85	La Durantaye
+46.6	-70.85	Sainte-Claire
+45.4667	-70.85	Three Lakes
+45.4667	-70.85	Trois-Lacs
+47	-70.8167	Saint-Francois
+46.8833	-70.8167	Saint-Vallier
+46.65	-70.8	Saint-Lazare
+47.1333	-70.7667	Saint-Tite-des-Caps
+46.5333	-70.7667	Saint-Malachie
+46.2	-70.7667	Beauceville
+46.2	-70.7667	Beauceville-Est
+46.7833	-70.75	Saint-Raphael
+46.7833	-70.75	Saint-Raphael-Bellechasse
+46.9333	-70.7333	Berthier
+46.9333	-70.7333	Berthier-en-Bas
+46.9333	-70.7333	Berthier-sur-Mer
+46.7167	-70.7167	Saint-Neree
+45.75	-70.7	Saint-Ludger
+46.1167	-70.6833	Saint-Georges-Ouest
+46.1167	-70.6667	Saint Georges de Beauce
+46.1167	-70.6667	Saint-Georges
+46.1167	-70.6667	Ville-Saint-Georges
+45.85	-70.65	Saint Gedeon
+45.85	-70.65	Saint-Gedeon-de-Beauce
+46.4833	-70.6167	Saint-Leon-de-Standon
+46.75	-70.5833	Armagh
+47.3167	-70.5667	La Petite-Riviere-Saint-Francois
+47.3167	-70.5667	Petite-Riviere
+47.3167	-70.5667	Petit-Riviere
+47.3167	-70.5667	Saint Francis Xavier
+47.3167	-70.5667	Saint Francois Xavier
+47.3167	-70.5667	Saint-Francois-Xavier-de-la-Petite-Riviere
+46.9667	-70.55	Montmagny
+46.05	-70.5167	Liniere
+46.05	-70.5167	Saint Come
+47.4333	-70.5	Baie-Saint-Paul
+46.4	-70.5	Lac Etchemin
+46.4	-70.5	Sainte-Germaine-du-Lac-Etchemin
+46.2	-70.4833	Saint-Prosper
+46.2	-70.4833	Saint-Prosper-de-Dorchester
+46.6833	-70.45	Saint-Philemon
+47.5667	-70.4	Saint Hilarion
+47.6667	-70.3833	Notre-Dame-des-Monts
+47.4833	-70.3833	Bouchard
+46.7333	-70.3667	Saint-Paul-de-Montminy
+46.1333	-70.3667	Saint-Zacharie
+47.1167	-70.3333	L'Isletville
+47.2	-70.2667	Saint-Jean-Port-Joli
+47.6833	-70.2333	Clermont
+47.5667	-70.2	Saint-Irenee
+46.8	-70.2	Sainte-Apolline-de-Patton
+46.4833	-70.2	Saint-Camille
+46.4833	-70.2	Saint-Camille-de-Bellechasse
+46.4833	-70.2	Sainte Camille
+48.2333	-70.1833	L'Anse-Saint-Jean
+47.3167	-70.1833	Saint-Roch-des-Aulnaies
+47.1167	-70.1833	Saint-Jean-Baptiste
+47.65	-70.1667	La Malbaie
+47.65	-70.1667	Murray Bay
+47.6333	-70.15	Murray Bay
+47.6333	-70.15	Pointe-au-Pic
+47.3167	-70.15	Village-des-Aulnaies
+60.0167	-70.0333	Bellin
+60.0167	-70.0333	Payne
+60.0167	-70.0333	Payne Bay
+47.3667	-70.0333	Sainte-Anne-de-la-Pocatiere
+46.6833	-70.0167	Lac Frontiere
+46.6833	-70.0167	Lake Frontier
+47.7333	-69.9833	Saint-Fidele-de-Mont-Murray
+47.3333	-69.9833	Saint-Onesime
+47.1	-69.9833	Monk
+47.1	-69.9833	Tourville
+47.7667	-69.95	Port-au-Saumon
+47.4167	-69.95	Saint-Pacome
+47.5	-69.9333	Saint-Denis
+47.5	-69.9333	Saint-Denis-de-la-Bouteillerie
+46.85	-69.9	Saint-Adalbert
+62.85	-69.8833	Kimmirut
+62.85	-69.8833	Lake Harbor
+62.85	-69.8833	Lake Harbour
+47.85	-69.8833	Saint-Simeon
+47.45	-69.8833	Saint-Philippe-de-Neri
+47.4333	-69.8833	Mont-Carmel
+48.2333	-69.8167	Sacre-Coeur-Saguenay
+47.5167	-69.8167	Saint-Pascal
+47.6	-69.8	Saint-Germain-de-Kamouraska
+46.95	-69.7833	Saint-Pamphile
+47.45	-69.75	Saint-Bruno-de-Kamouraska
+48.1	-69.7333	Baie-Sainte-Catherine
+47.6667	-69.7333	Saint-Andre
+47.6667	-69.7333	Saint-Andre-de-Kamouraska
+47.6	-69.7333	Sainte-Helene-de-Kamouraska
+48.15	-69.7167	Tadoussac
+47.3333	-69.6833	East Lake
+47.3333	-69.6833	Lac del'Est
+47.6833	-69.6333	Saint-Alexandre
+47.6833	-69.6333	Saint-Alexandre-de-Kamouraska
+47.6167	-69.6333	Saint-Joseph-de-Kamouraska
+61.0333	-69.6167	Koartac
+61.0333	-69.6167	Notre-Dame-de-Koartac
+47.7667	-69.6167	Notre-Dame-du-Portage
+49.3	-69.5833	Labrieville
+48.25	-69.55	Grandes-Bergeronnes
+47.8333	-69.5333	Riviere-du-Loup
+47.8333	-69.5333	Riviere-du-Loup-en-Bas
+47.9167	-69.5	Cacouna
+47.9167	-69.5	Saint-Georges-de-Cacouna
+47.7667	-69.4833	Saint-Antonin
+48.35	-69.4167	Escoumins
+48.35	-69.4167	Les Escoumains
+48.35	-69.4167	Les Escoumins
+47.55	-69.4167	Pelletier Station
+47.4333	-69.4167	Saint-Athanase
+48.0167	-69.3333	Ile Verte
+48.0167	-69.3333	Isle-Verte
+48.0167	-69.3333	L'Isle-Verte
+47.7	-69.2833	Whitworth
+47.4833	-69.2833	Saint-Eleuthere
+48.5667	-69.2333	Saint-Paul-du-Nord
+48.0333	-69.2167	Saint-Eloi
+47.45	-69.2167	Estcourt
+48.1167	-69.1667	Trois-Pistoles
+47.8	-69.15	Saint-Hubert
+47.8	-69.15	Saint-Hubert-de-Temiscouata
+47.45	-69.15	Saint-David-d'Estcourt
+47.45	-69.15	Sully
+47.7167	-69.1333	Saint-Honore
+47.7167	-69.1333	Saint-Honore-de-Temiscouata
+58.7667	-69.1167	Leaf River
+47.9167	-69.1	Saint-Clement
+48.7333	-69.0667	Forestville
+48.7333	-69.0667	Forrestville
+48.0167	-69.05	Saint-Jean-de-Dieu
+47.6667	-69.05	Vauban
+47.4333	-69.05	Saint-Joseph-de-la-Riviere-Bleue
+47.4333	-69.0333	Riviere-Bleue
+48.2	-69.0167	Saint Simon
+48.2	-69.0167	Saint-Simon-de-Rimouski
+47.4667	-69	Pied-du-Lac
+56.8833	-68.9833	Fort McKenzie
+56.8833	-68.9833	Fort-Mackenzie
+56.8833	-68.9833	South Road House
+47.5333	-68.9167	Saint-Eusebe
+47.3833	-68.9	Les Etroits
+47.6833	-68.8833	Cabano
+48.2833	-68.8667	Saint-Fabien
+47.4	-68.8667	Rang-Saint-David
+47.4	-68.8667	Saint David
+47.2	-68.8333	Connors
+47.6	-68.8	Notre-Dame-du-Lac
+47.8667	-68.7333	Sqatteck
+47.8667	-68.7333	Squatteck
+48.3667	-68.7	Bic
+47.3333	-68.6667	Lac Baker
+48.95	-68.65	Bersimis
+48.95	-68.65	Betsiamites
+47.55	-68.65	Sainte-Rose-du-Degele
+48.4333	-68.5833	Notre-Dame-de-Rimouski
+48.4333	-68.5833	Sacre-Coeur
+70.45	-68.5667	Clyde
+70.45	-68.5667	Clyde River
+70.45	-68.5667	River Clyde
+48.4333	-68.5167	Rimouski
+63.7333	-68.5	Frobisher
+63.7333	-68.5	Frobisher Bay
+63.7333	-68.5	Iqaluit
+63.7333	-68.5	Upper Frobisher
+63.7333	-68.5	Ward Inlet
+48.5167	-68.4667	Father Point
+48.5167	-68.4667	Pointe-au-Pere
+63.7167	-68.45	Apex
+63.7167	-68.45	Apex Hill
+63.7167	-68.45	Niaqunnguut
+48.35	-68.45	Sainte-Blandine
+48.4833	-68.4333	Saint-Anaclet
+58.1	-68.4	Chapel Hill
+58.1	-68.4	Chimo
+58.1	-68.4	Fort-Chimo
+58.1	-68.4	Kuujjuaq
+49.1167	-68.3833	Chute-aux-Outardes
+48.5167	-68.3333	Luceville
+47.3667	-68.3333	Edmundston
+49.1833	-68.2667	Hauterive
+49.15	-68.2	Pointe-Lebel
+48.5833	-68.1833	Mont Jolie
+48.5833	-68.1833	Mont-Joli
+51.8	-68.1667	Gagnon
+49.2167	-68.15	Anse Comeau
+49.2167	-68.15	Baie-Comeau
+49.2167	-68.15	Comeau Bay
+48.4333	-68.15	Saint-Gabriel
+48.6	-68.1167	Price
+48.6	-68.1167	Priceville
+48.5333	-68.0833	Sainte-Angele
+48.6667	-67.9833	Metis Beach
+47.1667	-67.9167	Saint Leonard
+48.7167	-67.8667	Baie-des-Sables
+48.5333	-67.85	Saint-Moise
+48.5833	-67.8333	Saint-Noel
+47.05	-67.7333	Grand Falls
+47.05	-67.7333	Grand-Sault
+46.6	-67.7333	River de Chute
+46.6	-67.7333	Riviere des Chutes
+46.8	-67.7167	Aroostook
+46.8	-67.7167	Aroostook Junction
+46.4333	-67.7167	Centerville
+46.4333	-67.7167	Centreville
+48.7833	-67.7	Riviere-Blanche
+48.7833	-67.7	Saint-Ulric
+48.7833	-67.7	Saint-Ulric
+46.7333	-67.7	Perth
+48.55	-67.6833	Sayabec
+48.55	-67.6833	Sebec
+46.25	-67.6833	Lindsay
+46.0667	-67.6833	Debec
+49.3167	-67.6	Godbout
+45.9833	-67.6	Benton
+48.3	-67.5833	Lac Humqui
+46.65	-67.5833	Bon Accord
+48.5333	-67.5667	Val-Brillant
+46.4667	-67.5667	Bristol
+46.15	-67.5667	Woodstock
+48.85	-67.5167	Matane
+46.3	-67.5167	Hartland
+46.7833	-67.5	Red Rapids
+46.4	-67.4833	Mount Pleasant
+46	-67.4667	Meductic
+45.8833	-67.4667	Canterbury Station
+48.8667	-67.45	Petite-Matane
+48.4667	-67.4333	Amqui
+46.4833	-67.4167	Glassville
+47.5	-67.3833	Saint Quentin
+46.9	-67.3833	Plaster Rock
+48.9	-67.3333	Sainte-Felicite
+48.6667	-67.3333	Riviere-Matane
+48.4167	-67.3333	Lac-au-Saumon
+47.6333	-67.3333	Kedgwick
+45.5833	-67.3333	Macadam
+45.5833	-67.3333	McAdam
+45.5833	-67.3333	McAdam Junction
+49.4167	-67.3167	Baie-de-la-Trinite
+49.4167	-67.3167	Trinity Bay
+45.1667	-67.3	Milltown
+45.2833	-67.2667	Moores Mills
+45.2	-67.2667	Saint Stephen
+45.2	-67.2667	Saint Stephens
+48.25	-67.25	Sainte-Florence
+45.9667	-67.2333	Lower Southampton
+45.9667	-67.2333	Otis
+48.35	-67.2167	Causapscal
+45.3167	-67.2	Tower Hill
+46.1333	-67.1833	Millville
+45.6833	-67.1833	Magaguadavic
+45.6833	-67.1833	Scott Mills
+45.4167	-67.1833	Lawrence Station
+49.7833	-67.1667	Penecost
+49.7833	-67.1667	Riviere-Pentecote
+49.6667	-67.1667	Pointe-aux-Anglais
+48.9333	-67.1667	Grosses-Roches
+46.5333	-67.1667	Juniper Station
+48.1667	-67.15	Routhierville
+46.1167	-67.15	Southampton
+45.2167	-67.1333	Waweig
+48.6333	-67.1167	Cuoq
+48.8667	-67.1	Saint Jean de Cherbourg
+48.8667	-67.1	Saint-Jean
+47.6833	-67.1	White Brook
+47.6833	-67.1	Whites Brook
+48.05	-67.0833	Millstream
+45.9167	-67.0333	Prince William
+45.9167	-67.0333	Rosborough
+45.0667	-67.0333	Saint Andrews
+45.7167	-67	Harvey
+45.7167	-67	Harvey Station
+48.9833	-66.9833	Les Mechins
+44.8833	-66.95	Campo Bello
+44.8833	-66.95	Welchpool
+44.8833	-66.95	Welshpool
+47.9667	-66.9333	Matapedia
+45	-66.9333	Richardson
+46.4	-66.9167	Napadogan
+45.6833	-66.9167	Cork
+45.6833	-66.9167	Cork Station
+45.8833	-66.9	Kingsclear
+45.05	-66.9	L'Etete
+45.05	-66.9	Letite
+54.8167	-66.8833	Burnt Creek
+47.8167	-66.8833	Upsalquitch
+52.9167	-66.8667	Wabush
+50.0167	-66.8667	Port-Cariter-Ouest
+50.0167	-66.8667	Port-Cartier
+50.0167	-66.8667	Shelter Bay
+44.65	-66.85	Seal Cove
+46.0167	-66.8333	Keswick
+46.0167	-66.8333	Keswick Station
+46.0167	-66.8333	Mouth of Keswick
+54.8	-66.8167	Knob Lake
+54.8	-66.8167	Schefferville
+54.8	-66.8167	Shafferville
+45.1333	-66.8167	Saint George
+48	-66.7667	Broadlands
+47.9667	-66.7667	Tidehead
+44.7667	-66.75	North Head
+46.2833	-66.7333	Stanley
+46.2833	-66.7333	Stanley Village
+49.0833	-66.6833	Cap-Chat
+49.0833	-66.6833	Cap-de-Chate
+49.0833	-66.6833	Cape Chatte
+45.1167	-66.6833	Pennfield
+45.1167	-66.6833	Pennfield Ridge
+48	-66.6667	Campbellton
+48	-66.6667	Campbell-town
+50.1833	-66.6333	Clark City
+50.1833	-66.6333	Clarke City
+46.2667	-66.6333	Cross Creek Station
+45.9667	-66.6333	North Devon
+45.95	-66.6333	Fredericton
+48.05	-66.6167	Oak Bay
+46.2333	-66.6167	Covered Bridge
+46.2333	-66.6167	Covered Bridge Station
+46.2333	-66.6167	Nashwaak Bridge
+45.6667	-66.6167	Fredericton Junction
+46.1333	-66.6	Durham
+46.1333	-66.6	Durham Bridge
+45.9667	-66.5833	Marysville
+45.6333	-66.5833	Bailey
+45.6333	-66.5833	Blissville
+45.6333	-66.5833	Central Blissville
+45.1333	-66.5833	Pocologan
+46.3667	-66.5667	McGivney
+49.1167	-66.4833	Sainte-Anne-des-Monts
+48.0333	-66.4833	Dalhousie Junction
+45.85	-66.4667	Oromocto
+45.85	-66.4667	Oronocto
+45.0833	-66.4167	Dipper Harbour
+46.45	-66.4	Boiestown
+50.2	-66.3833	Sept-Iles
+50.2	-66.3833	Seven Islands
+48.0667	-66.3667	Dalhousie
+45.45	-66.35	Welsford
+44.2667	-66.35	Westport
+45.1833	-66.3333	Musquash
+44.2667	-66.3167	Freeport
+48.1333	-66.3	Nouvelle
+45.8833	-66.3	Sheffield
+47.9667	-66.2833	River Charlo
+46.5167	-66.2667	McNamee
+45.35	-66.2333	Westfield Beach
+44.3833	-66.2167	Tiverton
+45.9833	-66.2	Ripples
+45.3	-66.2	Grand Bay
+49.2	-66.1667	Martin River
+49.2	-66.1667	Sainte Marthe de Gaspe
+44.05	-66.1667	Salmon River
+45.7667	-66.15	Gagetown
+44.1833	-66.15	Metaghan
+44.1833	-66.15	Meteghan
+43.85	-66.15	Overton
+43.9667	-66.1333	Green Cove
+43.9667	-66.1333	Maitland
+43.9667	-66.1333	Port Maitland
+46.55	-66.1167	Doaktown
+44.3333	-66.1167	Church Point
+44.3333	-66.1167	Clare
+44.3333	-66.1167	Pointe-de-l'Eglise
+43.8333	-66.1167	Yarmouth
+43.75	-66.1167	Chebogue Point
+50.1833	-66.1	Moisie
+48.1	-66.1	Carleton Centre
+45.6833	-66.1	Queenstown
+45.25	-66.1	Lancaster
+45.6167	-66.0833	Hamstead
+43.8833	-66.0833	Hebron
+45.2667	-66.0667	Saint John
+46.0833	-66.05	Newcastle Bridge
+44.0833	-66.0333	Hectanooga
+44.5333	-66.0167	Centreville
+43.9833	-66.0167	Brazil Lake
+47.9167	-66	Jacquet River
+45.3833	-66	Rothesay
+44.4167	-65.9833	Weymouth
+43.85	-65.9667	Tusket
+43.7333	-65.9667	Tusket Wedge
+43.7333	-65.9667	Wedgeport
+49.2167	-65.9167	Riviere-a-Claude
+48.25	-65.9	Cascapedia
+58.5333	-65.8833	George River
+58.5333	-65.8833	Georges River
+58.5333	-65.8833	Kangerthialuksoak
+58.5333	-65.8833	Port-Nouveau-Quebec
+46.1667	-65.8833	Chipman
+45.4667	-65.8833	Nauwigewauk
+46.65	-65.8667	Upper Blackville
+46.0333	-65.8667	Cumberland Bay
+43.8	-65.85	Argyle
+48.1667	-65.8333	New Richmond
+48.1667	-65.8333	Richmond
+46.7333	-65.8333	Blackville
+45.5333	-65.8333	Hampton
+48.1333	-65.8167	Black Cape
+45.8667	-65.8167	Cody
+45.8667	-65.8167	Codys
+46.8167	-65.8	Renous
+46.8333	-65.7833	Quarryville
+43.7	-65.7833	Pubnico
+47.85	-65.7667	Green Point
+47.85	-65.7667	Pointe Verte
+66.1333	-65.75	Pangnirtung
+49.2167	-65.75	Mont-Louis
+44.6	-65.75	Digby
+46.9667	-65.7333	Whitney
+43.5167	-65.7333	Lower Wood Harbour
+43.5167	-65.7333	Lower Woods Harbour
+43.5167	-65.7333	Woods Harbour
+47.7333	-65.7167	Nickadow
+47.7333	-65.7167	Nigado
+47.7333	-65.7167	Nigadoo
+47.7333	-65.7167	Nigadu
+48.1	-65.6833	Caplan
+47.6	-65.65	Bathurst
+44.6333	-65.65	Deep Brook
+46.9	-65.6333	Millerton
+44.65	-65.6333	Cornwallis
+44.5667	-65.6333	Bear River
+43.45	-65.6333	Clarkes Harbour
+47.2833	-65.6167	Bartibog
+47.2833	-65.6167	Bartibog Station
+47.2833	-65.6167	Bartibogue
+47.2833	-65.6167	Bartibogue Station
+47.1167	-65.6	Beaver Brook Station
+46.95	-65.6	Junction Derby
+43.5167	-65.6	Barrington Passage
+43.5167	-65.6	West Passage
+50.2833	-65.5833	Riviere-Pigou
+49.25	-65.5667	Gros-Morne
+49.25	-65.5667	Saint Antoine
+48.0667	-65.5667	Saint-Simeon
+48.0667	-65.5667	Saint-Simeon-de-Bonaventure
+46.9833	-65.5667	Newcastle
+43.5667	-65.5667	Barrington
+46.9833	-65.55	South Nelson
+46.05	-65.55	Forks
+45.35	-65.5333	Quaco
+45.35	-65.5333	Saint Martins
+48.9667	-65.5167	Murdochville
+46.8833	-65.5167	Barnaby
+46.8833	-65.5167	Barnaby River
+45.7167	-65.5167	Sussex
+44.8167	-65.5167	Parkers Cove
+44.75	-65.5167	Granville Ferry
+44.7333	-65.5167	Annapolis
+44.7333	-65.5167	Annapolis Royal
+43.6333	-65.4833	Clyde River
+48.05	-65.4667	Bonaventure
+43.6	-65.4667	Port Clyde
+47.6833	-65.4333	Janeville
+47.0333	-65.4333	Chatham
+46.7167	-65.4167	Rogersville
+47.0667	-65.3833	Loggieville
+47.75	-65.3667	Stonehaven
+43.6333	-65.35	Roseway
+48	-65.3333	New Carlisle
+46.5833	-65.3333	Kent Junction
+49.2333	-65.3167	Riviere Madeleine
+49.2333	-65.3167	Riviere-la-Madeleine
+46	-65.3167	Butternut Ridge
+46	-65.3167	Havelock
+43.7667	-65.3167	Shelburne
+43.7667	-65.3167	Shelburne Harbour
+44.95	-65.2667	Marshall Cove
+44.95	-65.2667	Port Lorne
+44.95	-65.2667	Port Williams
+48.0333	-65.25	Paspebiac
+46.4667	-65.25	Harcourt
+44.7167	-65.2167	Dalhousie West
+50.2833	-65.2	Riviere-aux-Graines
+47.8167	-65.1833	Grande Anse
+47.0333	-65.1833	Miramichi
+46.9	-65.1833	Saint Margaret Bay
+46.9	-65.1833	Saint Margarets
+47.7	-65.1667	Burnsville
+45.9333	-65.1667	Petitcodiac
+45.0167	-65.1667	Port George
+44.8833	-65.1667	Lawrencetown
+47.2	-65.15	Burnt Church
+44.85	-65.15	Bridgetown
+49.2167	-65.1333	Grande-Vallee
+45.8	-65.1167	Elgin
+43.7	-65.1167	Lockepor
+43.7	-65.1167	Lockeport
+43.7	-65.1167	Ragged Island
+43.7	-65.1167	Rugged Island
+46.25	-65.0667	Canaan Station
+45.0333	-65.0667	Margaretsville
+44.95	-65.0667	Middleton
+43.8333	-65.0667	Sabie River
+43.8333	-65.0667	Sable River
+47.2333	-65.05	Neguac
+46.6167	-65.05	Aldouane
+46.0333	-65.05	Salisbury
+44.8	-65.05	Albany
+44.8	-65.05	Albany Station
+44.8	-65.05	New Albany
+44.3667	-65.0333	Caledonia
+48.1833	-64.9833	Port Daniel East
+48.1833	-64.9833	Port Saint Martin
+48.1833	-64.9833	Port-Daniel
+48.1833	-64.9833	Port-Daniel-Est
+48.1833	-64.9833	Saint George Port Daniel
+46.7333	-64.9667	Saint Louis
+46.7333	-64.9667	Saint Louis de Kent
+44.3833	-64.9667	South Brookfield
+47.7833	-64.95	Caraquet
+47.7833	-64.95	Caraquette
+46.1167	-64.95	Berry Mill
+46.1167	-64.95	Berry Mills
+46.1167	-64.95	Berrys Mills
+45.6	-64.95	Alma
+45.1	-64.9333	Morden
+50.2667	-64.9167	Sheldrake
+49.1667	-64.9167	Cloridorme
+47.5	-64.9167	Tracadie
+44.9833	-64.9	Greenwood
+49.1833	-64.8833	Petite-Anse
+48.2	-64.8667	Gascons
+46.6833	-64.8667	Richibucto
+46.6333	-64.8667	Kingston
+46.6333	-64.8667	Rexton
+47.7	-64.85	Waugh
+44.6333	-64.85	Springfield
+44.45	-64.85	Colpton
+43.9333	-64.85	Port Matoon
+43.9333	-64.85	Port Mouton
+47.6667	-64.8333	Inkerman
+45.0333	-64.8333	Aylesford
+45.35	-64.8167	West Advocate
+43.95	-64.8167	Sommerville Center
+43.95	-64.8167	Summerville Centre
+45.0667	-64.8	Weston
+44.7167	-64.8	Dalhousie East
+45.6167	-64.7833	Cape Enrage
+45.4667	-64.7833	Apple River
+45.3333	-64.7833	Advocate Harbour
+50.2667	-64.7667	Riviere-au-Tonnerre
+46.0833	-64.7667	Moncton
+45.3333	-64.7667	East Advocate
+49.1333	-64.75	Grand Etang
+49.1333	-64.75	Saint Helier
+48.2667	-64.75	Newport
+46.3667	-64.75	Saint Anthony
+46.1	-64.75	Dieppe
+44.05	-64.75	Milton
+46.4667	-64.7333	Buctouche
+45.0333	-64.7333	Berwick
+46.3	-64.7167	Notre Dame
+45.75	-64.7167	Riverside
+45.35	-64.7167	Spencer Island
+45.35	-64.7167	Spencers Island
+44.55	-64.7167	New Germany
+44.0333	-64.7167	Liverpool
+47.8333	-64.7	Pointe-Canot
+47.7333	-64.7	Shippegan
+47.7333	-64.7	Shippigan
+44.7333	-64.7	Dalhousie Road
+45.95	-64.6833	Welden
+45.95	-64.6833	Weldon
+48.3333	-64.6667	Chandler
+46.1	-64.6667	Lakeburn
+45.9167	-64.65	Hillsborough
+44.1333	-64.65	Mill Village
+47.7833	-64.6333	Lameque
+45.0667	-64.6333	Cambridge Station
+48.35	-64.6167	Sainte-Adelaide
+48.35	-64.6167	Sainte-Adelaide-de-Pabos
+45.2	-64.6167	Hall Harbour
+45.2	-64.6167	Halls Harbour
+48.8333	-64.6	Sunny Bank
+44.2667	-64.6	Camperdown
+48.75	-64.5833	York
+46.1667	-64.5667	Dorchester Crossing
+46.1667	-64.5667	Scoudouc
+46.1667	-64.5667	Soudou
+48.8833	-64.55	Fontenelle
+48.8833	-64.55	Saint Majorique
+46	-64.55	Memramcook
+45.4167	-64.55	Port Greville
+44.25	-64.55	Italy Cross
+46.2333	-64.5333	Pointe de Chene
+46.2333	-64.5333	Pointe-du-Chene
+46.2167	-64.5333	Shediac
+45.1167	-64.5333	Centreville
+44.3667	-64.5167	Bridgewater
+62.9667	-64.5	Siniyah
+50.3167	-64.5	Magpie
+48.3833	-64.5	Grande-Riviere
+45.0667	-64.5	Kentville
+49.8833	-64.4833	Baie-Sainte-Claire
+49.05	-64.4833	L'Echourie
+49.05	-64.4833	Saint-Maurice
+48.8333	-64.4833	Gaspe
+48.8167	-64.45	Delaire
+45.1833	-64.45	Woodside
+44.7333	-64.45	New Ross
+44.2333	-64.45	Petite Riviere Bridge
+45.7	-64.4333	Joggin Mines
+45.7	-64.4333	Joggins
+45.7	-64.4333	South Joggings
+45.7	-64.4333	South Joggins
+44.3167	-64.4167	West LaHave
+44.3167	-64.4167	West Lehave
+45.3	-64.4	Scots Bay
+45.0833	-64.4	Port Williams
+48.9833	-64.3833	Fox River
+48.9833	-64.3833	Riviere-au-Renard
+48.7667	-64.3833	Douglastown
+45.6833	-64.3833	River Hebert
+45.1667	-64.3667	Kingsport
+45.0833	-64.3667	Wolfville
+44.4333	-64.3667	Mahone Bay
+44.3	-64.3667	East LaHave
+44.3	-64.3667	East Lehave
+44.2833	-64.3667	La Have
+44.2833	-64.3667	Le Havre
+49.8167	-64.35	Port-Menier
+48.65	-64.35	Vauquelin
+45.8833	-64.35	Sackville
+50.2833	-64.3333	Riviere-Saint-Jean
+48.4333	-64.3333	Cape Cove
+45.5167	-64.3333	Newville
+45.4	-64.3167	Parrsboro
+45.4	-64.3167	Parrsborough
+44.3667	-64.3167	Lunenburg
+48.9333	-64.3	Anse au Griffon
+48.9333	-64.3	Griffin
+48.9333	-64.3	Griffin Cove
+48.9333	-64.3	Griffins
+48.9333	-64.3	Griffon
+48.9333	-64.3	Grifon
+48.6167	-64.2667	Barachois
+48.6167	-64.2667	Barachois de Malbaie
+45.7167	-64.25	Maccan
+45.1	-64.25	Avonport
+44.35	-64.25	Blue Rock
+44.35	-64.25	Blue Rocks
+44.5333	-64.2333	Chester
+46.7	-64.2167	O'Leary
+45.7333	-64.2167	Chignecto
+45.6833	-64.2167	Athol
+48.8667	-64.2	Cap-des-Rosiers
+45.8333	-64.2	Amherst
+48.6333	-64.1833	Point Peter
+48.6333	-64.1833	Point Saint Peter
+46.6833	-64.1833	Coleman
+46.15	-64.1833	Bristol
+46.15	-64.1833	Great Shemogue
+46.15	-64.1833	Shemogue
+45.0667	-64.1833	Hantsport
+45.15	-64.1667	Cheverie
+45.15	-64.1667	Chiverie
+50.2667	-64.15	Longue-Pointe-de-Mingan
+44.9833	-64.1333	Windsor
+45.2	-64.1167	Cambridge
+46.05	-64.1	Port Elgin
+49.7167	-64.0667	Becscie
+46.8	-64.0667	Alberton
+46.6667	-64.0667	Portage
+44.5833	-64.0667	Mill Cove
+46.5333	-64.05	Harmony
+45.6333	-64.05	Springhill
+44.6333	-64.05	Hubbards
+44.6333	-64.05	Hubbards Cove
+67.55	-64.0333	Broughton Island
+67.55	-64.0333	Qikiqtarjuaq
+46.95	-64.0333	Tignish
+45.4167	-64.0333	Five Islands
+50.3	-64.0167	Mingan
+45.2167	-64.0167	La Tete
+45.2167	-64.0167	Petite
+45.2167	-64.0167	Walton
+46.4333	-64	Wellington
+46.4333	-64	Wellington Station
+44.9667	-63.9667	New Port Conner
+44.9667	-63.9667	New Port Connor
+44.9667	-63.9667	Newport Corner
+45.0667	-63.95	Mosherville
+44.6667	-63.95	Ingramport
+46.5667	-63.9333	Tyne Valley
+46.1	-63.9333	Melrose
+45.3833	-63.9167	Economy
+45.1833	-63.8833	Oxford Junction
+44.7	-63.8833	French Village
+46.4333	-63.8667	Miscouche
+45.7333	-63.8667	Oxford
+45.2667	-63.8667	Tenecape
+45.2667	-63.8667	Tennycape
+45.2667	-63.8667	Tenycape
+44.8833	-63.8333	Mount Uniacke
+46.4167	-63.8167	Saint Eleanors
+49.6167	-63.8	Otter
+44.4667	-63.8	Prospect
+46.4	-63.7833	Summerside
+46.1167	-63.7833	Cape Tormentine
+45.3167	-63.7833	Burntcoat
+45.1833	-63.7167	Kennetcook
+44.4667	-63.7167	Terence Bay
+45.4	-63.7	Portapique
+46.5333	-63.6833	Princetown
+46.25	-63.6667	Borden-Carleton
+45.6167	-63.6667	Westchester Station
+44.7289	-63.6644	Bedford
+46.4333	-63.65	Kensington
+45.85	-63.65	Pugwash
+45.7833	-63.6333	Pugwash Junction
+45.4667	-63.6	Londonderry
+45.4167	-63.6	Great Village
+44.65	-63.6	Halifax
+44.4667	-63.6	Sambro
+50.25	-63.5833	Havre-Saint-Pierre
+45.8333	-63.5833	Wallace Bay
+44.6667	-63.5667	Dartmouth
+46.3667	-63.55	Emerald
+45.6833	-63.55	Wentworth Centre
+45.55	-63.55	Folly Lake
+44.65	-63.55	Woodside
+45.4333	-63.5167	East Mines
+45.3167	-63.5167	Maitland
+45.3167	-63.5167	South Maitland
+44.9667	-63.5167	Elmsdale
+46.2167	-63.4833	Victoria
+44.6167	-63.4833	Eastern Passage
+46.2167	-63.4667	Hampton
+45.8	-63.4667	Wallace
+45.4333	-63.4667	Debert
+45.4333	-63.4667	Debert Station
+45.25	-63.4667	South Maitland
+46.45	-63.45	Stanley Bridge
+45.0833	-63.4	Shubenacadie
+45.4167	-63.3833	Belmont
+46.35	-63.35	Hunter River
+45.1333	-63.35	Stewiacke
+44.6333	-63.35	Lawrencetown
+46.4167	-63.3	Rustico
+45.3667	-63.3	Truro
+45.7167	-63.2833	Tatamagouche
+45.25	-63.2833	Brookfield
+44.65	-63.2667	Seaforth
+58.8667	-63.25	Ramah
+44.9167	-63.2333	Meagher Grant
+44.9167	-63.2333	Meaghers Grant
+44.7167	-63.2333	East Chezzetcook
+49.2667	-63.2167	Galiote
+46.3	-63.2167	Milton
+46.3	-63.2167	Milton Station
+44.7833	-63.15	Musquodoboit Harbour
+46.2833	-63.1333	Sherwood
+46.2333	-63.1333	Charlottetown
+45.05	-63.1333	Middle Musquodoboit
+45.05	-63.1333	Musquodoboit
+46.25	-63.1167	Parkdale
+49.2167	-63.05	Chicotte
+45.7333	-63.05	River John
+45.4167	-63.0333	Riversdale
+45.5667	-63	Dalhousie Settlement
+46.35	-62.9667	Tracadie
+45.1333	-62.95	Upper Musquodoboit
+46.1667	-62.9167	Cherry Valley
+46.1833	-62.8833	Vernon
+46.1833	-62.8833	Vernon Bridge
+46.0167	-62.8833	Flat River
+46.3667	-62.8667	Mount Stewart
+45.65	-62.85	Scotsburn
+46.2	-62.8333	Vernon River
+46.2	-62.8333	Vernon River
+46.0667	-62.8167	Ocean View
+46.0667	-62.8167	Surrey
+46.3	-62.7833	Peake
+46.3	-62.7833	Peake Station
+46.3	-62.7833	Peakes
+45.75	-62.7333	Caribou Island
+45.55	-62.7167	Westville
+46.4167	-62.7	Morell
+45.6667	-62.7	Pictou
+45.4667	-62.7	Hopewell
+44.8	-62.7	Tangier
+46.1667	-62.65	Montague
+46.1667	-62.65	Montague Bridge
+45.5667	-62.65	Stellarton
+58.2	-62.6333	Hebron
+45.5833	-62.6333	New Glasgow
+46.2333	-62.6167	Cardigan
+45.6167	-62.6167	Trenton
+46.4167	-62.5667	Saint Peters
+46.4167	-62.5667	Saint Peters Bay
+45.9667	-62.5667	White Sands
+49.1333	-62.5333	Shallop
+46.1833	-62.5333	Georgetown
+46.0167	-62.5333	Murray Harbour
+44.9333	-62.5333	Sheet Harbour
+45.4	-62.5	Sunnybrae
+46.0167	-62.4833	Beach Point
+46.4167	-62.4333	Armadale
+46.4167	-62.4333	Selkirk
+45.6167	-62.4167	Merigomish
+45.6167	-62.4167	Merigomishe
+44.9	-62.4167	Beaver Harbour
+44.9167	-62.3833	Port Dufferin
+46.4167	-62.2667	Harmony Junction
+45.7	-62.2667	Lismore
+82.4833	-62.25	Alert
+46.35	-62.25	East Souris
+46.35	-62.25	Souris
+44.9667	-62.25	Moose River
+45.5833	-62.1833	Marshy Hope
+45.4	-62.1833	East River Saint Marys
+44.9667	-62.1167	Ecum Secum
+50.2167	-62.0833	Aguanish
+46.4333	-62.0667	Elmira
+45.2667	-62.0667	Glenelg
+45.25	-62.0167	Cochrane Hill
+45.1167	-62.0167	Goldenville
+45.0333	-62	Liscomb
+45.0333	-62	Liscombe
+45.3833	-61.9833	Goshen
+45.1333	-61.9833	Sherbrooke
+45.8667	-61.9667	Livingstone Cove
+45.6167	-61.9667	Antigonish
+45.6167	-61.9667	Antigonishe
+47.3667	-61.9333	Etang-du-Nord
+45.0667	-61.9	Sonora
+47.3833	-61.8667	Cap-aux-Meules
+47.3833	-61.8667	Grindstone Island
+49.2667	-61.85	Fox Bay
+47.2333	-61.85	Havre-Aubert
+57.4667	-61.8333	Nutak
+50.1833	-61.8167	Natashkwan
+50.1833	-61.8167	Natashquan
+50.1833	-61.8167	Netashquan
+45.2167	-61.7333	Stormont
+56.55	-61.6833	Nain
+45.1833	-61.6667	Isaacs Harbour
+45.6167	-61.65	Tracadie
+45.1833	-61.65	Goldboro
+47.55	-61.5667	Grande-Entree
+46.0333	-61.5333	Port Hood
+46.0333	-61.5333	Smith's
+45.65	-61.5167	Frankville
+45.65	-61.5167	Havre Bouche
+45.65	-61.5167	Havre Boucher
+45.8833	-61.5	Judique
+45.4	-61.5	Guysboro
+45.4	-61.5	Guysborough
+45.8	-61.4833	Long Point
+45.6833	-61.4333	Troy
+46.0833	-61.4167	Mabou Harbour
+45.6333	-61.4	Port Hastings
+45.6167	-61.4	Mulgrave
+45.6167	-61.4	Port Mulgrave
+66.6667	-61.3667	Cape Dyer
+46.0667	-61.3667	Mabou
+45.6	-61.3667	Point Tupper
+45.2167	-61.3667	Larry River
+45.2167	-61.3667	Larrys River
+45.2167	-61.3667	Tor Bay
+45.6	-61.35	Port Hawkesbury
+50.1833	-61.2833	Kegashka
+50.1833	-61.2833	Kegaska
+46.2333	-61.2833	Inverness
+46.1833	-61.2667	Strathlorne
+45.7167	-61.25	West Bay Road
+45.35	-61.25	Queensport
+45.65	-61.2333	Granville
+45.6167	-61.2333	Evanston
+45.2333	-61.2	Whitehead
+45.7167	-61.1667	West Bay
+46.4	-61.15	Chimney Corner
+45.9667	-61.1167	Whycocomagh
+46.4333	-61.1	Margaree
+46.4333	-61.1	Margaree Harbour
+45.9	-61.1	Orangedale
+46.3833	-61.0667	East Margaree
+46.3833	-61.0667	Margaree
+46.55	-61.0333	Grande Etang
+46.55	-61.0333	Grand-Etang
+45.4833	-61.0333	Cape Auget
+46.6167	-61.0167	Chetacan
+46.6167	-61.0167	Cheticamp
+46.6167	-61.0167	Chetican
+46.6167	-61.0167	Eastern
+45.9333	-61.0167	Alba Station
+45.5167	-61.0167	Arichat
+45.35	-61	Canso
+45.9833	-60.9833	Little Narrows
+46.65	-60.9667	Petit-Etang
+45.5833	-60.9667	D'Escousse
+45.95	-60.9	McKinnon Harbour
+45.95	-60.9	McKinnons Harbour
+55.85	-60.8667	Davis Inlet
+45.65	-60.8667	Saint Peters
+45.9667	-60.8167	Iona
+45.95	-60.7833	Grand Narrows
+46.1	-60.75	Baddeck
+45.7	-60.7333	Soldier Cove
+45.7	-60.7333	Soldiers Cove
+50.2167	-60.7167	Gethsemani
+50.2167	-60.7167	Romaine
+45.6333	-60.6667	Grand River
+46.0167	-60.65	Shenacadie
+46.0167	-60.65	Shenacadle
+46.0167	-60.65	Shunacadie
+46.3	-60.6167	North River Bridge
+46.25	-60.6167	Saint Ann
+46.25	-60.6167	Saint Anns
+47	-60.5167	Capestick
+47	-60.5167	Capstick
+46.3667	-60.5167	Indian Brook
+46.1	-60.5	Boisdale
+46.1	-60.5	Bolsdale
+47	-60.4667	Bay Saint Lawrence
+46.9	-60.4667	Dingwall
+53.3333	-60.4167	Goose
+53.3333	-60.4167	Goose Bay
+53.3333	-60.4167	Terrington Basin
+46.6833	-60.3667	Inganish
+46.6833	-60.3667	Ingonish
+46.6833	-60.3667	Niganishe
+53.3	-60.3	Happy Valley
+46.2333	-60.2833	Little Bras d'Or
+46.15	-60.2833	North West Arm
+46.2	-60.25	North Sydney
+45.7167	-60.25	Fourchu
+46.1667	-60.2333	Edwardsville
+46.1167	-60.2333	Coxheath
+55.45	-60.2167	Hopedale
+46.2333	-60.2167	Sidney Mines
+46.2333	-60.2167	Sydney Mines
+46.1167	-60.2167	Sydney River
+46.15	-60.1667	Sidney
+46.15	-60.1667	Sydney
+53.5333	-60.15	North West River
+45.8333	-60.1333	Gabarouse Barachois
+45.8333	-60.1333	Gabarus
+45.8333	-60.1333	Gabarus Barachois
+46.25	-60.0833	New Waterford
+46.2167	-60.0167	Dominion
+46.2167	-60.0167	Old Bridgeport
+45.9333	-60	Louisbourg Road
+45.9333	-60	Louisburg Road
+46.0333	-59.9833	Mira
+45.9167	-59.9833	Louisbourg
+45.9167	-59.9833	Louisburg
+46.2	-59.9667	Glace Bay
+46.0833	-59.9333	Homeville
+46.1333	-59.8833	Cow Bay
+46.1333	-59.8833	Morien Bay
+46.1333	-59.8833	Port Morien
+46.1833	-59.8667	Dominion Number Six
+46.1833	-59.8667	Donkin
+46	-59.85	Main-a-Dieu
+50.35	-59.8167	Point au Maurier
+50.35	-59.8167	Pointe-a-Maurier
+55.0667	-59.6	Kaipokok
+55.0667	-59.6	Kaipotok
+50.5167	-59.4833	Harrington Harbour
+47.8667	-59.3667	Codroy
+50.7	-59.3333	Tete-a-la-Baleine
+47.8333	-59.3167	Searston
+47.6833	-59.3167	Red Rocks
+47.7833	-59.2333	Saint Andrews
+47.6167	-59.2333	Cape Ray
+55.1833	-59.2167	Aillik
+47.8167	-59.2	Tompkins
+55.0833	-59.1833	Makkovik
+55.0833	-59.1833	Mokkovik
+47.85	-59.15	Doyles
+47.5667	-59.15	Channel
+47.5667	-59.15	Channel-Port aux Basques
+47.5667	-59.15	Port aux Basques
+48.5	-59.1167	March Point
+48.5	-59.1167	Marches Point
+48.6167	-59.1	Three Rock Cove
+47.9167	-59.0333	South Branch
+50.7833	-59.0167	Mutton Bay
+47.6	-59.0167	Isle aux Morts
+47.6	-59.0167	Isle-Morte
+48.65	-58.9833	Lourdes
+50.8333	-58.95	La Tabatiere
+48.0167	-58.95	North Branch
+48.7	-58.9167	Black Duck Bank
+48.7	-58.9167	Black Duck Brook
+48.55	-58.9167	Piccadilly
+48.5167	-58.9	Abrahams Cove
+48.2	-58.8667	Saint Davids
+48.0667	-58.8667	Codroy Pond
+48.1833	-58.85	Saint Fintans
+48.5667	-58.8167	Boswarlos
+48.2333	-58.8167	Cartyville
+48.25	-58.7667	Robinsons
+48.25	-58.7667	Robinsons Station
+48.55	-58.7333	Port au Port
+47.6167	-58.7167	Rose Blanche
+48.3167	-58.6833	Fishels
+51.2333	-58.65	Saint-Augustin
+48.65	-58.65	Point au Mal
+48.65	-58.65	Point au Mall
+48.65	-58.65	Point-a-Mal
+48.3833	-58.5833	Flat Bay
+48.55	-58.5667	Stephenville
+48.4333	-58.5	Saint George
+48.4333	-58.5	Saint George's
+48.45	-58.4833	Sandy Point
+54.1667	-58.4333	Bigolet
+54.1667	-58.4333	Rigolet
+54.1667	-58.4333	Rigoulette
+48.5167	-58.4167	Stephenville Crossing
+49.05	-58.3833	York Harbour
+49.1	-58.3667	Lark Harbour
+48.65	-58.25	Harrys Brook
+47.6667	-58.2333	Grand Bruit
+49.05	-58.1833	Frenchman Cove
+54.2167	-58.1333	Turner Bight
+49.4833	-58.1167	Trout River
+49.1167	-58.0667	Cox Cove
+51.3167	-58.0167	Baie des Rochers
+51.3167	-58.0167	Port Saint Servain
+51.3167	-58.0167	Port-Saint-Servan
+51.3167	-58.0167	Riviere Baie des Rochers
+51.3167	-58.0167	Rocky Bay
+48.9667	-58	Curling
+49.6167	-57.95	Lobster Cove
+49.7333	-57.9333	Sally Cove
+49.5	-57.9333	Bonne Bay
+49.5	-57.9333	Woody Point
+48.95	-57.9333	Corner Brook
+48.9667	-57.9167	Humbermouth
+49.9167	-57.9	Cow Head
+49.9167	-57.9	Cow Head Harbour
+49.45	-57.9	Glenburnie
+49.5	-57.8833	Gadds Harbour
+49.5333	-57.8667	Neddy Harbour
+51.4167	-57.8167	Old Fort Bay
+48.9667	-57.8	Steady Brook
+49.45	-57.7667	Lomond
+51.4667	-57.7167	Saint-Paul
+51.4667	-57.7167	Saint-Paul-du-Nord
+50.0333	-57.7167	Parsons Pond
+47.6	-57.6333	Burgeo
+51.4167	-57.6167	Salmon Bay
+49.0167	-57.6167	South Brook
+50.1833	-57.6	Portland Cove
+50.1833	-57.6	Portland Creek
+50.2333	-57.5833	Daniels Cove
+50.2333	-57.5833	Daniels Harbour
+49.0833	-57.55	Pynns Brook
+50.35	-57.5333	Bellburns
+53.6167	-57.4333	Separation Point
+49.1833	-57.4333	Deer Lake
+54.1333	-57.4167	West Bay
+47.5167	-57.4167	Ramea
+50.5333	-57.3833	River of Ponds
+50.7167	-57.3667	Port au Choix
+50.7167	-57.3667	Port aux Choix
+54.5667	-57.2667	Holton Harbour
+50.65	-57.2667	Port Saunders
+47.5833	-57.2667	Fox Island Harbour
+54.4667	-57.25	Smokey
+54.4667	-57.25	Smoky
+54.45	-57.2167	Indian Harbour
+51.4167	-57.2	Lourdes-des-Blanc-Sablon
+50.75	-57.1667	Eddies Cove West
+53.8167	-57.1333	North River
+51.4333	-57.1167	Blanc-Sablon
+49.1667	-57.1167	Howley
+51.0167	-57.1	Ferolle Point
+53.65	-57.05	Muddy Bay
+51.0167	-57.0333	Shoal Cove
+50.8333	-57.0333	Bad Harbour
+50.8333	-57.0333	Barr'd Harbour
+53.8	-57.0167	Indian Harbour
+53.7	-57.0167	Cartwright
+53.8667	-57	Packs Harbour
+50.9333	-56.9833	Bartletts Harbour
+51.45	-56.95	Forteau Bay
+51.05	-56.9167	Brig Bay
+49.7667	-56.9167	Sops Arm
+53.8667	-56.9	Independent Harbour
+47.55	-56.8833	La Hune
+49.5333	-56.8667	Hampden
+48.8167	-56.8667	Buchans
+51.5167	-56.8333	Anse au Loup
+51.5167	-56.8333	L'Anse au Loup
+51.1833	-56.8333	Current Island
+49.5833	-56.8333	The Beaches
+49.8667	-56.8167	Jackson Arm
+47.5833	-56.8167	Aviron Bay
+53.7333	-56.8	Hare Harbour
+53.7333	-56.8	Hare Island
+51.1333	-56.8	Pond Cove
+51.1333	-56.8	Pound Cove
+47.5667	-56.75	Francois
+51.2833	-56.7333	Flower Cove
+51.2833	-56.7333	Flowers Cove
+51.6	-56.7167	West Saint Modeste
+49.7833	-56.6333	Westport
+51.3667	-56.6167	Shoal Cove
+50.3667	-56.5333	Harbour Deep
+48.8167	-56.5333	Millertown
+50.25	-56.5	Little Harbour Deep
+48.85	-56.4667	Buchans Junction
+49.85	-56.4333	Middle Arm
+51.7333	-56.4167	Red Bay
+51.4	-56.4167	Eddies Cove
+47.6	-56.4167	Richards Harbour
+49.9333	-56.4	Seal Cove
+49.0167	-56.3167	Millerton Junction
+49.0167	-56.3167	Millertown Junction
+52.5333	-56.3	Port Hope Simpson
+50.5333	-56.2833	Williamsport
+50.6	-56.2	Hooping Harbour
+49.9167	-56.1833	Baie Verte
+49.6167	-56.1833	Rattling Brook
+49.5833	-56.1833	Kings Point
+49.7	-56.15	Middle Arm
+51.5167	-56.1333	Big Brook
+50.85	-56.1167	Roddickton
+50.7333	-56.1	Englee
+50.1333	-56.1	Fleur de Lis Harbour
+50.1333	-56.1	Fleur de Lys
+50.1333	-56.1	Fleur-de Lys Harbour
+49.4833	-56.1	Springdale
+49.4167	-56.0667	South Brook
+49.75	-56.0333	Burlington
+48.9667	-56.0333	Badger
+49.6833	-55.9833	Silverdale
+46.95	-55.9833	Point Crewe
+49.6	-55.9667	Little Bay
+49.6	-55.9667	Shoal Arm
+46.9	-55.9667	Point May
+53.3	-55.95	Black Bear Bay
+47.55	-55.9333	Hermitage
+47.6	-55.9167	Gaultois
+53.4833	-55.9	Red Point
+51.6333	-55.9	Cape Norman
+50.9	-55.9	Conche
+52.5833	-55.8833	Rexons Cove
+52.6833	-55.8667	Georges Cove
+51.6	-55.8667	Cook Harbour
+50	-55.8667	Pacquet
+49.7833	-55.8667	Nippers Harbour
+47.0667	-55.8667	Fortune
+52.9	-55.85	Snug Harbour
+47.8667	-55.85	Saint Albans
+53.0167	-55.8333	Hawke Harbour
+52.7333	-55.8333	Square Island Harbour
+52.3	-55.8333	Mary's Harbour
+52.2333	-55.8333	Lodge
+52.0167	-55.8333	Henley Harbour
+51.0333	-55.8333	Croc
+49.5333	-55.8333	Port Anson
+47.4833	-55.8333	Harbour Breton
+46.8667	-55.8167	Lamaline
+52.9667	-55.8	Venison Tickle
+49.6333	-55.8	Little Bay Island
+53.5	-55.7833	Spotted Islands
+53.4	-55.7833	Batteau
+52.55	-55.7833	Williams Harbour
+51.0833	-55.7833	Saint Julian's
+51.0833	-55.7833	Saint Julien
+51.0833	-55.7833	Saint Julien's
+47.5	-55.7833	Jersey Harbour
+47.1	-55.7833	Grand Bank
+53.4667	-55.7667	Domino Harbour
+52.6	-55.7667	Fishing Ship Harbour
+53.2667	-55.7333	Flat Islands
+52.55	-55.7333	Francis Harbour
+51.55	-55.7333	Raleigh
+50.2	-55.7333	Horse Islands
+50.2	-55.7333	Saint Barbe Islands
+53.2333	-55.7167	Seal Islands
+49.5	-55.7167	Pilleys
+49.5	-55.7167	Pilley's Island
+51.1667	-55.7	Fichot Island
+52.45	-55.6833	Murray Harbour
+52.35	-55.6833	Fox Harbour
+49.6	-55.6833	Beaumont
+52.45	-55.6667	Seal Bight
+49.8667	-55.6667	Round Harbour
+48.95	-55.6667	Windsor
+52.3667	-55.65	Deepwater Creek
+48.9333	-55.65	Grand Falls
+52.2167	-55.6333	Cape Saint Charles
+51.6	-55.6333	Cape Onion
+49.8833	-55.6333	Tilt Cove
+51.3	-55.6167	Goose Cove
+51.3833	-55.6	Saint Anthony
+51.3833	-55.6	Saint Anthony Harbour
+50.7167	-55.6	Grey Islands Harbour
+52.2667	-55.5833	Battle Harbor
+52.2667	-55.5833	Battle Harbour
+49.9667	-55.5833	La Scie
+49.9167	-55.5667	Shoe Cove
+46.9333	-55.55	Lawn
+51.6	-55.5333	L'Anse au Meadow
+47.4667	-55.5333	English Harbour West
+47.1333	-55.5333	Grand Beach
+51.4333	-55.5167	Great Brehat
+51.4333	-55.5167	Great Brehat Bay
+49.0167	-55.5167	Bishops Falls
+51.5167	-55.4833	Griguet
+47.6833	-55.4667	Pools Cove
+47.5167	-55.45	Belleoram
+47.5	-55.45	Saint-Jacques
+49.5	-55.4	Leading Tickles
+49.3167	-55.4	Point Leamington
+46.9	-55.4	Saint Lawrence
+49.15	-55.3667	Botwood
+47.2333	-55.3667	Garnish
+49.3667	-55.3333	Paradise
+49.3667	-55.3333	Paradise Cove
+49.4833	-55.2833	Cottrells Cove
+49.0833	-55.2667	Norris Arm
+49.5	-55.25	Fortune Harbor
+49.5	-55.25	Fortune Harbour
+47.65	-55.2333	Recontre East
+47.65	-55.2333	Rencontre East
+47.6167	-55.2333	Rencontre East
+47.05	-55.1833	Burin
+47.1667	-55.1667	Marystown
+47.15	-55.1333	Little Bay
+47.4833	-55.1167	Barrasway de Plate
+47.4833	-55.1167	Barrisway de Plate
+49.3333	-55.0833	Little Burnt Bay
+49.3333	-55.0833	Marshallville
+49.1167	-55.0833	Notre Dame Junction
+49.2667	-55.0667	Standhope
+49.2667	-55.0667	Stanhope
+49.2333	-55.0667	Lewisporte
+47.1833	-55.05	Rock Harbour
+47.5333	-54.9667	Saint Bernards
+49.2833	-54.9333	Campbellton
+47.65	-54.9333	English Harbour East
+47.3667	-54.9167	Baine Harbour
+47.2667	-54.9167	Flat Island
+49	-54.8833	Glenwood
+49.5667	-54.85	Moretons Harbour
+49.4833	-54.8333	Summerford
+49.2667	-54.8333	Loon Bay
+47.2833	-54.8167	Oderin
+47.3833	-54.7833	Gallows
+47.3833	-54.7833	Saint Joseph Harbour
+47.3833	-54.7833	Saint Josephs
+49.65	-54.75	Toulinguet
+49.65	-54.75	Twillingate
+49.3333	-54.7333	Birchy Bay
+47.6833	-54.7167	Terenceville
+47.6833	-54.7167	Terrenceville
+49.4333	-54.6667	Boyds Cove
+49.6167	-54.5833	Herring Neck
+48.95	-54.55	Gander
+49.5167	-54.5333	Port Albert
+49.35	-54.5167	Victoria Cove
+47.4	-54.5167	Presque
+49.2667	-54.5	Gander Bay
+47.4333	-54.4667	Saint Kyrans
+48.9	-54.4333	Benton
+48.9	-54.4333	Benton Station
+49.65	-54.3833	Change Island
+49.65	-54.3833	Change Islands
+49.4167	-54.3667	Frederickton
+47.4	-54.3333	Merasheen
+49.6	-54.3	Island Harbour
+49.7	-54.2833	Fogo
+49.3667	-54.2667	Carmanville
+49.5667	-54.25	Little Seldom
+47.8833	-54.25	Swift Current
+47.7	-54.2333	Bar Haven
+47.5667	-54.2333	Tacks Beach
+48.7833	-54.2167	Gambo
+48.5	-54.2167	Terra Nova
+47.7667	-54.2167	Woody Island
+47.4833	-54.2	Indian Harbour
+46.9167	-54.1833	Saint Bride's
+49.7333	-54.1667	Joe Batt's Arm
+49.6	-54.1667	Seldom
+48.35	-54.1667	Port Blandford
+48.2667	-54.1667	Thorburn Lake
+47.8333	-54.1667	Sound Island
+47.3833	-54.1667	Red Island
+47.3833	-54.1667	Red Island Harbour
+47.65	-54.15	Great Brule
+48.6833	-54.1167	Alexander Bay
+48.6833	-54.1167	Alexander Bay Station
+47.5333	-54.1	Harbour Buffet
+47.5333	-54.1	Harbour Buffett
+47.6667	-54.0833	Spencer Cove
+47.1333	-54.0667	Big Barachois
+47.1333	-54.0667	Great Barasway
+47.1	-54.0667	Ship Cove
+46.8	-54.0667	Point Lance
+49.6833	-54.05	Tilting
+49.45	-54.05	Ladle Cove
+48.6667	-54.05	Glovertown
+47.1833	-54.05	Little Barasway
+48.85	-54.0167	Hare Bay
+48.4333	-54.0167	Charlottetown
+48.0167	-54.0167	Northern Bight
+47.3	-54	Argentia
+48.85	-53.9833	Dover
+48.85	-53.9833	Wellington
+48.1833	-53.9833	Shoal Harbour
+47.85	-53.9833	Come By Chance
+48.2333	-53.9667	Georges Brook
+48.15	-53.9667	Clarenville
+47.65	-53.9667	Little Harbour
+47.2333	-53.9667	Placentia
+46.8833	-53.9667	Branch
+49.4333	-53.95	Doating Cove
+49.4333	-53.95	Doting Cove
+47.8667	-53.9333	Sunnyside
+48.95	-53.9167	Trinity
+48.1333	-53.9167	Elliots Cove
+48.1333	-53.9167	Elliotts Cove
+48.0833	-53.9167	Adeytown
+47.3167	-53.9167	Fox Harbour
+48.4167	-53.8833	Musgrave Town
+47.6833	-53.8833	Rantem
+47.6833	-53.8833	Rantem Station
+47.2833	-53.8833	Dunville
+49.0333	-53.8667	Indian Bay
+48.3667	-53.8667	Lethbridge
+48.7	-53.8	Burnside
+48.4333	-53.8	Jamestown
+47.4333	-53.8	Long Harbour
+48.65	-53.7667	Eastport
+48.05	-53.7667	Saint Jones Within
+48.1	-53.75	Hickmans Harbour
+47.6333	-53.75	Bellevue
+47.6333	-53.75	Bellvue
+48.1667	-53.7167	Burgoyne Cove
+48.1667	-53.7167	Burgoynes Cove
+48.9833	-53.7	Fair Island
+46.9667	-53.7	Mosquito
+48.85	-53.6833	Saint Brendans
+47.55	-53.6667	Normans Cove
+47.5167	-53.6667	Chapel Arm
+48.6667	-53.65	Salvage
+46.8	-53.65	Saint Vincent
+48.4	-53.6333	Southern Bay
+48.4	-53.6333	Southern Bay Station
+48.05	-53.6333	Southport
+49.2833	-53.6167	Lumsden
+49.1167	-53.6167	Valleyfield
+47.0167	-53.6167	Admirals Beach
+46.8667	-53.6167	Gascoigne
+46.8667	-53.6167	Gascolgne
+46.8667	-53.6167	Gaskiers
+48.4167	-53.6	Princeton
+46.6333	-53.6	Saint Shotts
+49.15	-53.5833	Wesleyville
+49.1	-53.5833	Pools Harbor
+49.1	-53.5833	Pool's Island
+49.05	-53.5833	Greenspond
+48.1333	-53.5833	Deer Harbour
+46.9167	-53.5833	Saint Marys
+47.2167	-53.5667	Colinet
+47.5833	-53.55	New Harbour
+47.55	-53.55	Dildo
+49.1833	-53.5333	Newtown
+48.1833	-53.5333	Ivanhoe
+47.4167	-53.5333	Whitbourne
+46.6167	-53.5333	Cape Pine
+49.2333	-53.5167	Cape Freels
+47.1167	-53.5167	Saint Josephs
+48.5	-53.5	Plate Cove
+47.7167	-53.5	Cavendish
+47.6333	-53.5	Greens Harbour
+47.1333	-53.5	Mount Carmel
+48.55	-53.4833	Open Hall
+48.55	-53.4833	Open Hole
+48.55	-53.4833	Red Cliff
+47.7833	-53.4833	Hearts Delight
+48.2833	-53.4667	Kerley Harbour
+48.2833	-53.4667	Kerleys Harbour
+47.8167	-53.45	Heart's Desire
+48.6	-53.4	Keels
+48.3667	-53.3833	Trinity
+47.9167	-53.3667	New Perlican
+47.8667	-53.3667	Heart's Content
+46.7333	-53.3667	Trepassey
+46.7333	-53.3667	Trespassey
+48.4	-53.35	Port Rexton
+48.55	-53.3333	Kings Cove
+47.9667	-53.3333	Winterton
+47.6167	-53.3	Spaniards Bay
+47.5833	-53.3	Bay Roberts
+47.5333	-53.3	Clarkes Beach
+48.0167	-53.2667	Hants Harbour
+46.7167	-53.2667	Portugal Cove South
+47.7333	-53.25	Carbonear
+47.6833	-53.25	Harbor Grace
+47.6833	-53.25	Harbour Grace
+47.45	-53.2333	Colliers
+47.7667	-53.2167	Victoria
+47.65	-53.2167	Upper Island Cove
+47.5167	-53.2167	Brigus
+47.4333	-53.2167	Conception Harbour
+48.5833	-53.2	Newmans Cove
+47.75	-53.2	Freshwater
+47.8	-53.1667	Perrys Cove
+47.7833	-53.1667	Salmon Cove
+47.4333	-53.1667	Harbour Main
+47.3833	-53.1333	Holyrood
+48.0333	-53.1167	Brownsdale
+48.6333	-53.1	Bonavista
+48.5667	-53.1	Elliston Station
+48.4833	-53.1	Port Union
+48.5167	-53.0833	Catalina
+47.9	-53.0833	Western Bay
+47.4667	-53.0833	Indian Pond
+47.4667	-53.0833	Seal Cove
+46.6667	-53.0833	Cape Race
+48.6167	-53.0333	Elliston
+48.0833	-53.0167	Old Perlican
+47.5	-53.0167	Kelligrews
+48	-53	Lower Island Cove
+48.0333	-52.9833	Caplin Cove
+47.5167	-52.9667	Foxtrap
+46.9667	-52.9667	Fermeuse
+46.9333	-52.9667	Renews
+47.0833	-52.95	Cape Broyle
+48.1667	-52.9333	Grates Cove
+48.0667	-52.9333	Bay de Verde
+47.65	-52.9333	Bell Island
+47.65	-52.9333	Wabana
+47.5333	-52.9333	Topsail
+47.0167	-52.9167	Ferryland
+47.6333	-52.85	Portugal Cove
+47.25	-52.85	Mobile
+47.2167	-52.85	Tors Cove
+47.7167	-52.8333	Bauline
+47.3333	-52.8333	Bay Bulls
+47.2833	-52.8333	Witless Bay
+47.5167	-52.7833	Mount Pearl
+47.5167	-52.7833	Mount Pearl Park
+47.7667	-52.7667	Pouch Cove
+47.65	-52.7333	Torbay
+47.7167	-52.7167	Flat Rock
+47.45	-52.7167	Petty Harbour
+47.6333	-52.6833	Logy Bay
+47.55	-52.6667	Saint John's

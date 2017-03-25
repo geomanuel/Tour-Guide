@@ -1,0 +1,92 @@
+Latitude	Longitude	Name
+49.239053	-121.765667	Agassiz Visitor Information Centre & Museum
+49.264273	-124.759232	Alberni Valley Chamber of Commerce
+45.850501	-64.250301	Amherst Tourist Bureau
+51.177918	-115.570294	Banff Visitor Centre - Parks Canada
+50.625327	-101.283425	Binscarth Village of
+49.860647	-99.95649	Brandon Tourism (Riverbank Discovery Centre)
+49.035979	-119.477758	British Columbia Visitor Centre @ Osoyoos
+49.295836	-117.651466	Castlegar and District Chamber of Commerce and Visitor Centre
+49.669363	-112.800745	Chinook Country Tourist Association
+49.044948	-118.206484	Christina Lake Welcome Centre
+47.560555	-52.710987	City of St. John's Visitor Information Centre (seasonal)
+49.533665	-115.743756	Cranbrook Chamber Of Commerce
+49.499439	-115.792862	Cranbrook Visitor Centre
+49.095864	-116.514853	Creston Visitor Centre
+49.03253	-119.467506	Destination Osoyoos
+49.724475	-113.407259	Fort Macleod Town Office
+45.962753	-66.640575	Fredericton Tourism
+45.50586	-75.812019	Gatineau Park Visitor Centre
+46.494829	-80.841528	Greater Sudbury Welcome Centre
+48.42288	-123.368916	Greater Victoria Visitors & Convention Bureau
+49.09018	-118.677249	Greenwood Museum & Visitor Centre
+50.097729	-108.483493	Gull Lake Museum
+49.687541	-107.137249	Hazenmore Village Office* (open Thursdays only) *office only open on Thursdays *office only open on Thursdays
+49.377052	-121.441894	Hope Visitor Info Centre
+50.527029	-103.677856	Indian Head Tourist Booth
+46.227674	-61.307634	Inverness Visitor Information Center
+49.011489	-118.785743	Kettle River Museum Society
+49.761858	-94.528592	Lake of the Woods Discovery Centre
+47.051515	-67.73795	Malobiannah Tourist Information Center
+49.908874	-109.478314	Maple Creek Visitor Centre
+46.316605	-78.702451	Mattawa Tourist Information
+49.786466	-92.838153	Max the Moose
+50.41617	-107.043258	Morse Museum and Cultural Centre
+46.436895	-72.354305	Municipalité de Champlain
+49.489316	-117.301295	Nelson & District Chamber Of Commerce
+46.212234	-60.246481	Newfoundland Tourist Information Centre
+43.96581	-78.183309	Northumberland Tourism
+44.570662	-80.944646	Owen Sound Tourism
+48.992585	-125.587958	Pacific Rim Visitor Centre
+49.494313	-119.607592	Penticton & Wine Country Visitor Centre
+49.48656	-113.946005	Pincher Creek Pioneer Village & Museum
+49.459865	-120.502828	Princeton & District Chamber of Commerce
+49.459841	-120.507432	Princeton Visitor Centre
+49.651574	-106.269068	R M Of Stonehenge Office
+49.577077	-101.699192	Redvers Tourism
+51.000336	-118.195852	Revelstoke Visitor Centre / Tourism Revelstoke
+51.549129	-107.990001	Rosetown Tourism Centre
+49.644442	-104.661635	Rural Municipality Of Pengman
+48.648742	-123.404419	Saanich Peninsula Visitor Info Centre
+47.570404	-52.68715	Signal Hill Visitor Centre
+49.628349	-98.698506	South Norfolk Rural Municipality Of
+49.731386	-114.884441	Sparwood Chamber of Commerce
+48.434547	-89.218024	Thunder Bay Tourist Pagoda
+51.042431	-114.058778	Tourism Calgary
+51.13201	-114.010343	Tourism Calgary Visitor Information Centre
+49.503389	-115.061118	Tourism Fernie
+49.883851	-119.4918	Tourism Kelowna
+50.012193	-110.68857	Tourism Medicine Hat
+50.939008	-102.801361	Tourism Melville
+50.412701	-105.510827	Tourism Moose Jaw
+49.187941	-124.002543	Tourism Nanaimo
+53.919116	-122.744257	Tourism Prince George
+54.318845	-130.320236	Tourism Prince Rupert Visitor Information Centre
+50.448324	-104.607761	Tourism Regina
+50.059343	-101.448011	Tourism Saskatchewan Visitor Reception Centre
+52.130095	-106.659204	Tourism Saskatoon
+50.297848	-107.800166	Tourism Swift Current
+48.484454	-89.16775	Tourism Thunder Bay
+49.106474	-125.8672	Tourism Tofino
+49.021753	-122.807508	Tourism White Rock Waterfront Centre
+46.341522	-72.540575	Tourisme Trois-Rivières
+49.887553	-97.130453	Tourist Information
+49.123609	-93.928244	Tourist Information Ctr
+45.500298	-73.571712	Tourist Office
+49.680548	-103.026158	Town Of
+45.62264	-61.991617	Town of Antigonish
+51.851156	-105.031791	Town Of Lanigan
+51.041198	-102.162278	Town Of Saltcoats; SK
+50.424136	-103.269272	Town Of Wolseley
+48.942682	-125.546037	Ucluelet Village
+49.725352	-107.740419	Village Of Cadillac
+51.485226	-113.157782	Village Of Carbon
+51.631994	-112.373965	Village of Delia
+49.032543	-118.441562	Visitor Centre
+47.598335	-59.163257	Visitor Information Center
+49.06033	-113.908425	Waterton Lake National park Visitor Centre
+46.366079	-79.938712	West Nipissing Information Centre
+50.332259	-102.267662	Whitewood Historical Museum
+46.163623	-67.574498	Woodstock Tourism
+48.991828	-125.587395	Wya Welcome Centre
+43.656054	-79.3802	Yonge-Dundas Square Toronto

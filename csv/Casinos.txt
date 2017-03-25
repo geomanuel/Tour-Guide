@@ -1,0 +1,1022 @@
+Latitude	Longitude	Name
+42.987288	-82.327503	Hiawatha Horse Park Slots (No hotel) 519-542-5543
+44.652814	-63.576419	Casino Nova Scotia Halifax (No hotel) 902-425-7777
+46.136735	-60.190673	Casino Nova Scotia Sydney (No Hotel) 902-563-7777
+46.246662	-63.116605	Red Shores Casino Charlottetown (Racino) (No hotel) 877-620-4222 or 902-620-4222
+46.398391	-63.801174	Red Shores Casino Summerside (No hotel) 
+46.128035	-64.879944	Casino New Brunswick 877-859-7775 or 506-859-7770
+46.824157	-71.251186	Salon de Jeux de Qu‚bec (No hotel) 877-700-5836
+47.621184	-70.144861	Casino Charlevoix (No hotel) 800-665-2274 or 418-665-5300
+46.345377	-72.560139	Salon de Jeux de Trois-Rivieres (No hotel) 877-700-5836 or 819-693-4774
+45.505967	-73.525549	Casino de Montr‚al (No hotel) 800-665-2274 or 514-392-2746
+45.377098	-73.706141	Playground Poker Club (No hotel) 855-685-7653 or 450-635-7653
+46.200962	-74.568638	Casino de Mont-Tremblant (No hotel) 877-574-2177 or 819-429-4150
+45.446615	-75.725779	Casino du Lac-Leamy (No hotel) 800-665-2274 or 819-772-2100
+44.207937	-78.389044	Shorelines Slots Kawartha Downs (No hotel) 705-939-2400
+45.295141	-75.605873	OLG Slots at Rideau Carleton Raceway (no hotel) 877-870-7586 or 613-822-8668
+44.340978	-76.139301	Shorelines Casino Thousand Islands (No hotel) 613-382-6800
+44.182794	-77.420308	Shorelines Casino Belleville (No hotel) 613-689-9100
+43.497262	-79.997142	OLG Slots at Mohawk Racetrack (No hotel) 800-732-2230 or 905-854-4053
+43.871252	-79.001754	Ajax Downs (No hotel) 905-619-2690
+43.091426	-79.071813	Casino Niagara (No hotel) 888-325-5788
+43.082345	-79.082473	Fallsview Casino Resort 888-325-5788
+44.647962	-79.345669	Casino Rama 800-832-7529 or 705-329-3325       
+43.300079	-80.026399	OLG Slots at Flamboro Downs (No hotel) 866-746-6600 or 905-628-4275
+44.180889	-78.88875	Great Blue Heron Casino (No hotel) 888-294-3766 or 905-985-4888
+44.291499	-79.688259	OLG Slots at Georgian Downs (No hotel) 866-299-7568 or 705-726-6770
+43.715565	-79.603174	OLG Slots at Woodbine Racetrack (No hotel) 888-345-7568 or 416-675-1101
+43.674778	-80.433393	OLG Slots at Grand River Raceway (No hotel) 519-846-2022
+43.621316	-81.536013	OLG Slots at Clinton Raceway (No hotel) 519-482-7540
+42.58242	-82.183269	OLG Slots at Dresden Raceway (No hotel) 519-683-1551
+43.136691	-80.265273	OLG Casino at Brantford (no hotel) 888-694-6946 or 519-752-5004
+44.146193	-81.02777	OLG Slots at Hanover Raceway (No hotel) 519-364-7606
+43.133742	-80.740917	OLG Slots at Woodstock Raceway (No hotel) 519-537-4808
+42.989499	-81.219483	OLG Slots at Western Fair District (No hotel) 877-912-5466 or 519-672-5394
+42.993598	-82.421475	OLG Casino at Point Edward (No hotel) 888-394-6244 or 519-383-7770
+42.320616	-83.033833	Caesars Windsor 800-991-7777
+46.590581	-81.141719	OLG Slots at Sudbury Downs (No hotel) 888-812-1703 or 705-855-7164
+46.517147	-84.343626	OLG Casino at Sault Ste Marie (No hotel) 800-826-8946 or 705-759-0100
+48.433512	-89.221626	OLG Casino at Thunder Bay (No hotel) 877-656-4263 or 807-683-1935
+53.837246	-101.267076	Asenekak Casino (No hotel) 877-627-2267 or 204-627-2250
+50.361897	-96.623123	South Beach Casino & Resort 877-77-5825 or 204-766-2100
+49.896111	-97.044859	Club Regent Casino (No hotel) 888-332-2623 or 204-957-2700
+49.919794	-97.17055	McPhillips Station Casino (No hotel) 800-265-3912 or 204-957-3900 
+49.891151	-97.328679	Assiniboia Downs Cacino (No hotel) 800-282-8035 or 204 885 3330
+49.76025	-102.289791	Bear Claw Casino 306-577-4577
+51.209918	-102.491005	Painted Hand Casino (No hotel) 306-786-6777
+50.452818	-104.607884	Casino Regina (No hotel) 800-555-3189 or 306-565-3000
+50.392489	-105.533443	Casino Moose Jaw (No hotel) 800-555-3189 or 306-694-3888
+53.179857	-105.755948	Northern Lights Casino 306) 764-4777
+51.890168	-106.704561	Dakota Dunes Casino (No hotel) 306-667-6400
+52.757813	-108.270312	Gold Eagle Casino 877-446-3833 or 306-446-3833
+50.304016	-107.784199	Living Sky Casino (No hotel) 306-778-5759
+51.102583	-115.015628	Stoney Nakoda Casino 888-862-5632 or 403-881-2830
+50.001667	-110.643147	Medicine Hat Lodge 800-661-8095 or 403-504-4584
+49.685498	-112.785631	Rocky Mountain Turf Club - Bully's Casino (No hotel) 403-380-1905
+49.695816	-112.785068	Casino Lethbridge (No hotel) 403-381-9467
+51.064551	-113.999105	Casino Calgory (No hotel) 403-248-9467
+51.041051	-114.055018	Cowboys Casino (No hotel) 888-610-8946 or 403-514-0900
+51.037741	-114.060888	Elbow River Casino (No hotel) 800-661-1463 or 403-289-8880
+51.016308	-114.039569	Century Casino Calgary (No hotel) 403 287 1183
+51.018694	-114.047875	Cash Casino (No hotel) 403-287-1635
+50.94963	-113.983489	Deerfoot Inn & Casino 888-875-4667 or 403-236-7542 (Reservations 403-236-7529)
+51.006163	-114.145643	Grey Eagle Casino 844-719-8777 or 403-385-3777 (Reservations 403-719-8777)
+52.26884	-113.805137	Jackpot Casino (No hotel) 403-342-5825
+53.009046	-112.785391	Camrose Resort Casino 888-784-8441 or 780-679-0904 (Reservations 780-679-2376)
+53.590155	-113.43306	Century Casino Edmonton (No hotel) 780-643-4000
+53.564956	-113.456359	Northlands Park Casino (No hotel) 888-800-7275 or 780-471-7210
+53.546413	-113.495744	Grand Villa Casino Edmonton (No hotel) 780-413-3178
+53.523756	-113.621842	Palace Casino (No hotel) 780-444-2112
+53.579704	-113.58565	Casino Yellowhead (No hotel) 780-424-9467
+53.51082	-113.436741	Casino Edmonton (No hotel) 780-463-9467
+54.190463	-115.785467	Eagle River Casino (No hotel) 888-913-2727 or 780-779-2727
+53.509665	-113.692107	River Cree Casino (Marriot on site) 877-377-7774 or 780-484-2121
+53.635327	-113.57376	Century Casino - St Albert (No hotel) 780-460-8092
+55.109205	-118.74912	Evergreen Park Racino (No hotel) 780-532-3279
+55.177094	-118.824141	Great Northern Casino (No hotel) 888-875-4667 or 780-539-4454
+56.725884	-111.379194	Boomtown Casino (No hotel) 780-790-9739
+54.352383	-110.233386	Casino Dene (No hotel) 888-594-7228 or 780-594-7900
+49.586682	-115.755467	Casino Of The Rockies 877-417-2772 or 250-417-2772
+55.738624	-120.212365	Chances Dawson Creek (No hotel) 250-782-7752
+50.283617	-119.276172	Lake City Casino - Vernon (No hotel) 250-545-3505
+50.654553	-120.384729	Cascades Casino - Kamloops (No hotel) 250-372-3336
+49.892105	-119.496741	Lake City Casino - Kelowna (Marriot hotel on site) 250-860-9467
+49.50272	-119.594372	Penticton Lakeside Casino and Resort 250-493-8221
+52.977573	-122.495064	Billy Barker Casino 888-992-4255 or 250-992-5533
+53.895671	-122.764359	Treasure Cove Casino 866-561-2421 or 250-9111
+49.151442	-121.949068	Chances Chilliwak (No hotel) 604-701-3800
+49.216394	-122.593969	Chances Maple Ridge (No hotel) 604-476-4500
+49.105994	-122.657272	Cascades Casino 604-530-2211
+49.228075	-122.837674	Hard Rock Casino Vancouver (No hotel) 604-523-6888
+49.186109	-122.954223	Starlight Casino (No hotel) 604-777-2946
+49.256485	-123.006917	Grand Villa Casino 604-436-2211
+49.285142	-123.040216	Hastings Racecourse & Casino (No hotel) 604-254-1631
+49.275246	-123.111809	Edgewater Casino (No hotel) 877-688-3343 or 604-687-3343
+49.196306	-123.127081	River Rock Casino Resort 866-748-3718 or 604-273-1895
+48.451427	-123.464055	View Royal Casino (No hotel) 877-473-2818 or 250-391-0311
+49.164621	-123.934635	Casino Nanaimo (No hotel) 250-753-3033
+49.111626	-122.730259	Elements Casino (Racino) (No hotel) 604-576-9141
+42.032217	-71.308682	Plainridge Park Casino (No hotel) 866-946-5463 or 508-643-2500
+41.507556	-71.312844	Newport Grand Slots (No hotel) 800-451-2500 or 401-849-5000
+41.887907	-71.449291	Twin River Casino (No hotel) 401-723-3200
+43.431188	-71.461201	"Lakes Region Casino (No hotel) 877-872-2501 or 603-267-7778 (Poker, Bingo, ""Pull Tab"" machines)"
+42.897683	-70.9014	Seabrook Casino (No hotel) 603-474-3065 (Poker only)
+44.116426	-70.44384	Oxford Casino (No hotel) 207-539-6700 (Hotel coming summer 2017)
+44.788359	-68.777834	Hollywood Slots Hotel & Raceway 877-779-7771 or 207-262-6146
+41.475427	-71.956699	Foxwoods Resort Casino (Casino located with the hotels) 800-369-9663 or 860-312-3000 (Reservations 800-369-9663)
+41.483826	-72.081097	Mohegan Sun Casino (Casino located with the hotels) 888-226-7711 or 860-862-8000 (Reservations 888-777-7922)
+39.356828	-74.432907	Bally's Atlantic City 800-772-7777 or 609-340-2000 (Reservations 800-225-5977)
+39.376751	-74.432444	Borgata Hotel Casino And Spa 866-692-6742 or 609-317-1000
+39.356616	-74.436548	Caesars Atlantic City 800-443-0104 or 609-348-4411 (Reservations 800-524-2867)
+39.379388	-74.427058	Golden Nugget Atlantic City 800-777-8477 or 609-441-2000 (Reservations 800-365-8786)
+39.384103	-74.428128	Harrah's Resort Atlantic City 609-441-5000 (Reservations 800-242-7724)
+39.35929	-74.422961	Resorts Atlantic City 800-334-6378 or 609-344-6000 (Reservations 800-334-6378)
+39.363532	-74.419186	Showboat Hotel and Casino 609-487-4600 (Reservations 877-387-9305 )
+39.352509	-74.445665	Tropicana Casino & Resort 800-843-8767 or 609-340-4000
+40.920278	-73.865422	Empire City at Yonkers Raceway (No hotel) 914-968-4200
+40.67309	-73.833454	Resorts World New York (No hotel) 718-641-4700
+42.822804	-73.936686	Rivers Casino & Resort Schenectady (No hotel) 518-579-8800
+41.669074	-74.714755	Monticello Gaming & Raceway (No hotel) 866-777-4263 or 845-794-4100
+43.061361	-73.77426	Saratoga Casino Hotel 800-727-2990 or 518-584-2110
+43.049128	-75.900769	Yellow Brick Road Casino (No hotel) 315-366-9400
+42.853613	-76.690993	Lakeside Entertainment (No hotel) 315-889-5416
+42.970756	-76.847563	del Lago Resort & Casino 315-946-1777
+43.069763	-75.526284	Vernon Downs 877-888-3766 or 315-829-2201 (Reservations 866-829-3400)
+43.115189	-75.590033	Turning Stone Casino Resort 800-771-7711 or 315-361-7711
+44.967308	-74.645431	Akwesasne Mohawk Casino Resort 888-622-1155 or 518-358-2222
+42.023549	-76.412702	Tioga Downs (No hotel) 888-946-8464 or 888-946-8464
+43.009797	-78.205333	Batavia Downs Gaming & Hotel 800-724-2000 585-343-3750
+42.738317	-78.824957	Hamburg Gaming (No hotel) 800-237-1205 or 716-649-1280
+42.579211	-79.104394	Seneca Gaming - Irving (No hotel) 800-421-2464 or 716-549-6356 (Only Class II gaming machines based on bingo)
+42.874243	-78.870545	Seneca Buffalo Creek Casino (No hotel) 716-853-7576
+43.086275	-79.057781	Seneca Niagara Hotel and Casino 877-873-6322 or 716-299-1100
+42.971572	-77.34346	Finger Lakes Gaming & Racetrack (No hotel) 585-924-3232 (Only Video Gaming Machines)
+42.23493	-78.310953	Seneca Gaming - Oil Spring (No hotel) 716-780-8787 (Only Class II gaming machines based on bingo)
+42.151919	-78.752013	Seneca Allegany Casino & Hotel 877-553-9500 or 716-945-9300
+42.15973	-78.745041	Seneca Gaming - Salamanca (No hotel) 716-945-4080 (Only Class II gaming machines based on bingo)
+35.692736	-96.974483	Ioway Casino (No hotel) 405-258-0051
+40.447128	-80.02134	Rivers Casino (No hotel)  412-231-7777
+40.220621	-80.202626	Meadows Racetrack & Casino 724-503-1200
+39.795709	-79.541122	Lady Luck Nemacolin 724-329-7500 (Reservations 800-422-2736)
+42.06836	-80.0315	Presque Isle Downs and Casino (No hotel) 866-374-3386 or 866-374-3386
+40.389359	-76.667347	Hollywood Casino at Penn National (No hotel) 717-469-2211
+40.615058	-75.360132	Sands Casino Resort Bethlehem 877-727-3777 or 877-727-3777
+41.104713	-75.32818	Mount Airy Resort & Casino 877-682-4791 or 570-243-4800
+41.26869	-75.822077	Mohegan Sun Pocono 570-831-2100
+39.85107	-75.349109	Harrah's Philadelphia Casino & Racetrack (No hotel) 484-490-1800
+40.117527	-74.953895	Parx Casino and Racing (No hotel) 215-639-9000
+39.964196	-75.132809	SugarHouse Casino (No hotel) 877-477-3715
+40.096306	-75.415545	Valley Forge Convention Center Casino (No hotel) 610-354-8118
+39.709353	-75.653037	Delaware Park Racetrack & Slots (No hotel) 800-417-5687 or 302-994-2521
+39.186495	-75.535959	Dover Downs Hotel and Casino 800-711-5882 or 302-674-4600
+38.912268	-75.573746	Harrington Raceway & Casino (No hotel) 888-887-5687 or 302-398-4920
+38.793185	-77.011621	MGM National Harbor 844-646-6847 or 301-749-7500
+39.157381	-76.726052	Maryland Live! (No hotel) 855-563-5483 or 443-842-7000
+39.272558	-76.627554	Horseshoe Casino Baltimore (No hotel) 844-777-7463 or 443-931-4200
+39.699417	-78.656062	Rocky Gap Casino Resort 301-784-8400 (Reservations 800-724-0828)
+38.352203	-75.168159	Casino at Ocean Downs (No hotel) 410-641-0600
+37.786082	-80.30787	Casino Club at The Greenbrier 855-453-4858 or 304-536-1110 (Casino open to hotel guests only. Dress code strictly enforced.)
+38.420436	-81.810671	Mardi Gras West Virginia Casino Resort 800-224-9683 or 304-776-1000
+39.297131	-77.852226	Hollywood Casino at Charles Town Races 800-795-7001 or 304-725-7001
+40.0636	-80.732497	Wheeling Island Racetrack & Gaming Center 877-946-4373 or 304-232-5050 (Reservations 877-943-3546)
+40.58127	-80.653898	Mountaineer Casino Racetrack & Resort 800-804-0468 or 304-387-2400 (Reservations 800-489-8192)
+35.469585	-83.305046	Harrah's Cherokee Casino 800-427-7247 or 828-497-7777
+35.113825	-83.993332	Harrah's Cherokee Valley River Casino & Hotel 828-656-1679
+39.595775	-76.0724	Hollywood Casino - Perryville (No hotel) 410-378-8500
+33.87099	-78.609654	Big M Casino (No hotel - Cruise boat) 877-250-5825 or 843-249-9811
+32.035504	-80.96045	Tradewinds Casino Cruise Savannah Cruise - Cruise Reservation Number: 912-988-8000
+31.112537	-81.488933	Emerald Princess II Casino (Hotel Reservations Avaiable) 800-842-0115 or 912-265-3558 Reservations are required for all cruises
+29.166417	-81.077128	Dayton Beach Racing & Card Club (No hotel) 386-252-6484 (Poker Tables Only)
+30.390578	-81.432565	Victory Casino Cruises - Jacksonville (No hotel) 855) 468-4286 or 855) 468-4286 (Ocean going casino)
+30.103088	-81.485856	Greyhound Park Racetrack - Jacksonville (No hotel) 904-646-0001 (Poker Tables Only)
+30.590058	-83.870707	Jefferson Kennel Racetrack (No hotel) 850-997-2561 (Poker Tables Only)
+30.446649	-85.874291	Ebro Racetrack (No hotel) 850-535-4048 (Poker Tables Only)
+28.911673	-81.295728	Orange City Racing & Card Club (No hotel) 386-252-6484 (Poker Tables Only)
+28.407554	-80.600794	Victory Casino Cruises - Port Canaveral (No hotel) 855-468-4286 or 321-799-0021 (Ocean going casino)
+28.124105	-80.676991	Greyhound Park Racetrack - Melbourne (No hotel) 321-259-9800 (Poker Tables Only)
+26.052837	-80.137185	Casino at Dania Beach (No hotel) 844-794-6244 or 954-920-1511
+25.978057	-80.139166	Gulfstream Park Racing & Casino (No hotel) 954-454-7000
+25.994792	-80.146639	Mardi Gras Casino (No hotel) 877-557-5687 or 954-924-3200
+25.845897	-80.279616	Hialeah Park Casino (No hotel) 305-885-8000
+26.044127	-80.20935	Seminole Classic Casino (No hotel) 800-323-5452 or 954-961-3220
+25.967067	-80.246296	Calder Casino & Race Course (No hotel) 800-333-3227 or 305-625-1311
+26.222923	-80.152237	Isle Casino Racing Pompano Park (No hotel) 800-843-4753 or 954-972-2000
+26.278491	-80.197272	Seminole Casino Coconut Creek (No hotel) 866-222-7466 or 954-977-6700
+25.77673	-80.257323	Magic City Casino (No hotel) 888-566-2442 or 305-649-3000
+25.778716	-80.25762	Magic City Racino (No hotel) 305-649-3000
+25.778333	-80.177249	Resorts World Bimini (No hotel) 888-930-8688 Ferry to Resorts World Bimini in the Bahamas
+25.807685	-80.256601	Casino Miami (No hotel) 305-633-6400
+25.765399	-80.482194	Miccosukee Resort & Gaming (Casino located with the hotels) 800-741-4600 or 305-222-4600 (Reservations 877-242-6464)
+26.050795	-80.208944	Seminole Hard Rock Hotel & Casino - Hollywood 866-502-7529 or 954-327-7625 (Reservations 800) 937-0010)
+26.693907	-80.087093	Kennel Club Racetrack - West Palm Beach (No hotel) 561-683-2222 (Poker Tables Only)
+26.330192	-81.054957	Seminole Casino Big Cypress (No hotel) 954-214-8817
+28.024268	-82.453593	Tampa Racetrack (No hotel) 813-932-4313 (Poker Tables Only)
+27.994066	-82.372936	Seminole Hard Rock Hotel & Casino - Tampa 800-282-7016 or 813-627-7625 (Reservations 800-937-0010)
+28.049871	-82.648286	Bay Downs (No hotel) 800-200-4434 or 813-855-4401 (Poker Tables Only)
+27.866722	-82.627001	Derby Lane Racetrack (No hotel) 727-812-3339 (Poker Tables Only)
+26.410202	-81.41654	Seminole Casino Immokalee (No hotel) 800-218-0007 or 239-658-1313
+26.327229	-81.781453	Naples Greyhound Racetrack (No hotel) 239-992-2411 (Poker Tables Only)
+27.380861	-82.546706	Kennel Club Racetrack - Sarasota (No hotel) 941-355-7744 (Poker Tables Only)
+28.272233	-82.725555	Tropical Breeze Casino (No hotel) 844-386-2789 or 727-848-3423 (stays offshore and a water taxi shuttles passengers back and forth)
+27.088122	-81.07056	Seminole Casino Brighton (No hotel) 866-222-7466 or 863-467-9998
+32.907261	-87.865087	Greenetrack Racino (No hotel) 800-633-5942 or 205-372-9318 (Only Class II machines based on Bingo)
+32.411523	-85.947255	Quincy's Racino 800-688-2946 or 334-727-0540 (Only Class II machines based on Bingo)
+32.523588	-86.208278	Wind Creek Casino & Hotel Wetumpka  888-772-9946 or 334-514-0469
+32.419325	-86.134915	Wind Creek Casino & Hotel Montgomery 800-958-9003 or 334-273-9003
+31.102028	-87.483142	Wind Creek Casino and Hotel Atmore 866-946-3360 or 251-446-4200
+34.496932	-90.578765	Isle of Capri Casino & Hotel - Lula 800-789-5825 or 662-363-4600
+34.845404	-90.325349	Bally's Tunica 800-382-2559 or 662-357-1500
+34.834266	-90.344254	Fitz Casino Hotel 800-766-5825 or 662-363-5825 (Reservations 888-766-5825)
+34.8449	-90.330054	Gold Strike Casino Resort 888-245-7529 or 662-357-1111 (Reservations 866-245-7511)
+34.813813	-90.414012	Hollywood Casino Tunica 800-871-0711 or 662-357-7700
+34.844319	-90.329829	Horseshoe Casino & Hotel 800-303-7463 or 662-357-5500
+34.816657	-90.416314	Resorts Casino Tunica 866-676-7070 or 662-363-7777
+34.816918	-90.409186	Sam's Town Tunica 800-456-0711 or 662-363-0711 (Reservations 800-946-0711)
+34.846192	-90.328464	Tunica Roadhouse Casino and Hotel 800-391-3777 or 662-363-4900
+33.301532	-91.139696	Harlow's Casino Resort 866-524-5825
+33.415109	-91.063371	Lighthouse Point Casino 800-878-1777 or 662-334-7711 (Reservations 800-228-2800)
+33.415106	-91.063389	Trop Casino Greenville 662-335-1111
+31.557687	-91.411378	Magnolia Bluffs Casino (24 hr shuttle to hotel) 888-505-5777 or 601-442-2220
+32.314181	-90.89903	Ameristar Casino Hotel - Vicksburg 601-638-1000 (Reservations 800-700-7770)
+32.298818	-90.909835	Riverwalk Casino and Hotel 866-615-9125 (Reservations 601-634-0100)
+32.324531	-90.895231	Diamond Jacks Casino and Hotel 877-711-0677 or 601-636-5700
+32.298823	-90.909853	Lady Luck Casino Vicksburg 800-503-3777 or 601-636-7575 (Reservations 800-434-5800)
+32.77239	-89.202093	Golden Moon Hotel & Casino at Pearl River Resort 866-447-3275 or 601-650-1234
+32.772946	-89.206812	Pearl River Resort 800-557-0711 or 601-650-1234 (Reservations 866-447-3275)
+31.774356	-89.00865	Bok Homa Casino (No hotel) 866-447-3275 or 866-447-3275
+30.362965	-89.101856	Island View Casino Resort 800-817-9089 or 228-314-2100
+30.334343	-89.352725	Hollywood Casino Bay Saint Louis 866-758-2591 or 228-467-9257
+30.239679	-89.425865	Silver Slipper Casino (No hotel) 866-775-4773 or 228-469-2777
+30.393672	-88.892324	Beau Rivage Resort & Casino 888-750-7111 or 228-386-7111 (Reservations 888-567-6667)
+30.41142	-88.884601	Boomtown Casino - Biloxi (No hotel) 800-627-0777 or 228-435-7000
+30.392107	-88.860357	Golden Nugget Biloxi 800-777-7568 or 228-435-5400
+30.392796	-88.888247	Hard Rock Hotel & Casino - Biloxi 877-877-6256 or 228-374-7625
+30.39257	-88.865948	Harrah's Gulf Coast 800-946-2946 or 228-436-2946
+30.41181	-88.891243	IP Casino Resort Spa 888-946-2847 or 228-436-3000
+30.391731	-88.862017	Margaritaville Casino 855-667-6777 or 228-267-7777
+30.395748	-88.860297	Palace Casino Resort 800-725-2239 or 228-432-8888
+30.392793	-88.955318	Treasure Bay Casino and Hotel 800-747-2839 or 228-385-6000
+30.42635	-88.890547	Scarlet Pearl Casino Resort 888-266-5772 or 228-392-1889
+38.040636	-84.523014	Red Mile (No hotel) 859-255-0752 (Machines based on unidentified past horse races and the reels are for entertainment)
+36.640777	-86.561463	Kentucky Downs (No hotel) 270-586-7778 (Machines based on unidentified past horse races and the reels are for entertainment)
+37.915155	-87.546941	Ellis Park (No hotel) 812-425-1456 (Machines based on unidentified past horse races and the reels are for entertainment)
+39.838701	-83.000095	Scioto Downs Racino (No hotel) 614-295-4700 
+39.948852	-83.110496	Hollywood Casino Columbus (No hotel) 855-617-4206  or 614-308-3333
+41.618944	-83.547614	Hollywood Casino Toledo (No hotel) 877-777-9579 or 419-661-5200
+41.34882	-81.526807	Hard Rock Rocksino at Northfield Park (No hotel) 330-908-7625
+41.498426	-81.692792	JACK Cleveland Casino (No hotel) 855-746-3777 or 216-297-4777
+41.435381	-81.531779	JACK Thistledown Racino (No hotel) 216-662-8600
+41.435361	-81.53177	Thistledown Racino (No hotel) 216-662-8600
+41.116728	-80.767681	Hollywood Gaming at Mahoning Valley Race Course (No hotel) 877-788-3777
+39.440559	-84.319457	Miami Valley Gaming (No hotel) 513-932-4936
+39.107388	-84.505371	JACK Cincinnati Casino (No hotel) 513-252-0777
+39.054029	-84.412999	Belterra Park Gaming & Entertainment Center (No hotel) 513-232-8000
+39.818146	-84.16787	Hollywood Gaming at Dayton Valley Raceway (No hotel) 937-329-9828
+40.069644	-85.641547	Hoosier Park Racing & Casino (No hotel) 800-526-7223 or 765-642-7223
+39.588626	-85.825609	Indiana Grand Casino (No hotel) 877-386-4463 or 317-392-7777
+41.652109	-87.435838	Ameristar East Chicago (Casino adjacent to the hotel) 877-496-1777 or 219-378-3000 (Reservations 866-711-7799)
+41.694297	-87.50523	Horseshoe Casino Hammond (No hotel) 866-711-7463 or 219-473-7000
+41.719299	-86.892292	Blue Chip Casino & Hotel (Casino adjacent to the hotel) 888-879-7711 or 219-879-7711
+41.640861	-87.419347	Majestic Star Casinos & Hotel 888-225-8259 or 219-977-7777 (Reservations 888-218-7867)
+38.780578	-84.939525	Belterra Casino Resort and Spa (Casino adjacent to the hotel) 888-235-8377 or 812-427-7777
+39.097278	-84.844252	Hollywood Casino & Hotel - Lawrenceburg 888-274-6797 or 812-539-8000
+38.952934	-84.846644	Rising Star Casino Resort 800-472-6311 or 812-438-1234
+38.18015	-85.902098	Horseshoe Southern Indiana 866-676-7463
+38.552104	-86.6196	French Lick Resort (Casino adjacent to the hotel) 888-936-9360 or 812-936-9300
+37.972397	-87.578733	Tropicana Evansville 800-342-5386 or 800-342-5386
+42.339154	-83.066751	Motor City Casino & Hotel 877-777-0711 or 313-237-7711
+42.334791	-83.041459	Greektown Casino 888-771-4386 or 313-223-2999
+42.333663	-83.058867	MGM Grand Detroit Casino 877-888-2121 or 313-393-7777 (Reservations 800-991-8888)
+43.925127	-83.914746	Saganing Eagles Landing Casino (No hotel) 888-732-4537
+43.609731	-84.708223	Soaring Eagle Casino & Resort 888-732-4537 or 517-775-5777 (Reservations 877-232-4532)
+42.294384	-85.074766	FireKeepers Casino 877-352-8777 or 269-962-0000
+41.946014	-86.159351	Four Winds Casino Dowagiac (No hotel) 866) 494-6371
+42.199071	-86.211308	Four Winds Hartford (No hotel) 866-494-6371 or 269-926-4500
+41.770244	-86.723459	Four Winds New Buffalo 866-494-6371 or 269-926-4500
+42.630658	-85.655044	Gun Lake Casino (No hotel) 866-398-7111 or 269-792-7777
+44.286701	-86.243404	Little River Casino Resort 888-568-2244 or 231-723-1535
+45.018469	-85.606048	Leelanau Sands Casino & Lodge 800-922-2946 or 231-271-4104 (Reservations 800-930-3008)
+44.77312	-85.426379	Turtle Creek Casino & Hotel 888-777-8946 or 231-534-8888
+45.767801	-84.732313	Odawa Casino - Mackinaw City (Opening May 2016) (Location approx)
+46.422209	-84.603518	Bay Mills Resort & Casino 888-422-9645 or 906-248-3715
+46.45171	-84.602018	Kings Club Casino (No hotel) 888-422-9645 or 906-248-3700
+46.055331	-84.425996	Kewadin Casino - Hessel (No hotel) 800-539-2346 or 906-484-2903
+45.348834	-84.975882	Odawa Casino 877-442-6464 or 231-439-9100
+45.928196	-84.737068	Kewadin Casino - St. Ignace 800-539-2346 or 906-643-7071
+46.475733	-84.32206	Kewadin Casino Hotel - Sault Ste. Marie 800-539-2346 or 906-632-0530
+45.703364	-87.339493	Island Resort & Casino 800-682-6040 or 906-466-2941
+45.968979	-86.159936	Kewadin Casino - Manistique (No hotel) 800-539-2346 or 906-341-5510
+46.485564	-87.245329	Ojibwa Casino - Marquette (No hotel) 888-560-9905 or 906-249-4200
+46.437818	-86.707279	Kewadin Casino - Christmas (No hotel) 800-539-2346 or 906-387-5475
+46.779484	-88.508007	Ojibwa Casino Resort - Baraga 800-323-8045 or 906-353-6333
+46.290289	-89.178349	Lac Vieux Desert Resort Casino 800-895-2505 or 906-358-4226 (Reservations 800-895-2505)
+41.654407	-93.489972	Prairie Meadows Racetrack & Casino (No hotel) 800-325-9015 or 515-967-1000
+41.037405	-93.799849	Lakeside Hotel & Casino 877-477-5253 or 641-342-9511
+43.447081	-93.35215	Diamond Jo Casino Worth 877-323-5566 or 641-323-7777
+43.112214	-94.660866	Wild Rose Casino - Emmetsburg 877-720-7673 or 712-852-3400
+42.055807	-96.209526	Blackbird Bend Casino (No hotel) 712-423-9646
+42.490569	-96.422746	Argosy Casino (No hotel) 800-424-0080 or 712-294-5600
+42.49341	-96.40946	Hard Rock Hotel & Casino Sioux City 712-226-7600
+43.498429	-96.503884	Grand Falls Casino Resort 877-511-4386 or 712-777-7777
+41.242364	-95.909755	Ameristar Casino Council Bluffs 877-462-7827 or 712-328-8888
+41.251262	-95.914247	Harrah's Council Bluffs 800-427-7247 or 712-329-6000
+41.236629	-95.88753	Horseshoe Casino - Council Bluffs 877-771-7463 or 712-323-2500
+42.4971	-90.659418	Diamond Jo Casino Dubuque (No hotel) 800-582-5956 or 563-690-2100
+42.517302	-90.644524	Mystique Casino (No hotel) 800-373-3647 or 563-582-3647 (Hilton Garden Inn on same property)
+43.041212	-91.178638	Lady Luck - Marquette 800-496-8238 or 563-873-3531
+41.499167	-91.529079	Riverside Casino & Golf Resort 877-677-3456 or 319-648-1234
+41.998025	-92.668895	Meskwaki Bingo Casino Hotel 800-728-4263 or 641-484-2108
+40.823056	-91.13972	Catfish Bend Casino- Burlington 800-372-2946 or 319-753-2946
+42.448105	-92.309974	Isle of Capri Casino - Waterloo 800-843-4753 or 319-833-4753
+41.522623	-90.506443	Isle of Capri Casino - Bettendorf 800-724-5825 or 563-359-7280
+41.819448	-90.254197	Wild Rose Casino - Clinton 800-457-9577 or 515-327-1776
+41.594305	-90.530991	Rhythm City Casino (No hotel) 844-852-4386 or 563-328-8000
+43.528612	-89.776338	Ho Chunk Gaming - Wisconsin Dells 800-746-2486 or 608-356-6210 (Reservations 800-446-5550)
+44.862604	-88.628612	Menominee Casino Resort 800-343-7778 or 715-799-3600
+44.497083	-88.121476	IMAC Casino/Bingo (No hotel) 920-494-4500
+44.497087	-88.121447	Oneida Bingo & Casino 800-238-4263 or 920-494-4500 (Reservations 800-333-3333)
+44.497087	-88.121447	Potawatomi Carter Casino and Hotel 800-487-9522 or 920-494-4500
+44.870584	-88.863317	North Star Mohican Casino Resort 800-775-2274 or 715-787-3110
+44.279976	-89.963673	Ho Chunk Gaming - Nekoosa (No hotel) 800-782-4560 or 715-886-4560
+44.852185	-89.166269	Ho Chunk Gaming - Wittenberg (No hotel) 715-253-4400
+45.484772	-88.973304	Mole Lake Casino & Lodge 800-236-9466 or 715-478-5290 (Reservations 800-457-4312)
+45.973854	-89.891174	Lake of the Torches Resort Casino 800-258-6724 or 715-588-7070 (Reservations 888-599-9200)
+44.328715	-90.767732	Ho Chunk Gaming - Black River Falls 800-657-4621 or 715-284-9098
+44.029427	-90.435751	Ho Chunk Gaming - Tomah (No hotel) 866-880-9822 or 608-372-3721
+46.592304	-90.647301	Bad River Lodge Casino 800-777-7449 or 715-682-7121 (Reservations 800-795-7121)
+46.855657	-90.788768	Legendary Waters Resort & Casino 800-226-8478 or 715-779-3712
+46.007977	-92.361111	St. Croix Casino Danbury 800-238-8946 or 715-656-3444
+45.996056	-91.38221	"LCO Casino, Lodge & Convention Center 800-526-2274 or 715-634-5643 (Reservations 800-526-5634)"
+45.397088	-92.150009	St. Croix Casino Turtle Lake 800-782-9987 or 715-986-4777
+45.808942	-92.203111	St. Croix Casino Hertel Express (No hotel) 715-349-5658
+46.010223	-92.901832	Grand Casino Hinckley 800-472-6321 or 320-384-7777 (Reservations 800-995-4726)
+44.629628	-92.65338	Treasure Island Resort Casino 800-222-7077 or 651-388-6300 (Reservations 888-867-7829)
+44.736577	-93.473887	Little Six Casino (No hotel) 800-548-8536 or 952-445-9000
+44.730379	-93.472451	Mystic Lake Casino Hotel 800-262-7799 or 952-445-9000 (Reservations 800-813-7349)
+45.245376	-93.034782	Running Aces (No hotel) 877-786-2237 or 651-925-4600
+44.793569	-93.480606	Canterbury Park (No hotel) 800-340-6361 or 952-445-7223
+47.952783	-89.693745	Grand Portage Lodge & Casino 800-543-1384 or  218-475-2401 (Reservations 800-543-1384)
+47.953889	-89.694804	Grand Portage Trading Post Casino 800-543-1384 or 218-475-2282 (Smoke Free Casino)
+46.663766	-92.480339	Black Bear Casino Resort 888-771-0777 or 218-878-2327 (Reservations 800-553-0022)
+47.820877	-92.340416	Fortune Bay Resort Casino 800-992-7529 or 218-753-6400 (Reservations 800-555-1714)
+46.788664	-92.096129	Fond-du-Luth Casino (No hotel) 800-873-0280 or 218-722-0280
+44.762425	-95.52652	Prairie's Edge Casino Resort 866-293-2121 or 320-564-2121
+44.529521	-94.999184	Jackpot Junction Casino Hotel 800-946-2274 or 507-644-3000
+46.180094	-93.756916	Grand Casino Mille Lacs 800-626-5825 or 320-532-7777 (Reservations 800-468-3517)
+47.053521	-94.539801	Northern Lights Casino & Hotel 800-252-7529 or 218-547-2744 (Reservations 866-652-4683)
+47.309808	-95.96044	Shooting Star Casino Hotel 800-453-7827 or 218-935-2701
+47.402171	-94.649598	Palace Casino Hotel 877-972-5223 or 218-335-7000 (Reservations 800-442-3910)
+47.339682	-93.811516	White Oak Casino (No hotel) 800) 653-2412 or 218) 246-9600
+47.800726	-95.026341	Seven Clans Casino Red Lake 888-679-2501 or 218-679-2500
+47.499571	-95.507428	Shooting Star Casino - Bagley (No hotel) 800) 453-7827
+48.019468	-96.033751	Seven Clans Casino Thief River Falls 800-881-0712 or 218-681-4062 (Reservations 866-255-7848)
+48.904927	-95.302597	Seven Clans Casino Warroad 800-815-8293 or 218-386-3381 (Reservations 888-714-5514)
+44.041808	-96.606562	Royal River Casino & Hotel 877-912-5825 or 605-997-3746
+45.003869	-97.14817	Dakota Sioux Casino & Hotel 877-250-2121 or 605-882-2051
+44.375589	-103.729077	Deadwood Dick's Saloon and Gaming Hall 877-882-4990 or 605-578-3224
+45.661039	-96.97709	Dakota Connection (No hotel) 800-542-2876 or 605-698-4273
+43.082724	-98.474976	Fort Randall Casino Hotel 605-487-7871 (Reservations 800-362-6333)
+44.071336	-99.578264	Golden Buffalo Casino 605-473-5577
+43.171452	-101.705238	East Wind Casino (No hotel) 605-685-1140
+43.305811	-100.659996	Turtle Creek Crossing Casino (No hotel) 605-856-2329 (Location Approx)
+45.56313	-100.505005	Grand River Casino and Resort 800-475-3321 or 605-845-7104
+44.369116	-103.732175	Best Western Hickok House 605-578-1611 (Reservations 800-837-8174)
+44.377157	-103.730153	Buffalo-Bodega Gaming Complex (No hotel) 605-578-1162
+44.377818	-103.729199	Bullock Hotel 605-578-1745 (Reservations 800-336-1876)
+44.3848	-103.720943	Cadillac Jack's Gaming Resort 866-332-3966 or 605-578-1500
+44.377954	-103.729002	Celebrity Hotel & Casino 888-399-1886 or 605-578-1909
+44.364351	-103.735384	Deadwood Gulch Gaming Resort 800-695-1876 or 605-578-1294
+44.374917	-103.730607	Deadwood Mountain Grand 877-907-4726 or 605-559-0386
+44.388238	-103.713012	Deadwood Station Bunkhouse and Gambling Hall 855-366-6405 or 605-578-3476
+44.386389	-103.718446	First Gold Hotel & Gaming 800-274-1876 or 605-578-9777
+44.372844	-103.734594	Gold Country Inn Gambling Hall and Caf‚ 605-578-2393 (Reservations 800-287-1251)
+44.376642	-103.730758	Gold Dust Casino & Hotel 800-456-0533 or 605-578-2100
+44.36464	-103.732847	Gulches of Fun 605-578-7550 (Reservations 800-961-3096)
+44.376339	-103.73079	Hickok's Hotel and Casino 605-578-2222
+44.376007	-103.729611	Iron Horse Inn 877-815-7974 or 605-578-7700
+44.06938	-99.438782	Lode Star Casino 605-245-6000 (Reservations 888-268-1360)
+44.396516	-103.716152	Lodge at Deadwood 877-393-5634 or 605-571-2132
+44.36659	-103.733814	Lucky 8 Gaming Hall-Super 8 Motel 605-578-2535 (Reservations 800-800-8000)
+44.379512	-103.726762	Main Street Deadwood Gulch Bar (No hotel) 605-578-1207
+44.375973	-103.729424	Martin & Mason Hotel 605-722-3456
+44.376511	-103.730594	Midnight Star (No hotel) 800-999-6482 or 605-578-1555
+44.378364	-103.728605	Mineral Palace Hotel & Gaming 800-847-2522 or 605-578-2036
+44.377861	-103.729434	Mustang Sally's (No hotel) 605-578-2025
+44.37721	-103.729885	Old Style Saloon #10 (No hotel) 800-952-9398 or 605-578-3346
+44.378109	-103.729126	Oyster Bay-Fairmont Hotel (No hotel) 605-578-2205
+44.376143	-103.731206	Silverado - Franklin Historic Hotel & Gaming Complex 800-584-7005 or 605-578-3670 (Reservations 800-688-1876)
+44.379515	-103.726149	Tin Lizzie Gaming 800-643-4490 or 605-578-1715
+44.374939	-103.729844	Veterans Of Foreign War (No hotel) 605-722-9914
+44.376304	-103.729423	Wooden Nickel (No hotel) 605-578-1856
+43.188186	-102.994041	Prairie Wind Casino 800-705-9463 or 605-867-6300
+45.938271	-96.836704	Dakota Magic Casino Resort 800-325-6825 or 701-634-3000
+48.809702	-99.846176	Sky Dancer Hotel & Casino 866-244-9467 or 701-244-2400
+48.839448	-99.750299	Turtle Mountain Mini-Casino (No hotel) 701-477-6438
+48.017489	-98.90248	Spirit Lake Casino & Resort 800-946-8238 or 707-766-4747
+46.273873	-100.640181	Prairie Knights Casino & Resort 800-425-8277 or 701-854-7777
+48.056497	-103.86248	Grand Treasure Casino (No hotel)(Slots only) 701-572-2690
+47.980896	-102.575557	Four Bears Casino & Lodge 800-294-5454 or 701-627-4018
+45.57952	-107.451006	Apsaalooke Nights Casino 406-638-4440 (Class II video gaming devices)
+45.624916	-106.660056	Charging Horse Casino 406-477-6677 (Class II video gaming devices)
+48.092839	-105.630744	Silver Wolf Casino 406-653-3475 (Class II video gaming devices)
+48.556286	-113.024336	Glacier Peaks Casino 406-338-5751 (Class II video gaming devices)
+48.388738	-109.925821	Northern Winz Hotel & Casino 406-395-5420 (Class II video gaming devices)
+48.482804	-108.756368	Fort Belknap Casino 406-353-2235 (Class II video gaming devices)
+47.072063	-114.062153	Gray Wolf Peak Casino 406-726-3778 (Class II video gaming devices)
+47.695618	-114.15878	KwaTaqNuk Casino Resort 406-883-3636 (Class II video gaming devices)
+41.998313	-87.863224	Rivers Casino (No hotel) 888-307-0777 or 847-795-0777
+42.03157	-88.279388	Grand Victoria Casino Elgin (No hotel) 888-508-1900 or 847-468-7000
+41.526355	-88.084723	Harrah's Joliet 800-427-7247 or 815-740-7800
+41.479986	-88.144552	Hollywood Casino Joliet 888-436-7737 or 815-744-9400
+41.759936	-88.314421	Hollywood Casino - Aurora (No hotel) 800-888-7777 or 630-801-7000
+41.459565	-90.614004	Jumer's Casino & Hotel 800-477-7747 or 309-756-4600
+40.67926	-89.564962	Par-A-Dice Hotel Casino 800-727-2342 or 309-698-7711
+38.888825	-90.185933	Argosy Casino Alton (No hotel) 800-711-4263 or 618-474-7500
+38.626436	-90.173993	Casino Queen 800-777-0777 or 618-874-5000
+37.146614	-88.735383	Harrah's Metropolis 800-929-5905 or 618-524-2628
+38.741423	-90.473519	Hollywood Casino St. Louis 866-758-2591 or 314-770-8100
+38.634114	-90.184897	Lumiere Place Casino Resort 877-450-7711 or 314-450-5000
+38.537497	-90.268857	River City Casino (No hotel) 888)578-7289
+38.768495	-90.488652	Ameristar Casino St. Charles 800-325-7777 or 314-949-4300
+40.035438	-91.500179	Mark Twain Casino (No hotel) 866-454-5825 or 573-655-4770
+37.312083	-89.517918	Isle of Capri Casino - Cape Girardeau (No hotel) 800-843-4753 or 573-730-7777
+36.189951	-89.650269	Lady Luck Caruthersville (No hotel) 800-679-4945 or 573-333-6000
+39.143389	-94.546433	Harrah's North Kansas City 800-427-7247 or 816-472-7777
+39.12101	-94.562612	Isle of Capri Casino - Kansas City (No hotel) 800-843-4753 or 816-855-7777
+39.162468	-94.621349	Argosy Casino Hotel & Spa 800-270-7711 or 816-746-3100
+39.152061	-94.478798	Ameristar Casino Hotel Kansas City 800-499-4961 or 816-414-7000
+39.782777	-94.874629	St Jo Frontier Casino (No hotel) 800-888-2946 or 816-279-5514
+38.975895	-92.748825	Isle of Capri Casino - Boonville 800-843-4753 or 660-882-1200
+39.98995	-95.368315	Casino White Cloud (No hotel) 877-652-6115 or 785-595-3430
+39.989944	-95.368295	White Cloud Casino (No hotel) 877-652-6115 or 785-595-3430
+39.113764	-94.626428	7th Street Casino (No hotel) 913-371-3500
+39.110651	-94.825551	Hollywood Casino at Kansas Speedway (No hotel) No phone listed online
+39.669639	-95.639325	Golden Eagle Casino (No hotel) 888-464-5825 or 785-486-6601
+39.31811	-95.74926	Prairie Band Casino & Resort 888-727-4946 or 785-966-7777
+37.469804	-97.328314	Kansas Star Casino (No hotel) 316-558-5710 (Hampton Inn & Suites adjacent) All games owned by Kansas Lottery
+37.76558	-100.057551	Boot Hill Casino (No hotel) 877-906-0777 or 620-225-0374 (Hampton Inn & Suites adjacent)
+42.148263	-96.487161	Lucky 77 Casino 402-846-5545 (No hotel) (Class II video gaming devices)
+42.229003	-96.472583	Native Star Casino (No hotel) 402-878-2901 (Class II video gaming devices)
+42.277232	-96.726805	Iron Horse Bar & Casino (No hotel)  402-695-0180 (Class II video gaming devices)
+42.733036	-97.887692	Ohiya Casino & Resort 402-857-3860 (Class II video gaming devices)
+42.998954	-100.575643	Rosebud Casino 800-786-7673 or 605-378-3800
+30.064098	-90.698894	Lucky Dollar Casino - Gramercy (No hotel) 225-869-6192
+29.847498	-90.05996	Boomtown Casino New Orleans 800-366-7711 or 504-366-7711
+30.039603	-90.237628	Treasure Chest Casino (No hotel) 800-298-0711 or 504-443-8000
+30.08992	-90.438862	Poker Palace (No hotel) 985-651-1800 (Video Poker Parlor)
+29.894713	-90.12902	Cash Magic - Westbank (No hotel) 504-341-4053
+29.981884	-90.057549	Carnival Club Casino (No hotel) 504-947-4207
+29.982023	-90.077519	Fair Grounds Racecourse & Slots (No hotel) 504-944-5515
+29.949923	-90.06465	Harrah's New Orleans 800-427-7247 or 504-533-6000
+29.773531	-90.815556	Cash Magic - Thibodaux (No hotel) 985-493-9222
+29.664152	-91.100578	Amelia Belle Casino (No hotel) 985-384-6044
+29.571695	-90.68228	Cash Magic - Houma (No hotel) 985-857-8668
+29.609368	-90.667747	Cash Magic - Prospect Station (No hotel) 985-857-8751
+29.577773	-90.392224	Cash Magic - Larose (No hotel) 985-693-7424
+29.685758	-91.256274	Cash Magic - Bayou Vista (No hotel) 985-399-6533
+29.704946	-90.568872	Cash Magic - Raceland (No hotel) 985-537-8717
+30.716544	-90.567201	Amite Truck Plaza & Casino (No hotel) 985-748-7870
+30.716228	-90.568835	Cash Magic - St Helena (No hotel) 985-747-9022
+30.7165	-90.56774	Forest Gold Truck Plaza & Casino (No hotel) 985-748-5167
+30.828127	-90.664469	Lucky Dollar Casino - Greensburg (No hotel) 225-222-6496
+30.24404	-91.958604	Cash Magic - Breaux Bridge (No hotel) 337-507-2274
+30.097117	-91.942285	Cash Magic - Broussard North (No hotel) 337-857-1107
+30.081189	-91.940557	Cash Magic - Broussard South (No hotel) 337-364-9929
+30.081994	-91.940319	Lucky Dollar Casino - Broussard (No hotel) 337-365-7110
+29.873489	-91.535392	Cypress Bayou Casino (No hotel) 800-284-4386 or 318-923-7284
+30.495767	-92.379415	Cash Magic - Eunice (No hotel) 337-457-7745
+30.524313	-92.061445	Evangeline Downs Racetrack & Casino (No hotel) 866-472-2466 or 337-896-7223
+30.199428	-93.260026	Golden Nugget Lake Charles 844-777-4653 or 337-508-7777 (Reservations 844-468-4438)
+30.202639	-93.252453	L'Auberge Casino Resort Lake Charles 866-580-7444 or 337-475-2900
+30.239291	-93.129968	Cash Magic - Lake Charles (No hotel) 337-491-9293
+30.544742	-92.811853	Coushatta Casino Resort 800-584-7263 or 318-738-7300 (Reservations 888-774-7263)
+30.213082	-93.324568	Cash Magic - Winner?s Choice (No hotel) 337-882-6800
+30.151266	-93.639667	Cash Magic - Texas Pelican (No hotel) 337-589-6680
+30.161077	-93.637557	Cash Magic - Vinton (No hotel) 337-589-3993
+30.197566	-93.625258	Delta Downs Racetrack & Casino 800-589-7441 or 337-589-7441 (Reservations 888-332-7829)
+30.234802	-93.248994	Isle of Capri - Lake Charles 800-843-4753 or 337-430-0711
+30.651194	-90.90309	Cash Magic - Silver Fox (No hotel) 225-665-8122
+30.652156	-90.904018	Lucky Magnolia Truck Plaza & Casino (No hotel) 225-664-7595
+30.488923	-91.253202	Lucky Dollar casino - Port Allen (No hotel) 225-344-9069
+30.442291	-91.190107	Belle of Baton Rouge 800-676-4847 or 225-378-6000
+30.460222	-91.190322	Hollywood Casino - Baton Rouge (No hotel) 800-447-6843 or 225-381-7777
+30.34572	-91.151368	L?Auberge Casino Hotel Baton Rouge (Casino adjacent to the hotel) 225-215-7777
+32.559619	-93.978076	King's Ransom Casino (No hotel) 318-929-2555
+33.017851	-93.466333	Cash Magic - Springhill (No hotel) 318-539-4200
+32.811239	-93.982033	Cash Magic - Vivian (No hotel) 318-375-5144
+32.516305	-93.743942	Eldorado Casino Shreveport 318-220-0981 (Reservations 877-602-0711)
+32.517903	-93.745535	Sam's Town Hotel & Casino Shreveport 866-861-0711 or 318-424-7777
+32.533632	-93.766459	Cash Magic - Shreveport (No hotel) 318-675-0260
+32.511705	-93.726867	DiamondJacks Casino - Bossier City 866-552-9629 or 318-678-7777
+32.548526	-93.631006	Harrah's Louisiana Downs (No hotel) 800-427-7247 or 318-742-5555
+32.51624	-93.735875	Horseshoe Casino Hotel - Bossier City 800-895-0711 or 318-742-0711
+32.521775	-93.74255	Margaritaville Resort Casino - Bossier City 855-346-2489 or 318-698-7177
+32.510085	-93.732829	Boomtown Casino & Hotel Bossier City 866-462-8696 or 318-746-0711
+32.42716	-91.420956	Big Top Travel Center & Casino (No hotel) 318-878-7501
+32.428068	-91.422034	Lucky Dollar Casino - Delhi (No hotel) 318-878-7820
+31.105966	-92.062465	Paragon Casino Resort 318-253-1946
+31.439668	-92.486628	Jena Choctaw Pines Casino (No hotel) 855-638-5825 or 318-648-7773
+34.483536	-93.059527	Oaklawn Racing & Gaming (No hotel) 800-625-5296 or 501-623-4411
+35.162036	-90.161315	Southland Park Gaming & Racing (No hotel) 800-467-6182 or 870-735-3670
+35.1125	-98.25119	Gold River Casino (No hotel) 800-280-1018
+35.076547	-98.110313	Kiowa Casino - Verden (No hotel) 866-370-4077
+35.601395	-97.962885	Lucky Star Casino - Concho (No hotel) 405-262-7612
+35.231447	-97.206888	Thunderbird Casino (No hotel) 800-259-5825 or 405-360-9270
+35.294783	-96.925905	Thunderbird Casino - Shawnee (No hotel) 800-259-5825 or 405-360-9270
+34.507077	-97.177277	Chickasaw Travel Stop (No hotel) 580-369-4240
+34.508385	-97.172788	Treasure Valley Casino 580-369-2895
+35.49361	-97.084014	Kickapoo Casino - Harrah (No hotel) 405-964-7322
+35.523636	-98.350772	Casino Oklahoma (No hotel) 405-542-4200
+35.523281	-98.351118	Silver Creek Casino (No hotel on site) 405-542-2946
+35.276601	-97.59808	Newcastle Casino (No hotel) 405-387-6013
+35.175014	-97.491289	Goldsby Gaming Center (No hotel) 405-329-5447
+35.181685	-97.499606	Riverwind Casino 888-440-1880 or 405-364-7171
+34.826484	-97.307024	Washita Casino (No hotel) 405-484-7777
+34.704832	-97.248446	Jet Stream Casino (No hotel) 405-331-2500
+36.296044	-97.285205	Seven Clans Casino Perry (No hotel) 580-336-7260
+35.173504	-97.952848	SaltCreek Casino (No hotel) 405-459-4000
+34.507593	-96.968343	Artesian Hotel Casino Spa 855-455-5255 or 580-622-2156
+35.528309	-97.471937	Remington Park Racing Casino (No hotel) 800-456-4244 or 405-424-1000
+34.184879	-97.108976	Gold Mountain Casino (No hotel) 580-223-3301
+33.999043	-96.675246	Texoma Gaming Center (No hotel) 580-564-6000
+34.079248	-96.76458	Madill Gaming Center (No hotel) 580-795-7301
+33.734784	-97.143698	Border Casino (No hotel) 580-276-4706
+33.759919	-97.130377	WinStar World Casino 800-622-6317 or 580-276-4229
+34.172716	-97.413428	Black Gold Casino (No hotel) 580-668-9248
+34.608503	-98.36178	Apache Casino Hotel 580-248-5905
+34.608465	-98.374237	Comanche Nation Casino (No hotel) 580-354-2000
+34.163439	-98.523362	Comanche Red River Hotel & Casino 866-280-3261 or 580-299-3378
+34.142718	-98.522919	Kiowa Casino (No hotel) 866-370-4077 or 580-299-3333
+34.58488	-97.968578	Chisholm Trail Casino (No hotel) 580-255-1668
+34.739751	-98.393755	Comanche Spur Casino (No hotel) 877-806-1177 or 580-250-3090
+34.362248	-98.292625	Comanche Star Casino (No hotel) 877-844-0228 or 580-875-2092
+35.516155	-98.934536	Lucky Star Casino - Clinton (No hotel) 580-323-6599
+36.067836	-98.60131	Lucky Star Casino - Canton (No hotel) 580-886-2490
+35.828468	-98.419098	Lucky Star Casino - Watonga (No hotel) 580-623-7333
+36.703516	-96.060075	Osage Casino - Bartlesville (No hotel) 877-246-8777 or 918-335-7519
+35.826864	-96.391481	Creek Nation Casino - Bristow (No hotel) 918-367-9168
+36.165528	-95.76192	Hard Rock Hotel & Casino - Tulsa 800-760-6700 or 918-384-7800
+36.313358	-95.533403	Cherokee Casino Will Rogers Downs (No hotel) 918-343-5900
+36.463806	-96.394928	Osage Casino - Hominy (No hotel) 877-246-8777 or 918-885-2990
+36.672892	-96.314635	Osage Casino - Pawhuska (No hotel) 877-246-8777 or 918-287-1072
+36.22704	-96.784525	StoneWolf Casino (No hotel) 918-454-7777
+36.33774	-96.793853	Trading Post Casino (No hotel) 918-762-4466
+35.978108	-97.044742	Cimarron Casino (No hotel) 405-547-5352
+36.56149	-95.929779	Cherokee Casino - Ramona (No hotel) 918-535-3800
+36.162162	-96.118842	Osage Casino - Sand Springs (No hotels) 877-246-8777 or 918-699-7727
+36.369294	-96.053781	Osage Casino ? Skiatook (No hotel) 877-246-8777 or 918-699-7873
+35.848414	-95.011228	Cherokee Casino - Tahlequah (No hotel) 918-207-3600
+36.982569	-95.62611	Cherokee Casino South Coffeyville 918-255-4221
+35.671638	-96.660499	Sac and Fox Casino - Stroud (No hotel) 918-968-2540
+36.206165	-96.002475	Osage Casino - Tulsa (No hotel) 877-246-8777 or 918-699-7740
+36.040755	-95.961727	River Spirit Casino 800-299-2738 or 918-299-8518
+36.176593	-94.570504	Cherokee Casino and Hotel - West Siloam Springs 800-754-4111 or 918-422-6301
+36.657026	-94.828464	Cherokee Casino - Grove 918-786-1300 (Location approx)
+36.658252	-94.706932	Grand Lake Casino Lodge (No hotel) 800-426-4640 or 918-786-8528
+36.891464	-94.841649	Buffalo Run Casino 918-542-7140
+36.871094	-94.782396	High Winds Casino (No hotel) 918-541-9463
+36.891465	-94.841634	Peoria Gaming Center (No hotel) 918-540-0303
+36.872307	-94.84886	Prairie Moon Casino (No hotel) 918-542-8670
+36.918534	-94.896332	Prairie Sun Casino (No hotel) 918-541-2150
+36.921023	-94.83686	Quapaw Casino (No hotel) 918-540-9100
+36.867395	-94.869499	Stables Casino (No hotel) 877-774-7884 or 918-542-7884
+36.997568	-94.625702	Downstream Casino Resort 888-396-7876 or 918-919-6000
+36.834895	-94.62028	Bordertown Casino and Arena (No hotel) 918-666-9401
+36.868996	-94.630229	Eastern Shawnee Travel Plaza (No hotel) 918-666-1408
+36.803313	-94.729174	Wyandotte Nation Casino (No hotel) 866-447-4946 or 918-678-4946
+35.713295	-95.405867	Creek Nation Casino - Muscogee (No hotel) 918-683-1825
+35.813404	-96.014123	Duck Creek Casino (No hotel) 918-267-3468
+35.481194	-95.522631	Creek Nation Casino - Checotah (No hotel) 918-473-5200
+35.28257	-95.59162	Creek Nation Casino - Eufaula (No hotel) 918-689-9191
+35.770788	-95.269624	Cherokee Casino - Ft. Gibson (No hotel) 918-478-9526
+35.647515	-95.962849	Creek Nation Travel Plaza (No hotel) 918-752-0090
+35.639743	-95.961176	One Fire Casino (No hotel) 918-756-8400
+34.887928	-95.784773	Choctaw Casino - McAlester (No hotel) 877-904-8444 or 918-423-8161
+34.488103	-96.04981	Choctaw Casino - Stringtown (No hotel) 580-346-7862
+36.681824	-97.042445	Osage Casino - Ponca City (No hotel) 877-246-8777 or 918-335-7519
+36.938313	-97.345616	SouthWind Casino - Bramen (No hotel) 580-385-2440
+36.940062	-97.343884	SouthWind Casino - Kanza (No hotel) 580-385-2444
+36.973851	-97.044909	Native Lights Casino (No hotel) 877-468-3100 or 580-448-3100
+36.983631	-97.041925	Seven Clans Gasino Casino 866-723-4005 or 580-448-3210
+36.983623	-97.042032	Seven Clans First Council Casino Hotel 877-725-2670 or 580-448-3015
+36.877361	-97.031003	SouthWind Casino - Newkirk (No hotel) 855-368-2480 or 580-269-1260
+36.499844	-97.073671	Seven Clans Paradise Casino (No hotel) 866-723-4005 or 580-723-4005
+36.693922	-97.347889	Tonkawa Casino (No hotel) 580-628-2624
+33.949987	-96.414798	Choctaw Casino Resort - Durant 800-788-2464 or 580-920-0160 (Reservations 580-931-8340)
+34.005969	-94.739706	Choctaw Casino - Broken Bow (No hotel) 580-584-5450
+36.80586	-94.718923	Indigo Sky Casino 888-992-7591
+33.935821	-95.524564	Choctaw Casino Resort - Grant 580-326-8397
+33.896857	-94.810225	Choctaw Casino - Idabel (No hotel) 580-286-5710
+35.303958	-96.927931	Fire Lake Casino (No hotel) 405-273-2242
+35.391003	-96.909724	Black Hawk Casino (No hotel) 405-275-4700
+35.380616	-97.058814	Grand Casino Hotel & Resort 405-964-7263 (Reservations 405-964-7777)
+35.361895	-96.967923	Kickapoo Casino - Shawnee (No hotel) 405-395-0900
+34.789756	-96.651947	Ada Gaming Center (No hotel) 580-436-3740
+34.77322	-96.697775	Ada Gaming Center West (No hotel) 580-310-0900
+35.091444	-96.403905	Creek Nation Casino - Holdenville (No hotel) 405-379-3321
+34.939313	-96.683291	River Mist Casino (No hotel) 580-925-3994
+35.419055	-96.29982	Creek Nation Casino - Okemah (No hotel) 918-623-0051
+35.4276	-96.193925	Golden Pony Casino (No hotel) 918-560-6199
+35.381853	-96.671711	Seminole Nation Casino (No hotel) 405-217-0176
+35.291662	-94.436688	Choctaw Casino Hotel - Pocola 800-590-5825 or 918-436-7761
+35.408692	-94.528697	Cherokee Casino & Hotel - Roland 800-256-2338  or 918-427-7491
+35.44932	-94.806932	Cherokee Casino - Sallisaw (No hotel) 800-256-2338 or 918-774-1600
+30.71421	-94.674289	Naskila Gaming (No hotel) 936-563-2946 (Class II Gaming Machines Based on Bingo)
+27.874898	-97.093796	Aransas Queen Casino (No hotel - Casino boat) 844-426-2534 (Reservations 877-844-4725)
+28.610944	-100.441727	Kickapoo Lucky Eagle Casino Hotel 888-255-8259 or 830-758-1995 (Class II Gaming Machines Based on Bingo or Poker)
+39.800235	-105.490163	Ameristar Black Hawk 866-667-3386 or 303-567-1234
+39.801506	-105.495067	Black Hawk Station Casino (No hotel) 303-582-1323
+39.801836	-105.493608	Bull Durham Saloon & Casino (No hotel) 303-582-0810
+39.801896	-105.494233	Bullwhackers Casino (No hotel) 800-426-2855 or 303-271-2500
+39.800698	-105.492452	Canyon Casino (No hotel) 303-777-1111
+39.800998	-105.493103	Gilpin Hotel Casino (No hotel) 303-582-1133
+39.798732	-105.488701	Golden Gates Casino (No hotel) 303-582-2600
+39.799078	-105.488688	Golden Mardi Gras Casino (No hotel) 303-582-2600
+39.79855	-105.487673	Golden Gulch Casino 
+39.798565	-105.485806	Lady Luck Casino 888-523-9582 or 303-582-3000
+39.799255	-105.489735	Lodge Casino at Black Hawk 303-582-1771
+39.798329	-105.482401	Monarch Casino Black Hawk (No hotel) 303-582-1000
+39.800318	-105.500907	Red Dolly Casino (No hotel) 303-582-1100
+39.801468	-105.493886	Saratoga Casino Black Hawk (No hotel) 800-538-5825 or 303-582-6100
+39.801776	-105.494348	Sasquatch Casino (No hotel) 720-880-1616
+39.798255	-105.482774	Isle Casino Hotel - Black Hawk 800-843-4753 or 303-998-7777
+39.801498	-105.493665	Wild Card Saloon & Casino (No Hotel) 303-582-3412
+39.802138	-105.493978	Z Casino (No hotel) 800-426-2855
+39.800282	-105.511854	Century Casino & Hotel 888-507-5050 or 303-582-5050
+39.800084	-105.512555	Crystal Palace Casino (No hotel) 720-253-1669
+39.800201	-105.512564	Dostal Alley Saloon & Gaming Emporium (No hotel) 303-582-1610
+39.800551	-105.51271	Famous Bonanza-Easy Street (No hotel) 866-339-5825 or 303-582-5914
+39.80073	-105.511296	Johnny Z's Casino (No hotel) 303-582-5623
+39.799465	-105.508761	Reserve Casino Hotel 800-924-6646 or 303-582-0800 (Reservations 866-924-6646)
+38.746577	-105.17682	Brass Ass Casino (No hotel) 719-689-2104
+38.74675	-105.177689	Bronco Billy's Casino (No hotel) 877-989-2142 or 719-689-2142
+38.746534	-105.178047	Century Casino Cripple Creek 719-689-0333
+38.746602	-105.176204	Colorado Grande Casino 877-244-9469 or 719-689-3517
+38.746716	-105.173261	Double Eagle Hotel & Casino 719-689-5000 (Reservations 800-711-7234)
+38.746747	-105.178243	Gold Rush Hotel & Casino 719-689-2646
+38.746809	-105.176223	Johnny Nolon's Casino (No hotel) 719-689-2080
+38.746546	-105.177393	McGills Hotel & Casino 888-461-7529 or 719-689-2446
+38.74661	-105.176931	Midnight Rose Hotel & Casino 800-635-5825 or 719-689-2865
+44.073542	-103.254207	Uncle Sam's Casino (No hotel) 719-689-2222
+38.750166	-105.173296	Wildwood Casino At Cripple Creek (No hotel) 877-945-3963 or 719-244-9700
+37.13684	-107.632776	Sky Ute Casino & Resort 888-842-4180 or 970-563-3000 (Reservations 800-876-7017)
+37.203839	-108.685202	Ute Mountain Casino Hotel & Resort 800-258-8007 or 970-565-8800 (Reservations 888-565-8837)
+41.138285	-104.765432	Wyoming Downs Casino OTB Cheyenne Plaza (No hotel) (Location approx) (Class II machines based on historic horse races)
+41.114206	-104.802596	Wyoming Downs Casino OTB Cheyenne Outlaw Saloon (No hotel) (Class II machines based on historic horse races)
+41.299332	-105.593404	Wyoming Downs Casino OTB Laramie (No hotel) (Class II machines based on historic horse races)
+42.997139	-108.384429	789 Casino (No hotel) 307-857-9450
+42.982003	-108.392894	Wind River Hotel and Casino 866-657-1604 or 307-856-3964
+43.040515	-108.774764	Little Wind Casino (No hotel) 307-335-8703
+42.89017	-108.792774	Shoshone Rose Casino 307-335-7529
+42.855825	-106.27204	Wyoming Downs Casino OTB Casper/Evansville (No hotel) (Class II machines based on historic horse races)
+44.291538	-105.532784	Wyoming Downs Casino OTB Gillette (No hotel) (Class II machines based on historic horse races)
+44.806015	-106.953118	Wyoming Downs Casino OTB Sheridan (No hotel) (Class II machines based on historic horse races)
+41.578634	-109.265758	Wyoming Downs Casino OTB Rock Springs (No hotel) (Class II machines based on historic horse races)
+41.391132	-111.034778	Wyoming Downs Casino (No hotel) 866-681-7223 or 307-789-0511 (Class II machines based on historic horse races)
+41.263919	-110.978629	Wyoming Downs Casino OTB Evanston (No hotel) (Class II machines based on historic horse races)
+43.02297	-112.412239	Fort Hall Casino (No hotel) 800-497-4231 or 208-237-8778
+42.88703	-112.635739	Bannock Peak Casino (No hotel) 208-235-1308
+43.14471	-112.393956	Sage Hill Casino (No hotel) 208-237-4998
+46.437127	-116.906683	Clearwater River Casino and Lodge 877-678-7423 or 208-746-5733
+46.228819	-116.026381	It'Se-Ye-Ye Casino (No hotel) 208-935-7860
+48.696392	-116.307508	Kootenai River Inn Casino and Spa 800-346-5668 or 208-267 8511
+47.426283	-116.979581	Coeur D'Alene Casino Resort  800) 523-2464 or 208-686-5106
+33.289301	-111.945374	Lone Butte Casino Resort (No hotel) 800-946-4452 or 520-796-7777
+33.281084	-111.972827	Wild Horse Pass Hotel & Casino  800-946-4452 or 520-796-7727
+33.02417	-112.048916	Harrah's Ak Chin Casino Resort 800-427-7247 or 480-802-5000
+33.453885	-111.883468	Casino Arizona (No hotel) 877-724-4687 or 480-850-7777
+33.539997	-111.869847	Talking Stick Resort 866-877-9897 or 480-850-7777
+33.58177	-111.680716	Fort McDowell Casino 800-843-3678 or 602-837-1424
+33.551366	-112.259562	Desert Diamond West Valley Resort and Casino (No hotel) 520-294-7777
+32.243956	-112.727344	Desert Diamond Casino - Why (No hotel) 866-332-9467 or 520-362-2746
+32.244043	-112.726521	Golden Ha:san Casino 520-362-2885
+33.309083	-112.159588	Vee Quiva Hotel & Casino 800-946-4452 or 520-796-7777
+34.160278	-114.266904	Blue Water Casino 888-243-3360 or 928-669-7777
+32.608126	-114.653524	Cocopah Resort 800-237-5687 or 928-726-8066
+32.735216	-114.615271	Paradise Casino Arizona (No hotel) 888-777-4946 or 760-572-7777
+34.219249	-111.33051	Mazatzal Casino 800-777-7529 or 928-474-6044
+33.355752	-110.668337	Apache Gold Casino Resort 800-272-2438 or 928-475-7800
+32.001521	-110.988143	Desert Diamond Casino - Sahuarita (No hotel) 866-332-9467 or 520-294-7777
+32.119456	-110.963169	Desert Diamond Hotel & Casino - Tucson 866-332-9467 or 520-294-7777
+32.130863	-111.086132	Del Sol Casino 800-344-9435 or 520-838-6508
+32.133186	-111.08425	Casino Del Sol 800-344-9435 or 520-883-1700
+32.117836	-111.063334	Casino of the Sun (No Hotel) 800-344-9435 or 520-883-1700
+34.078974	-109.904566	Hon-Dah Resort Casino 800-929-8744 or 928-369-0299
+35.167671	-111.255616	Twin Arrows Navajo Casino Resort 855-946-8946 or 928-856-7200
+34.548599	-112.444441	Bucky's Casino & Resort C135 800-756-8744 or 928-776-5695
+34.547576	-112.444957	Yavapai Casino (No hotel) 800-756-8744 or 928-445-5767
+34.609065	-111.861859	Cliff Castle Casino Hotel 800-381-7568 or 928-567-7999
+35.016528	-114.634586	Mojave Crossing Casino 928-330-2555
+34.907518	-114.598056	Spirit Mountain Casino (No hotel) 888-837-4030 or 928-346-2000
+35.415273	-106.403265	San Felipe Casino Hollywood (No hotel) 877-529-2946 or 505-867-6700
+35.328829	-106.565514	Santa Ana Star Casino (No hotel) 505-867-0000
+35.031941	-107.475198	Dancing Eagle Casino and RV Park 877-440-9969 or 505-552-1111
+36.147945	-107.263599	Apache Nugget Travel Center and Casino (No hotel) 505-289-2486
+35.076086	-107.555917	Sky City Casino Hotel 888-759-2489 or 505-552-6017
+34.938254	-106.664878	Isleta Casino & Resort (No hotel) 877-475-3827 or 505-724-3800
+34.902618	-106.707698	Palace West Casino (No hotel) 505-869-4102
+35.206413	-106.567272	Sandia Resort & Casino 800-526-9366 or 505-796-7500
+35.028748	-106.952802	Rt 66 Casino Hotel 866-352-7866 or 505-552-7866 (Reservations 866-711-7829)
+35.080827	-106.574494	Downs Racetrack and Casino (No hotel) 505-767-7171
+35.532708	-108.62802	Fire Rock Navajo Casino (No hotel) 866-941-2444 or 505-905-7100
+36.720424	-108.256303	Northern Edge Navajo Casino 877-241-7777 or 505-960-7000
+36.697965	-108.101606	SunRay Park and Casino (No hotel) 505-566-1200
+36.77457	-108.607252	Flowing Water Navajo Casino (No hotel) 505-368-2300
+35.859576	-105.997938	Buffalo Thunder Resort & Casino 505-455-5555 (Reservations 877-848-6337)
+35.822851	-105.975747	Camel Rock Casino (No hotel) 800-462-2635 or 505-984-8414
+35.889464	-106.020592	Cities of Gold Casino Hotel 800-455-3313 or 505-455-3313 (Reservations 877-455-0515)
+35.854174	-105.996308	Nambe Falls Casino (No hotel) 505-455-0458
+36.935082	-106.987534	Wild Horse Casino & Hotel 575-759-3663
+35.996552	-106.067512	Santa Claran Casino 505-747-3100
+36.035822	-106.062753	Ohkay Casino Resort 800-752-9286 or 505-747-1668 (Reservations 877-829-2865)
+36.427702	-105.562288	Taos Mountain Casino (No hotel) 888-946-8267 or 505-758-4460
+31.805018	-106.559897	Sunland Park Racetrack & Casino (No hotel) 505-874-5200
+32.752529	-103.185368	Zia Park Race Track & Black Gold Casino 888-942-7275 or 505-492-7000
+33.29795	-105.659172	Casino Apache Travel Center (No hotel) 505-464-7777
+33.294878	-105.689242	Inn of the Mountain Gods Resort & Casino 800-545-9011 or 505-464-7777
+33.326923	-105.608317	Ruidoso Downs & Billy The Kid Casino 505-378-4431
+36.914505	-116.753054	Stagecoach Hotel & Casino 775-553-2419 (Reservations 800-424-4946)
+39.131219	-119.770526	Casino Fandango 775-885-7000
+36.009729	-114.783685	Hoover Dam Lodge 800-245-6380 or 702-293-5000
+36.021034	-115.088663	Green Valley Ranch Resort Spa Casino 702-617-7777 (Reservations 866-782-9487)
+36.072203	-115.074936	Barley's Casino & Brewing Co (No hotel) 702-458-2739
+36.061884	-115.040004	Sunset Station Hotel and Casino 888-319-4655 or 702-547-7777 (Reservations 888-786-7389)
+36.069799	-115.074174	Wildfire Casino & Lanes (No hotel) 702-685-2100
+36.063217	-115.036992	Wildfire Casino Sunset (No hotel) 702-454-0544
+36.031637	-114.98312	Eldorado Casino (No hotel) 702-564-1811
+36.031838	-115.00959	Fiesta Henderson Casino Hotel 866-469-7666 or 702-558-7000
+36.051741	-114.99479	Jokers Wild (No hotel) 702-564-8100
+36.064083	-115.015519	Klondike Sunset Casino (No hotel) 702-568-7575
+35.97241	-114.912272	Railroad Pass Hotel & Casino 800-654-0877 or 702-294-5000
+36.062376	-115.008703	Skyline Restaurant & Casino (No hotel) 702-565-9116
+36.004903	-114.941486	Wildfire Casino Boulder (No hotel) 702-558-6454
+35.611305	-115.387191	Buffalo Bill's Resort & Casino 800-386-7867 or 702-382-1212
+35.779141	-115.325472	Gold Strike Casino - Jean 800-634-1359 or 702-477-5000
+35.614274	-115.385328	Primm Valley Resort & Casino 702-382-1212 (Reservations 800-386-7867)
+35.612293	-115.390747	Whiskey Pete's Hotel & Casino 702-382-1212 (Reservations 800-386-7867)
+36.413256	-116.422469	Longstreet Inn Casino & RV Resort 775-372-1777
+36.500389	-114.760228	Moapa Tribal Casino (No hotel) 702-864-2601
+36.80357	-114.100527	Casa Blanca Hotel-Casino-Golf-Spa 702-346-7529 (Reservations 800-459-7529)
+36.816344	-114.063661	Eureka Casino & Hotel 702-346-4600 (Reservations 800-346-4611)
+36.814686	-114.065834	Virgin River Hotel-Casino-Bingo 702-346-7777 (Reservations 800-346-7721)
+35.16328	-114.573915	Aquarius Casino Resort 800-435-8469 or 702-298-5111
+35.013889	-114.642189	AVI Resort & Casino 800-284-2946 or 702-535-5555
+35.158373	-114.574317	Colorado Belle Hotel Casino & Microbrewery 702-298-4000 (Reservations 800-477-4837)
+35.166517	-114.572646	Don Laughlin's Riverside Resort Hotel & Casino 702-298-2535 (Reservations 800-227-3849)
+35.161953	-114.574389	Edgewater Hotel Casino 800-289-8777 or 702-298-2453 (Reservations 800-677-4837)
+35.154385	-114.574521	Golden Nugget Laughlin 702-298-7111 (Reservations 800-237-1739)
+35.150346	-114.576201	Laughlin River Lodge 800-835-7904 or 702-298-2139 (Reservations 800-835-7903)
+35.155451	-114.57453	Pioneer Hotel & Gambling Hall 702-298-2442 (Reservations 800-634-3469)
+35.166519	-114.572689	Riverside Resort Casino 800-227-3849 or 702-298-2535
+35.158575	-114.576398	Tropicana Laughlin 702-298-4200 (Reservations 800-243-6846)
+36.196081	-115.106186	Bighorn Casino (No hotel) 702-642-1940
+36.238641	-115.118359	Cannery Hotel & Casino 866-999-4899 or 702-507-5700
+36.193338	-115.131826	Jerry's Nugget (No hotel) 702-399-3000
+36.218405	-115.120598	Lucky Club Casino 702-399-3297 (Reservations 877-333-9291)
+36.210321	-115.106415	Poker Palace (No hotel) 702-649-3799
+36.199189	-115.124404	Silver Nugget Casino (No hotel) 702-399-1111
+36.198022	-115.194272	Texas Station 800-654-8804 or 702-631-1000 (Reservations 800-654-8888)
+35.964174	-115.170368	M Resort Spa Casino 877-673-7678 or 702-797-1000
+35.465925	-114.919942	Terrible's Roadhouse - Searchlight (No hotel) 702-297-1201
+36.208974	-115.982974	Gold Town Casino (No hotel) 888-837-7425 or 775-751-7777
+36.132483	-115.958272	Lakeside Casino & RV Park (No hotel) 888-558-5253 775-751-7770
+36.210741	-115.9846	Nugget Casino - Pahrump 866-751-6500 or 775-751-6500
+36.210349	-115.984109	Pahrump Nugget Hotel & Gambling Hall 866-751-6500 or 775-751-6500
+36.20096	-115.976629	Saddle West Hotel-Casino & RV Park 775-727-1111 (Reservations 800-433-3987)
+38.058747	-117.218826	Tonopah Station House 775-482-9777 (Ramada Reservations 800-272-6232)
+36.29184	-115.182294	Aliante Casino - Hotel - Spa 877-477-7627 or 702-692-7777
+36.171244	-115.145027	Binion's Gambling Hall and Hotel 800-937-6537 or 702-382-1600
+36.172504	-115.144496	California Hotel & Casino 702-385-1222 (Reservations 800-634-6505)
+36.169249	-115.143442	The D Las Vegas 702-388-2400 (Reservations 800-274-5825)
+36.172081	-115.140651	Downtown Grand Casino 855-384-7263 or 702-719-5100
+36.168713	-115.139185	El Cortez Hotel & Casino 702-385-5200 (Reservations 800-634-6703)
+36.170523	-115.144025	Four Queens Hotel-Casino 702-385-4011 (Reservations 800-634-6045)
+36.170725	-115.143804	Fremont Hotel & Casino 800-634-6460 or 702-385-3232 (Reservations 800-634-6182)
+36.170837	-115.140643	Gold Spike Casino 800-634-6703 or 702-384-8444
+36.170941	-115.146586	Golden Gate Hotel & Casino 702-385-1906 (Reservations 800-426-1906)
+36.170671	-115.144291	Golden Nugget Las Vegas 800-634-3403 or 702-385-7111 (Reservations 800-634-3454)
+36.173576	-115.145406	Main Street Station Hotel & Casino 800-713-8933 or 702-387-1896 (Reservations 800-465-0711)
+36.171815	-115.146602	Plaza Hotel & Casino 702-386-2110 (Reservations 800-634-6575)
+36.143125	-115.173255	Palace Station Hotel & Casino 702-367-2411 (Reservations 800-544-2411)
+36.115775	-115.192488	Gold Coast Hotel & Casino 888-402-6278 or 702-367-7111
+36.102749	-115.200715	Orleans Hotel & Casino 702-365-7111 (Reservations 800-675-3267)
+36.116472	-115.188002	Rio Suites Hotel & Casino 800-752-9746 or 702-252-7777 (Reservations 866-746-7671)
+36.10086	-115.184441	Wild Wild West Casino 702-740-0000 (Reservations 800-634-3488)
+36.159514	-115.115973	Silver Saddle Saloon (No hotel) 702-474-2900
+36.147039	-115.155541	Stratosphere Hotel & Casino 702-380-7777 (Reservations 800-998-6937)
+36.032723	-114.984436	Emerald Island Casino (No hotel) 702-567-9160
+36.19405	-115.191685	Wildfire Casino Rancho (No hotel) 702-648-3801
+36.163338	-115.206214	Arizona Charlie's - Decatur 702-258-5200 (Reservations 800-342-2695)
+36.106728	-115.173442	Aria Resort & Casino 866-359-7757 or 702-590-7757
+36.114354	-115.171242	Bally's Las Vegas 800-722-5597 or 702-739-4111 (Reservations 888-215-1078)
+36.111278	-115.173639	Bellagio 702-693-7111 (Reservations 888-987-6667)
+36.117415	-115.173236	Caesars Palace 800-634-6001 or 702-731-7110 (Reservations 800-634-6661)
+36.120727	-115.172037	Casino Royale Hotel & Casino 800-854-7666 or 702-737-3500
+36.136468	-115.162456	Circus Circus Hotel & Casino 702-734-0410 (Reservations Rm 877-224-7287 RV 800-562-7270)
+36.110347	-115.173403	Cosmopolitan of Las Vegas 877-551-7778 or 702-698-7000
+36.114899	-115.172573	Cromwell Las Vegas 844-426-2766 or 855-895-3002
+36.112746	-115.163831	Ellis Island Casino & Brewery (No hotel) 702-733-8901
+36.127484	-115.167596	Encore Las Vegas - Hotel and Casino 702-770-7800 (Reservations 888-320-7125)
+36.099683	-115.174511	Excalibur Hotel-Casino 702-597-7777 (Reservations 800-937-7777)
+36.108704	-115.153697	Hard Rock Hotel & Casino 800-473-7625 or 702-693-5000
+36.119255	-115.17243	Harrah's Las Vegas 800-392-9002 or 702-369-5000 (Reservations 800-427-7247)
+35.144757	-114.577235	Harrah's Laughlin Casino & Hotel 702-298-4600 (Reservations 800-427-2747)
+36.100454	-115.167713	Hooters Casino Hotel 866-584-6687 or 702-739-9000
+36.117541	-115.172604	LINQ Las Vegas 800-351-7400 or 702-731-3311 (Reservations 800-634-6441)
+36.093545	-115.17535	Mandalay Bay 702-632-7777 (Reservations 877-632-7000)
+36.114932	-115.165685	Max Casino at Westin Las Vegas 702-836-5900 (Reservations 800-228-3000)
+36.101236	-115.167278	MGM Grand Hotel Casino 800-929-1111 or 702-891-1111 (Reservations 800-646-7787)
+36.122297	-115.172031	Mirage 702-791-7111 (Reservations 800-627-6667)
+36.103993	-115.176049	Monte Carlo Resort & Casino 702-730-7777 (Reservations 800-311-8999)
+36.10111	-115.175877	New York-New York Hotel & Casino 702-740-6969 (Reservations 800-693-6763)
+36.117647	-115.17026	O'Sheas Casino (No hotel) 800-351-7400
+36.123359	-115.17035	Palazzo Resort Hotel Casino 877-883-6423
+36.114829	-115.195089	Palms 866-942-7777 or 702-942-7777
+36.111514	-115.172609	Paris Casino Resort 702-946-7000 (Reservations 888-266-5687)
+36.120656	-115.172024	Royale Casino (Best Western Plus) 800-854-7666 or 702-737-3500
+36.135825	-115.162734	Slots-A-Fun Casino (No hotels) 800-354-1232 or 702-794-3814
+36.141437	-115.158546	SLS Las Vegas 702-737-2111 (Reservations 855-761-7757)
+36.123678	-115.171056	Treasure Island - TI 702-894-7111 (Reservations 800-944-7444)
+36.09973	-115.172519	Tropicana Las Vegas 702-739-2222 (Reservations 888-826-8767)
+36.121902	-115.171231	Venetian Resort Hotel Casino 702-414-1000 (Reservations 888-283-6423)
+36.136065	-115.154537	Westgate Las Vegas 702-732-5111 (Reservations 800-732-7117)
+36.125755	-115.16645	Wynn Las Vegas 888-320-WYNN or 702-770-7000
+36.240151	-115.063323	Siegel Slots & Suites 800-223-6330 or 702-644-6300
+36.096558	-115.173335	Luxor Las Vegas 702-262-4000 (Reservations 800-288-1000)
+36.123344	-115.075785	Arizona Charlie's - Boulder 702-951-9000 (Reservations 888-236-9066)
+36.13257	-115.084507	Boulder Station Hotel & Casino 800-981-5577 or 702-432-7777 (Reservations 800-683-7777)
+36.108109	-115.057316	Eastside Cannery 702-856-5300 or 866-999-4899
+36.10752	-115.059929	Longhorn Hotel & Casino (No hotel) 702-435-9170
+36.112438	-115.062826	Sam's Town Hotel & Gambling Hall 800-897-8696 or 702-456-7777 (Reservations 800-634-6371)
+36.011943	-115.172782	South Point Hotel and Casino 866-796-7111 or 702-796-7111
+36.17578	-115.290104	Rampart Casino 866-999-4899 or 702-507-5900 (Reservations 877-869-8777)
+36.20152	-115.196351	Fiesta Rancho Hotel & Casino 702-631-7000 (Reservations 800-731-7333)
+36.250785	-115.243248	Santa Fe Station Hotel & Casino 866-767-7770 or 702-658-4900 (Reservations 866-767-7771)
+36.155631	-115.332188	Red Rock Resort Spa Casino 866-767-7773 or 702-797-7777
+36.043259	-115.187275	The Alamo Casino (No hotel) 702-361-1176
+36.041035	-115.18366	Silverton Casino Hotel 800-588-7711 or 702-263-7777 (Rm/RV Reservations 866-946-4373)
+36.16858	-115.290912	Suncoast Hotel and Casino 866-636-7111 or 702-636-7111
+36.113233	-115.153453	Silver Sevens Hotel & Casino 702-733-7000 or 800-640-9777 (Reservations 800-640-9777)
+36.114138	-115.159167	Tuscany Suites & Casino 702-893-8933 or 877-887-2261
+39.247997	-114.892662	Hotel Nevada Gambling Hall 775-289-6665 (Reservations 888-406-3055)
+39.227847	-120.004378	Crystal Bay Club Casino (No hotel) 775-833-6333
+39.228197	-120.004286	Tahoe Biltmore Lodge & Casino 775-831-0660 (Reservations 800-245-8667)
+35.779174	-115.325443	Terrible's Roadhouse 702-477-5000 (Reservations 800-634-1359)
+39.474728	-118.786976	Bonanza Inn & Casino 775-423-6031
+39.475102	-118.793919	Stockman's Casino 775-423-2117 (Holiday Inn reservations 888-465-4329)
+38.941159	-119.749254	Sharkey's Casino (No hotel) 775-782-3133
+38.694951	-119.548474	Topaz Lodge & Casino 775-266-3338 (RV/Rm Reservations 800-962-0732)
+38.910161	-119.709766	Wa She Shu Casino & Travel Plaza (No hotel) 775-499-1260
+40.652094	-119.353838	Bruno's Country Club & Motel 775-557-2220
+38.524789	-118.62391	El Capitan Resort Casino 800-922-2311 or 775-945-3321
+40.185249	-118.471233	Sturgeon's Casino 775-273-2971
+41.997766	-117.718976	Say When Casino (No hotel) 775-532-8515
+38.955577	-119.766788	Carson Valley Inn 775-782-9711 (Reservations 800-321-6983)
+39.522616	-119.710938	Alamo Casino and Travel Center (Super 8 on site) 775-355-8888 (Reservations 800-800-8000)
+39.532997	-119.757485	Ascuaga Nugget Casino 800-648-1177 or 775-356-3300
+39.527108	-119.766881	Baldini's Sports Casino (No hotel) 775-358-0116
+39.535092	-119.773447	Rail City Casino (No hotel) 775-359-9440
+39.532954	-119.757422	Resort 800-648-1177 or 775-356-3300
+39.535205	-119.736178	Sierra Sids Casino (No hotel) 775-359-0550
+39.534594	-119.733347	Western Village Inn & Casino 775-331-1069 (Reservations 800-648-1170)
+39.581422	-119.780939	Hobeys Casino (No hotel) 775-673-0683
+39.512623	-119.96387	Boomtown Hotel & Casino 800-648-3790 or 775-345-6000 (Reservations 877-626-6686)
+39.50178	-119.99927	Gold Ranch Casino & RV Resort (No hotel) 775-345-6789 (RV Reservations 877-927-6789)
+40.973381	-117.734868	Sundance Casino (No hotel) 775-623-3336
+40.967672	-117.741276	Winnemucca Inn 775-623-2565 (Reservations 800-633-6435)
+40.972406	-117.736116	Winners Inn Casino 775-623-2511 (Reservations 800-648-4770)
+40.965032	-117.743754	Model T Hotel-Casino-RV Park 775-623-2588 (Reservations 800-645-5658)
+38.987327	-119.163392	Pioneer Crossing Casino (No hotel) 775-463-2481
+38.96268	-119.939965	Hard Rock Hotel & Casino Lake Tahoe 844-588-7625 or 844-588-7625
+38.959341	-119.942153	Harvey's Resort Hotel-Casino - Lake Tahoe 800-553-1022 or 775-588-2411 (Reservations 800-427-8397)
+36.132483	-115.958272	Lakeside Inn and Casino 800-523-1291 or 775-588-7777 (Reservations 800-624-7980)
+38.961763	-119.940142	Montbleu Resort Casino & Spa 888-829-7630 or 775-588-3515 (Reservations 800-648-3353)
+36.108281	-115.169787	Planet Hollywood Resort & Casino 702-785-5555 (Reservations 877-333-9474)
+39.239504	-119.94359	Grand Lodge Casino at Hyatt Regency Lake Tahoe 800-553-3288 or 775-832-1234
+39.529781	-119.814342	Eldorado Resort Casino 800-311-6753 or 775-786-5700
+39.527245	-119.812146	Harrah's Reno 800-423-1121 or 775-786-3232 (Reservations 800-427-2747)
+39.527925	-119.819219	Sands Regency Hotel Casino 775-348-2200 (Reservations 800-648-3553)
+39.530026	-119.814474	Silver Legacy Resort Casino 800-687-7733 or 775-325-7401 (Reservations 800-687-8733)
+39.488642	-119.794591	Atlantis Casino Resort Spa 775-825-4700 (Reservations 800-723-6500)
+39.497213	-119.800807	Peppermill Resort Spa Casino Reno 800-648-6992 or 775-826-2121 (Reservations 800-282-2444)
+39.531736	-119.816121	Circus Circus Hotel Casino-Reno 888-682-0147 or 775-329-0711 (Reservations 800-648-5010)
+39.526633	-119.811922	Club Cal-Neva 877-777-7303 or 775-323-1046
+39.571374	-119.825924	Bonanza Casino (No hotel) 775-323-2724
+39.671391	-120.000478	Bordertown Casino RV Resort (No hotel) 800-443-4383 or 775-972-1309 (RV Reservations 800-218-9339)
+39.415595	-119.754781	Tamarack Junction Casino (No hotel) 775-852-3600
+39.534583	-119.799346	Diamond?s Casino at the Ramada Hotel 775) 786-5151 (Reservations 888-288-4982)
+39.523253	-119.780815	Grand Sierra Resort and Casino 775-789-2000 (Rm Rerservations 800-501-2651) (RV Reservations 888-562-5698)
+39.167092	-119.765852	Carson Nugget 800-426-5239 or 775-882-1626 (Reservations 800-338-7760)
+39.173972	-119.742614	Gold Dust West - Carson City 877-519-5567 or 775-885-9000
+39.158705	-119.76714	Max Casino Carson City 800-501-2929 or 775-883-0900
+40.831614	-115.763889	Commercial Casino (No hotel) 800-648-2345 or 775-738-3181
+40.832674	-115.784227	Gold Dust West - Elko (No hotel) 775-777-7500
+40.850245	-115.746591	Red Lion Hotel & Casino 775-738-2111 (Reservations 800-545-0044)
+40.83065	-115.763122	Stockmen's Hotel & Casino 775-738-5141 (Reservations 800-648-2345)
+40.786243	-115.676432	Scoreboard Sports Casino (No hotel) 775-753-7529
+41.987784	-114.671434	Barton's Club 93 800-258-2937 or 775-755-2341
+41.984606	-114.672035	Cactus Pete's Resort Casino 775-755-2321 (Reservations 800-821-1103)
+41.984802	-114.672502	Horseshu Hotel & Casino 702-755-7777 (Reservations 800-432-0051)
+41.101034	-114.957019	Alamo Casino Wells (No hotel) 775-752-3344
+41.101042	-114.955772	Fourway Casino (No hotel) 775-752-3344
+40.735966	-114.044721	Montego Bay Casino Resort 877-666-8346 or 775-664-9100 (Reservations 800-537-0207)
+40.737521	-114.056965	Peppermill Inn & Casino 775-664-2255 (Reservations 800-648-9660)
+40.738193	-114.062567	Rainbow Hotel Casino 800-217-0049 or 775-664-4000
+40.738914	-114.066549	Red Garter Hotel & Casino 800-982-2111 or 775-664-2111
+40.735636	-114.043628	Wendover Nugget Hotel & Casino 800-848-7300 or 775-664-2221
+32.840604	-116.70875	Viejas Casino and Resort 800-847-6537 or 619-445-5400
+32.702313	-116.354955	Golden Acorn Casino and Travel Center (No hotel) 866-794-6244 or 619-938-6000
+32.704315	-116.868801	Hollywood Casino Jamul (No hotel) 619-315-2250
+32.786597	-116.83276	Sycuan Resort & Casino 800-279-2826 or 619-445-6002
+32.939463	-116.873134	Barona Valley Ranch Resort and Casino 888-722-7662 or 619-443-2300
+33.363661	-117.08433	Pala Casino Spa and Resort 877-946-7252 or 760-510-5100
+33.332995	-116.992847	Casino Pauma (No hutel) 877-687-2862 or 760-742-2177
+33.332956	-116.992845	Pauma Casino (No hotel) 877-687-2862 or 760-742-2177
+33.267329	-116.954683	Harrah's Resort Southern California 877-777-2457 or 760-751-3100
+33.21811	-116.97261	Valley View Casino Resort 866-843-9946 or 760-291-5500
+33.721867	-116.194431	Fantasy Springs Casino 800-827-2946 or 760-342-5000
+33.920415	-116.800298	Morongo Casino Resort and Spa 800-252-4499 or 951-849-3080
+33.656032	-116.197374	Augustine Casino (No hotel) 888-752-9294 or 760-391-9500
+33.709339	-116.180172	Spotlight 29 Casino (No hotel) 866-377-6829 or 760-775-5566
+33.825096	-116.543432	Spa Resort Casino (No hotel) 800-258-2946 or 760-323-5865
+33.813342	-116.409648	Agua Caliente Casino 888-999-1995 or 760-321-2000
+33.353241	-116.018748	Red Earth Casino (No hotel) 760-395-1200
+34.121026	-116.052194	Tortoise Rock Casino (No hotel) 760-367-9759
+32.740625	-114.720203	Quechan Casino Resort 877-783-2426 or 760-572-3900
+34.150506	-117.228329	San Manuel Indian Bingo & Casino (No hotel) 800-359-2464 or 909-864-5050
+34.483032	-114.403814	Havasu Landing Resort & Casino (No hotel) 800-307-3610 or 760-858-4593
+33.540897	-116.740274	Cahuilla Creek Casino (No hotel) 888-371-2692 or 951-763-1200
+33.780899	-116.917981	Soboba Casino (No hotel) 866-476-2622 or 951-665-1000
+33.455632	-117.106161	Pechanga Resort and Casino 877-711-2946 or 951-693-1819
+36.236942	-119.766958	Tachi Palace Hotel and Casino 800-942-6886 or 559-924-7751
+36.034185	-118.776618	Eagle Mountain Casino (No hotel) 800-903-3353 or 559-788-6220
+34.610042	-120.086441	Chumash Casino Resort 800-248-6274 or 805-686-0855
+37.375627	-118.426189	Paiute Palace Casino (No hotel) 888-372-4883 or 760-873-4150
+36.836555	-118.229239	Winnedumah Winn's Casino (No hotel) 760-878-2483 (All machines are Class-II gaming machines based on bingo)
+36.836417	-118.229691	Winn's Casino (No hotel) 760-878-2483
+37.083213	-119.464812	Mono Wind Casino (No hotel) 559-855-4350
+37.212588	-119.698872	Chukchansi Gold Resort & Casino 866-794-6946 or 559-692-5200
+36.982835	-119.639097	Table Mountain Casino & Bingo (No hotel) 800-541-3637 or 559-822-2485
+37.953224	-122.333918	San Pablo Lytton Casino (No hotel) 510-215-7888
+38.362994	-122.721325	Graton Resort & Casino 707-588-7100
+37.371404	-121.918903	M8trix Casino (No hotel) 408-645-0083
+37.929229	-120.45203	Chicken Ranch Bingo & Casino (No hotel) 800-752-4646 or 209-984-3000
+37.973388	-120.238986	Black Oak Casino 877-747-8777 or 209-928-9300
+39.80065	-123.248536	Hidden Oaks Casino (No hotel) 707-983-6898 (Only Class II Bingo machines)
+38.696014	-122.858035	River Rock Casino (No hotel) 707-857-2777
+38.982598	-123.058115	Hopland Sho-Ka-Wah Casino (No hotel) 888-746-5292 or 707-744-1395
+38.982615	-123.058072	Sho-Ka-Wah Casino (No hotel) 888-746-5292 or 707-744-1395
+39.021062	-122.887618	Konocti Vista Casino Resort & Marina (Casino located ajacent to the motel) 800-386-1950 or 707-262-1900
+39.669562	-123.497075	Red Fox Casino (No hotel) 888-473-3369 or 707-984-6800
+38.73146	-122.623097	Twin Pine Casino & Hotel 800-564-4872 or 707-987-0197
+39.141622	-122.882585	Robinson Rancheria Resort & Casino 800-809-3636 or 707-275-9000
+38.937237	-123.691284	Garcia River Casino (No hotel) 707-467-5300 (Only Class II Bingo machines)
+39.253271	-123.207321	Coyote Valley Casino (No hotel) 800-332-9683 or 707-485-0700
+39.16146	-122.903612	Running Creek Casino (No hotel) 707-275-9209
+39.394376	-123.36088	Sherwood Valley Casino (No hotel) 707-459-7330
+40.885364	-123.999251	Blue Lake Casino & Hotel 877-252-2946 or 707-668-9770
+41.7595	-124.153428	Elk Valley Casino (No hotel) 888-574-2744 or 707-464-1020
+41.062967	-123.68681	Lucky Bear Casino (No hotel) 530-625-5198
+41.529876	-124.03907	Redwood Hotel Casino 855-554-2946 or 707-482-1777
+40.62756	-124.208503	Bear River Casino Hotel 800-761-2327 or 707-733-9644
+41.956859	-124.20353	Lucky 7 Casino 866-777-7170 or 707-487-7777
+41.053729	-124.12879	Cherae Heights Casino (No hotel) 800-684-2464 or 707-677-3611
+38.734753	-122.143274	Cache Creek Casino Resort 800-452-8181 or 530-796-3118
+38.386742	-120.736402	Jackson Rancheria Casino & Hotel 800-822-9466 or 209-223-1677
+38.839291	-121.311697	Thunder Valley Casino Resort 877-468-8777 or 916-408-7777
+38.69303	-120.904601	Red Hawk Casino (No hotel) 888-573-3495 or 530-677-7000
+39.253999	-122.031301	Colusa Casino Resort & Bingo 800-655-8946 or 530-458-8844
+39.054536	-121.515132	Fire Mountain Casino (Opening May 2017) (Approx location)
+39.466571	-121.516084	Feather Falls Casino 877-652-4646 or 530-533-3885
+39.504731	-121.507307	Gold Country Casino 800-334-9400 or 530-538-4560
+40.507145	-122.382226	Win-River Casino (No hotel) 530-243-3377
+40.876407	-121.675001	Pit River Casino (No hotel) 888-245-2992 or 530-335-2334
+39.876079	-122.200793	Rolling Hills Casino 888-331-6400 or 530-528-3500
+41.708313	-122.631826	Rain Rock Casino - Opening summer 2017 - Location Approx
+41.477965	-120.524325	Desert Rose Casino (No hotel) 530-233-3141
+40.430501	-120.656229	Diamond Mountain Casino and Hotel 877-319-8514 or 530-252-1100
+45.590915	-122.676604	Portland Meadows (No hotel) 503-285-9144 (Machines based on unspecified previous horse races)
+45.058354	-123.582336	Spirit Mountain Casino-Oregon 800-760-7977 or 503-879-2350 (Hotel reservations 888-668-7366)
+44.997745	-124.009468	Chinook Winds Casino Resort 888-244-6665 or 541-996-5825 (Reservations Rm 877-423-2241 RV 877-564-2678)
+42.938751	-123.285058	Seven Feathers Hotel & Casino Resort 800-548-8461 or 541-839-1111
+43.390208	-124.265207	Three Rivers Casino Coos Bay (No hotel) 877-374-8377
+43.982268	-124.087045	Three Rivers Casino & Hotel 877-374-8377 or 541-997-7529
+43.394472	-124.218748	Mill Casino Hotel 800-953-4800 or 541-756-8800
+42.535427	-121.88538	Kla-Mo-Ya Casino (No hotel) 888-552-6692 or 541-783-7529
+44.763993	-121.24916	Indian Head Casino (No hotel) 800-554-4786 or 541-460-7777
+45.647848	-118.680285	Wildhorse Resort & Casino 800-654-9453 or 541-278-2274
+47.289219	-122.196566	Muckleshoot Casino (No hotel) 800-804-4944 or 253-804-4444
+47.518405	-121.841981	Snoqualmie Casino (No hotel) 425-888-1234
+47.713767	-122.570873	Suquamish Clearwater Casino Resort 800-375-6073 or 360-598-8700 (Reservations 866-609-8700)
+48.45804	-122.518753	Swinomish Casino & Lodge 888-288-8883 or 360-293-2691
+48.214159	-122.184467	Angel of the Winds Casino Hotel 360-474-9740
+48.559647	-122.346645	Skagit Valley Casino Resort 877-275-2448 or 360-724-7777
+48.817462	-122.625843	Silver Reef Hotel Casino Spa 866-383-0777 or 360-383-0777
+48.993374	-122.406905	Nooksack Northwood Casino (No hotel) 877-777-9847 or 360-734-5101
+48.054725	-122.188298	Quil Ceda Creek Nightclub & Casino (No hotel) 888-272-1111 or 360-551-1111
+48.076854	-122.192589	Tulalip Bingo (No hotel) 360-716-2100
+48.087989	-122.188971	Tulalip Casino 888-272-1111 or 360-651-1111
+47.844596	-122.543036	Point Casino 866-547-6468 or 360-297-0070
+48.136001	-123.546516	Elwha River Casino (No hotel) 360-452-3005
+48.022108	-123.010488	7 Cedars Casino (No hotel) 800-458-2597 or 360-683-7777
+47.713731	-122.570873	Clearwater Casino 800-375-6073 or 360-598-8700
+47.237389	-122.402771	Emerald Queen Casino at I-5 (No hotel) 888-831-7655 or 206-594-7777
+47.243845	-122.370351	BJ's Bingo (No hotel) 253-922-0430
+47.242866	-122.3536	Emerald Queen Hotel & Casino at Fife 888-820-3555 or 253-594-7777
+47.000466	-122.667924	Red Wind Casino (No hotel) 866-946-2444 or 360-412-5000
+47.037926	-124.158502	Quinault Beach Resort and Casino 888-461-2214 or 360-289-9466
+46.814764	-123.154323	Lucky Eagle Casino & Hotel 800-720-1788 or 360-273-2000
+47.127841	-123.102385	Little Creek Casino Resort 800-667-7711 or 360-427-7711
+47.337499	-123.160527	Lucky Dog Casino (No hotel) 360-877-5656
+46.724942	-124.02073	Shoalwater Bay Casino (No hotel) 888-332-2048 or 888-332-2048
+48.383871	-119.535148	12 Tribes Resort Casino 800-559-4643 or 888-298-7193
+47.884684	-120.129792	Mill Bay Casino (No hotel) 800-648-2946 or 509-687-2102
+46.37489	-120.339485	Yakama Legends Casino 877-726-6311 or 509-865-8800
+47.658983	-117.562349	Northern Quest Casino 888-603-7051 or 509-242-7000
+48.23751	-117.710895	Chewelah Casino (No hotel) 800-322-2788 or 509-935-6167
+47.906107	-118.326434	Two Rivers Casino & Resort 800-722-4031 or 509-722-4000
+47.966263	-118.978068	Coulee Dam Casino (No hotel) 800-556-7492 or 509-633-0766
+39.699674	-95.729954	Sac & Fox Casino (No hotel) 800-990-2946 or 785-467-8000
+36.115576	-115.172506	Flamingo Las Vegas 702-733-3111 (Reservations 800-732-2111)
+38.959119	-119.941913	Harrah's Lake Tahoe 775-588-6611 (Reservations 800-427-7247)
+36.017779	-114.949602	Club Fortune Casino (No hotel) 702-566 5555
