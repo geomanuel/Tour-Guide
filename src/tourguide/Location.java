@@ -7,6 +7,7 @@ public class Location {
 	private double longitude;
 	private boolean marked;
 	
+	
 	public Location(String name, double latitude, double longitude){
 		this.name = name;
 		this.latitude = latitude;
