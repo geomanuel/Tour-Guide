@@ -74,6 +74,26 @@ public class Location {
 	}
 	
 	/**
+	 * Implementation of the Haversine algorithm to calculate the distance (in km) between two locations longitude and latitude
+	 * @param Location l
+	 * @return the distance (in km) between the two locations
+	 */
+	public double distToKm(Location l){
+		
+		final int earthR = 6371; 
+		
+		Double longDiff = toRad(l.longitude - this.longitude);
+		Double latDiff = toRad(l.latitude - this.latitude);
+		
+		Double a = Math.sin(latDiff / 2) * Math.sin(latDiff / 2) + Math.cos(toRad(this.latitude)) * 
+				Math.cos(toRad(l.latitude)) * Math.sin(longDiff / 2) * Math.sin(longDiff / 2);
+		
+		return (2* Math.atan2(Math.sqrt(a), Math.sqrt(1-a))) * earthR;
+		
+		
+	}
+	
+	/**
 	 * 
 	 * @return Whether the location is marked or not
 	 */
@@ -86,6 +106,11 @@ public class Location {
 	 */
 	public void mark(){
 		this.marked = true;
+	}
+	
+	//Converts to radians
+	private Double toRad(Double deg){
+		return deg * (Math.PI/180);
 	}
 	
 }
