@@ -6,6 +6,7 @@ public class Location {
 	private double latitude;
 	private double longitude;
 	private boolean marked;
+	private int uid;
 	
 	
 	public Location(String name, double latitude, double longitude){
@@ -64,22 +65,11 @@ public class Location {
 	}
 	
 	/**
-	 * 
-	 * @param L Location
-	 * @return Distance between two locations
-	 */
-	public double distTo(Location L){
-		double dx = this.getLatitude() - L.getLatitude();	//Difference in latitude
-		double dy = this.getLongitude() - L.getLongitude();	//Difference in longitude
-		return Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));//Pythagorean
-	}
-	
-	/**
 	 * Implementation of the Haversine algorithm to calculate the distance (in km) between two locations longitude and latitude
 	 * @param Location l
 	 * @return the distance (in km) between the two locations
 	 */
-	public double distToKm(Location l){
+	public double distTo(Location l){
 		
 		final int earthR = 6371; 
 		
@@ -92,6 +82,22 @@ public class Location {
 		return (2* Math.atan2(Math.sqrt(a), Math.sqrt(1-a))) * earthR;
 		
 		
+	}
+	
+	/**
+	 * Sets the unique id of the location
+	 * @param unique id of the location
+	 */
+	public void setUid(int uid){
+		this.uid = uid;
+	}
+	
+	/**
+	 * Gets the unique if the location
+	 * @return the unique id
+	 */
+	public int getUid(){
+		return this.uid;
 	}
 	
 	/**
