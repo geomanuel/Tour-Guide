@@ -109,7 +109,7 @@ public class Location {
 		this.marked = true;
 	}
 	
-	//Convertes degrees to radians
+	//Converts degrees to radians
 	private Double toRad(Double deg){
 		return deg * (Math.PI/180);
 	}
