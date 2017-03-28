@@ -1,5 +1,6 @@
 package tourguide;
 
+
 /******************************************************************************
  *  Compilation:  javac DijkstraSP.java
  *  Execution:    java DijkstraSP input.txt s
