@@ -109,7 +109,7 @@ public class Location {
 	}
 	
 	/**
-	 * Marks a location
+	 * Marks a location true
 	 */
 	public void mark(){
 		this.marked = true;
