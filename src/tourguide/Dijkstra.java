@@ -1,5 +1,6 @@
 package tourguide;
-import edu.princeton.cs.algs4.*;
+
+
 /******************************************************************************
  *  Compilation:  javac DijkstraSP.java
  *  Execution:    java DijkstraSP input.txt s
@@ -206,34 +207,6 @@ public class Dijkstra {
             throw new IllegalArgumentException("vertex " + v + " is not between 0 and " + (V-1));
     }
 
-    /**
-     * Unit tests the {@code DijkstraSP} data type.
-     *
-     * @param args the command-line arguments
-     */
-    public static void main(String[] args) {
-        In in = new In(args[0]);
-        EdgeWeightedDigraph G = new EdgeWeightedDigraph(in);
-        int s = Integer.parseInt(args[1]);
-
-        // compute shortest paths
-        Dijkstra sp = new Dijkstra(G, s);
-
-
-        // print shortest path
-        for (int t = 0; t < G.V(); t++) {
-            if (sp.hasPathTo(t)) {
-                StdOut.printf("%d to %d (%.2f)  ", s, t, sp.distTo(t));
-                for (DirectedEdge e : sp.pathTo(t)) {
-                    StdOut.print(e + "   ");
-                }
-                StdOut.println();
-            }
-            else {
-                StdOut.printf("%d to %d         no path\n", s, t);
-            }
-        }
-    }
 
 }
 
