@@ -9,6 +9,7 @@ import java.util.ArrayList;
  * @version 1.0
  * @since 2017-03-28
  */
+
 public class Heap {
 	private static Location center;
 
