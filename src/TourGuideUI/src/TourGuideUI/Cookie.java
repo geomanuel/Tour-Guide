@@ -1,4 +1,4 @@
-package TourGuideUI;
+package TourGuideUI.src.TourGuideUI;
 
 /*
 Copyright (c) 2002 JSON.org

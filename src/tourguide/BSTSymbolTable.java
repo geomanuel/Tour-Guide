@@ -209,26 +209,26 @@ public class BSTSymbolTable{
      */
     public static void main(String[] args) throws FileNotFoundException {
     	
-    	double MAX_RADIUS = 5;
+    	double MAX_RADIUS = 1;
     	
     	//initializes test array of locations and home base
    
-    	Location hb = new Location("Home", 48, -58);
+    	Location hb = new Location("Home", 43.6426, -79.3871);
    
     	
     	//heap sorts all items in reference to the home base
-    	//HeapSortCategory.All(hb);
+    	HeapSortCategory.Golf(hb);
     	//Initializes binary search tree
     	BSTSymbolTable bst = new BSTSymbolTable();
     
 
     	//inserts/puts all items in array airports to bst 
     	
-    	System.out.println("ArrayList size= "+Gen.airports.size());
-		for (int i = 0; i < Gen.airports.size(); i++) {
-			double dist = Gen.airports.get(i).distTo(hb);
+    	System.out.println("ArrayList size= "+ Gen.golf.size());
+		for (int i = 0; i < Gen.golf.size(); i++) {
+			double dist = Gen.golf.get(i).distTo(hb);
 			bst.put(i, dist);
-			System.out.println("("+Gen.airports.get(i).getLatitude() + ", " + Gen.airports.get(i).getLongitude() + "), d= "+dist);
+			
 		}
 		
 		//finds floor of max_radius
@@ -236,9 +236,11 @@ public class BSTSymbolTable{
 		ArrayList<Location> listNew = new ArrayList<Location>();
 		//create new ArrayList and stops at floor index
 		for (int j = 0; j < bst.floor((int) MAX_RADIUS); j++){
-			listNew.add(Gen.airports.get(j));
+			listNew.add(Gen.golf.get(j));
 		}
-		
+		for (Location R : listNew){
+			System.out.println(R.getName());
+		}
         
     }
 }
