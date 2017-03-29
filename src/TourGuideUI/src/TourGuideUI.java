@@ -153,9 +153,11 @@ public class TourGuideUI {
 		String[] POIs = { "Airport", "Alcohol", "Local Attraction", "Casino", "Golf", "Hotels", "Lighthouse",
 				"Major City", "Mountain Peak", "Museum/Art", "Park/Campground", "Rest Area", "Restaurant", "Skiing",
 				"Tourist Info" };
+		int k = 0;
 		for (int i = 1; i < 4; i++) {
 			for (int j = 1; j < 6; j++) {
-				genericBtn = new JButton(POIs[i * j - 1]);
+				genericBtn = new JButton(POIs[k]);
+				k++;
 				genericBtn.setFont(mediumText);
 				genericBtn.setBackground(titleColor);
 				genericBtn.setForeground(Color.WHITE);
