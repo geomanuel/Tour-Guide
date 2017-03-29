@@ -3,7 +3,6 @@ import edu.princeton.cs.algs4.*;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
-
 /**
  * BinarySearchTree  Symbol Table
  * Takes a heap sorted ArrayList<Location> of locations and creates a binary search tree
@@ -17,8 +16,8 @@ import java.util.ArrayList;
  * 
  * main method demonstrates implementation
  * 
- * 
  * @author Kathryn Kodama
+ * @since March 27, 2017
  *
  */
 public class BSTSymbolTable{
@@ -37,8 +36,11 @@ public class BSTSymbolTable{
 			this.N = N; 
 			} 
 	}
-
 	
+	/**
+	 * Size 
+	 * @return size 
+	 */
 	public int size() { 
 		return size(root); 
 	}
@@ -48,6 +50,12 @@ public class BSTSymbolTable{
 		else return x.N;
 	}
 	
+	/**
+	 * Get
+	 * returns corresponding value to key
+	 * @param key int 
+	 * @return value corresponding to key
+	 */
 	public double get(int key) { 
 		return get(root, key);
 	}
@@ -56,16 +64,7 @@ public class BSTSymbolTable{
 		if (x == null) 
 			return (Double) null;
 		//manually replacing compareTo function from comparable interface int cmp = key.compareTo(x.key);
-		int cmp;
-		if (key < x.key){
-			cmp =  -1;
-		}
-		else if (key == x.key){
-			cmp = 0;
-		}
-		else{
-			cmp = 1;
-		}
+		int cmp = cmp(x, key);
 		
 		if (cmp < 0) 
 			return get(x.left, key);
@@ -75,6 +74,12 @@ public class BSTSymbolTable{
 			return x.val;
 		}
 	
+	/**
+	 * Put
+	 * Inserts new node at specified location or appends to end
+	 * @param key int
+	 * @param val double
+	 */
 	public void put(int key, double val){
 		// Search for key. Update value if found; grow table if new.
 	     root = put(root, key, val);
@@ -86,16 +91,7 @@ public class BSTSymbolTable{
 			return new Node(key, val, 1);
 		
 		//manually replacing compareTo function from comparable interface int cmp = key.compareTo(x.key);
-		int cmp;
-		if (key < x.key){
-			cmp =  -1;
-		}
-		else if (key == x.key){
-			cmp = 0;
-		}
-		else{
-			cmp = 1;
-		}
+		int cmp = cmp(x, key);
 			
 		if (cmp < 0) 
 			x.left = put(x.left, key, val);
@@ -108,6 +104,10 @@ public class BSTSymbolTable{
 		return x; 
 	}
 	
+	/**
+	 * Min
+	 * @return min object
+	 */
 	public int min(){
 		return min(root).key;
 	}
@@ -119,7 +119,8 @@ public class BSTSymbolTable{
 	}
 	
 	/**
-	 * 
+	 * Floor
+	 * returns floor of corresponding key
 	 * @param key
 	 * @return - 1 if Node x doesn't exist
 	 */
@@ -134,16 +135,7 @@ public class BSTSymbolTable{
 		if (x == null)
 			return null;
 	//manually replacing compareTo function from comparable interface int cmp = key.compareTo(x.key);
-		int cmp;
-		if (key < x.key){
-			cmp =  -1;
-		}
-		else if (key == x.key){
-			cmp = 0;
-		}
-		else{
-			cmp = 1;
-		}
+		int cmp = cmp(x, key);
 		
 		if (cmp == 0)
 			return x;
@@ -159,7 +151,6 @@ public class BSTSymbolTable{
 	public int select(int k){
 		return select(root, k).key;
 	}
-	
 	private Node select(Node x, int k){
 		
 		if (x == null)
@@ -181,16 +172,7 @@ public class BSTSymbolTable{
 		if (x == null)
 			return 0;
 	//manually replacing compareTo function from comparable interface int cmp = key.compareTo(x.key);
-		int cmp;
-		if (key < x.key){
-			cmp =  -1;
-		}
-		else if (key == x.key){
-			cmp = 0;
-		}
-		else{
-			cmp = 1;
-		}
+		int cmp = cmp(x, key);
 				
 		if (cmp < 0)
 			return rank(key, x.left);
@@ -200,9 +182,27 @@ public class BSTSymbolTable{
 			return size(x.left);
 	}
 	
+	/**
+	 * Compare Method
+	 * @param x Node
+	 * @param key int
+	 * @return -1 if key is less than x.key, 0 if key == x.key, 1 if key > x.key
+	 */
+	private int cmp(Node x, int key){
+		if (key < x.key){
+			return -1;
+		}
+		else if (key == x.key){
+			return 0;
+		}
+		else{
+			return 1;
+		}
+	}
+	
 	
     /**
-     * 
+     * Main method for testing 
      *
      * @param args the command-line arguments
      * @throws FileNotFoundException 
@@ -215,7 +215,6 @@ public class BSTSymbolTable{
    
     	Location hb = new Location("Home", 43.6426, -79.3871);
    
-    	
     	//heap sorts all items in reference to the home base
     	HeapSortCategory.Golf(hb);
     	//Initializes binary search tree
@@ -223,10 +222,16 @@ public class BSTSymbolTable{
     
 
     	//inserts/puts all items in array airports to bst 
+<<<<<<< HEAD
     	
     	System.out.println("ArrayList size= "+ Gen.golf.size());
 		for (int i = 0; i < Gen.golf.size(); i++) {
 			double dist = Gen.golf.get(i).distTo(hb);
+=======
+    	System.out.println("ArrayList size= "+Gen.airports.size());
+		for (int i = 0; i < Gen.airports.size(); i++) {
+			double dist = Gen.airports.get(i).distTo(hb);
+>>>>>>> ab05b9ebbc5b1faf4a43abc06debccd804ec44f7
 			bst.put(i, dist);
 			
 		}
