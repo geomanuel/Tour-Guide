@@ -1,5 +1,5 @@
 package tourguide;
-
+import edu.princeton.cs.algs4.*;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
@@ -54,7 +54,7 @@ public class BSTSymbolTable{
 	private double get(Node x, int key){
 		// Return value associated with key in the subtree rooted at x; // return null if key not present in subtree rooted at x.
 		if (x == null) 
-			return null;
+			return (Double) null;
 		//manually replacing compareTo function from comparable interface int cmp = key.compareTo(x.key);
 		int cmp;
 		if (key < x.key){
@@ -193,7 +193,7 @@ public class BSTSymbolTable{
 		}
 				
 		if (cmp < 0)
-			return rank(key, a.left);
+			return rank(key, x.left);
 		else if (cmp > 0)
 			return 1 + size(x.left) + rank(key, x.right);
 		else

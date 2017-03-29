@@ -1,3 +1,4 @@
+package TourGuideUI.src;
 
 import java.awt.BorderLayout;
 import java.awt.CardLayout;
@@ -286,7 +287,6 @@ public class TourGuideUI {
 
 		TourGuideUI tg = new TourGuideUI();
 		tg.show();
-		System.out.println(preferenceQ.toString());
 
 	}
 

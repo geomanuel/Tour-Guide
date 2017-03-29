@@ -3,7 +3,7 @@
 * TeamDev PROPRIETARY and CONFIDENTIAL.
 * Use is subject to license terms.
 */
-
+package TourGuideUI.src;
 import com.teamdev.jxmaps.GeocoderRequest;
 import com.teamdev.jxmaps.GeocoderCallback;
 import com.teamdev.jxmaps.Marker;
