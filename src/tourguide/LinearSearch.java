@@ -38,7 +38,7 @@ public class LinearSearch {
    
     	//heap sorts all items in reference to the home base
     	HeapSortCategory.Restaurants(hb);
-    	//Initializes binary search tree
+    	//Initializes Linear Search
     	LinearSearch ls = new LinearSearch();
     	ArrayList<Location> listNew = new ArrayList<Location>();
     	

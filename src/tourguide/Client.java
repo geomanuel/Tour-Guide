@@ -1,5 +1,6 @@
 package tourguide;
 
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -13,7 +14,7 @@ public class Client {
 	
 	private static Location hbLoc;
 	
-	public static void main(String args[]){
+	public static void main(String args[]) throws FileNotFoundException{
 		
 		/////////////////////////////////////////////////////SETUP\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 				
@@ -66,6 +67,66 @@ public class Client {
 		
 		
 		////////////////////////////////////////////////////////////JUST FOR TESTING\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+		
+		//hbloc = home base address
+		
+		final double MAX_RADIUS = 2;
+		//sorts all categories selected
+		HeapSortCategory.All(hbLoc);
+		
+		
+		//Initializes Linear Search
+		LinearSearch ls = new LinearSearch();
+		
+		
+		ArrayList<Location> listNew = new ArrayList<Location>();		
+		for (int i = 0; i < ls.floor(Gen.airports, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.airports.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.alcohol, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.alcohol.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.attractions, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.attractions.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.casinos, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.casinos.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.golf, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.golf.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.hotels, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.hotels.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.lighthouses, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.lighthouses.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.majorCities, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.majorCities.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.mountainPeaks, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.mountainPeaks.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.museumsAndArt, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.museumsAndArt.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.parksAndCampgrounds, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.parksAndCampgrounds.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.restAreas, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.restAreas.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.restaurants, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.restaurants.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.skiing, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.skiing.get(i));
+		}
+		for (int i = 0; i < ls.floor(Gen.touristInfo, MAX_RADIUS, hbLoc); i++) {
+			listNew.add(Gen.touristInfo.get(i));
+		}
+		
+		/*
 		int test = 5000;
 		Location[] res = new Location[test];
 
@@ -81,6 +142,7 @@ public class Client {
 		Location[] mall2 = {new Location("testPark",10,10), new Location("testPark1",1,1), new Location("testPark2",2,3), new Location("testPark3",100,100),new Location("testPark",10,10), new Location("testPark1",1,1), new Location("testPark2",2,3), new Location("testPark3",100,100),new Location("testPark",10,10), new Location("testPark1",1,1), new Location("testPark2",2,3), new Location("testPark3",100,100),new Location("testPark",10,10), new Location("testPark1",1,1), new Location("testPark2",2,3), new Location("testPark3",100,100)};
 
 		Location[][] validLocs = {res,mus,park,mall,mall1,mall2}; //array of valid locations
+		*/
 		/////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 		
 		
