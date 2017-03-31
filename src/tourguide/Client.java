@@ -77,54 +77,121 @@ public class Client {
 		
 		//Initializes Linear Search
 		LinearSearch ls = new LinearSearch();
-		
-		
-		ArrayList<Location> listNew = new ArrayList<Location>();		
+				
+		ArrayList<Location> airports = new ArrayList<Location>();
+		ArrayList<Location> alcohol = new ArrayList<Location>();
+		ArrayList<Location> attractions = new ArrayList<Location>();
+		ArrayList<Location> casinos = new ArrayList<Location>();
+		ArrayList<Location> golf = new ArrayList<Location>();
+		ArrayList<Location> hotels = new ArrayList<Location>();
+		ArrayList<Location> lighthouses = new ArrayList<Location>();
+		ArrayList<Location> majorCities = new ArrayList<Location>();
+		ArrayList<Location> mountainPeaks = new ArrayList<Location>();
+		ArrayList<Location> museumsAndArt = new ArrayList<Location>();
+		ArrayList<Location> parksAndCampgrounds = new ArrayList<Location>();
+		ArrayList<Location> restAreas = new ArrayList<Location>();
+		ArrayList<Location> restaurants = new ArrayList<Location>();
+		ArrayList<Location> skiing = new ArrayList<Location>();
+		ArrayList<Location> touristInfo = new ArrayList<Location>();
 		for (int i = 0; i < ls.floor(Gen.airports, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.airports.get(i));
+			airports.add(Gen.airports.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.alcohol, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.alcohol.get(i));
+			alcohol.add(Gen.alcohol.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.attractions, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.attractions.get(i));
+			attractions.add(Gen.attractions.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.casinos, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.casinos.get(i));
+			casinos.add(Gen.casinos.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.golf, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.golf.get(i));
+			golf.add(Gen.golf.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.hotels, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.hotels.get(i));
+			hotels.add(Gen.hotels.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.lighthouses, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.lighthouses.get(i));
+			lighthouses.add(Gen.lighthouses.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.majorCities, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.majorCities.get(i));
+			majorCities.add(Gen.majorCities.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.mountainPeaks, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.mountainPeaks.get(i));
+			mountainPeaks.add(Gen.mountainPeaks.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.museumsAndArt, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.museumsAndArt.get(i));
+			museumsAndArt.add(Gen.museumsAndArt.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.parksAndCampgrounds, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.parksAndCampgrounds.get(i));
+			parksAndCampgrounds.add(Gen.parksAndCampgrounds.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.restAreas, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.restAreas.get(i));
+			restAreas.add(Gen.restAreas.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.restaurants, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.restaurants.get(i));
+			restaurants.add(Gen.restaurants.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.skiing, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.skiing.get(i));
+			skiing.add(Gen.skiing.get(i));
 		}
 		for (int i = 0; i < ls.floor(Gen.touristInfo, MAX_RADIUS, hbLoc); i++) {
-			listNew.add(Gen.touristInfo.get(i));
+			touristInfo.add(Gen.touristInfo.get(i));
 		}
+		
+		//creates 2 dimensional ArrayList called validLocs that contains sorted and searched ArrayList of categories in queue
+		ArrayList<ArrayList<Location>> validLocs = new ArrayList<ArrayList<Location>>();
+		for (int j = 0; j < locationQ.size(); j++){
+			if (locationQ.dequeue().equals("airports")){
+				validLocs.add(airports);
+			}
+			if (locationQ.dequeue().equals("alcohol")){
+				validLocs.add(alcohol);
+			}
+			if (locationQ.dequeue().equals("attractions")){
+				validLocs.add(attractions);
+			}
+			if (locationQ.dequeue().equals("casinos")){
+				validLocs.add(casinos);
+			}
+			if (locationQ.dequeue().equals("golf")){
+				validLocs.add(golf);
+			}
+			if (locationQ.dequeue().equals("hotels")){
+				validLocs.add(hotels);
+			}
+			if (locationQ.dequeue().equals("lighthouses")){
+				validLocs.add(lighthouses);
+			}
+			if (locationQ.dequeue().equals("majorCities")){
+				validLocs.add(majorCities);
+			}
+			if (locationQ.dequeue().equals("mountainPeaks")){
+				validLocs.add(mountainPeaks);
+			}
+			if (locationQ.dequeue().equals("museumsAndArt")){
+				validLocs.add(museumsAndArt);
+			}
+			if (locationQ.dequeue().equals("parksAndCampgrounds")){
+				validLocs.add(parksAndCampgrounds);
+			}
+			if (locationQ.dequeue().equals("restAreas")){
+				validLocs.add(restAreas);
+			}
+			if (locationQ.dequeue().equals("restaurants")){
+				validLocs.add(restaurants);
+			}
+			if (locationQ.dequeue().equals("skiing")){
+				validLocs.add(skiing);
+			}
+			if (locationQ.dequeue().equals("touristInfo")){
+				validLocs.add(touristInfo);
+			}
+			
+		}
+		
+		
+
 		
 		/*
 		int test = 5000;
