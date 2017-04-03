@@ -2,6 +2,7 @@ package tourguide;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class Client {
@@ -11,6 +12,8 @@ public class Client {
 	private static String hbAddress;
 	private static double hbLong;
 	private static double hbLat;
+	
+	private static HashMap<Integer, Location> uids;
 	
 	private static Location hbLoc;
 	
@@ -93,6 +96,7 @@ public class Client {
 		ArrayList<Location> restaurants = new ArrayList<Location>();
 		ArrayList<Location> skiing = new ArrayList<Location>();
 		ArrayList<Location> touristInfo = new ArrayList<Location>();
+		
 		for (int i = 0; i < ls.floor(Gen.airports, MAX_RADIUS, hbLoc); i++) {
 			airports.add(Gen.airports.get(i));
 		}
@@ -213,16 +217,16 @@ public class Client {
 		/////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 		
 		
-		int v = validLocs[validLocs.length-1].length + 1; //number of vertices
+		int v = validLocs.get(validLocs.size()-1).size() + 1; //number of vertices
 		int e = 0; //number of edges
 		
 		//calculate the number of edges/vertices
-		for (int i = 0; i < validLocs.length-1; i++){			
-			e += validLocs[i].length * validLocs[i+1].length;
-			v += validLocs[i].length;
+		for (int i = 0; i < validLocs.size()-1; i++){			
+			e += validLocs.get(i).size() * validLocs.get(i+1).size();
+			v += validLocs.get(i).size();
 		}
 		
-		e += validLocs[0].length + validLocs[validLocs.length-1].length;
+		e += validLocs.get(0).size() + validLocs.get(validLocs.size()-1).size();
 		
 		
 		
@@ -234,27 +238,30 @@ public class Client {
 		
 		
 		//Connect the homebase to all the valid locations (type is the first element in the preference q)
-		for(int i = 0; i < validLocs[0].length; i++){
-			validLocs[0][i].setUid(++uidCounter);
-			de[counter++] = new DirectedEdge(hbLoc.getUid(),validLocs[0][i].getUid(),hbLoc.distTo(validLocs[0][i]));
+		for(int i = 0; i < validLocs.get(0).size(); i++){
+			validLocs.get(0).get(i).setUid(++uidCounter);
+			uids.put(uidCounter, validLocs.get(0).get(i));
+			de[counter++] = new DirectedEdge(hbLoc.getUid(),validLocs.get(0).get(i).getUid(),hbLoc.distTo(validLocs.get(0).get(i)));
 		}
 		
 		//Connect all places to adjacent places (ie. if preference q is restaurant, museums, parks, it will connect all the restaurants to all the museums
 		// and all the museums to all the parks.
-		for(int i = 0; i < validLocs.length - 1; i++){
-			for(int j = 0; j < validLocs[i].length; j++){
-				for(int k = 0; k < validLocs[i + 1].length; k++){
-					if(j == 0)
-						validLocs[i+1][k].setUid(++uidCounter);
-					de[counter++] = new DirectedEdge(validLocs[i][j].getUid(),validLocs[i+1][k].getUid(),validLocs[i][j].distTo(validLocs[i+1][k]));	
+		for(int i = 0; i < validLocs.size() - 1; i++){
+			for(int j = 0; j < validLocs.get(i).size(); j++){
+				for(int k = 0; k < validLocs.get(i+1).size(); k++){
+					if(j == 0){
+						validLocs.get(i+1).get(k).setUid(++uidCounter);
+						uids.put(uidCounter, validLocs.get(i).get(j));
+					}
+					de[counter++] = new DirectedEdge(validLocs.get(i).get(j).getUid(),validLocs.get(i+1).get(k).getUid(),validLocs.get(i).get(j).distTo(validLocs.get(i+1).get(k)));	
 				}
 				
 			}
 		}
 		
 		//Connnect all the valid locations (last location in the queue) back to the homebase location
-		for(int i = 0; i < validLocs[validLocs.length-1].length; i++){
-			de[counter++] = new DirectedEdge(validLocs[validLocs.length-1][i].getUid(),hbLoc.getUid(),validLocs[validLocs.length-1][i].distTo(hbLoc));
+		for(int i = 0; i < validLocs.get(validLocs.size()-1).size(); i++){
+			de[counter++] = new DirectedEdge(validLocs.get(validLocs.size()-1).get(i).getUid(),hbLoc.getUid(),validLocs.get(validLocs.size()-1).get(i).distTo(hbLoc));
 		}
 	
 		
