@@ -2,12 +2,9 @@ package tourguide;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Collections;
-
-
-
-
+import java.util.HashMap;
+import java.util.Scanner;
 
 public class Client {
 	
@@ -24,77 +21,64 @@ public class Client {
 	
 	public static void main(String args[]) throws FileNotFoundException{
 		
-//		/////////////////////////////////////////////////////SETUP\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-//				
-//		Scanner scanner = new Scanner(System.in);		
-//		System.out.print("Enter homebase address: ");		
-//		String hb = scanner.nextLine(); //homebase
-//		
-//		System.out.println("----------------------------------");
-//		System.out.println("Enter locations you would like to visit (comma seperated, i.e. 1,4,2): ");
-//		System.out.println("1) Res  2) Mus  3) Parks  4) Airports  5) Malls");
-//		String loc = scanner.nextLine();		
-//
-//		//setup  q of locations
-//		for(String i : loc.split(","))
-//			locationQ.enqueue(i);
-//		
-//		/////////////////////////////////////////////////END OF SETUP\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-//
-//		
-//		////////////////////////////////////////////////PLACE CODE HERE\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-//		
-//		int selection = 1; //used to select correct address if multiple are returned
-//		
-//		GeoCoding gc = new GeoCoding(hb);		
-//
-//		
-//		//If the address exists
-//		if(gc.exists()){
-//			//If google maps api returns more than 1 address
-//			if(gc.results() > 1){
-//				for(int i = 0; i < gc.results(); i++)
-//					System.out.println((i+1) + ") " +  gc.formattedAddress()[i]); //print out results
-//				
-//				System.out.print("Enter the integer corresponding to the correct address: ");
-//				selection = scanner.nextInt();	
-//			}
-//		
-//		    hbAddress = gc.formattedAddress()[selection-1];
-//			hbLong = gc.longitude()[selection-1];
-//			hbLat = gc.latitude()[selection-1];
-//			
-//			hbLoc = new Location(hbAddress,hbLat,hbLong);
-//			
-//	
-//			System.out.println(hbAddress + ". Latitude: " + hbLat + ", Longitude: " + hbLong);
-//			
-//		}else{
-//			System.out.println("Sorry the entered address does not exist");
-//		}
+		/////////////////////////////////////////////////////SETUP\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+				
+		Scanner scanner = new Scanner(System.in);		
+		System.out.print("Enter homebase address: ");		
+		String hb = scanner.nextLine(); //homebase
+		
+		System.out.println("----------------------------------");
+		System.out.println("Enter locations you would like to visit (comma seperated): ");
+		System.out.println("CHOICES: parksAndCampgrounds, alcohol, restaurants");
+		String loc = scanner.nextLine();		
+
+		//setup  q of locations
+		for(String i : loc.split(","))
+			locationQ.enqueue(i);
+		
+		/////////////////////////////////////////////////END OF SETUP\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+		
+		////////////////////////////////////////////////PLACE CODE HERE\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+		
+		int selection = 1; //used to select correct address if multiple are returned
+		
+		GeoCoding gc = new GeoCoding(hb);		
+
+		
+		//If the address exists
+		if(gc.exists()){
+			//If google maps api returns more than 1 address
+			if(gc.results() > 1){
+				for(int i = 0; i < gc.results(); i++)
+					System.out.println((i+1) + ") " +  gc.formattedAddress()[i]); //print out results
+				
+				System.out.print("Enter the integer corresponding to the correct address: ");
+				selection = scanner.nextInt();	
+			}
+		
+		    hbAddress = gc.formattedAddress()[selection-1];
+			hbLong = gc.longitude()[selection-1];
+			hbLat = gc.latitude()[selection-1];
+			
+			hbLoc = new Location(hbAddress,hbLat,hbLong);
+			hbCopy = new Location(hbAddress,hbLat,hbLong);
+						
+		}else{
+			System.out.println("Sorry the entered address does not exist");
+		}
 		
 		
 		////////////////////////////////////////////////////////////JUST FOR TESTING\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 		
 		uids = new HashMap<Integer,Location>();
-		final double MAX_RADIUS = 445;
+		final double MAX_RADIUS = 10;
 
-		//Just for testing
-		Location hbLoc = new Location("HomeBase",40.7589, -73.9851);
-		Location hbCopy = new Location("HomeBase",40.7589, -73.9851); //Create an identical point to the homebase
-
-		//Just for testing
-		locationQ.enqueue("alcohol");
-		locationQ.enqueue("parksAndCampgrounds");
-		locationQ.enqueue("restaurants");
-
- 
 		//sorts all categories
 		//HeapSortCategory.All(hbLoc);
 		HeapSortCategory.Alcohol(hbLoc);
 		HeapSortCategory.Restaurants(hbLoc);
 		HeapSortCategory.ParksAndCampgrounds(hbLoc);
-		
 		
 		//Initializes Linear Search
 		LinearSearch ls = new LinearSearch();
@@ -105,6 +89,8 @@ public class Client {
 		int locationQSize = locationQ.size();
 		int uidCounter = 0;
 		
+		String[] previous = new String[locationQSize];
+		
 		hbLoc.setUid(uidCounter); //give homebase location a uid
 		uids.put(uidCounter, hbLoc);
 		
@@ -113,9 +99,9 @@ public class Client {
 		
 		//For every element in the preference Q (everything the user wants to see)
 		for (int j = 0; j < locationQSize; j++){
-			
+						
 			deq = locationQ.dequeue();
-
+			
 			if (deq.equals("airports")){
 				
 				ArrayList<Location> airports = new ArrayList<Location>();
@@ -126,19 +112,20 @@ public class Client {
 					uids.put(uidCounter, Gen.airports.get(i));
 				}
 				
-				validLocs.add(airports);
+				if(!airports.isEmpty()) validLocs.add(airports);
 			}
 			else if (deq.equals("alcohol")){
 				
 				ArrayList<Location> alcohol = new ArrayList<Location>();
 				
-				for (int i = 0; i < ls.floor(Gen.alcohol, MAX_RADIUS, hbLoc); i++) {
-					alcohol.add(Gen.alcohol.get(i));
-					Gen.alcohol.get(i).setUid(++uidCounter);
-					uids.put(uidCounter, Gen.alcohol.get(i));
-				}
-
-				validLocs.add(alcohol);
+					for (int i = 0; i < ls.floor(Gen.alcohol, MAX_RADIUS, hbLoc); i++) {
+						alcohol.add(Gen.alcohol.get(i));
+						Gen.alcohol.get(i).setUid(++uidCounter);
+						uids.put(uidCounter, Gen.alcohol.get(i));
+					}
+				
+				if(!alcohol.isEmpty()) validLocs.add(alcohol);
+				
 			}
 			else if (deq.equals("attractions")){
 				
@@ -150,7 +137,7 @@ public class Client {
 					uids.put(uidCounter, Gen.attractions.get(i));
 				}
 
-				validLocs.add(attractions);
+				if(!attractions.isEmpty()) validLocs.add(attractions);
 			}
 			else if (deq.equals("casinos")){
 				
@@ -162,7 +149,7 @@ public class Client {
 					uids.put(uidCounter, Gen.casinos.get(i));
 				}
 				
-				validLocs.add(casinos);
+				if(!casinos.isEmpty()) validLocs.add(casinos);
 			}
 			else if (deq.equals("golf")){
 				
@@ -174,7 +161,7 @@ public class Client {
 					uids.put(uidCounter, Gen.golf.get(i));
 				}
 
-				validLocs.add(golf);
+				if(!golf.isEmpty()) validLocs.add(golf);
 			}
 			else if (deq.equals("hotels")){
 				
@@ -186,7 +173,7 @@ public class Client {
 					uids.put(uidCounter, Gen.hotels.get(i));
 				}
 
-				validLocs.add(hotels);
+				if(!hotels.isEmpty()) validLocs.add(hotels);
 			}
 			else if (deq.equals("lighthouses")){
 				
@@ -198,7 +185,7 @@ public class Client {
 					uids.put(uidCounter, Gen.lighthouses.get(i));
 				}
 
-				validLocs.add(lighthouses);
+				if(!lighthouses.isEmpty()) validLocs.add(lighthouses);
 			}
 			else if (deq.equals("majorCities")){
 				
@@ -210,7 +197,7 @@ public class Client {
 					uids.put(uidCounter, Gen.majorCities.get(i));
 				}
 
-				validLocs.add(majorCities);
+				if(!majorCities.isEmpty()) validLocs.add(majorCities);
 			}
 			else if (deq.equals("mountainPeaks")){
 				
@@ -222,7 +209,7 @@ public class Client {
 					uids.put(uidCounter, Gen.mountainPeaks.get(i));
 				}
 
-				validLocs.add(mountainPeaks);
+				if(!mountainPeaks.isEmpty()) validLocs.add(mountainPeaks);
 			}
 			else if (deq.equals("museumsAndArt")){
 				
@@ -234,20 +221,20 @@ public class Client {
 					uids.put(uidCounter, Gen.museumsAndArt.get(i));
 				}
 
-				validLocs.add(museumsAndArt);
+				if(!museumsAndArt.isEmpty()) validLocs.add(museumsAndArt);
 			}
 			else if (deq.equals("parksAndCampgrounds")){
 				
 				ArrayList<Location> parksAndCampgrounds = new ArrayList<Location>();
 				
-				for (int i = 0; i < ls.floor(Gen.parksAndCampgrounds, MAX_RADIUS, hbLoc); i++) {
-					parksAndCampgrounds.add(Gen.parksAndCampgrounds.get(i));
-					Gen.parksAndCampgrounds.get(i).setUid(++uidCounter);
-					uids.put(uidCounter, Gen.parksAndCampgrounds.get(i));
-
+					for (int i = 0; i < ls.floor(Gen.parksAndCampgrounds, MAX_RADIUS, hbLoc); i++) {
+						parksAndCampgrounds.add(Gen.parksAndCampgrounds.get(i));
+						Gen.parksAndCampgrounds.get(i).setUid(++uidCounter);
+						uids.put(uidCounter, Gen.parksAndCampgrounds.get(i));	
+					
 				}
-
-				validLocs.add(parksAndCampgrounds);
+				
+				if(!parksAndCampgrounds.isEmpty()) validLocs.add(parksAndCampgrounds);
 			}
 			else if (deq.equals("restAreas")){
 				
@@ -259,7 +246,7 @@ public class Client {
 					uids.put(uidCounter, Gen.restAreas.get(i));
 				}
 
-				validLocs.add(restAreas);
+				if(!restAreas.isEmpty()) validLocs.add(restAreas);
 			}
 			else if (deq.equals("restaurants")){
 				
@@ -271,7 +258,7 @@ public class Client {
 					uids.put(uidCounter, Gen.restaurants.get(i));
 				}
 
-				validLocs.add(restaurants);
+				if(!restaurants.isEmpty()) validLocs.add(restaurants);
 			}
 			else if (deq.equals("skiing")){
 				
@@ -283,7 +270,7 @@ public class Client {
 					uids.put(uidCounter, Gen.skiing.get(i));
 				}
 
-				validLocs.add(skiing);
+				if(!skiing.isEmpty()) validLocs.add(skiing);
 			}
 			else if (deq.equals("touristInfo")){
 				
@@ -295,7 +282,7 @@ public class Client {
 					uids.put(uidCounter, Gen.touristInfo.get(i));
 				}
 
-				validLocs.add(touristInfo);
+				if(!touristInfo.isEmpty()) validLocs.add(touristInfo);
 			}
 			
 		}
@@ -303,51 +290,53 @@ public class Client {
 
 		Collections.reverse(validLocs); //reverse arraylist so order stays in tact
 		
-		int v = validLocs.get(validLocs.size()-1).size() + 2; //number of vertices
-		int e = 0; //number of edges
-		
-		//calculate the number of edges/vertices
-		for (int i = 0; i < validLocs.size()-1; i++){			
-			e += validLocs.get(i).size() * validLocs.get(i+1).size();
-			v += validLocs.get(i).size();
-		}
-		
-		e += validLocs.get(0).size() + validLocs.get(validLocs.size()-1).size();
-		
-		
-		DirectedEdge[] de = new DirectedEdge[e];
-		int counter = 0;
+		//Make sure validLocs contains something
+		if(!validLocs.isEmpty()){
 			
-		
-		//Connect the homebase to all the valid locations (type is the first element in the preference q)
-		for(int i = 0; i < validLocs.get(0).size(); i++)
-			de[counter++] = new DirectedEdge(hbLoc.getUid(),validLocs.get(0).get(i).getUid(),hbLoc.distTo(validLocs.get(0).get(i)));
+			int v = validLocs.get(validLocs.size()-1).size() + 2; //number of vertices
+			int e = 0; //number of edges
+			
+			//calculate the number of edges/vertices
+			for (int i = 0; i < validLocs.size()-1; i++){			
+				e += validLocs.get(i).size() * validLocs.get(i+1).size();
+				v += validLocs.get(i).size();
+			}
+			
+			e += validLocs.get(0).size() + validLocs.get(validLocs.size()-1).size();
+			
+			
+			DirectedEdge[] de = new DirectedEdge[e];
+			int counter = 0;
 				
-		//Connect all places to adjacent places (ie. if preference q is restaurant, museums, parks, it will connect all the restaurants to all the museums
-		// and all the museums to all the parks.
-		for(int i = 0; i < validLocs.size() - 1; i++)
-			for(int j = 0; j < validLocs.get(i).size(); j++)
-				for(int k = 0; k < validLocs.get(i+1).size(); k++)
-					de[counter++] = new DirectedEdge(validLocs.get(i).get(j).getUid(),validLocs.get(i+1).get(k).getUid(),validLocs.get(i).get(j).distTo(validLocs.get(i+1).get(k)));	
+			
+			//Connect the homebase to all the valid locations (type is the first element in the preference q)
+			for(int i = 0; i < validLocs.get(0).size(); i++)
+				de[counter++] = new DirectedEdge(hbLoc.getUid(),validLocs.get(0).get(i).getUid(),hbLoc.distTo(validLocs.get(0).get(i)));
+					
+			//Connect all places to adjacent places (ie. if preference q is restaurant, museums, parks, it will connect all the restaurants to all the museums
+			// and all the museums to all the parks.
+			for(int i = 0; i < validLocs.size() - 1; i++)
+				for(int j = 0; j < validLocs.get(i).size(); j++)
+					for(int k = 0; k < validLocs.get(i+1).size(); k++)
+						de[counter++] = new DirectedEdge(validLocs.get(i).get(j).getUid(),validLocs.get(i+1).get(k).getUid(),validLocs.get(i).get(j).distTo(validLocs.get(i+1).get(k)));	
+	
+			//Connnect all the valid locations (last location in the queue) back to the homebase location
+			for(int i = 0; i < validLocs.get(validLocs.size()-1).size(); i++)
+				de[counter++] = new DirectedEdge(validLocs.get(validLocs.size()-1).get(i).getUid(),hbCopy.getUid(),validLocs.get(validLocs.size()-1).get(i).distTo(hbLoc));
 
-		//Connnect all the valid locations (last location in the queue) back to the homebase location
-		for(int i = 0; i < validLocs.get(validLocs.size()-1).size(); i++)
-			de[counter++] = new DirectedEdge(validLocs.get(validLocs.size()-1).get(i).getUid(),hbCopy.getUid(),validLocs.get(validLocs.size()-1).get(i).distTo(hbLoc));
-		
-
-		//Create an edge weighted digraph
-		EdgeWeightedDigraph ewd = new EdgeWeightedDigraph(de,v,e);	
-				
-		//Implement Dijkstra
-		Dijkstra d = new Dijkstra(ewd,hbCopy.getUid());		
-		
-		
-		Iterable<DirectedEdge> z= d.pathTo(hbLoc.getUid());
-		
-		
-		for(DirectedEdge dee : z)
-			System.out.println(uids.get(dee.from()).getName() + " -> " + uids.get(dee.to()).getName());
-		
+			//Create an edge weighted digraph
+			EdgeWeightedDigraph ewd = new EdgeWeightedDigraph(de,v,e);	
+			
+			//Implement Dijkstra
+			Dijkstra d = new Dijkstra(ewd,hbCopy.getUid());		
+			
+			
+			Iterable<DirectedEdge> z= d.pathTo(hbLoc.getUid());
+			
+			
+			for(DirectedEdge dee : z)
+				System.out.println(uids.get(dee.from()).getName() + " -> " + uids.get(dee.to()).getName());
+		}
 
 		
 	}
