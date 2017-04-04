@@ -62,7 +62,7 @@ public class Client {
 			hbLat = gc.latitude()[selection-1];
 			
 			hbLoc = new Location(hbAddress,hbLat,hbLong);
-			hbCopy = new Location(hbAddress,hbLat,hbLong);
+			hbCopy = new Location(hbAddress,hbLat,hbLong); //Copy homebase Algorithm (used when implementing SP algorithm)
 						
 		}else{
 			System.out.println("Sorry the entered address does not exist");
@@ -76,10 +76,7 @@ public class Client {
 
 		//sorts all categories
 		//HeapSortCategory.All(hbLoc);
-		HeapSortCategory.Alcohol(hbLoc);
-		HeapSortCategory.Restaurants(hbLoc);
-		HeapSortCategory.ParksAndCampgrounds(hbLoc);
-		
+
 		//Initializes Linear Search
 		LinearSearch ls = new LinearSearch();
 		
@@ -94,7 +91,7 @@ public class Client {
 		hbLoc.setUid(uidCounter); //give homebase location a uid
 		uids.put(uidCounter, hbLoc);
 		
-		hbCopy.setUid(++uidCounter);
+		hbCopy.setUid(++uidCounter); 
 		uids.put(uidCounter, hbCopy);
 		
 		//For every element in the preference Q (everything the user wants to see)
@@ -102,19 +99,24 @@ public class Client {
 						
 			deq = locationQ.dequeue();
 			
-			if (deq.equals("airports")){
+			if (deq.equals("airports")){ 
 				
-				ArrayList<Location> airports = new ArrayList<Location>();
+				HeapSortCategory.Airports(hbLoc); //Generate and sort list of Airports (by distance to hbLoc in km)
+				
+				ArrayList<Location> airports = new ArrayList<Location>(); //Initialize a new array to hold all airports within the radius
 				
 				for (int i = 0; i < ls.floor(Gen.airports, MAX_RADIUS, hbLoc); i++) {
 					airports.add(Gen.airports.get(i));
-					Gen.airports.get(i).setUid(++uidCounter);
-					uids.put(uidCounter, Gen.airports.get(i));
+					Gen.airports.get(i).setUid(++uidCounter); //Give Location object a unique integer id
+					uids.put(uidCounter, Gen.airports.get(i)); //Store unique id and Location object in hashmap
 				}
 				
-				if(!airports.isEmpty()) validLocs.add(airports);
+				if(!airports.isEmpty()) validLocs.add(airports); //If airports exist within the radius, add to validLocsS
+				
 			}
 			else if (deq.equals("alcohol")){
+				
+				HeapSortCategory.Alcohol(hbLoc);
 				
 				ArrayList<Location> alcohol = new ArrayList<Location>();
 				
@@ -129,6 +131,8 @@ public class Client {
 			}
 			else if (deq.equals("attractions")){
 				
+				HeapSortCategory.Attractions(hbLoc);
+				
 				ArrayList<Location> attractions = new ArrayList<Location>();
 				
 				for (int i = 0; i < ls.floor(Gen.attractions, MAX_RADIUS, hbLoc); i++) {
@@ -141,6 +145,8 @@ public class Client {
 			}
 			else if (deq.equals("casinos")){
 				
+				HeapSortCategory.Casinos(hbLoc);
+
 				ArrayList<Location> casinos = new ArrayList<Location>();
 				
 				for (int i = 0; i < ls.floor(Gen.casinos, MAX_RADIUS, hbLoc); i++) {
@@ -152,6 +158,8 @@ public class Client {
 				if(!casinos.isEmpty()) validLocs.add(casinos);
 			}
 			else if (deq.equals("golf")){
+				
+				HeapSortCategory.Golf(hbLoc);
 				
 				ArrayList<Location> golf = new ArrayList<Location>();
 				
@@ -165,6 +173,8 @@ public class Client {
 			}
 			else if (deq.equals("hotels")){
 				
+				HeapSortCategory.Hotels(hbLoc);
+
 				ArrayList<Location> hotels = new ArrayList<Location>();
 				
 				for (int i = 0; i < ls.floor(Gen.hotels, MAX_RADIUS, hbLoc); i++) {
@@ -177,6 +187,8 @@ public class Client {
 			}
 			else if (deq.equals("lighthouses")){
 				
+				HeapSortCategory.Lighthouses(hbLoc);
+
 				ArrayList<Location> lighthouses = new ArrayList<Location>();
 				
 				for (int i = 0; i < ls.floor(Gen.lighthouses, MAX_RADIUS, hbLoc); i++) {
@@ -189,6 +201,8 @@ public class Client {
 			}
 			else if (deq.equals("majorCities")){
 				
+				HeapSortCategory.MajorCities(hbLoc);
+
 				ArrayList<Location> majorCities = new ArrayList<Location>();
 				
 				for (int i = 0; i < ls.floor(Gen.majorCities, MAX_RADIUS, hbLoc); i++) {
@@ -201,6 +215,8 @@ public class Client {
 			}
 			else if (deq.equals("mountainPeaks")){
 				
+				HeapSortCategory.MountainPeaks(hbLoc);
+
 				ArrayList<Location> mountainPeaks = new ArrayList<Location>();
 				
 				for (int i = 0; i < ls.floor(Gen.mountainPeaks, MAX_RADIUS, hbLoc); i++) {
@@ -213,6 +229,8 @@ public class Client {
 			}
 			else if (deq.equals("museumsAndArt")){
 				
+				HeapSortCategory.MuseumsAndArt(hbLoc);
+
 				ArrayList<Location> museumsAndArt = new ArrayList<Location>();
 				
 				for (int i = 0; i < ls.floor(Gen.museumsAndArt, MAX_RADIUS, hbLoc); i++) {
@@ -225,6 +243,8 @@ public class Client {
 			}
 			else if (deq.equals("parksAndCampgrounds")){
 				
+				HeapSortCategory.ParksAndCampgrounds(hbLoc);
+
 				ArrayList<Location> parksAndCampgrounds = new ArrayList<Location>();
 				
 					for (int i = 0; i < ls.floor(Gen.parksAndCampgrounds, MAX_RADIUS, hbLoc); i++) {
@@ -238,6 +258,8 @@ public class Client {
 			}
 			else if (deq.equals("restAreas")){
 				
+				HeapSortCategory.RestAreas(hbLoc);
+
 				ArrayList<Location> restAreas = new ArrayList<Location>();
 				
 				for (int i = 0; i < ls.floor(Gen.restAreas, MAX_RADIUS, hbLoc); i++) {
@@ -250,6 +272,8 @@ public class Client {
 			}
 			else if (deq.equals("restaurants")){
 				
+				HeapSortCategory.Restaurants(hbLoc);
+
 				ArrayList<Location> restaurants = new ArrayList<Location>();
 				
 				for (int i = 0; i < ls.floor(Gen.restaurants, MAX_RADIUS, hbLoc); i++) {
@@ -262,6 +286,8 @@ public class Client {
 			}
 			else if (deq.equals("skiing")){
 				
+				HeapSortCategory.Skiing(hbLoc);
+
 				ArrayList<Location> skiing = new ArrayList<Location>();
 				
 				for (int i = 0; i < ls.floor(Gen.skiing, MAX_RADIUS, hbLoc); i++) {
@@ -274,6 +300,8 @@ public class Client {
 			}
 			else if (deq.equals("touristInfo")){
 				
+				HeapSortCategory.TouristInfo(hbLoc);
+
 				ArrayList<Location> touristInfo = new ArrayList<Location>();
 				
 				for (int i = 0; i < ls.floor(Gen.touristInfo, MAX_RADIUS, hbLoc); i++) {
@@ -305,7 +333,7 @@ public class Client {
 			e += validLocs.get(0).size() + validLocs.get(validLocs.size()-1).size();
 			
 			
-			DirectedEdge[] de = new DirectedEdge[e];
+			DirectedEdge[] de = new DirectedEdge[e]; //Array of Directed Edges
 			int counter = 0;
 				
 			
@@ -333,7 +361,7 @@ public class Client {
 			
 			Iterable<DirectedEdge> z= d.pathTo(hbLoc.getUid());
 			
-			
+			//Print out path
 			for(DirectedEdge dee : z)
 				System.out.println(uids.get(dee.from()).getName() + " -> " + uids.get(dee.to()).getName());
 		}
