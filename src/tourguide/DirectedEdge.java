@@ -1,5 +1,10 @@
 package tourguide;
 
+/**
+ * This class represents a directed edges
+ * @author Andrew Deschenes
+ *
+ */
 public class DirectedEdge {
 	
 	private int v1;

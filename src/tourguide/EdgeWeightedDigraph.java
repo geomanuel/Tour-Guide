@@ -8,7 +8,12 @@ package tourguide;
  *  
  *  
  *  This code has been slightly modifiied from the original code at: http://algs4.cs.princeton.edu/code/edu/princeton/cs/algs4/EdgeWeightedDigraph.java.html
+ *  
+ *  
+ *  @author Andrew Deschenes
  */
+
+
 public class EdgeWeightedDigraph {
     private static final String NEWLINE = System.getProperty("line.separator");
 
@@ -36,8 +41,9 @@ public class EdgeWeightedDigraph {
     /**  
      * Initializes an edge-weighted digraph from an array of locations and
      *
-     * @param  l - array of objects (of arrays of type location containing all the locations of that type within the radius)
-     * @param hb - homebase location
+     * @param array of type DirectedEdge containing all directed edges
+     * @param number of vertices
+     * @param number of edges
      */
     public EdgeWeightedDigraph(DirectedEdge[] data, int V, int E) {
     	

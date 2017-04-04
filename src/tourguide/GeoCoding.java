@@ -9,7 +9,11 @@ import java.net.URL;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-
+/**
+ * This class represents the GeoCoding object type that allows you to get formatted addresses, longitudes and latitudes from the Google maps API
+ * @author Andrew Deschenes
+ *
+ */
 public class GeoCoding {
 	
 	private String apiKey = "AIzaSyBoU_ePES6JM7jBFRq5c4cbNJLhSm2EoB0"; 

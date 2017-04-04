@@ -31,10 +31,6 @@ import javax.swing.BoxLayout;
 
 import com.teamdev.jxmaps.MapViewOptions;
 
-import TourGuideUI.src.Mapper;
-import TourGuideUI.src.Queue;
-import TourGuideUI.src.WrapLayout;
-
 public class TourGuideUI {
 	private JFrame mf; // main frame
 	private JLabel title;
