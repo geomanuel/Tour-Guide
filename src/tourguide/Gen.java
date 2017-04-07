@@ -4,6 +4,11 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
+/**
+ * 
+ * @author George Manuel
+ * This class generates ArrayLists of locations seperated by categories
+ */
 public class Gen {
 
 	static ArrayList<Location> airports = new ArrayList<Location>();
@@ -22,6 +27,12 @@ public class Gen {
 	static ArrayList<Location> skiing = new ArrayList<Location>();
 	static ArrayList<Location> touristInfo = new ArrayList<Location>();
 
+	/**
+	 * 
+	 * @param category Category of location
+	 * @return	ArrayList of locations within the category
+	 * @throws FileNotFoundException File not found exception
+	 */
 	public static ArrayList<Location> Generate(ArrayList<Location> category) throws FileNotFoundException {
 		String fileName = "";
 		if (category == airports)
@@ -55,18 +66,18 @@ public class Gen {
 		else if (category == touristInfo)
 			fileName = "Tourist Info.txt";
 
-		Scanner file = new Scanner(new File("csv/" + fileName));
-		String line = file.nextLine();
+		Scanner file = new Scanner(new File("csv/" + fileName));	//Loads file
+		String line = file.nextLine();	//Skips over the header
 
 		while (file.hasNextLine()) {
 
-			line = file.nextLine();
-			StringTokenizer stk = new StringTokenizer(line, "\t\"");
-			double latitude = Double.parseDouble(stk.nextToken());
+			line = file.nextLine();	//Goes to next line
+			StringTokenizer stk = new StringTokenizer(line, "\t\"");	//Seperates each line by the tabs
+			double latitude = Double.parseDouble(stk.nextToken());		//Loads the latitude, longitude and name of location
 			double longitude = Double.parseDouble(stk.nextToken());
 			String name = stk.nextToken();
-			Location t = new Location(name, latitude, longitude);
-			category.add(t);
+			Location t = new Location(name, latitude, longitude);	//Creates new location object and adds it into the new ArrayList
+			category.add(t);	
 		}
 
 		file.close();

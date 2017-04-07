@@ -2,13 +2,19 @@ package tourguide;
 
 public class Location {
 	
+	//State variables
 	private String name;
 	private double latitude;
 	private double longitude;
 	private boolean marked;
 	private int uid;
 	
-	
+	/**
+	 * Class constructor
+	 * @param name Name of location
+	 * @param latitude Latitude of location
+	 * @param longitude Longitude of location
+	 */
 	public Location(String name, double latitude, double longitude){
 		this.name = name;
 		this.latitude = latitude;
@@ -49,7 +55,7 @@ public class Location {
 	}
 	
 	/**
-	 * 
+	 *
 	 * @return longitude of location
 	 */
 	public double getLongitude(){
