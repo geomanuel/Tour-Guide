@@ -1,6 +1,8 @@
-package tourguide;
+package tests;
 
 import static org.junit.Assert.*;
+
+import tourguide.Client;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

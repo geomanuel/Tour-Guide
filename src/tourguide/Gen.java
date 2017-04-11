@@ -11,21 +11,21 @@ import java.util.*;
  */
 public class Gen {
 
-	static ArrayList<Location> airports = new ArrayList<Location>();
-	static ArrayList<Location> alcohol = new ArrayList<Location>();
-	static ArrayList<Location> attractions = new ArrayList<Location>();
-	static ArrayList<Location> casinos = new ArrayList<Location>();
-	static ArrayList<Location> golf = new ArrayList<Location>();
-	static ArrayList<Location> hotels = new ArrayList<Location>();
-	static ArrayList<Location> lighthouses = new ArrayList<Location>();
-	static ArrayList<Location> majorCities = new ArrayList<Location>();
-	static ArrayList<Location> mountainPeaks = new ArrayList<Location>();
-	static ArrayList<Location> museumsAndArt = new ArrayList<Location>();
-	static ArrayList<Location> parksAndCampgrounds = new ArrayList<Location>();
-	static ArrayList<Location> restAreas = new ArrayList<Location>();
-	static ArrayList<Location> restaurants = new ArrayList<Location>();
-	static ArrayList<Location> skiing = new ArrayList<Location>();
-	static ArrayList<Location> touristInfo = new ArrayList<Location>();
+	public static ArrayList<Location> airports = new ArrayList<Location>();
+	public static ArrayList<Location> alcohol = new ArrayList<Location>();
+	public static ArrayList<Location> attractions = new ArrayList<Location>();
+	public static ArrayList<Location> casinos = new ArrayList<Location>();
+	public static ArrayList<Location> golf = new ArrayList<Location>();
+	public static ArrayList<Location> hotels = new ArrayList<Location>();
+	public static ArrayList<Location> lighthouses = new ArrayList<Location>();
+	public static ArrayList<Location> majorCities = new ArrayList<Location>();
+	public static ArrayList<Location> mountainPeaks = new ArrayList<Location>();
+	public static ArrayList<Location> museumsAndArt = new ArrayList<Location>();
+	public static ArrayList<Location> parksAndCampgrounds = new ArrayList<Location>();
+	public static ArrayList<Location> restAreas = new ArrayList<Location>();
+	public static ArrayList<Location> restaurants = new ArrayList<Location>();
+	public static ArrayList<Location> skiing = new ArrayList<Location>();
+	public static ArrayList<Location> touristInfo = new ArrayList<Location>();
 
 	/**
 	 * 

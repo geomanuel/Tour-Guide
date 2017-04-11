@@ -1,6 +1,7 @@
-package tourguide;
+package tests;
 
 import static org.junit.Assert.*;
+import tourguide.GeoCoding;
 
 import org.junit.After;
 import org.junit.Before;
