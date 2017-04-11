@@ -2,12 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/George/Documents/Projects/Tour-Guide/src/TourGuideUI/jxmaps-1.3.1/lib/jxmaps-1.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/George/Documents/Projects/Tour-Guide/src/TourGuideUI/jxmaps-1.3.1/lib/jxmaps-mac-1.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/George/Documents/Projects/Tour-Guide/src/TourGuideUI/jxmaps-1.3.1/lib/jxmaps-win-1.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/George/Documents/Projects/Tour-Guide/src/TourGuideUI/jxmaps-1.3.1/lib/license.jar"/>
-	<classpathentry kind="lib" path="C:/Users/George/Documents/Projects/Tour-Guide/src/TourGuideUI/jxmaps-1.3.1/lib/jxmaps-linux32-1.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/George/Documents/Projects/Tour-Guide/src/TourGuideUI/jxmaps-1.3.1/lib/jxmaps-linux64-1.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/George/Downloads/algs4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shakenbake241/Downloads/jxmaps-1.3.1/lib/jxmaps-win-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shakenbake241/Downloads/jxmaps-1.3.1/lib/jxmaps-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shakenbake241/Downloads/jxmaps-1.3.1/lib/jxmaps-linux32-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shakenbake241/Downloads/jxmaps-1.3.1/lib/jxmaps-linux64-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shakenbake241/Downloads/jxmaps-1.3.1/lib/jxmaps-mac-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shakenbake241/Downloads/license.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shakenbake241/Downloads/algs4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
