@@ -668,10 +668,10 @@ public class TourGuideUI {
 					EdgeWeightedDigraph ewd = new EdgeWeightedDigraph(de,v,edges);	
 					
 					//Implement Dijkstra
-					Dijkstra d = new Dijkstra(ewd,hbCopy.getUid());		
+					Dijkstra d = new Dijkstra(ewd,hbLoc.getUid());		
 					
 					
-					z = d.pathTo(hbLoc.getUid());
+					z = d.pathTo(hbCopy.getUid());
 					
 					//Print out path
 					for(DirectedEdge dee : z)

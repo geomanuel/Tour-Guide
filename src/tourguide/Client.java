@@ -341,8 +341,7 @@ public class Client {
 			}
 
 		}
-		Collections.reverse(validLocs); // reverse arraylist so order stays in
-										// tact
+		
 		return validLocs;
 	}
 	/**
@@ -397,9 +396,9 @@ public class Client {
 			ewd = new EdgeWeightedDigraph(de, v, e);
 
 			// Implement Dijkstra
-			d = new Dijkstra(ewd, hbCopy.getUid());
+			d = new Dijkstra(ewd, hbLoc.getUid());
 
-			path = d.pathTo(hbLoc.getUid());
+			path = d.pathTo(hbCopy.getUid());
 
 		}
 		return path;

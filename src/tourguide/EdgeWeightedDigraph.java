@@ -48,34 +48,12 @@ public class EdgeWeightedDigraph {
     	this(V);
     	
         for (DirectedEdge e : data) {
-            int v = e.to();
-            int w = e.from();
+            int v = e.from();
+            int w = e.to();
             validateVertex(v);
             validateVertex(w);
             double weight = e.weight();
             addEdge(new DirectedEdge(v, w, weight));
-        }
-    }
-
-    /**
-     * Initializes a new edge-weighted digraph that is a deep copy of {@code G}.
-     *
-     * @param  G the edge-weighted digraph to copy
-     */
-    public EdgeWeightedDigraph(EdgeWeightedDigraph G) {
-        this(G.V());
-        this.E = G.E();
-        for (int v = 0; v < G.V(); v++)
-            this.indegree[v] = G.indegree(v);
-        for (int v = 0; v < G.V(); v++) {
-            // reverse so that adjacency list is in same order as original
-            Stack<DirectedEdge> reverse = new Stack<DirectedEdge>();
-            for (DirectedEdge e : G.adj[v]) {
-                reverse.push(e);
-            }
-            for (DirectedEdge e : reverse) {
-                adj[v].add(e);
-            }
         }
     }
 
