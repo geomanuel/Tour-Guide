@@ -32,6 +32,7 @@ public class Client {
 		Client.homebase = homebase;
 		Client.preferences = preferences;
 	}
+	
 	/**
 	 * Geocode the user inputted homebase location, and add their selected categories to a queue
 	 */
@@ -40,8 +41,7 @@ public class Client {
 		for (String i : preferences.split(","))
 			locationQ.enqueue(i.trim());
 
-		int selection = 1; // used to select correct address if multiple are
-							// returned
+		int selection = 1; // used to select correct address if multiple are returned
 
 		GeoCoding gc = new GeoCoding(homebase);
 
@@ -60,16 +60,14 @@ public class Client {
 			hbLat = gc.latitude()[selection - 1];
 
 			hbLoc = new Location(hbAddress, hbLat, hbLong);
-			hbCopy = new Location(hbAddress, hbLat, hbLong); // Copy homebase
-																// Algorithm
-																// (used when
-																// implementing
-																// SP algorithm)
+			hbCopy = new Location(hbAddress, hbLat, hbLong); //Copy homebase location (used when implementing shortest path algorithm)
 
 		} else {
 			System.out.println("Sorry, the entered address does not exist");
 		}
+		
 	}
+	
 	/**
 	 * 
 	 * @param locationQueue A queue of user selected categories
@@ -77,17 +75,14 @@ public class Client {
 	 * @throws FileNotFoundException
 	 */
 	public ArrayList<ArrayList<Location>> findValidLocations(Queue<String> locationQueue) throws FileNotFoundException {
+		
 		uids = new HashMap<Integer, Location>();
 		final double MAX_RADIUS = 10;
-
-		// sorts all categories
-		// HeapSortCategory.All(hbLoc);
 
 		// Initializes Linear Search
 		LinearSearch ls = new LinearSearch();
 
-		// creates 2 dimensional ArrayList called validLocs that contains sorted
-		// and searched ArrayList of categories in queue
+		// creates 2 dimensional ArrayList called validLocs that contains sorted and searched ArrayList of categories in queue
 		ArrayList<ArrayList<Location>> validLocs = new ArrayList<ArrayList<Location>>();
 		String deq;
 		int locationQSize = locationQueue.size();
@@ -99,47 +94,25 @@ public class Client {
 		hbCopy.setUid(++uidCounter);
 		uids.put(uidCounter, hbCopy);
 
-		// For every element in the preference Q (everything the user wants to
-		// see)
+		// For every element in the preference Q (everything the user wants to see)
 		for (int j = 0; j < locationQSize; j++) {
 
 			deq = locationQueue.dequeue().trim();
 
 			if (deq.equals("Airport")) {
 
-				HeapSortCategory.Airports(hbLoc); // Generate and sort list of
-													// Airports (by distance to
-													// hbLoc in km)
+				HeapSortCategory.Airports(hbLoc); // Generate and sort list of Airports (by distance to hbLoc in km)
 
-				ArrayList<Location> airports = new ArrayList<Location>(); // Initialize
-																			// a
-																			// new
-																			// array
-																			// to
-																			// hold
-																			// all
-																			// airports
-																			// within
-																			// the
-																			// radius
-
+				ArrayList<Location> airports = new ArrayList<Location>(); // Initialize a new array to hold all airports within the radius
+	
 				for (int i = 0; i < ls.floor(Gen.airports, MAX_RADIUS, hbLoc); i++) {
 					airports.add(Gen.airports.get(i));
-					Gen.airports.get(i).setUid(++uidCounter); // Give Location
-																// object a
-																// unique
-																// integer id
-					uids.put(uidCounter, Gen.airports.get(i)); // Store unique
-																// id and
-																// Location
-																// object in
-																// hashmap
+					Gen.airports.get(i).setUid(++uidCounter); // Give Location obect a unique integer id
+					uids.put(uidCounter, Gen.airports.get(i)); // Store unique id and Location object in hashmap
 				}
 
 				if (!airports.isEmpty())
-					validLocs.add(airports); // If airports exist within the
-												// radius, add to validLocsS
-
+					validLocs.add(airports); // If airports exist within the radius, add to validLocs
 			} else if (deq.equals("Alcohol")) {
 
 				HeapSortCategory.Alcohol(hbLoc);
@@ -369,16 +342,13 @@ public class Client {
 			DirectedEdge[] de = new DirectedEdge[e]; // Array of Directed Edges
 			int counter = 0;
 
-			// Connect the homebase to all the valid locations (type is the
-			// first element in the preference q)
+			// Connect the homebase to all the valid locations (type is the first element in the preference q)
 			for (int i = 0; i < validLocs.get(0).size(); i++)
 				de[counter++] = new DirectedEdge(hbLoc.getUid(), validLocs.get(0).get(i).getUid(),
 						hbLoc.distTo(validLocs.get(0).get(i)));
 
-			// Connect all places to adjacent places (ie. if preference q is
-			// restaurant, museums, parks, it will connect all the restaurants
-			// to all the museums
-			// and all the museums to all the parks.
+			// Connect all places to adjacent places (ie. if preference q is restaurant, museums, parks)
+			// it will connect all the restaurants to all the museums and all the museums to all the parks.
 			for (int i = 0; i < validLocs.size() - 1; i++)
 				for (int j = 0; j < validLocs.get(i).size(); j++)
 					for (int k = 0; k < validLocs.get(i + 1).size(); k++)
@@ -386,8 +356,7 @@ public class Client {
 								validLocs.get(i + 1).get(k).getUid(),
 								validLocs.get(i).get(j).distTo(validLocs.get(i + 1).get(k)));
 
-			// Connnect all the valid locations (last location in the queue)
-			// back to the homebase location
+			// Connnect all the valid locations (last location in the queue) back to the homebase location
 			for (int i = 0; i < validLocs.get(validLocs.size() - 1).size(); i++)
 				de[counter++] = new DirectedEdge(validLocs.get(validLocs.size() - 1).get(i).getUid(), hbCopy.getUid(),
 						validLocs.get(validLocs.size() - 1).get(i).distTo(hbLoc));
@@ -400,27 +369,38 @@ public class Client {
 
 			path = d.pathTo(hbCopy.getUid());
 
+		}else{
+			System.out.println("Sorry, it is not possible to generate your tour since there is nothing within 10km");
 		}
+		
 		return path;
+		
 	}
 
 	public static void main(String[] args) throws FileNotFoundException {
+		
 		//get user input for location info
 		scanner = new Scanner(System.in);
 		System.out.println("Enter your starting location: ");
 		String address = scanner.nextLine();
+		
 		System.out.println("Choose the things you want to see on your tour (comma separated)");
-		System.out.println(
-				"CHOICES: Airport, Alcohol, Local Attraction, Casino, Golf, Hotels, Lighthouse, Major City, Mountain Peak, Museum/Art, Park/Campground, Rest Area, Restaurant, Skiing,Tourist Info");
+		System.out.println("CHOICES: Airport, Alcohol, Local Attraction, Casino, Golf, Hotels, Lighthouse, Major City, Mountain Peak, Museum/Art, Park/Campground, Rest Area, Restaurant, Skiing,Tourist Info");
 		String choices = scanner.nextLine();
+		
 		//get nearby locations and generate tour route
 		Client client = new Client(address, choices);
 		client.setUpLocations();
 		ArrayList<ArrayList<Location>> validLocs = client.findValidLocations(client.locationQ);
 		Iterable<DirectedEdge> path = client.pathFinder(validLocs);
-		System.out.println("\nTOUR ROUTE: ");
-		//Print out path
-		for(DirectedEdge de : path)
-			System.out.println(uids.get(de.from()).getName() + " -> " + uids.get(de.to()).getName());
+		
+		//if path exists
+		if(path != null){
+			//Print out path
+			System.out.println("\nTOUR ROUTE: ");		
+			for(DirectedEdge de : path)
+				System.out.println(uids.get(de.from()).getName() + " -> " + uids.get(de.to()).getName());
+		}
+		
 	}
 }
