@@ -13,8 +13,8 @@ public class LinearSearch {
 	
 	/**
 	 * Floor
-	 * @param l ArrayList<Location>
-	 * @param radius double
+	 * @param l an array list of locations of a specific category
+	 * @param radius the maximum radius for the tour
 	 * @return the index of the Location in the ArrayList that is less than the radius
 	 */
 	public int floor(ArrayList<Location> l, double radius, Location hb){
@@ -50,6 +50,7 @@ public class LinearSearch {
 		
 		System.out.println(ls.floor(Gen.restaurants, MAX_RADIUS, hb));
 		System.out.println(listNew.size());
+		//print out locations in order of increasing distance away from the homebase
 		for (Location L : listNew){
 			System.out.println(L.getName() + ": " + L.getLatitude() + ", " + L.getLongitude() + "d = " + hb.distTo(L));
 			

@@ -1,7 +1,5 @@
 package tourguide;
 
-
-
 /**
  *  This class represents an edge-weighted digraph of vertices (0 - V-1) , where each
  *  directed edge is of type DirectedEdge and has a real-valued weight.

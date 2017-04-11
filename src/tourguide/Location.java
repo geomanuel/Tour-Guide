@@ -1,5 +1,10 @@
 package tourguide;
-
+/**
+ * 
+ * @author George Manuel
+ * @since March 2017
+ *
+ */
 public class Location {
 	
 	//State variables
@@ -85,9 +90,7 @@ public class Location {
 		Double a = Math.sin(latDiff / 2) * Math.sin(latDiff / 2) + Math.cos(toRad(this.latitude)) * 
 				Math.cos(toRad(l.latitude)) * Math.sin(longDiff / 2) * Math.sin(longDiff / 2);
 		
-		return (2* Math.atan2(Math.sqrt(a), Math.sqrt(1-a))) * earthR;
-		
-		
+		return (2* Math.atan2(Math.sqrt(a), Math.sqrt(1-a))) * earthR;		
 	}
 	
 	/**
@@ -125,5 +128,9 @@ public class Location {
 	private Double toRad(Double deg){
 		return deg * (Math.PI/180);
 	}
-	
+	public static void main(String[] args){
+		Location loc1 = new Location("foo", 5, -5);
+		Location loc2 = new Location("bar", 29, 40);
+		System.out.println(loc1.distTo(loc2));
+	}
 }

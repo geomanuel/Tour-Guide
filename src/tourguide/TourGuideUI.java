@@ -30,7 +30,15 @@ import javax.swing.Box;
 import javax.swing.BoxLayout;
 
 import com.teamdev.jxmaps.MapViewOptions;
-
+/**
+ * 
+ * This class implements the code found in Client.java/Client2_0.java.
+ * See these classes for details on code implementation and structure
+ * for the "inner workings" of this class.
+ * 
+ * @author Alex Trudeau, Andrew Deschenes
+ * @since March 28, 2017
+ */
 public class TourGuideUI {
 	private JFrame mf; // main frame
 	private JLabel title;
@@ -73,11 +81,13 @@ public class TourGuideUI {
 	private static Location hbCopy;
 	private static HashMap<Integer, Location> uids;
 	private static Iterable<DirectedEdge> z;
-
+	
 	public TourGuideUI() {
 		prepareGUI();
 	}
-
+	/**
+	 * Prepares the content to be displayed on the GUI
+	 */
 	private void prepareGUI() {
 
 		// Main frame properties
@@ -164,6 +174,7 @@ public class TourGuideUI {
 				"Major City", "Mountain Peak", "Museum/Art", "Park/Campground", "Rest Area", "Restaurant", "Skiing",
 				"Tourist Info" };
 		int k = 0;
+		//generate a button for each of the categories
 		for (int i = 1; i < 4; i++) {
 			for (int j = 1; j < 6; j++) {
 				genericBtn = new JButton(POIs[k]);
@@ -175,6 +186,7 @@ public class TourGuideUI {
 				genericBtn.setAlignmentY(Component.TOP_ALIGNMENT);
 				genericBtn.addActionListener(new ActionListener() {
 					public void actionPerformed(ActionEvent e) {
+						//get the information associated with the button that was clicked and add it to the queue
 						System.out.println(((AbstractButton) e.getSource()).getText());
 						locationQ.enqueue(((AbstractButton) e.getSource()).getText());
 						if (counter - 2 > 23) {
@@ -241,7 +253,9 @@ public class TourGuideUI {
 		});
 
 	}
-
+	/**
+	 * Displays the java swing GUI with the respective selection screens
+	 */
 	public void show() {
 
 		homepage.add(title);
@@ -259,7 +273,7 @@ public class TourGuideUI {
 				cardLayout.next(pages);
 
 				gc = new GeoCoding(homeBase);
-				// dynamically generate buttons for multiple addresses
+				// dynamically generate buttons for multiple returned addresses
 				for (int i = 0; i < gc.formattedAddress().length; i++) {
 					chooseLocationBtn = new JButton(
 							gc.formattedAddress()[i] + "; " + gc.latitude()[i] + "; " + gc.longitude()[i]);
@@ -269,6 +283,7 @@ public class TourGuideUI {
 					chooseLocationBtn.setAlignmentX(Component.CENTER_ALIGNMENT);
 					chooseLocationBtn.addActionListener(new ActionListener() {
 						public void actionPerformed(ActionEvent e) {
+							//get the button information and add it to the homebase variables
 							String[] fullAddress = ((AbstractButton) e.getSource()).getText().split("; ");
 							hbAddress = fullAddress[0];
 							hbLong = Double.parseDouble(fullAddress[2]);
@@ -297,7 +312,7 @@ public class TourGuideUI {
 			public void actionPerformed(ActionEvent e) {
 				cardLayout.next(pages);
 				uids = new HashMap<Integer,Location>();
-				final double MAX_RADIUS = 10;
+				final double MAX_RADIUS = 200;
 
 				//sorts all categories
 				//HeapSortCategory.All(hbLoc);
@@ -662,7 +677,7 @@ public class TourGuideUI {
 					for(DirectedEdge dee : z)
 						System.out.println(uids.get(dee.from()).getName() + " -> " + uids.get(dee.to()).getName());
 				}
-				
+				//display the google map with polylines connecting each of the locations
 				MapViewOptions options = new MapViewOptions();
 				options.importPlaces();
 
@@ -671,15 +686,13 @@ public class TourGuideUI {
 				mappage.setVisible(true);
 			}
 		});
-
+		
 		mf.setVisible(true);
 
 	}
 
 	public static void main(String args[]) {
 		TourGuideUI tg = new TourGuideUI();
-		
-		
 		tg.show();
 	}
 }

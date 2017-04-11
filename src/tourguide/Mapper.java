@@ -22,9 +22,13 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
- * This example demonstrates how to draw polylines on the map.
+ * Drawing polylines on a map
  *
- * @author Vitaly Eremenko
+ * This class is a modified version of the original code by Vitaly Eremenko.
+ * The modifications include passing the hash map and iterable, as well as
+ * dynamically displaying an array of lat long points to the screen.
+ * @author Alex Trudeau
+ * @since April 11, 2017
  */
 @SuppressWarnings("serial")
 public class Mapper extends MapView {
@@ -50,12 +54,13 @@ public class Mapper extends MapView {
 					mapOptions.setMapTypeControlOptions(controlOptions);
 					// Setting map options
 					map.setOptions(mapOptions);
-					// Setting the map center
+					//initialize the tour route by an array list of latitude-longitude points
 					ArrayList<LatLng> pathInit = new ArrayList<LatLng>();
                     for (DirectedEdge dee : z){
 						pathInit.add(new LatLng(uids.get(dee.from()).getLatitude(), uids.get(dee.from()).getLongitude()));
                     	System.out.println(uids.get(dee.from()).getLatitude() + ", " + uids.get(dee.from()).getLongitude());}
                     pathInit.add(pathInit.get(0));
+                    // Setting the map center
                     map.setCenter(pathInit.get(0));
 					// Setting initial zoom value
 					map.setZoom(15.0);
