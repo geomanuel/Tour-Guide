@@ -629,7 +629,6 @@ public class TourGuideUI {
 				}
 
 
-				Collections.reverse(validLocs); //reverse arraylist so order stays in tact
 				//Make sure validLocs contains something
 				if(!validLocs.isEmpty()){
 					
