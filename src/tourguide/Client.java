@@ -13,20 +13,21 @@ import java.util.Scanner;
 public class Client {
 
 	public Queue<String> locationQ = new Queue<String>();
-	private static Scanner scanner;
-	private static String homebase;
-	private static String preferences;
+	public static Scanner scanner;
+	public static String homebase;
+	public static String preferences;
 
-	private static String hbAddress;
-	private static double hbLong;
-	private static double hbLat;
+	public String hbAddress;
+	public double hbLong;
+	public double hbLat;
 
-	private static HashMap<Integer, Location> uids;
+	public static HashMap<Integer, Location> uids;
 	public EdgeWeightedDigraph ewd;
 	public Dijkstra d;
 	public Iterable<DirectedEdge> path;
 	public Location hbLoc;
-	private static Location hbCopy;
+	public GeoCoding gc;
+	public Location hbCopy;
 
 	public Client(String homebase, String preferences) {
 		Client.homebase = homebase;
@@ -43,7 +44,7 @@ public class Client {
 
 		int selection = 1; // used to select correct address if multiple are returned
 
-		GeoCoding gc = new GeoCoding(homebase);
+		gc = new GeoCoding(homebase);
 
 		// If the address exists
 		if (gc.exists()) {
