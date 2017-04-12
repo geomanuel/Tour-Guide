@@ -128,9 +128,4 @@ public class Location {
 	private Double toRad(Double deg){
 		return deg * (Math.PI/180);
 	}
-	public static void main(String[] args){
-		Location loc1 = new Location("foo", 5, -5);
-		Location loc2 = new Location("bar", 29, 40);
-		System.out.println(loc1.distTo(loc2));
-	}
 }
