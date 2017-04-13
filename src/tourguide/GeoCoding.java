@@ -12,13 +12,13 @@ import org.json.JSONObject;
 /**
  * This class represents the GeoCoding object type that allows you to get formatted addresses, longitudes and latitudes from the Google maps API
  * @author Andrew Deschenes
+ * @since April 12th, 2017
  *
  */
 public class GeoCoding {
 	
-	private String apiKey = "AIzaSyBoU_ePES6JM7jBFRq5c4cbNJLhSm2EoB0"; 
+	private final String apiKey = "AIzaSyBoU_ePES6JM7jBFRq5c4cbNJLhSm2EoB0"; 
 	private URL url;
-	private String input;
 	
 	private String jsonHomebase;
 	private String homebase;
@@ -36,7 +36,7 @@ public class GeoCoding {
 		try{
 			
 			url = new URL("https://maps.googleapis.com/maps/api/geocode/json?address="+ this.homebase + "&key=" + apiKey);
-  			input ="<?xml version=\"1.0\" encoding=\"UTF-8\"?><SingleServiceInteface><Header><VERSION>1.0</VERSION><CALLID>39de507e01e40051ad44000825a05f30</CALLID><APPLICATION>DTV_CVP</APPLICATION><CLIENT>DIRECTV</CLIENT></Header><State><STATE_NAME>GETDTVCALLDATA</STATE_NAME><DIALED_NUMBER>193995</DIALED_NUMBER></State><ActionLog/></SingleServiceInteface>";
+  			String input ="<?xml version=\"1.0\" encoding=\"UTF-8\"?><SingleServiceInteface><Header><VERSION>1.0</VERSION><CALLID>39de507e01e40051ad44000825a05f30</CALLID><APPLICATION>DTV_CVP</APPLICATION><CLIENT>DIRECTV</CLIENT></Header><State><STATE_NAME>GETDTVCALLDATA</STATE_NAME><DIALED_NUMBER>193995</DIALED_NUMBER></State><ActionLog/></SingleServiceInteface>";
   			
   			HttpURLConnection HTTPconnection = (HttpURLConnection) url.openConnection();
   			HTTPconnection.setDoOutput(true);

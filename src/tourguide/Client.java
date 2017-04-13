@@ -7,7 +7,9 @@ import java.util.HashMap;
 import java.util.Scanner;
 /**
  * 
- * @author Alex Trudeau, Andrew Deschenes
+ * @author Alex Trudeau
+ * @author Andrew Deschenes
+ * @author Kathryn Kodama
  * @since April 11, 2017
  */
 public class Client {
@@ -400,7 +402,8 @@ public class Client {
 			//Print out path
 			System.out.println("\nTOUR ROUTE: ");		
 			for(DirectedEdge de : path)
-				System.out.println(uids.get(de.from()).getName() + " -> " + uids.get(de.to()).getName());
+				System.out.println(uids.get(de.from()).getName() + " (" + uids.get(de.from()).getLatitude() + ", " + uids.get(de.from()).getLongitude()
+						+ ") -> " + uids.get(de.to()).getName() + " (" + uids.get(de.to()).getLatitude() + ", " + uids.get(de.to()).getLongitude() + ")");
 		}
 		
 	}

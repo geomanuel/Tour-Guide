@@ -3,6 +3,7 @@ package tourguide;
 /**
  * This class represents a directed edges
  * @author Andrew Deschenes
+ * @Since April 12th, 2017
  *
  */
 public class DirectedEdge {

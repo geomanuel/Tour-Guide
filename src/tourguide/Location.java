@@ -2,6 +2,7 @@ package tourguide;
 /**
  * 
  * @author George Manuel
+ * @author Andrew Deschenes
  * @since March 2017
  *
  */
@@ -108,21 +109,7 @@ public class Location {
 	public int getUid(){
 		return this.uid;
 	}
-	
-	/**
-	 * 
-	 * @return Whether the location is marked or not
-	 */
-	public boolean isMarked(){
-		return this.marked == true;
-	}
-	
-	/**
-	 * Marks a location true
-	 */
-	public void mark(){
-		this.marked = true;
-	}
+
 	
 	//Converts degrees to radians
 	private Double toRad(Double deg){

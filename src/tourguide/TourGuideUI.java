@@ -35,7 +35,8 @@ import com.teamdev.jxmaps.MapViewOptions;
  * for details on code implementation and structure for the "inner
  * workings" of this class.
  * 
- * @author Alex Trudeau, Andrew Deschenes
+ * @author Alex Trudeau
+ * @author Andrew Deschenes
  * @since March 28, 2017
  */
 public class TourGuideUI {

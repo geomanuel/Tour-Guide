@@ -91,12 +91,4 @@ public class LocationTest {
 		assertTrue(loc2.getUid() == 21);
 	}
 
-	@Test
-	public void testIsMarked() {
-		loc1.mark();
-		loc2.mark();
-		
-		assertTrue(loc1.isMarked());
-		assertTrue(loc2.isMarked());
-	}
 }
